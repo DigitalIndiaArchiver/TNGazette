@@ -1,0 +1,36 @@
+name: Weekly Extract
+
+on:
+  push:
+    branches: ["main"]
+    paths: ["tn_gazette_archiver.py"]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0" # Run every Sunday at midnight UTC
+
+jobs:
+  run:
+    name: Run tn_gazette_archiver
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Archiver
+        run: python tn_gazette_archiver.py
+      - uses: stefanzweifel/git-auto-commit-action@v4

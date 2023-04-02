@@ -157,6 +157,14 @@ def extract_gazette_dataframe(url):
     return gazatte_df
 
 
+def url_exists(url):
+    r = requests.get(url, stream=True)
+    if r.status_code == 200:
+        return True
+    else:
+        return False
+
+
 def main(archive_mode):
 
     extraordinary_dataframes = []
@@ -192,6 +200,11 @@ def main(archive_mode):
 
     gazette_dataframes = gazette_dataframes.sort_values(
         by='Date', ascending=False)
+
+    gazette_dataframes['Deleted'] = gazette_dataframes.apply(
+        lambda row: url_exists(row.URL), axis=1)
+    extraordinary_dataframes['Deleted'] = extraordinary_dataframes.apply(
+        lambda row: url_exists(row.URL), axis=1)
 
     if archive_mode == ArchiveMode.CURRENT_YEAR:
         extraordinary_dataframes = wayback_archival(

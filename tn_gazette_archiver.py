@@ -58,7 +58,9 @@ EXTENSION = ".php"
 
 
 def wayback_archival(df, url_col):
-
+    """
+    Wayback archival of URL columns in dataframe
+    """
     archived_urls = []
     archived_dates = []
 
@@ -158,11 +160,16 @@ def extract_gazette_dataframe(url):
 
 
 def url_exists(url):
-    r = requests.get(url, stream=True)
+    s = requests.Session()
+    a = requests.adapters.HTTPAdapter(max_retries=3)
+    b = requests.adapters.HTTPAdapter(max_retries=3)
+    s.mount('http://', a)
+    s.mount('https://', b)
+    r = s.get(url, stream=True)
     if r.status_code == 200:
-        return True
-    else:
         return False
+    else:
+        return True
 
 
 def main(archive_mode):

@@ -50,9 +50,9 @@ class ArchiveMode(Enum):
 
 
 SITE_URL = "http://www.stationeryprinting.tn.gov.in"
-GAZETTE_BASE_URL = SITE_URL + "/gazette"
+GAZETTE_BASE_URL = SITE_URL + "/gazette/"
 EXTRAORDINARY_BASE_URL = SITE_URL + "/extraordinary/"
-GAZETTE_PAGE_URL = GAZETTE_BASE_URL + "/gazette_list"
+GAZETTE_PAGE_URL = GAZETTE_BASE_URL + "gazette_list"
 EXTRAORDINARY_PAGE_URL = EXTRAORDINARY_BASE_URL + "extraord_list"
 EXTENSION = ".php"
 
@@ -148,7 +148,7 @@ def extract_extraordinary_gazette(extraordinary_url):
 
 
 def extract_gazatte_issue_dataframes(url):
-    issues_df = table_to_dataframe(url, url_base=GAZETTE_BASE_URL + "/")
+    issues_df = table_to_dataframe(url, url_base=GAZETTE_BASE_URL)
     issues_df.columns = ["Issue No and Date", "Particulars", "URL"]
     return issues_df
 

@@ -213,11 +213,12 @@ def main(archive_mode):
     extraordinary_dataframes['Deleted'] = extraordinary_dataframes.apply(
         lambda row: url_exists(row.URL), axis=1)
 
+    extraordinary_dataframes = wayback_archival(
+        extraordinary_dataframes, url_col="URL")
+    gazette_dataframes = wayback_archival(
+        gazette_dataframes, url_col="URL")
+
     if archive_mode == ArchiveMode.CURRENT_YEAR:
-        extraordinary_dataframes = wayback_archival(
-            extraordinary_dataframes, url_col="URL")
-        gazette_dataframes = wayback_archival(
-            gazette_dataframes, url_col="URL")
         extraordinary_dataframes.to_csv(
             f'data/ExtraOrdinaryGazattes_{str(datetime.today().year)}.csv')
         gazatte_issues_dataframes.to_csv(

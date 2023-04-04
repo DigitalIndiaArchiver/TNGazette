@@ -3,3 +3,4 @@ requests==2.26.0
 waybackpy==3.0.6
 pandas==1.5.3
 lxml
+datasette

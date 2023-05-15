@@ -8,6 +8,10 @@ on:
   schedule:
     - cron: "0 0 * * 0" # Run every Sunday at midnight UTC
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   run:
     name: Run tn_gazette_archiver

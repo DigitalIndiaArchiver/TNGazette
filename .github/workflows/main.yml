@@ -35,9 +35,12 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Scrape new Extraordinary Gazettes
+        timeout-minutes: 3
         run: python scrape_gazettes.py
 
       - name: Archive unarchived PDF links to Wayback Machine
+        timeout-minutes: 5
+        continue-on-error: true
         run: python archive_new_links.py --delay 2
 
       - name: Commit and push changes

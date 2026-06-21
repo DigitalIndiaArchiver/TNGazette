@@ -1,0 +1,501 @@
+---
+source: "wayback"
+type: "ordinary"
+year: "2018"
+pdf_url: "https://web.archive.org/web/20220815175354/http://www.stationeryprinting.tn.gov.in/gazette/2018/27_IV_4.pdf"
+Part: "6. Part IV-Section 4"
+Content: "CENTRAL ACTS AND ORDINANCES ORDINANCES - No. 4 of 2018 to No. 6 of 2018"
+Date: "2018-07-04"
+Issue: "27"
+---
+
+TAMIL  NADU 
+GOVERNMENT  GAZETTE 
+PUBLISHED  BY  AUTHORITY
+No. 27] 
+CHENNAI, WEDNESDAY, JULY  4, 2018 
+ 
+ 
+ 
+ 
+ 
+Aani 20, Vilambi, Thiruvalluvar Aandu – 2049
+Part  IV—Section  4
+CENTRAL  ACTS  AND  ORDINANCES
+CONTENTS
+[197]
+27-IV-4-1
+ 
+© 
+[Regd. No. TN/CCN/467/2012-14.
+ GOVERNMENT  OF  TAMIL  NADU 
+[R. Dis. No. 197/2009. 
+ 
+ 
+ 
+2018 
+[Price:  Rs. 29.60 Paise.
+Pages.
+ORDINANCES:
+No. 4 of 2018 - The Homoeopathy Central Council (Amendment) Ordinance, 2018 
+..
+198-202
+No. 5 of 2018 - The National Sports University Ordinance, 2018 
+.. 
+.. 
+.. 
+..
+203-252
+No. 6 of 2018 - The Insolvenccy and Bankruptcy Code (Amendment) Ordinance, 2018 ..
+253-269
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+198
+MINISTRY OF LAW AND JUSTICE
+(Legislative Department)
+New Delhi, the 18th May, 2018/Vaisakha 28, 1940  (Saka)
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+199
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+200
+given  an  opportunity  to   express
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+201
+ 
+RAM NATH KOVIND,
+ 
+President.
+ 
+DR. REETA VASISHTA,
+ 
+Additional Secretary to the Government of India.
+(Re-published by Order of the Governor)
+ 
+K. RAVIKUMAR,
+ 
+Additional Secretary to Government,
+ 
+Law Department.
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+202
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+203
+New Delhi, the 31st May, 2018/Jyaistha 10, 1940  (Saka)
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+204
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+205
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+206
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+207
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+208
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+209
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+210
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+211
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+212
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+213
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+214
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+215
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+216
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+217
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+218
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+219
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+220
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+221
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+222
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+223
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+224
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+225
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+226
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+227
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+228
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+229
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+230
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+231
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+232
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+233
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+234
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+235
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+236
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+237
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+238
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+239
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+240
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+241
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+242
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+243
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+244
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+245
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+246
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+247
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+248
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+249
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+250
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+251
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+252
+ 
+RAM NATH KOVIND,
+ 
+President.
+ 
+DR. G. NARAYANA RAJU,
+ 
+Secretary to the Government of India.
+(Re-published by Order of the Governor)
+ 
+K. RAVIKUMAR,
+ 
+Additional Secretary to Government,
+ 
+Law Department.
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+253
+New Delhi, the 6th June, 2018/Jyaistha 16, 1940  (Saka)
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+254
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+255
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+256
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+257
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+258
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+259
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+260
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+261
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+262
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+263
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+264
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+265
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+266
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+267
+
+
+ 
+TAMIL NADU GOVERNMENT GAZETTE 
+[Part IV—Sec. 4
+268
+
+
+July 4, 2018] 
+TAMIL NADU GOVERNMENT GAZETTE
+269
+PRINTED AND  PUBLISHED  BY  THE DIRECTOR OF STATIONERY AND PRINTING, CHENNAI
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU
+ 
+RAM NATH KOVIND,
+ 
+President.
+ 
+DR. G. NARAYANA RAJU,
+ 
+Secretary to the Government of India.
+(Re-published by Order of the Governor)
+ 
+K. RAVIKUMAR,
+ 
+Additional Secretary to Government,
+ 
+Law Department.
+“Provided further that any party or parties to any proceedings relating
+Provided further that any party or parties to any proceedings relating

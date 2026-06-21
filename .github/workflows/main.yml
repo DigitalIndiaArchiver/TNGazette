@@ -3,7 +3,7 @@ name: Weekly Extract
 on:
   push:
     branches: ["main"]
-    paths: ["tn_gazette_archiver.py", "scrape_gazettes.py", "archive_new_links.py"]
+    paths: ["tn_gazette_archiver.py", "scrape_gazettes.py", "archive_new_links.py", ".github/workflows/main.yml"]
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 0" # Run every Sunday at midnight UTC

@@ -55,7 +55,7 @@ def process_csv(csv_path: Path, dry_run: bool = False, delay: float = 1.0) -> di
     """Process a single CSV: find unarchived URLs and archive them.
     Returns a summary dict.
     """
-    df = pd.read_csv(csv_path, dtype_backend="numpy_nullable")
+    df = pd.read_csv(csv_path)
 
     # Determine which column holds URLs
     url_col = next((c for c in df.columns if c in URL_COLUMNS), None)

@@ -1,0 +1,3435 @@
+---
+source: "original_fallback"
+type: "ordinary"
+year: "2022"
+pdf_url: "https://web.archive.org/web/20230404092811/http://www.stationeryprinting.tn.gov.in/gazette/2022/29_VI_1A_Sup.pdf"
+Part: "8. Part VI--Section 1-A-Supp"
+Content: "Notifications by Heads of Departments, etc. JUDICIAL NOTIFICATION--List of Time Barred Fixed Deposit Receipts from 1960-1975"
+Date: "2022-07-20"
+Issue: "29"
+---
+
+TAMIL NADU
+GOVERNMENT GAZETTE
+PUBLISHED  BY  AUTHORITY
+No. 29A]	
+CHENNAI, WEDNESDAY, JULY 20,  2022	
+	
+	
+	
+	
+	
+Aadi 4, Subakiruthu, Thiruvalluvar Aandu–2053
+Part VI–Section  1
+(Supplement)
+NOTIFICATIONS   BY   HEADS  OF  DEPARTMENTS, ETC.
+DTP—VI-1A Sup. (29A)
+	
+©	
+[Regd. No. TN/CCN/467/2012-14.
+	 GOVERNMENT  OF  TAMIL  NADU	
+[R. Dis. No. 197/2009.
+	
+2022	
+[Price :  Rs. 8.80 Paise.
+[ 1 ] 
+JUDICIAL NOTIFICATION
+LIST OF TIME BARRED FIXED DEPOSIT RECEIPTS FROM 1960-1975
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the 
+Bank 
+Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner 
+Address
+counsel name
+1
+EJTS
+66
+1966
+Ameerunnisa 
+Begum
+Indian bank
+Jaffarkhanpet
+874880002
+67,796.00
+10.02.2010
+10.02.2020
+135,700.00
+2
+EJTS
+182
+1971
+Sri Appasamy 
+Temple
+Canara Bank
+Perambur
+KD/01/013762
+38,410.00
+24.07.2007
+23.07.2010
+49,434.00
+3
+EJTS
+149
+1973
+Ravanamma & 
+others
+Union Bank of 
+India
+Ashok Nagar
+6138
+221,442.00
+21.02.2003
+21.02.2017
+402,042.00
+4
+EJTS
+351
+1975
+Dhanapalan
+Central Bank of 
+India
+ Adyar
+3016491171
+44,738.00
+22.02.2008
+22.02.2011
+58,003.00
+
+HRC
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the 
+Bank 
+Bank 
+branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+counsel name
+1
+HRC
+1325
+1965
+Haj Adullah Sait
+Syndicate Bank
+ Puras­
+walkam
+4533/6545
+2,340.00
+01.04.2004
+01.04.2007
+2,942.00
+2
+HRC
+2787
+1966
+Eswari Bai
+Canara Bank
+Perambur
+ID: 7904364
+11,000.00
+01.09.2007
+01.09.2012
+15,680.00
+3
+HRC
+2787
+1966
+Eswari Bai
+Tamilnad Mercantile 
+Bank limited
+T. Nagar
+313255
+12,909.00
+12.12.2000
+04.10.2010
+31,689.00
+4
+HRC
+2743
+1967
+Manshool (Minor)
+Canara Bank
+Triplicane
+0914304000165/2
+5,820.00
+11.12.2009
+11.12.2012
+7,044.00
+5
+HRC
+136
+1975
+Palraj
+Canara Bank
+Chintadripet
+'0983401000454/2
+46,864.00
+18.07.2007
+18.07.2010
+61,206.00
+MR. R. RAMADOSS, S/o. 
+RAMASAMY NAIDU, C/o. 
+KALIAPERUMAL, NO.45, 
+PILLIAR KOIL STREET, 
+MADRAS - 54
+M/S. 
+R.BALASUBRAMANIAN & 
+K. VARADARAJAN
+6
+HRC
+1741
+1975
+K.Krishnaswamy
+Canara Bank
+Chintadripet
+0983401000452/2
+6,440.00
+18.07.2007
+18.07.2010
+8,410.00
+7
+HRC
+1741
+1975
+K.Krishnaswamy
+Canara Bank
+Chintadripet
+0983401000451/2
+6,440.00
+18.07.2007
+18.07.2010
+8,410.00
+8
+HRC
+1741
+1975
+K.Krishnawamy
+Canara Bank
+Chintadripet
+0983401000450/2
+6,440.00
+18.07.2007
+18.07.2010
+8,410.00
+9
+HRC
+1741
+1975
+S.Krishnaswamy
+Canara Bank
+Chintadripet
+0983401000455/2
+6,440.00
+18.07.2007
+18.07.2010
+8,410.00
+10
+HRC
+1741
+1975
+Krishnaswamy
+Canara Bank
+Chintadripet
+0983401000453/2
+6,440.00
+18.07.2007
+18.07.2010
+8,410.00
+JUDICIAL NOTIFICATION
+LIST OF TIME BARRED FIXED DEPOSIT RECEIPTS FROM 1960-1975
+(Dis. No. 3627/2022)
+No.VI(1)/321/2022.
+2
+
+
+LAC
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank 
+Bank branch
+Account No.
+Amount 
+in Rs.
+Date of 
+Deposit 
+Due on
+ Maturity 
+ Value in
+ Rs.
+Petitioner Ad­
+dress
+counsel 
+name
+1
+LAC
+119
+1962
+Registrar
+State Bank of India
+Avadi
+30306360849
+8,078.00
+27.08.2007 27.08.2010 10,397.00
+2
+LAC
+47
+1966
+Registrar
+Indian bank
+Madras High 
+Court
+871891856
+9,482.00
+20.01.2010 20.01.2013 11,591.00
+MCOP
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+1
+MCOP
+544
+1960
+S.Manthiram
+Indian bank
+Egmore
+745859352
+18,090.00
+21.09.2007 21.09.2010
+18,090.00
+2
+MCOP
+63
+1963
+Vedavalli Ammal
+Indian Overseas bank Esplanade
+500100851
+11,319.00
+1.11.2001
+01.10.2004
+14,568.00
+Mrs.Vedavalli Ammal (1st Petitioner),
+W/o.K.C.Chakravarthy,
+No.48, Appu Mudali Street, Mylapore, 
+Madras-4.
+3
+MCOP
+64
+1965
+Registrar
+Andhra Bank
+Mambakkam
+173420100007550
+41,837.00
+31.01.2015
+31.01.2018
+53,845.00
+4
+MCOP
+1771
+1965
+Kamala Kannan
+Indian bank
+G.N. Chetty Road
+6258647111
+25,000.00
+05.09.2014
+05.09.2017
+32,413.00
+5
+MCOP
+133
+1966
+Rajan
+Indian bank
+Jaffarkhanpet
+87005008356
+1,817.00
+10.02.2010
+02.10.2020
+3,637.00
+MR. SYED SIRAJUDDIN,
+S/O. ABDUL JALUL,
+NO.5, GHULAM MOHIDEEN STREET, 
+MADRAS-2
+6
+MCOP
+333
+1966
+Kuppammal
+Indian Overseas bank R.K. Salai
+211000016
+826.00
+25.06.2010
+25.06.2020
+826.00
+7
+MCOP
+200
+1967
+M.Govindasamy
+Syndicate Bank
+ Puraswalkam
+4636-7821
+1,872.00
+21.12.2004
+21.12.2012
+3,467.00
+N. GOVINDASAMY, (PETITIONER) 
+S/O. GOPALNAIDU,
+SALAIGRAMAM, TRIVELLUR, 
+MILK TRAK.
+8
+MCOP
+202
+1967
+R. Sripathi
+Syndicate Bank
+ Puraswalkam
+4637-7822
+7,021.00
+26.07.2005
+20.12.2012
+13,002.26
+R. SRIPATHY, (PETITIONER) 
+S/O. RAMAKRSHNA RAO,
+66, MADHAWARAM HIGH ROAD, 
+MADRAS - 11.
+9
+MCOP
+278
+1967
+Ameena Beevi
+Indian Overseas bank Esplanade
+RDP 500100844
+22,638.00
+01.10.2004
+01.10.2010
+45,028.00
+AMEENA BEEVI,
+(1ST PETITIONER) 
+1/18, KHAJL SAHIBAH,
+PALLAVARAM.
+3
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+10
+MCOP
+423
+1967
+Santhi
+Syndicate Bank
+ Puraswalkam
+VCC.4635-7820
+1,404.00
+26.07.2005
+20.12.2012
+2,599.00
+M/S. SANTHI, (PETITIONER) 
+D/O. VENUGOPAL,
+5/2, POUNIAMMAN KOVIL STREET, 
+KILPAUK, 
+MADRAS – 10.
+11
+MCOP
+98
+1968
+Jagadeesan
+Indian Overseas bank Esplanade
+RDP 500100847
+2,075.00
+01.11.2001
+01.10.2010
+4,129.00
+MR. JAHADEESAN, (PETITIONER) 
+S/O. N. ALAGAPPAN,
+NO.30, KAMARAJA NAGAR,
+RAMAYAPURAM, 
+MADRAS – 13.
+12
+MCOP
+167
+1968
+Raja (Minor)
+Indian Overseas bank Esplanade
+RDP 500100849
+2,830.00
+01.11.2001
+01.10.2010
+5,631.00
+MR. RAJA, (PETITIONER)
+S/O. BALA PANDIAN,
+NO.19, STATION ROAD,
+MADRAS – 24.
+13
+MCOP
+376
+1968
+Pandiyan (Minor)
+Syndicate Bank
+ Puraswalkam
+VCC.4634-7819
+2,575.00
+26.07.2005
+20.12.2012
+4,768.48
+MR. PANDIAN, (PETITIONER)
+S/O. SELVARAJ,
+AT.NO. 135,
+EGAVALLI AMMAN KOVIL STREET,
+MADRAS – 01.
+14
+MCOP
+532
+1968
+Annamalai
+Indian Overseas bank Anna Nagar
+RDP 500100958
+833.00
+12.07.2001
+04.04.2012
+2,057.00
+MR. ANNAMALAI, (PETITIONER) 
+S/O. PERUMAL,
+NO.19, NARASAIOR STREET ,
+MADRAS – 21.
+15
+MCOP
+535
+1968
+Lakshmi Bai
+The Tamilnadu state 
+apex co-operative 
+bank limited
+Head Office
+991246855
+1,124.00
+28.08.2009
+28.08.2012
+-
+MRS. LAKSHMI BAI, (PETITIONER) 
+S/O. S. RAMANATHA RAO,
+NO.14, PHEZORY SAHIB STREET,
+MADRAS – 14.
+16
+MCOP
+626
+1968
+Michael (minor)
+Indian Overseas bank Esplanade
+RDP 500100846
+5,659.00
+01.11.2001
+01.10.2010
+11,258.00
+MR. SAM MITCHELL, S/O. H.A. 
+MILCHELL, NO.4, HUMLIES ROAD, 
+VEPERY, MADRAS-7
+17
+MCOP
+93
+1969
+Thiruvengadam
+Indian Overseas bank Egmore
+210300017
+913.95
+25.07.2003
+11.07.2011
+1,344.00
+S.V. THIRUVENGADAM, 
+(PETITIONER) 
+S/O. VARADARAJA MUDALIYAR,
+NO. 27, PARAMANAUDA MUDALI 
+STREET,
+MADRAS – 1.
+18
+MCOP
+99
+1969
+Anjali
+Syndicate Bank
+ Puraswalkam
+VCC.4633/7818
+5,617.00
+26.07.2005
+21.12.2012
+10,402.85
+M/S. ANJALAI W/O. RAJU, NO.33, 
+NOCHIKUPPAM, MADRAS-4
+4
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+19
+MCOP
+146
+1969
+P.S.Mohammed
+Syndicate Bank
+Royapettah
+60054200000138/2
+415.00
+16.07.2008
+16.07.2018
+415.00
+P.S. MOHAMMED, (PETITIONER) 
+S/O. SYED SAHEB,
+NO. 11, POLUR AMMAN KOVIL 
+STREET,
+MATTUPALAYAM,
+MADRAS – 2.
+20
+MCOP
+412
+1969
+Registrar
+Indian Overseas bank Anna Nagar
+RDP 500101202
+513.10
+23.08.2001
+13.07.2012
+1,291.00
+MR. AKBAR, (PETITIONER)
+S/O. SYED BASHA SAHIB @ SYED 
+AHMED SAHIB,
+NO.1, PARASURAMA MUDALY 
+STREET,
+LALAGUNTA,
+MADRAS – 01.
+21
+MCOP
+625
+1969
+Susheela (Minor)
+Indian Overseas bank Esplanade
+RDP 500100848
+7,546.00
+01.11.2001
+01.10.2010
+15,010.00
+M/S. SUSEELA, D/O. SUBRAMANIAN, 
+NO. 55, PAPPU MASTHAN DHARKA 
+STREET, MADRAS-5.
+22
+MCOP
+1
+1970
+Marthandam & 
+others
+State Bank of India
+Elephant Gate
+30662045718
+492,837.00
+29.01.2009
+29.01.2019
+1,142,842.00
+23
+MCOP
+51
+1970
+Neela
+Indian Overseas bank Esplanade
+RDP 68/97/98
+2,108.00
+12.05.1997
+18.08.2011
+9,063.00
+MR. NEELA, (PETITIONER) 
+S/O. T.A. PONNURANGAM
+NO.5, T.P.CHATTARAM POLICE 
+LANE, KILPAUK
+MADRAS –10.
+24
+MCOP
+106
+1970
+Registrar
+Indian bank
+Tirumazhisai
+775083407
+16,840.00
+28.08.2009
+28.08.2012
+21,833.00
+M/S. AUNJALI, W/O. KANNAPPA 
+NAICKER, NO.23/5, SOUTH MADA 
+STREET, NYNGAMBAKKAM, 
+MADRAS-34
+25
+MCOP
+169
+1970
+Thamarai kannan
+The Tamilnadu state 
+apex co-operative 
+bank limited
+Head Office
+991257808
+2,270.00
+02.06.2008
+02.06.2011
+2,775.00
+MR. THAMARAIKANNAN, 
+(PETITIONER) 
+S/O. R.T. KUPPUSAMY,
+NO.178, POORAVANA KUPPAM, 
+SURIYANARAYANA CHETTY ROAD,
+MADRAS – 21.
+26
+MCOP
+310
+1970
+Shanthi
+Syndicate Bank
+ Puraswalkam
+6377
+3,750.00
+18.11.2008
+18.11.2011
+6,484.36
+MR. E. BALU, S/O ELLAPPA 
+NAICKER, NO.74, VENKADARANGAM 
+PILLAI STREET, TRIPLICANE, 
+MADRAS-5
+5
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+27
+MCOP
+459
+1970
+Fathima
+The Tamilnadu state 
+apex co-operative 
+bank limited
+Head Office
+991296853
+1,200.00
+18.11.2008
+18.11.2011
+-
+M/S. FATHIMA, (PETITIONER) 
+D/O. NAGOOR MEERAN,
+NO.196, CHERIAN NAYAR
+1ST STREET,
+NEW WASHERMANPET,
+MADRAS.
+28
+MCOP
+532
+1970
+Alexander Francis
+The Tamilnadu state 
+apex co-operative 
+bank limited
+Head Office
+991296858
+1,175.00
+18.11.2008
+18.11.2011
+-
+MR. ALEXANDAR FRANCIES, 
+(PETITIONER) 
+S/O. FRANCIES XAVIER,
+NO.120, KUTCHERY ROAD,
+MADRAS-4
+29
+MCOP
+591
+1970
+Chengammal
+Indian bank
+Esplanade
+805778351
+556.00
+23.04.1993
+23.04.2012
+732.00
+M/S. CHENGAMMAL, (PETITIONER) 
+W/O. KATHAVARAYAN,
+NO. 124, JALIKAPURAM,
+WALLTAX, 
+MADRAS.
+30
+MCOP
+683
+1970
+V.K.Naidu
+Indian bank
+Esplanade
+805714976
+216.00
+28.08.2009
+28.08.2012
+284.00
+MR. V. KUPPUSAMY NAIDU, 
+(PETITIONER) 
+S/O. VIJAYARASHAVALU NAIDU,
+NO.3, BAJANAI KOIL STREET,
+MADRAS – 20.
+31
+MCOP
+682
+1970
+Ekambaram
+Indian bank
+Esplanade
+805714160
+216.00
+28.08.2009
+28.08.2012
+284.00
+MR. EKAMBARAM, (PETITIONER) 
+S/O. SUBBARAYAN,
+NO. 23/24, BAJANAI KOIL STREET,
+MADRAS – 20.
+32
+MCOP
+709
+1970
+Durai@ Indirani
+Indian Overseas bank Esplanade
+RDP 66/97-98
+28,665.00
+12.05.1997
+18.08.2011
+123,206.00
+MR. DURAI @ INDIRANI, (2ND 
+PETITIONER) 
+NO. 37, PALANI ANDAVAR KOIL 
+STREET,
+AYYANAVARAM,
+MADRAS.
+33
+MCOP
+30
+1971
+Ganesh
+Indian bank
+Esplanade
+805779445
+3,015.00
+18.11.2008
+18.11.2011
+3,967.00
+MR. GANESH, (PETITIONER)
+S/O. M. SATHYAM, 
+NO. 12, VIJAYARAGA CHARY ROAD,
+T.NAGAR,
+MADRAS – 17.
+34
+MCOP
+71
+1971
+Director of TN 
+transport
+Indian Overseas bank Anna Nagar
+RDP 500101203
+2,072.20
+23.08.2001
+13.07.2012
+5,202.00
+M/S. NARASAMMAL, W/O. 
+RAMAKRISHNA REDDY, PUDUR 
+VILLAGE, KUNDAVALAM POST, 
+THIRUVELLUR, CHINGLEPUT.
+6
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+35
+MCOP
+92
+1971
+Mohan (minor)
+Indian Overseas bank Anna Nagar
+RDP 500100956
+800.00
+12.07.2001
+04.04.2012
+1,975.00
+MR. S. MOHAN, S/O. V.K. SELVARAJ, 
+NO.92, ROYAPETTAH HIGH ROAD, 
+MADRAS-4.
+36
+MCOP
+213
+1971
+Lakshman (minor)
+The Tamilnadu state 
+apex co-operative 
+bank limited
+Head Office
+991258361
+15,629.00
+22.01.2010
+22.01.2020
+29,782.00
+MR. LAKSHMANAN, S/O.RAJAMANI, 
+NO.7, MEENAMBALPURAM, 
+MADRAS-4
+37
+MCOP
+213
+1971
+Pandian (minor)
+The Tamilnadu state 
+apex co-operative 
+bank limited
+Head Office
+991296857
+4,675.00
+28.08.2009
+28.08.2012
+4675.00
+MR. PANDIAN, S/O.RAJAMANI, NO.7, 
+MEENAMBALPURAM, MADRAS-4
+38
+MCOP
+214
+1971
+Anbalagan
+Indian Overseas bank Anna Nagar
+rdp 500101204
+513.10
+23.08.2001
+13.07.2012
+1,291.00
+MR. ANBAZHAKAN, S/O. AUNDI, 
+NO.82, WALTAX ROAD, RAJAJI 
+PURAM, MADRAS-3
+39
+MCOP
+222
+1971
+Pimal Singh
+Indian Overseas bank Esplanade
+RDP 698/99
+2,550.00
+15.12.1999
+20.02.2012
+6,764.00
+M/S. YASHODA BAI, W/O. 
+BALAJI SINGH, NO.83, 
+PERIAPALATHAMMAN KOIL 
+STREET, 4TH LANE, TONDIARPET, 
+MADRAS-81 
+40
+MCOP
+222
+1971
+Lakshmi (minor)
+Indian Overseas bank Esplanade
+210200034
+1,410.00
+30.11.2002
+20.02.2012
+1,834.00
+M/S. LAKSHMI, D/O. BALAJI SINGH, 
+NO.83, PERIAPALATHAMMAN KOIL 
+STREET, 4TH LANE, TONDIARPET, 
+MADRAS-81 
+41
+MCOP
+255
+1971
+Registrar
+State Bank of India
+Chennai Main
+01202050933/00
+3,774.00
+12.02.2002
+12.02.2012
+8,540.00
+MR. SAMIDURAI, S/O. SUBBARAYAN, 
+NO.42, WALLTAX ROAD, MADRAS-3.
+42
+MCOP
+326
+1971
+Nathima  (Minor)
+Indian Overseas bank Anna Nagar
+RDP500000407
+350.00
+11.04.2000
+24.01.2012
+970.00
+M/S. NATHIMA, (PETITIONER)
+S/O. BAGUER HUSSAIN, 
+NO. 47, C' BLOCK GOVT HOUSE, 
+MADRAS – 02.
+43
+MCOP
+401
+1971
+Prabhu
+The Karnataka Bank 
+Ltd.
+Thambu Chetty 
+Street
+461500211986001
+24,440.00
+09.10.2007
+09.10.2010
+32,391.00
+MR. PRABHU, S/O. NARAYANA RAO, 
+NO.200, KAMALA KUNJ, MEERUT, 
+UTTAR PRADESH
+44
+MCOP
+440
+1971
+Ethiraj
+Indian bank
+Esplanade
+805803561
+3,882.00
+18.11.2008
+18.11.2011
+5,107.00
+MR. ETHIRAJAN, S/O. NATARAJA 
+MINOR, NO.2, THULASINGA 
+NAICKEN STREET, DEMELLOWS 
+ROAD, MADRAS-12
+45
+MCOP
+464
+1971
+Registrar
+Indian Overseas bank Cathedral Road
+111000761
+5403.00
+14.07.2010
+14.07.2020
+10,815.00
+M/S. SARASWATHI, D/O. A. 
+GOPAL, 271, 8TH CROSS STREET, 
+T.P.CHATRUM, MADRAS-10
+46
+MCOP
+495
+1971
+Registrar
+State Bank of India
+SME Branch
+36782395842
+1,907.00
+19.04.2017
+19.04.2020
+2,314.00
+MR. ELUMALAI, S/O. ARUMUGHAM, 
+NO.26, SLATERPURAM, MADRAS-4
+7
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+47
+MCOP
+495
+1971
+Registrar
+State Bank of India
+SME Branch
+35737635649
+1,544.00
+29.04.2016
+29.04.2019
+1,901.00
+MR. ELUMALAI, S/O. ARUMUGHAM, 
+NO.26, SLATERPURAM, MADRAS-4
+48
+MCOP
+495
+1971
+Elumalai
+State Bank of India
+SME Branch
+10886114153
+1,150.00
+08.05.2010
+08.05.2013
+1,150.00
+MR. ELUMALAI, S/O. ARUMUGHAM, 
+NO.26, SLATERPURAM, MADRAS-4
+49
+MCOP
+555
+1971
+Murugesan
+Bank of Baroda
+ Sowcarpet
+05300300006959
+586.00
+29.08.2008
+29.08.2018
+1,393.00
+MR. MURUGESAN, (PETITIONER)
+S/O. GANESAN, 
+NO. 143, PELEIS ROAD,
+ROYAPETTAH,
+MADRAS - 14.
+50
+MCOP
+599
+1971
+Registrar
+Canara Bank
+ Adyar
+1609401000154/3
+14,515.00
+11.10.2009
+11.10.2019
+29,777.00
+MR. M. RAMAN, S/O. MUNIANDI, 
+PALLATHOPPU VILLAGE, 
+KELAKARAI(PO), RAMNAD (DT)
+51
+MCOP
+618
+1971
+Vimala (minor)           Syndicate Bank
+ Purasawalkam
+VCC.4639/7824
+2,809.00
+27.12.2004
+27.12.2012
+5,202.29
+M/S. VIMALA (PETITIONER) D/O. K. 
+LAKSHMAN NO.13, NOCHIKUPPAM, 
+MADRAS-4
+52
+MCOP
+632
+1971
+Subramaniyam
+Indian Overseas bank Esplanade
+RDP.236/99
+2,124.65
+05.05.1999
+22.05.2011
+5,886.00
+MR. SUBRAMANIAN, (PETITIONER)
+S/O. G. KANNAN, 
+NO. 8/41, VI CROSS STREET,
+TRUST PURAM,
+KODAMBAKKAM,
+MADRAS – 24.
+53
+MCOP
+704
+1971
+Registrar
+Indian Overseas bank Cathedral Road
+RDP.110300257
+5,219.00
+20.03.2003
+12.02.2015
+12,007.00
+MR. MARIAMMAL, D/O. 
+K.MUNUSAMY, NO.9, ANNA NAGAR, 
+1ST LANE, NEW WASHERMANPET, 
+MADRAS.
+54
+MCOP
+723
+1971
+Sedayammal
+State Bank of India
+Chennai Main
+10886114062
+650.00
+10.09.2007
+10.09.2010
+650.00
+M/S. SADAIYAMMAL, (PETITIONER)
+AYOTHI KUPPAM,
+MADRAS - 05.
+55
+MCOP
+779
+1971
+Selvaraj JN 
+(minor)
+Syndicate Bank
+ Purasawalkam
+VCC.4640/7825
+2,575.00
+27.12.2004
+27.12.2012
+4,768.48
+MR. SAHAYARAJ, S/O. F. SILUVA 
+PITCHAI, NO.14, KASIPURAM 1ST 
+STREET, A.BLOCK, ROYAPURAM, 
+MADRAS-13
+56
+MCOP
+801
+1971
+Registrar
+Indian Overseas bank Cathedral Road
+111000760
+4,580.00
+14.07.2010
+14.07.2020
+9,168.00
+MR. SEKHAR, S/O. RAJAGOPAL, 
+NO.4 MAHDI HUSSAIN KHAN 
+BAHADUR STREET, ROYAPETTAH, 
+MADRAS-14
+8
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+57
+MCOP
+902
+1971
+Ravi (Minor)
+Syndicate Bank
+ Purasawalkam
+VCC.4638/7823
+2,809.00
+27.12.2004
+27.12.2012
+5,202.29
+MR. RAVI, (PETITIONER)
+S/O. PANCHALSHARAN, 
+NO. 62, KASIMNAGAR, 
+2ND STREET, KASIMEDU,
+MADRAS - 14.
+58
+MCOP
+594
+1971
+Ravi
+Standard Charted 
+Rajaji Salai
+34231814
+5,314.00
+02.10.2001
+02.10.2007
+-
+MR. RAVI, S/O.SOLOMAN, NO.5, 
+BLOCK, RAJ BHAVAN, GUINDY, 
+MADRAS.
+59
+MCOP
+5
+1972
+Rajagopal
+Indian bank
+Jaffarkhanpet
+872294699
+10,382.00
+22.01.2010
+22.01.2020
+20,781.00
+MR. RAJAGOPAL, S/O. 
+GOVINDASAMY, KRISHNASWAMI 
+STREET, RATHNASABAPATHY 
+MUDALI STREET, TONDAYARPET, 
+MADRAS-81
+60
+MCOP
+48
+1972
+David (minor)
+Indian Overseas bank Anna Nagar
+FDR 210300001
+1,000.00
+08.03.2003
+24.01.2012
+1,309.00
+MR. DAVID, (PETITIONER) 
+S/O. SOURYAR,
+NO. 17, BALAKRISHNA ROAD,
+GANESAPURAM
+MADRAS – 04.
+61
+MCOP
+119
+1972
+Nazarthula & RMD 
+Bazulla
+Central Bank of India
+ Adyar
+3016493203
+22,183.00
+22.02.2008
+22.02.2011
+28,760.00
+M/S. S. ROOTHI, D/O. R. SAMUVEL, 
+NO.12, SHOMAIYAPPAN STREET, 
+ROYAPETTAH, MADRAS-14.
+62
+MCOP
+268
+1972
+Selvaraj
+Syndicate Bank
+Royapettah
+60054200000155/2
+241.00
+16.07.2008
+16.07.2018
+241.00
+MR. K. SELVARAJ, (PETITIONER)
+S/O. KRISNAPPA MUDALIAR, 
+PLOT. NO. 169, VENKATACHALAM 
+VEEDI,
+MUTHURANGAM,
+BLOCK WEST JONES ROAD,
+MADRAS – 15.
+63
+MCOP
+282
+1972
+Registrar
+State Bank of India
+Chennai Main
+10886114095
+700.00
+23.08.2008
+23.08.2011
+700.00
+M/S. VIJAYA, D/O. B. SUBRAMANIAM, 
+NO.77.A, AMMA PILLAI STREET, 
+MADRAS-1.
+64
+MCOP
+329
+1972
+S.Ramasamy
+Indian Overseas bank  Adyar
+219201085
+8,285.00
+01.10.2002
+09.07.2020
+-
+MR. RAMASAMY, (PETITIONER)
+S/O. SANDANA PANDIAN, 
+NO. 7/1, VARADARAJA PERUMAL 
+KOIL STREET,
+MADRAS - 21.
+65
+MCOP
+352
+1972
+Registrar
+Indian bank
+Jaffarkhanpet
+874829090
+1,685.00
+09.02.2010
+09.02.2020
+3,373.00
+MR. MUNUSAMY, S/O. SUBHA 
+NAIDU, ADAKATHAMETTUR, 
+KADAMTHAN POST, CHINGLEPUT 
+DISTRICT.
+9
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+66
+MCOP
+354
+1972
+Sivanandam
+Bank of Baroda
+ K.K. Nagar
+FDR 1200/2
+19,358.00
+22.10.2004
+15.02.2011
+29,690.00
+MR. D. SIVANANDAM, (PETITIONER)
+S/O. DORAI SWAMY, 
+NO. 338, POONAR MALLE HIGH 
+ROAD,
+MADRAS - 29.
+67
+MCOP
+492
+1972
+Fathima  Sabreen
+Syndicate Bank
+ Purasawalkam
+VCC 4388/7397
+2,459.00
+27.07.2004
+27.06.2010
+3,724.45
+MR. KARADIMUTHU, S/O. 
+RAMASWAMY, NO.1, 5TH STREET, 
+VIJAYARAGHAVAPURAM, 
+KODAMBAKKAM, MADRAS-26.
+68
+MCOP
+493
+1972
+Fathima Jaleem 
+(minor)
+Syndicate Bank
+ Purasawalkam
+VCC 5145-7459
+2,240.00
+27.05.2005
+27.05.2013
+4,098.10
+M/S. D.N. FATHIMA JABEEM, (6TH 
+PETITIONER) 
+NO. 29/5, BEGUM SAHIB STREET, 
+ROYAPETTAH,
+MADRAS - 14.
+69
+MCOP
+493
+1972
+Mohammed.Sabar
+Syndicate Bank
+ Purasawalkam
+405/15661
+614.00
+27.02.2005
+27.02.2011
+933.48
+M/S. MOHAMMED SHABEER, (7TH 
+PETITIONER) 
+NO. 29/5, BEGUM SAHIB STREET, 
+ROYAPETTAH,
+MADRAS - 14.
+70
+MCOP
+493
+1972
+Mohammed­
+Shabeer
+Syndicate Bank
+ Purasawalkam
+6378
+500.00
+27.02.1993
+27.02.2012
+890.98
+M/S. MOHAMMED SHABEER, (7TH 
+PETITIONER) 
+NO. 29/5, BEGUM SAHIB STREET, 
+ROYAPETTAH,
+MADRAS - 14.
+71
+MCOP
+493
+1972
+Mohammed 
+Ghouse
+Syndicate Bank
+Royapettah
+60054020001043/2
+1,627.00
+16.07.2008
+16.07.2018
+1,627.00
+M/S. MOHAMMED GHOUSE, (1ST 
+PETITIONER) 
+NO. 29/5, BEGUM SAHIB STREET, 
+ROYAPETTAH,
+MADRAS - 14.
+72
+MCOP
+513
+1972
+Registrar
+State Bank of India
+Chennai Main
+10886114084
+400.00
+23.02.2008
+23.02.2011
+400.00
+MR. RAVI. S/O. RAJABATHAM NO.14, 
+KISHTAPPA CHETTY STREET, 
+CHINTADRIPET, MADRAS-2
+73
+MCOP
+516
+1972
+Registrar
+Indian Overseas Bank  Adyar
+000204501500144
+3,910.00
+30.01.2015
+30.01.2018
+5,070.00
+MT. KALI, W/O. CHIMBARAM, 
+NO.11A, SRINIVASACHARI STREET, 
+PADDY FIELDS ROAD, MADRAS-11
+74
+MCOP
+523
+1972
+Fathima (minor)
+Indian Overseas Bank Esplanade
+500500721
+20,440.00
+09.07.2008
+09.07.2011
+27,090.00
+M/S. FATHIMA, (4TH PETITIONER) 
+D/O. MOHIDEEN
+NO. 50, ANNASALAI,
+MADRAS - 14.
+10
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+75
+MCOP
+523
+1972
+Zainath (minor)
+Indian Overseas Bank Esplanade
+RDP 500100841
+13,323.00
+01.11.2001
+09.09.2010
+26,893.00
+M/S. ZAINATHA, (5TH PETITIONER) 
+D/O. MOHIDEEN
+NO. 50, ANNASALAI,
+MADRAS - 14.
+76
+MCOP
+532
+1972
+Madivanan
+Indian Overseas Bank R.K. Salai
+029104211000018
+689.00
+25.06.2010
+25.06.2020
+689.00
+MR. MADIVANAN, (PETITIONER)
+S/O. KATHAVARAYAN, 
+NO. 67, THEYAGARAYAPURAM,
+THIRUVOTTIYUR,
+MADRAS - 19.
+77
+MCOP
+607
+1972
+Registrar
+Indian Bank
+ Santhome
+10703
+5,739.00
+29.07.2005
+29.07.2011
+-
+M/S. 1. ANNAMMAL, 2. V. 
+DEVARAJ, 3. V. PANNERSELVAM, 
+4. V. CHANDRASEKHARAN, 5. V. 
+CHANDRAKANTHA AND OTHERS, 
+W/O. K. VEMBULI, NO.40, V.P. LANE. 
+ST. THOMAS MOUNT, MADRAS-16.
+78
+MCOP
+607
+1972
+Registrar
+Indian Bank
+ Santhome
+10720
+5,739.00
+29.07.2005
+29.07.2011
+-
+M/S. 1. ANNAMMAL, 2. V. 
+DEVARAJ, 3. V. PANNERSELVAM, 
+4. V. CHANDRASEKHARAN, 5. V. 
+CHANDRAKANTHA AND OTHERS, 
+W/O. K. VEMBULI, NO.40, V.P. LANE. 
+ST. THOMAS MOUNT, MADRAS-16.
+79
+MCOP
+607
+1972
+Sivaramakrishnan
+Indian Overseas Bank R.K. Salai
+029104211000021
+3,148.00
+25.06.2010
+25.06.2002
+3,148.00
+M/S. 1. ANNAMMAL, 2. V. 
+DEVARAJ, 3. V. PANNERSELVAM, 
+4. V. CHANDRASEKHARAN, 5. V. 
+CHANDRAKANTHA AND OTHERS, 
+W/O. K. VEMBULI, NO.40, V.P. LANE. 
+ST. THOMAS MOUNT, MADRAS-16.
+80
+MCOP
+612
+1972
+Subramaniyan
+Punjab national Bank
+ Teynampet
+53/434667
+2,325.00
+08.04.2005
+08.04.2008
+-
+MR. SUBRAMANIAN, (PETITIONER) 
+S/O. SIVAGNANAM,
+NO. 5/C, RAJASEKKARA MUDALIAR 
+STREET,
+MYLAPORE, MADRAS 04.
+81
+MCOP
+613
+1972
+N.Ranganathan
+Punjab national Bank
+ Teynampet
+53/434746
+1,440.00
+08.04.2005
+08.04.2008
+-
+MR. N. RANGANATHAN, 
+(PETITIONER) 
+S/O. NARAYANASAMI,
+CHETTINAD HOUSE,
+RAJA ANNAMALAIPURAM,
+MADRAS 28.
+82
+MCOP
+647
+1972
+Mariammal
+State Bank of India
+Chennai Main
+01202050937/00
+2,875.00
+15.02.2007
+15.02.2012
+6,506.00
+M/S. MARIAMMAL, (PETITIONER) 
+D/O. POONGAVANAM,
+NO. 15, POONTHOTTAM,
+MYLAPORE, MADRAS 04.
+11
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+83
+MCOP
+650
+1972
+Deenadayalan 
+(minor)
+Syndicate Bank
+ Puraswalkam
+VCC4975/7958
+16,170.00
+25.04.2005
+25.04.2011
+24,880.53
+MR. DEENADAYALAN, NO.40, 
+KUTTI THAMBIRAN STREET, 
+PULIYANTHOPE, MADRAS-12
+84
+MCOP
+650
+1972
+Prabhavathi 
+(minor)
+Syndicate Bank
+ Puraswalkam
+4534/6544
+3,600.00
+25.01.2004
+25.01.2012
+3,860.70
+M/S. PRABHAVATHI, NO.40, 
+KUTTI THAMBIRAN STREET, 
+PULIYANTHOPE, MADRAS-12
+85
+MCOP
+651
+1972
+Antony (minor)
+Syndicate Bank
+ Puraswalkam
+2467
+4,500.00
+27.01.2000
+27.01.2012
+7,608.57
+M/S. SUBBAMMAL, NO.20, KATTUR 
+NALLAMUTHU STREET, CHOOLAI, 
+MADRAS-12
+86
+MCOP
+676
+1972
+Masthanama 
+(minor)
+Syndicate Bank
+ Puraswalkam
+4535/6570
+1,500.00
+07.07.2004
+07.06.2012
+-
+M/S. MASTHANAMMA, 
+(5TH PETITIONER) 
+1,367 RESI.,AT. MASTHAPURAM,
+KALLAPADU POST,
+ATMAKUR (T.K) NELLORE.
+87
+MCOP
+676
+1972
+Chinna Masthanna Syndicate Bank
+ Puraswalkam
+VCC 5147/7961
+6,688.00
+07.07.2005
+07.07.2011
+10,290.66
+M/S. CHINNA MASTHANAMMA, (7TH 
+PETITIONER) 
+1,367 RESI.,AT. MASTHAPURAM,
+KALLAPADU POST,
+ATMAKUR (T.K) NELLORE.
+88
+MCOP
+676
+1972
+Registrar
+Syndicate Bank
+ Puraswalkam
+4536
+1,500.00
+07.08.2001
+07.08.2012
+-
+M/S. DORAISORNAMMA, 
+(6TH PETITIONER) 
+1,367 RESI.,AT. MASTHAPURAM,
+KALLAPADU POST,
+ATMAKUR (T.K) NELLORE.
+89
+MCOP
+684
+1972
+Murugan
+Indian Overseas Bank Esplanade
+210200033
+1,000.00
+30.11.2011
+20.02.2012
+1,304.00
+MR. MURUGAN, (PETITIONER) 
+S/O. GANESAN,
+NO. 21/6, KARUNANIDHI COLONY, 
+MADRAS 06.
+90
+MCOP
+737
+1972
+Registrar
+State Bank of India
+Chennai Main
+10886117029
+4,088.00
+27.03.2008
+27.03.2011
+5,261.00
+MR. ETHAYARAM,
+S/O. KOTHANDARAMAN,
+NO.3, VICHOOR MUTHIAH MUDALI 
+STREET, MADRAS-112
+91
+MCOP
+757
+1972
+ADCOSTO
+Indian Overseas Bank T. Nagar
+510200636
+7,224.00
+28.05.2002
+04.11.2011
+15,174.00
+M/S. A. D'CORTA,
+W/O. G.D. CORTA, NO.25, 
+PERIA MALAYAPPAN STREET, 
+ROYAPETTAH, MADRAS-14.
+92
+MCOP
+58
+1973
+Dilly Babu
+Syndicate Bank
+Royapettah
+60054020000038/2
+2,010.00
+13.08.2002
+13.08.2012
+2,010.00
+MR. DELLI BABU, (PETITIONER) 
+NO. 22, LAL MD. STREET,
+CHEPAUK, MADRAS 05.
+12
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+93
+MCOP
+60
+1973
+Registrar
+Indian Overseas Bank  Adyar
+000204504500140
+1,929.00
+30.01.2015
+30.01.2018
+2,501.00
+MR. P. T. PURUSHOTHAM, S/O. 
+P.T.JAGANNATHACHARIAR, BLOCK 
+NO.18, FLAT NO.8 BESANT NAGAR 
+MADRAS-90
+94
+MCOP
+68
+1973
+KAMEENUDEN C
+Central Bank of India
+ Sowcarpet
+3052534441
+6,464.00
+02.09.2009
+02.09.2012
+7,860.00
+MR. KAMEENUDEN, NO.72, 
+ANNA NAGAR, "C" BLOCK, NEW 
+WASHERMANPET, MADRAS - 81.
+95
+MCOP
+149
+1973
+Ravanammal
+Central Bank of India
+ Adyar
+3016490484
+24,800.00
+22.02.2008
+22.02.2011
+32,153.00
+MR. KATHANI, S/O. ELLAN, NO.5 
+JOTHI AMMAL COLONY, EAST 
+COOVUM ROAD, MADRAS - 2.
+96
+MCOP
+176
+1973
+Shanthi (minor)
+Indian Overseas Bank Anna Nagar
+027004501000801
+3,202.00
+05.05.2010
+05.05.2020
+6,569.00
+SHANTHI, (5TH PETITIONER)
+D/O.LATE NARAYANA NAMBIAR,
+NO.100, ROTARY NAGAR, 
+MADRAS-5.
+97
+MCOP
+176
+1973
+Sedeswaran
+Punjab & Sind Bank
+ Adyar
+739484
+7,204.00
+08.08.2008
+08.08.2011
+7,204.00
+MR. SADASIVAM, 
+(4TH PETITIONER), 
+D/O.LATE NARAYANA NAMBIAR,
+NO. 100, ROTARY NAGAR,
+MADRAS 05.
+98
+MCOP
+176
+1973
+Chandra Babu
+Indian Overseas Bank Anna Nagar
+RDP 500101590
+1,800.00
+24.10.2001
+19.09.2004
+2,351.00
+CHANDRABABU,
+(3RD PETITIONER)
+S/O.LATE NARAYANA NAMBIAR,
+NO.100, ROTARY NAGAR, 
+MADRAS-5.
+99
+MCOP
+188
+1973
+Registrar
+State Bank of India
+SME Branch
+36760950755
+1,505.00
+17.04.2017
+17.04.2020
+1,826.00
+MR. K. RAVICHANDRAN, 
+(PETITIONER) 
+S/O.L.KUPPUSAMY,
+NO. 364, 8TH STREET,
+SIVAPURAM AMMAN COLONY,
+MADRAS 39.
+100
+MCOP
+188
+1973
+K.Ravichandran
+State Bank of India
+SME Branch
+10886114119
+1,000.00
+24.04.2010
+24.04.2013
+1,000.00
+MR. K. RAVICHANDRAN, 
+(PETITIONER) 
+S/O. L. KUPPUSAMY,
+NO. 364, 8TH STREET,
+SIVAPURAM AMMAN COLONY,
+MADRAS 39.
+101
+MCOP
+275
+1973
+Mumtaj Begum
+Syndicate Bank
+Royapettah
+60054200000124/2
+286.50
+16.07.2008
+16.07.2018
+286.50
+MR. SHIBNATH MAZEENDAR, S/O. N. 
+MAZEENDAR, NO.25, DIPPU SAHIB 
+ST, MOUNT ROAD, MADRAS-2.
+13
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+102
+MCOP
+290
+1973
+Registrar
+Punjab & Sind Bank
+ Adyar
+739476
+14,223.00
+08.08.2008
+08.08.2011
+18,767.00
+M/S. POOVALA CHINNAMMA, (5TH 
+PETITIONER) 
+NO. 8/2, ALAGAR PERUMAL KOVIL 
+STREET,
+VADAPALANI, MADRAS.
+103
+MCOP
+295
+1973
+Chellappan
+Syndicate Bank
+Royapettah
+60054200000141/2
+319.50
+16.07.2008
+16.07.2018
+319.50
+MR. ELLAPPAN, S/O. 
+PARAMESWARAN NAIDU, NO.23, 
+VELAYUDHA PANDIYAN STREET, 
+MOUNT ROAD, MADRAS-21.
+104
+MCOP
+300
+1973
+Maragatham
+Indian Bank
+ Saidapet
+10612
+5,000.00
+15.03.2003
+15.03.2013
+-
+MR. MARAGATHAM, 
+(2ND PETITIONER) 
+NO. 30, IV STREET,
+APPAVU NAGAR,
+SAIDAPET, MADRAS 15.
+105
+MCOP
+346
+1973
+P.Raja (Minor)
+Chennai Central 
+Co-operative Bank
+ Saidapet
+705479139
+1,345.00
+18.11.2014
+18.11.2017
+1,744.00
+MR. P. RAJAN, 
+(7TH PETITIONER) 
+NO. 91, JANI JAN KHAN 1ST LANE, 
+RAYAPETTAH,
+MADRAS 14.
+106
+MCOP
+347
+1973
+Venkatesan 
+(Minor)
+Indian Overseas Bank Anna Nagar
+RDP 500100955
+834.00
+12.07.2001
+20.09.2020
+3,629.00
+MR. P.N. VENKATESAN, 
+(3RD PETITIONER) 
+NO. 3, MANIMEGALAI STREET,
+GANDHI NAGAR,
+VORAGADAM,
+AMBATTUR, MADRAS.
+107
+MCOP
+446
+1973
+Registrar
+Indian Overseas Bank  Adyar
+000204501500137
+9,076.00
+30.01.2015
+30.01.2018
+11,768.00
+M/S. 1. JEGADAMBAL, 2. SAROJA, 3. 
+VENKADESAN, 4 RAJENDRAN AND 
+OTHERS, NO.455, N.S.K. NAGAR, 
+MADRAS-29
+108
+MCOP
+77
+1974
+Registrar
+Indian Overseas Bank  Adyar
+000204501500136
+742.00
+30.01.2015
+30.01.2018
+963.00
+MRS. BHAGIAMMAL, 
+W/O.MUNUSWAMY, NO.9, 
+PADAVATTAMMAN KOIL STREET, 
+CHINDADRIPET, MADRAS - 2
+109
+MCOP
+120
+1974
+Registrar
+Indian Bank
+Jaffarkhanpet
+874829272
+4,914.00
+09.02.2010
+09.02.2020
+9,836.00
+M/S. KAMALA 
+(2ND PETITIONER)
+W/O. DORAISWAMY NADAR, 
+PERAMHALU CHETTY STREET, 
+MADRAS - 21
+110
+MCOP
+134
+1974
+Murugan (Minor)
+Indian Bank
+Esplanade
+851869970
+20,666.00
+31.08.2009
+31.08.2012
+25,637.00
+D. DHANAM (2ND PETITIONER), 
+NO.1/13, ST. XAVIAR STREET, 
+MADRAS - 1
+14
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+111
+MCOP
+136
+1974
+Arul Doss
+Indian Bank
+Esplanade
+769698158
+688.00
+17.04.2008
+17.04.2011
+688.00
+Mr. Aruldass, (Petitioner)
+S/o. P.A. Joseph
+No. 4, Subedar Garden,
+Kodambakkam,
+Madras – 24.
+112
+MCOP
+144
+1974
+Murugesan
+State Bank of India
+Mint Terminus
+30004841786
+5,301.00
+02.04.2008
+02.04.2011
+6,822.00
+MR. MURUGAN(3rd petitioner), S/O. 
+CHELLAMUTHU, NO.6, GOVINDAPPA 
+NACHIAR STREET, MADRAS - 1
+113
+MCOP
+144
+1974
+Veeramma
+State Bank of India
+Mint Terminus
+30004841833
+5,301.00
+02.04.2008
+02.04.2011
+6,822.00
+M/s. Veeramma,D/o. Chellamuthu (2nd 
+Petitioner) 
+No. 6, Govindappanaichar Street,
+Madras.
+114
+MCOP
+229
+1974
+Kamala (minor)
+Indian Overseas Bank Esplanade
+RDP 500100850
+606.00
+01.11.2001
+01.10.2010
+1,206.00
+M/S. KOMALA, D/O. SAUPATHI 
+CHETTIAR, NO.63, HABIBULLAH 
+SAHAB ST 2ND LANE, ZAUBAZAAN, 
+MADRAS -5.
+115
+MCOP
+229
+1974
+Kamala (minor)
+Indian Overseas Bank Esplanade
+RDP 500100845
+4,245.00
+01.11.2001
+01.10.2010
+8,445.00
+M/S. KOMALA, 
+D/O. SAUPATHI CHETTIAR, 
+NO.63, HABIBULLAH SAHAB ST 2ND 
+LANE, ZAUBAZAAN, MADRAS -5.
+116
+MCOP
+251
+1974
+Vellamma
+Syndicate Bank
+Royapettah
+60054020000041/2
+3,643.75
+15.09.2002
+15.09.2012
+3,643.75
+M/S. VELLAMMA, W/O. PERUMAL 
+REDDIAR, RAMANATHAPURAM, 
+ELUMALAI SALAI. MADURA 
+DISTRICT
+117
+MCOP
+260
+1974
+Muthu
+Indian Overseas Bank Egmore
+FDR 210300021
+802.50
+25.07.2003
+11.07.2011
+-
+MR. MUTHU, S/O. N.A. ELUMALAI, 
+NO.20, KUMARASAMY RAJAPURAM 
+2ND STREET, CHOOLAI, PATTALAM, 
+MADRAS
+118
+MCOP
+261
+1974
+Registrar
+Indian Overseas bank  Adyar
+000204501500139
+1,420.00
+30.01.2015
+30.01.2018
+1,842.00
+M/S. NALLANI,
+W/O. RAJAGOPAL, NO.10, ABDUL 
+KHAAN STREET, TRIPLICANE, 
+MADRAS - 5
+119
+MCOP
+261
+1974
+Registrar
+State Bank of India
+Chetpet
+31519451241
+3,016.00
+26.12.2009
+26.12.2019
+3,016.00
+M/S. NALLANI, W/O. RAJAGOPAL, 
+NO.10, ABDUL KHAAN STREET, 
+TRIPLICANE, MADRAS - 5
+120
+MCOP
+261
+1974
+Registrar
+State Bank of India
+Chetpet
+31519226850
+3,292.00
+26.12.2009
+26.12.2019
+3,292.00
+M/S. NALLANI, W/O. RAJAGOPAL, 
+NO.10, ABDUL KHAAN STREET, 
+TRIPLICANE, MADRAS - 5
+15
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+121
+MCOP
+295
+1974
+Manjula Balaji
+Indian Overseas Bank Egmore
+210300023
+1,100.00
+25.07.2003
+11.07.2011
+-
+M/S. MANJULA,
+D/O. P. RAVICHANDRAN, NO.4/88, 
+SANJEEVARAYAN KOIL STREET, 
+MADRAS - 21.
+122
+MCOP
+304
+1974
+Mangalami (Minor) Central Bank of India
+ Adyar
+3028389243
+833.33
+20.09.2008
+20.09.2011
+833.33
+M/S. MANGALAMI
+D/O. ARUMUGHAM, NO.6, 9TH 
+STREET, KALYANA MAISTRY 
+GARDEN, MADRAS - 12
+123
+MCOP
+341
+1974
+Thulasiram Giri
+Indian Bank
+Esplanade
+870559749
+1,867.00
+08.01.2010
+08.01.2013
+1,867.00
+MR. THULASIRAM GIRI, 
+S/O. C. BANGARU BABU, NO.14, 
+EAST PARK ROAD, SHEUNY NAGAR, 
+MADRAS - 30
+124
+MCOP
+354
+1974
+Varalakshmi 
+Ammal
+Indian Overseas Bank Egmore
+210300019
+1,050.00
+25.07.2003
+11.07.2011
+-
+M/S. KOMALA, W/O. 
+CHANDRASEKHAR, NO.4/16, DANK 
+BUND ROAD, ERIKARAI NANDANAM, 
+MADRAS - 35
+125
+MCOP
+491
+1974
+Kumar
+Indian Bank
+Esplanade
+805770612
+3,187.00
+18.11.2008
+18.11.2001
+4,193.00
+SRUSAMMA, D/O. ALIMULLAI, 
+ESPLANADE ROAD, CYCLE 
+RICKSHAW STAND,
+MADRAS - 1
+126
+MCOP
+46
+1975
+Radha (minor)
+Indian Bank
+Madras High 
+Court
+6298289859
+13,270.00
+30.12.2014
+30.12.2017
+17,205.00
+M/S. RADHA, ANUSUYA MANDAPAM, 
+MARMALONG BRIDGE, MOUNT 
+ROAD, MADRAS - 15.
+127
+MCOP
+46
+1975
+Mahendran
+Indian Bank
+Esplanade
+6297071036
+4,647.00
+26.12.2014
+27.12.2017
+6,026.00
+M/S. MAHENDRAN, ANUSUYA 
+MANDAPAM, MARMALONG BRIDGE, 
+MOUNT ROAD, MADRAS - 15.
+128
+MCOP
+49
+1975
+Registrar MINOR 
+VENKATARAMAS
+Union Bank of India
+Chennai Main
+332603020981685
+4,689.00
+18.04.2009
+18.04.2012
+4,689.00
+MR. VENKADESWARAN, S/O. 
+ADHI NARAYANAN, NO.69, 
+ANANTHA NAYAKI NAGAR, 4TH 
+LANE, C.B.ROAD, KORUKKUPET, 
+MADRAS-21
+129
+MCOP
+85
+1975
+Chandra
+Andhra Bank
+Chennai Main
+20070425
+33,421.00
+03.10.2007
+03.10.2010
+43,330.00
+M/s. Chandra, W/O. V.Vembu (1st 
+Petitioner)
+No.7, Gopal Street,
+T.Nagar,
+Madras – 07.
+16
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+130
+MCOP
+143
+1975
+Irudhayaraj
+Indian Bank
+Madras High 
+Court
+825166980
+2,361.00
+27.02.2009
+27.02.2012
+2,361.00
+Mr. Irudhayaraj, (Petitioner)
+S/o. Aruldass,
+No.1, Kakakkanpuram,
+Taluk Office Road,
+Saidapet,
+Madras – 15.
+131
+MCOP
+159
+1975
+Registrar
+Tamilnad Mercantile 
+Bank Limited
+George Town
+020200050101145
+1,142.00
+31.01.2003
+05.09.2012
+1,142.00
+M/S. SAKUNTHALA, W/O. NARAYANA 
+RAO, NO.17, NAGOP RAO STREET, 
+MADRAS - 5.
+132
+MCOP
+163
+1975
+Assave Bai
+Punjab & Sind Bank
+ Adyar
+739477
+7,394.00
+08.08.2008
+08.08.2011
+9,756.00
+M/S. HASEEVA BAI, D/O. SYED 
+ABDUL GAFFOR, NO.21/48, 
+PARASURAMA MUDALI ST, 
+MADRAS-21.
+133
+MCOP
+168
+1975
+Registrar
+Indian Overseas Bank  Adyar
+000204501500133
+2,120.00
+30.01.2015
+30.01.2018
+2,749.00
+MR. RAVICHANDRASEKAR, 
+S/O. DEVASENAPATHI, NO1/5, 
+PARTHA SARATHY NAIDU STREET, 
+PULIANTHOPE, MADRAS - 12.
+134
+MCOP
+172
+1975
+Kannamma
+Union Bank of India
+Ashok Nagar
+3030502310
+3,000.00
+24.06.2004
+24.06.2007
+3,534.00
+M/s. Kannamma, (Petitioner) W/o. 
+Rajendran
+No. 54, Boja Raja Nagar,
+Peneil Factory,
+Madras – 21
+135
+MCOP
+191
+1975
+Gajendran
+Syndicate Bank
+Royapettah
+3212759
+3,207.47
+03.02.2005
+03.02.2008
+3,207.47
+MR. RAJENDRAN, S/O. RAJAPPAN, 
+PERIYA KODUR VILLAGE, KARUR, 
+TRICHY,
+136
+MCOP
+206
+1975
+Babu (minor)
+Indian Bank
+Esplanade
+6297076169
+858.00
+26.12.2014
+27.12.2017
+1,113.00
+Mr. Babu, Petitioner)
+S/o. Desappan,
+No.99/12, Nochikuppam,
+Kodambakkam,
+Mylapore – 04.
+137
+MCOP
+209
+1975
+Kanaga
+Indian bank
+Esplanade
+805465995
+2,138.00
+17.11.2008
+17.11.2011
+2,813.00
+MR. RAVI, S/O.VEERAMULLAI, 
+NO.99/16, NOCHIKUPPAM, 
+MYLAPORE, MADRAS - 04
+138
+MCOP
+223
+1975
+Syed Mohideen
+Union Bank of India
+Chennai Main
+332603020981681
+2,682.00
+13.04.2009
+13.04.2019
+-
+Mr. Syed Mohideen,S/O.A.K.Syed 
+abdul saleem,(7th Petitioner)
+No.12, Begam Saheb 3rd Street,
+Madras – 14.
+17
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+139
+MCOP
+225
+1975
+Thayammal 
+(minor)
+UCO Bank
+T. Nagar
+TD141158
+8,500.00
+23.10.2005
+23.10.2008
+8,500.00
+M/s. Thayarammal, (1st Petitioner), 
+W/o. Ellappan,
+Trivellore High Road,
+Kasimedu,
+villivakkam,
+Madras – 49.
+140
+MCOP
+225
+1975
+Registrar
+Allahabad Bank
+ Mogappair East
+50513436373
+308.00
+13.02.2020
+13.02.2023
+371.00
+M/s. Thayarammal, (1st Petitioner), 
+W/o. Ellappan,
+Trivellore High Road,
+Kasimedu, Villivakkam,
+Madras – 49.
+141
+MCOP
+304
+1975
+Subbarayan
+Punjab National Bank  Teynampet
+2523005300000446
+1,108.00
+12.08.2009
+12.08.2012
+1,108.00
+Mr. Subbarayan, (Petitioner)
+S/o. Ayyavoo Goundar,
+No. 5, Bagavandham Gupli Street, 
+T.Nagar,
+Madras – 17.
+142
+MCOP
+310
+1975
+Premkumar
+Indian Bank
+Esplanade
+805466353
+1,365.00
+17.11.2008
+17.11.2011
+1,796.00
+MR. PREMKUMAR, (8TH 
+PETITIONER), NO.37, CORAMANDEL 
+TELUGU LINE, BANGARAPET 
+TALUK. KOLAR
+143
+MCOP
+310
+1975
+Balasubramanian 
+(Minor)
+Indian Bank
+Esplanade
+805672832
+1,365.00
+13.11.2008
+13.11.2011
+1,796.00
+MR. BALASUBRAMANIAM,
+(7TH PETITIONER), NO.37, 
+CORAMANDEL TELUGU LINE, 
+BANGARAPET TALUK. KOLAR
+144
+MCOP
+337
+1975
+N.Krishnaveni & 
+Others
+Indian Bank
+Madras High 
+Court
+484211895
+5,147.00
+28.08.2004
+28.08.2010
+7,869.00
+M/s. N. Krishnaveni, 
+W/O.S. Narayanaswamy 
+(1st Petitioner)
+No. 11, 2nd Lane,
+Naval Hospital Road,
+Madras – 03.
+145
+MCOP
+337
+1975
+N.Kuppuratnam
+Indian Bank
+Madras High 
+Court
+851666914
+42,584.00
+29.08.2009
+29.08.2012
+52,827.00
+Mr. N. Kuppuratnam, (2nd Petitioner) 
+No. 11, 2nd Lane,
+Naval Hospital Road,
+Madras – 03.
+146
+MCOP
+350
+1975
+M.Mariappan
+Central Bank of India
+ Adyar
+3016490960
+24,207.00
+22.02.2008
+22.02.2011
+31,384.00
+MR. S.P. GOVINDARAJ S/O. 
+PUNCHOOLAI, NO.161, "S" BLOCK, 
+SUBEDAR GARDEN, CHOOLAI 
+MEDU, HIGH ROAD, MADRAS - 24
+147
+MCOP
+396
+1975
+Muninathasha
+Indian Overseas Bank Esplanade
+RDP 693199
+55,551.00
+15.12.1999
+16.07.2011
+152,356.00
+MR. MUNINATHA SHA, S/O. POUNA 
+SHA, NO.16, VEDAGIRI MESHTHIRI 
+STREET, CHINDADRIPET, MADRAS 
+- 2
+18
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+148
+MCOP
+445
+1975
+Registrar
+Indian Overseas Bank  Adyar
+000204501500138
+1,816.00
+30.01.2015
+30.01.2018
+2,355.00
+MR. K.E. JAYARAMAN, S/O. 
+K.V.ETTHIRAJULU CHETTIAR, NO.16, 
+PERUMAL KOIL ST, MADRAS - 15.
+149
+MCOP
+446
+1975
+Registrar
+Indian Overseas Bank  Adyar
+000204501500134
+1,815.00
+30.01.2015
+30.01.2018
+2,354.00
+MR. G.N. VARADAN, S/O. 
+S. NARAYANASAMI NAICKER, 
+NO.44/6, KODAMBAKKAM ROAD, 
+MADRAS-33
+150
+MCOP
+450
+1975
+Navaneetham
+Indian Bank
+Jaffarkhanpet
+874829421
+14,537.00
+09.02.2010
+09.02.2020
+29,097.00
+Mr. Navaneethan, (Petitioner)
+No. 10, First Lane,
+House Thottam,
+Madras – 19.
+151
+MCOP
+472
+1975
+Nagordharmma
+Chennai Central
+Co-operative Bank
+ Saidapet
+705479140
+2,514.00
+18.11.2014
+18.11.2017
+3,259.00
+M/S. NAGAVARADAMMA, 
+W/O. ELAINANDAN, VALAVETTI 
+PADU POST, TIRUGALUR, ONGOLE, 
+ANDRAPRADESH
+152
+MCOP
+499
+1975
+Vinayagan
+State Bank of India
+Mint Terminus
+30004841549
+4,417.00
+02.04.2008
+02.04.2011
+5,685.00
+M/S. VIJAYALAKSHMI, 
+D/O. PUNIYAKODI, NO.60A, 
+SANJEEVIROYAN KOIL STREET, 
+WASHERMENPET, MADRAS-21
+153
+MCOP
+506
+1975
+Registrar
+Indian Bank
+Jaffarkhanpet
+874828734
+1,821.00
+09.02.2010
+09.02.2020
+3,645.00
+M/S. LAKSHMI, W/O. KANDAIAH, 
+CANTONMENT QUARTERS, 
+PALLAVARAM, MADRAS-43.
+154
+MCOP
+506
+1975
+Venkataraman
+Syndicate Bank
+Royapettah
+60054050008655/2
+74,000.19
+19.02.2008
+19.02.2018
+175,850.58
+MR. VENKIAH, S/O. KANDAIAH, 
+CONTONMENT QUARTERS, 
+PALLAVARAM, MADRAS-43
+155
+MCOP
+514
+1975
+Banu
+Indian Bank
+Esplanade
+TDR - 0197854
+809.00
+17.04.2008
+17.04.2011
+809.00
+MR. BABU, S/O.NARASIMHA RAO, 
+NO.20, PARAMASIVA CHETTY 
+STREET, MADRAS-3
+156
+MCOP
+525
+1975
+Asokan (Minor)
+Indian Bank
+Esplanade
+6297076782
+1,650.00
+26.12.2014
+27.12.2017
+2,140.00
+Mr. Asokan, (Petitioner)
+No. 33, State Housing Board Colony, 
+Dr. Santhosh Nagar,
+Madras – 08.
+157
+MCOP
+562
+1975
+Anandayee(minor)
+Syndicate Bank
+ Puraswalkam
+VCC.5146-7966
+2,240.00
+16.05.2005
+16.05.2013
+4,098.10
+M/s. Anandayee, (Petitioner)
+D/o. Chinna Kattandi
+No.1, 3rd Lane,
+Palaniamman Kovil Street,
+Mettukuppam
+Madras – 05.
+19
+
+
+Sl. 
+No.
+Case 
+type
+Case 
+No.
+Year
+Name of the 
+Petitioner
+Name of the Bank Bank branch
+Account No.
+Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+158
+MCOP
+589
+1975
+Ramdoss
+Canara Bank
+ Saidapet
+0933304000058/2
+1,642.00
+05.06.2008
+05.06.2011
+2,062.00
+Mr. Ramdoss, (Petitioner)
+S/o. Shanmugam,
+No. 3/11, kannilal Street,
+Madras – 04.
+159
+MCOP
+1741
+1975
+K.Krishnaswamy
+Punjab & Sind Bank
+ Adyar
+51
+7,330.00
+08.08.2008
+08.08.2011
+9,672.00
+160
+MCOP
+2043
+1975
+Registrar
+Union Bank of India
+ Chamiers Road
+332303030018027
+5,420.00
+27.07.2010
+27.07.2020
+11,395.00
+161
+MCOP
+3179
+1975
+Registrar
+Indian Bank
+ High Court Extn 
+Counter
+484211737
+4,421.00
+28.08.2004
+28.08.2010
+6,759.00
+162
+MCOP
+3679
+1975
+Registrar
+Indian Bank
+Esplanade
+756924217
+21,834.00
+31.12.2007
+31.12.2010
+28,308.00
+Sl. 
+No.
+Case 
+type
+Case 
+No
+Year
+Name of the 
+Petitioner
+Name of the 
+Bank 
+Bank branch
+Account No Amount in 
+Rs.
+Date of 
+Deposit 
+Due on
+ Maturity   
+ Value in
+ Rs.
+Petitioner Address
+Counsel
+Name
+1
+RCOP
+127
+1969
+Registrar
+Indian Bank
+Madras High Court
+6456418211
+12,750.00
+08.08.2016
+08.08.2019
+15,701.00
+2
+RCOP
+391
+1973
+Mohamed Hussain Indian Bank
+ Adyar
+958860332
+20,000.00
+30.05.2011
+30.05.2019
+40,762.00
+M/S. SAROJA,
+W/O. RAJAGOPAL, 
+NO.455, N.S.K. NAGAR,
+MADRAS - 29
+3
+RCOP
+1741
+1975
+Registrar
+Union Bank of India Ashok Nagar
+6058
+41,463.00
+21.02.2003
+21.02.2006
+49,574.00
+4
+RCOP
+1741
+1975
+K.Krishnasamy
+Indian Bank
+Avadi
+771010396
+6,799.00
+29.04.2008
+29.04.2011
+8,815.00
+5
+RCOP
+1741
+1975
+K.Krishnasamy
+Indian Bank
+Avadi
+771010283
+6,799.00
+29.04.2008
+29.04.2011
+8,815.00
+6
+RCOP
+1741
+1975
+K.Krishnasamy
+Indian Bank
+Avadi
+771010476
+6,799.00
+29.04.2008
+29.04.2011
+8,815.00
+20
+
+
+	
+ABSTRACT
+Court of Small Causes, Chennai – 104.
+Time Barred Fixed Deposit for the Year 1960 to 1975
+Case type
+No of Count
+EJTS
+4
+HRC
+10
+Lac
+2
+MCOP
+162
+RCOP
+6
+Total Result
+184
+Court of Small Causes, Chennai.	
+B. SOUNDHARYA,
+11th July 2022.	
+Registrar (FAC).
+	
+PRINTED  AND  PUBLISHED  BY  THE COMMISSIONER  OF  STATIONERY  AND  PRINTING, CHENNAI 
+ON  BEHALF  OF  THE  GOVERNMENT  OF  TAMIL  NADU
+21

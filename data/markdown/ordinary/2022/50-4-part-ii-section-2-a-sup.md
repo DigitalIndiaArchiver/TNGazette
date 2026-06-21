@@ -1,0 +1,8937 @@
+---
+source: "original_fallback"
+type: "ordinary"
+year: "2022"
+pdf_url: "https://web.archive.org/web/20230404091130/http://www.stationeryprinting.tn.gov.in/gazette/2022/50_II_2_A_Sup.pdf"
+Part: "4. Part II--Section 2-A-Sup"
+Content: "Notifications or Orders of interest to a section of the public issued by Secretariat Departments HOME DEPARTMENT - (Transport-I) - Remission of tax in respect of 997 Goods Vehicles to the tune of Rs.2,86,06,556/- under the Tamil Nadu Motor Vehicles Taxation Act."
+Date: "2022-12-14"
+Issue: "50"
+---
+
+D.T.P.—II-2—Sup. (50A)—1
+[ 1 ]
+TAMIL  NADU 
+GOVERNMENT  GAZETTE 
+PUBLISHED BY AUTHORITY
+ 
+  © 
+[Regd. No. TN/CCN/467/2012-14.
+ GOVERNMENT  OF  TAMIL  NADU 
+[R. Dis. No. 197/2009.  
+ 
+ 
+2022 
+[Price: Rs.16.80 Paise. 
+No. 50A] 
+     CHENNAI, WEDNESDAY, DECEMBER 14, 2022 
+ 
+ 
+                   Karthigai 28, Subakiruthu, Thiruvalluvar Aandu–2053
+Part II—Section 2
+(Supplement)
+NOTIFICATIONS BY GOVERNMENT 
+HOME DEPARTMENT
+(Transport-I)
+Remission of tax in respect of 997 Goods Vehicles to the tune of Rs.2,86,06,556/- under the 
+Tamil Nadu Motor Vehicles Taxation Act.
+[G.O.Ms. No. 757, Home (Transport-I), 18th October 2022, ஐÁபÒ 1, ĀபÐĉĄ, ÖĉவÈčவÄ ஆ¾Ă-2053.] 
+No. II(2)/HO/981/2022.
+In exercise of the powers conferred by clause (1) of Section 20-A of the Tamil Nadu Motor Vehicles Taxation Act, 1974 
+(Tamil Nadu Act, 13/1974), the Governor of Tamil Nadu hereby remits a sum of Rs.2,86,06,556/- (Rupees Two Crore Eighty 
+Six Lakhs Six Thousand Five Hudred and Fifty Six only) payable under the said Act, in respect of the 997 Goods Vehicles.
+Annexure to G.O.Ms. 757, Home (Transport-I) Department, dated 18th October 2022.
+Abstract for Waiver Proposal
+Sl.
+No.
+Name of the 
+RTO oﬃce
+No. of 
+Vehicle
+Tax
+Penalty
+Total 
+Amount
+1
+Chennai South East
+24
+469800
+469800
+93960
+2
+Chennai North
+55
+772075
+1349560
+2121635
+3
+Chennai North East
+42
+706845
+811085
+1517930
+4
+Chennai South West
+40
+382802
+574241
+957043
+5
+Chennai  Central
+124
+1870490
+2579895
+4450385
+6
+Chennai South
+109
+1142385
+1574045
+2716430
+7
+Chennai West
+269
+2679520
+3854467
+6533987
+8
+Chennai North West
+101
+171085
+874760
+1045845
+9
+Chennai South East
+233
+33224950
+4998751
+8323701
+Total
+997
+11519952
+17086604
+28606556
+
+
+2
+ 
+Waiver Proposal
+Sl.No.
+Name  of  the   RTO   Oﬃ  ce
+No. of  
+Vechile
+Tax
+Penalty
+Total
+Amount
+1
+RTO CHENNAI (South East)
+12
+45645
+45645
+91290
+2
+RTO CHENNAI (South East)
+11
+641S5
+64155
+128310
+3
+RTO CHENNAI (South East)
+1
+360000
+360000
+720000
+Total
+24
+469800
+469800
+939600
+1
+RTO CHENNAI (North)
+25
+300650
+414200
+714850
+2
+RTO CHENNAI (North)
+30
+471425
+935360
+1406785
+-
+Total
+55
+772075
+1349560
+2121635
+1
+RTO CHENNAI (North East)
+21
+332150
+345390
+677540
+2
+RTO CHENNAI (North East)
+21
+374695
+465695
+840390
+Total
+42
+706845
+811085
+1517930
+1
+RTO CHENNAI (South West)
+40
+382802
+574241
+957043
+Total
+40
+382802
+574241
+957043
+1
+RTO CHENNAI (Chennai Central)
+10
+146055
+237165
+383220
+2
+RTO CHENNAI (Chennai Central)
+21
+245670
+425290
+670960
+3
+RTO CHENNAI (Chennai Central)
+23
+370585
+522530
+893115
+4
+RTO CHENNAI (Chennai Central)
+23
+369560
+583740
+953300
+5
+RTO CHENNAI (Chennai Central)
+20
+163340
+284075
+447415
+6
+RTO CHENNAI (Chennai Central)
+10
+75980
+118995
+194975
+7
+RTO CHENNAI (Chennai Central)
+14
+159300
+68100
+227400
+8
+RTO CHENNAI (Chennai Central)
+3
+340000
+340000
+680000
+Total
+124
+1870490
+2579895
+4450385
+1
+RTO CHENNAI (Chennai South)
+101
+896205
+1229585
+2125790
+2
+RTO CHENNAI (Chennai South)
+8
+246180
+344460
+590640
+Total
+109
+1142385
+1574045
+2716430
+1
+RTO CHENNAI (West)
+15
+274300
+449950
+724250
+2
+RTO CHENNAI (West)
+35
+374650
+374650
+749300
+3
+RTO CHENNAI (West)
+219
+2030570
+3029867
+5060437
+Total
+269
+2679520
+3854467
+6533987
+
+
+3
+1
+RTO  CHENNAI (North West)
+36
+61980
+354640
+416620
+2
+RTO  CHENNAI (North West)
+17
+29320
+118175
+147495
+3
+RTO  CHENNAI (North West)
+15
+26245
+119805
+146050
+4
+RTO  CHENNAI ( North West )
+33
+53540
+282140
+335680
+Total
+101
+171085
+874760
+1045845
+1
+RTO CHENNAI (East)
+50
+696047
+1179414
+1875461
+2
+RTO CHENNAI ( East)
+25
+99513
+110813
+210326
+3
+RTO CHENNAI  ( East )
+38
+568743
+936918
+1505661
+4
+RTO CHENNAI (East)
+26
+272675
+363915
+636590
+5
+RTO CHENNAI ( East)
+28
+515447
+804372
+1319819
+6
+RTO CHENNAI (East )
+31
+441552
+647566
+1089118
+7
+RTO CHENNAI (East)
+25
+367073
+546853
+913926
+8
+RTO CHENNAI (East)
+9
+129900
+174900
+304800
+9
+RTO CHENNAI (East )
+1
+234000
+234000
+468000
+Total
+233
+3324950
+4998751
+8323701
+Grand Total
+997
+11519952
+17086604
+28606556
+ 
+GOODS VEHICLES (R.T.O) CHENNAI (SOUTH EAST), CHENNAI-28.
+SI..
+No.
+Vehicle
+No.
+Tax period
+Amt.of
+Penalty
+Total
+1
+TDF
+7100
+01.07.97 to 31.12.97
+4600
+4600
+9200
+2
+TMH
+9360
+01.01.98 to 31.03.98
+885
+885
+1770
+3
+TN5 1BZ
+1617
+01.01.97  to 31.03.98
+12250
+12250
+24500
+4
+TN04B
+9127
+01.07.97 to 31.12.97
+2710
+2710
+5420
+5
+TDT
+1308
+01.01.97 to 31.03.97
+885
+885
+1770
+6
+TMV
+4506
+01.10.97 to 31.12.97
+1355
+1355
+2710
+7
+TMS
+8812
+01.10.97 to 31.12.97
+1335
+1335
+2670
+8
+TMO
+7057
+01.04.97 to 31.12 .97
+2655
+2655
+5310
+9
+MSQ
+5344
+01.07.97 to 31.12 .97
+2710
+2710
+5420
+10
+TN01A
+7300
+01.1095 to 30.09.96
+5420
+5420
+10840
+11
+TSF
+4694
+01.10.96 to 31.03.97
+2710
+2710
+5420
+12
+TSR
+3539
+01.07.90 to 31.03 .92
+8130
+8130
+16260
+45645
+45645
+91290
+GOODS VEHICLES (R.T.O) CHENNAI (SOUTH EAST), CHENNAI-28.
+SI.No.
+Vehicle
+No.
+Tax period
+Amt.of
+Penalty
+Total
+1
+TSQ
+2072
+01.07.90 to 31.12.90
+3000
+3000
+·6000
+2
+TMI
+4805
+01.04.92 to 30.06.94
+7645
+7645
+15290
+3
+TN07
+4351
+01.04.93 to 30.06.93
+845
+845
+1690
+4
+TN07A
+393
+01.04.93 to 31.12.95
+5610
+5610
+11220
+5
+TNH
+3735
+01.10.93 to 31.12.94
+9180
+9180
+18360
+6
+MDK
+3192
+01.04.94 to 31.12.95
+12425
+12425
+24850
+7
+TDS
+6414
+01.04.94 to 31.12.94
+2650
+2650
+5300
+
+
+4
+GOODS VEHICLES (R.T.O) CHENNAI (SOUTH EAST), CHENNAI-28.
+SI.No.
+Vehicle
+No.
+Tax period
+Amt.of
+Penalty
+Total
+8
+MDY
+8919
+01.01.96 to 31.03.97
+8875
+8875
+17750
+9
+TN07C
+8109
+01.10.96 to 31.03 .97
+4600
+4600
+9200
+10
+TMV
+5334
+01.10.96 to 31.12 .97
+4425
+4425
+8850
+11
+TN02
+3870
+01.10.97 to 31.03 .98
+4900
+4900
+9800
+64155
+64155
+128310
+OMNI BUS  (R.T.O) CHENNAI (SOUTH EAST),CHENNAI-28.
+SI.No.
+Vehicle
+No.
+Tax period
+Amt .of
+Penalty
+Total
+1
+TN09K
+9399
+01.10.97 to 31.12.98
+360000
+360000
+720000
+‘·
+Oﬃ  ce of the Regional Transport Oﬃ  cer,
+Chennai (North), Chennai - 99
+Waiver Proposal for Goods Carriage
+Sl.
+No.
+Registration
+No. of the Vehicle
+Period of Non Payment
+Total Arrear
+Tax
+Penalty
+Total
+1.
+TMB- 6546
+01.4.1992 to 31.12.1994
+25520
+41550
+67070
+   2. ,
+TDS-6820
+01.10.1993 to 30.09.1994
+7840
+10380
+18220
+3.
+TNS-3398
+01.04.1993 to 30.09.1994
+11170
+17740
+28910
+4 .
+TMS-7342
+01.10.1993 to 31.03.1995
+10480
+13670
+24150
+5.
+TMQ-1575
+01.10.1992 to 30.09.1995
+22565
+31015
+53580
+6.
+TSO-3429
+01.10.1993 to 30.06.1995
+16230
+20220
+36450
+7.
+TN01C-9915
+01.10.1993 to 31.12.1995
+26940
+31430
+58370
+8.
+TAI-1 099
+01.01.1992 to 31,12.1994
+26580
+46700
+73280
+9.
+TMP-4366
+01.10.1991 to31.12.1994
+28800
+51760
+80560.
+10.
+MSG-4051
+01.07.1996 to 30.09.1997
+11500
+11750
+23250
+11.
+TAE-7776
+01.10.1994 to 31.03.1995
+2710
+3210
+5920
+12.
+TML-6151
+01.04.1995 to 30.09.1995
+4700
+5200
+9900
+13.
+TNR - 1258
+01.01.1995 to 31.12.1995
+9400
+10400
+19800 .
+14.
+MDM-3683
+01.04.1995 to 30.09.1995
+3550
+4050
+7600
+15.
+TMH-5930
+01,10.1995 to 31.12.1995
+2500
+2750
+5250
+16.
+TMV-6692
+01.10.1995 to 30.06.1996
+2655
+2805
+5460
+17.
+MSV-7902
+01.10.1995 to 30.06.1996
+10650
+14700
+25350
+18.
+MDE-7145
+01.10.1992 to 31.12.1994
+15550
+24000
+39550
+19.
+TN09-6364
+01.01 .1993 to 31.12.1994
+13150
+20510
+33660
+
+
+5
+20.
+TM0-6433
+01.04.1996 to 31.03.1997
+9650
+10900
+20550
+21.
+TDL-6792
+31.03.1994 to 31.03.1995
+11640
+11640
+23280
+22.
+MDE-5934
+01.04.1994 to 31.03.1995
+5325
+5325
+10650 .
+23.
+MDE-7927
+01.10.1994 to 30.06.1995
+5325
+&075
+‘11400
+24.
+TCM-2187
+01.01.1996 to 31.03.1997
+5420
+5620
+11040
+25 .
+TN01 -6410
+01.01 .1996 to 30.09.1997
+10800
+10800
+21600
+Total
+300650
+414200
+714850
+.OFFICE OF THE REGIONAL TRANSPOR T OFFICER,
+CHENNAI (NORTH), CHENNAI- 99
+WAIVER PROPOSAL FOR GOODS CARRIAGE
+Sl. No.
+Registration 
+No. of the
+Vehicle
+Period of Non Payment
+Total Arrear
+Tax
+Penalty
+Total
+1
+MSV-5673
+01.10.1986 to 31.03.1989
+13400
+29300
+42700
+2
+MDU-7572
+01.04.1987 to 30.09.1989
+13380
+26760
+40140
+3
+TMF-2619
+01.01 .1987 to 31.12.1989
+15970
+31940
+47910
+4 
+TNG -3015
+01.07.1987 to 30.06.1989
+13340
+26680
+40020
+5
+TMF-8849
+31.12.1987 to 30.06.1990
+18800
+37600
+56400
+6 
+TMT-3151
+01.07.1987 to 30.06.1990
+17750
+36100
+53850
+7
+KLR-4880
+01.04.1987 to 30.09.1990
+20540
+44980
+65520
+8 
+MDE-5543
+01.10.1987 to 31.03.1991
+24620
+52740
+77360
+9
+MDH-5273
+01.01 .1988 to 30.06.1989
+4200
+9900
+14100 .
+10
+TMB-4622
+01.01.1988 to 30.06.1990
+17200
+34400
+51600
+11
+MDF-2775
+01.01.1988 to 30.12.1992
+29850
+64700
+94550
+12
+MSM-9187
+01.04.1989 to 30.06.1990
+6500
+14250
+20750
+13
+MDE-4932
+01.04.1989 to 31.12.1990
+9100
+18200
+27300
+14
+MDR-3746
+01.01.1986 to 30.06.1989
+17390
+34780
+52170
+15
+TMW-7659
+01.01.1990 to 31.03.1991
+9700
+20650
+30350
+16
+TMR-9383
+01.01.1990 to 30.09.1991
+3520
+8790
+12310·
+17
+TCZ-9468
+01.01.1991 to 31.03.1991
+1490
+3290
+4780
+18
+TSD-1989
+01.10.1991 to31.12.1991
+35580
+73560
+109140
+19
+MDS-4033
+01.10.1991 to30.09.1993
+11920
+23840
+35760
+20
+TSD-6415
+01.01.1992 to 31.12.1993
+13440
+28380
+41820
+21
+TMM-9011
+01.01.1991 to31.12.1992
+15120
+32240
+47360
+22
+TMM-9207
+01.01.1991 to 31.12.1992
+15120
+32240
+47360
+23
+TMQ-7947
+01.01.1992 to 30.06.1992
+7580
+15660
+23240
+24
+MDH-3876
+01.01.1992 to 31.12.1994
+20535
+34055
+54590
+25
+TNE-9563
+01.01.1992 to 30.06 .1994
+22010
+42030
+64040
+
+
+6
+26 ·
+MDJ-4952
+01.07 .1992 to 31.03.1994
+11830
+23720
+35550
+27
+TN01-6273
+01.10.1992 to 31.12.1994
+7725
+11950
+19675
+28’
+TMN-0647
+01.04.1992 to 31.12.1994
+24970
+43250
+68220
+29
+TNG-9689
+01.04 .1992 to 31.12.1994
+24420
+44690
+69110
+30
+TCX-7549
+01.01.1993 to 30.06.1996
+24425
+34685
+59110
+Total
+47 1425
+935360
+1406785
+Oﬃ  ce of the Regional Transport Oﬃ  ce, Chennai (North-East), Chennai-81
+Details of old arrears in respect of Goods Carriages
+S.No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+TMT
+7218
+01.10.1991
+to
+30.06 .1993
+15680
+15680
+31360
+2
+TMY
+7863
+01.04.1996
+to
+31.12.1997
+16100
+16100
+32200
+3
+TMY
+8719
+01.10.1992
+to
+31.03.1995
+17240
+17240
+34480
+4
+KRF
+7191
+01.07 .1996
+to
+31.12.1997
+13800
+13800
+27600
+5
+MDE
+6173
+01.04.1993
+to
+30.06.1995
+15635
+15635
+31270
+6
+TMQ
+0354
+01.04.1993
+to
+30.09.1995
+17410
+17410
+34820
+7
+TDA
+3474
+01.01.1994
+to
+31.03.1995
+13990
+13990
+27980
+8
+TCW
+3222
+01.04.1994
+to
+31.03.1995
+11640
+11640
+23280
+9
+MDN
+8497
+01.04.1994
+to
+31.03.1995
+15880
+15880
+31760
+10
+TNR
+4206
+01.07 .1993
+to
+31.03.1995
+13880
+13880
+27760
+11
+TMW
+7998
+01.07 .1993
+to
+31.03.1995
+16120
+20600
+36720
+12
+TMY
+6762
+01.07.1993
+to
+31.03.1995
+12170
+12170
+24340
+13
+MDE
+3201
+01.07.1993
+to
+31.03.1994
+15770
+15770
+31540
+14
+MSW
+2790
+01.07.1993
+to
+31.03.1995
+13860
+13860
+27720
+15
+TMY
+1493
+01.07.1993
+to
+30.06.1995
+13470
+13470
+26940
+16
+TMR
+4338
+01.04.1993
+to
+30.06.1995
+20260
+20260
+40520
+17
+TMJ
+3157
+01.01.1994
+to
+30.06.1995
+24750
+33510
+58260
+18
+TMK
+0455
+01.01.1994
+to
+30.06.1996
+18850
+18850
+37700
+19
+TMC
+2383
+01.10.1991
+to
+30.06.1995
+19675
+19675
+39350
+20
+TMT
+1357
+01.01.1996
+to
+31.03.1997
+11750
+11750
+23500
+21
+TMI
+5643
+01.04.1991
+to
+31.12.1995
+14220
+14220
+28440
+                                                                             Total
+ 332150
+345390
+677540
+
+
+7
+Oﬃ  ce of the Regional Transport Oﬃ  ce, Chennai(North-East),  Chennai-81.
+Details of old arrears in respect of Goods Carriages
+S.No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+MDG
+0143
+01.10.1991
+to
+31.12.1992
+21750
+21750
+43500
+2
+MDL
+0871
+01.01.1996
+to
+31.03.1997
+11750
+11750
+23500
+3
+MSL
+1147
+01.07.1991
+to
+31.03.1994
+25500
+48970
+74470
+4
+MDG
+1167
+01.07.1991
+to
+31.03.1994
+18390
+18390
+36780
+5
+TN04
+1589
+01.09.1991
+to
+31.12.1993
+18115
+30875
+48990
+6
+MDA
+1764
+01.07 .1992
+to
+30.09.1994
+19930
+39860
+59790
+7
+TMF
+2023
+01.10.1991
+to
+31.12 .1994
+11105
+11105
+22210
+8
+MSV
+2292
+01.04.1991
+to
+31.03.1993
+14810
+14810
+29620
+9
+MSQ
+2360
+01.07.1992
+to
+30.06.1995
+20705
+20705
+41410
+10
+TMT
+2846
+01.04.1991
+to
+31.09.1993
+11720
+11720
+23440
+11
+TNJ
+2995
+01.04.1991
+to
+30.09 .1993
+21700
+43400
+65100
+12
+MDR
+4575
+01.10.1991
+to
+30.06.1994
+18675
+18675
+37350
+13
+TDW
+4969
+01.07.1992
+to
+30.06.1994
+17630
+17630
+35260
+14
+TNY
+4982
+01.01.1989
+to
+31.03.1992
+18630
+18630
+37260
+15
+TMT
+5347
+01.04.1991
+to
+30.09.1994
+11720
+11720
+23440
+16
+TMZ
+5867
+01.01.1992
+to
+30.06.1993
+13140
+26280
+39420
+17
+MDE
+6174
+01.10.1991
+to
+30.06.1994
+23145
+23145
+46290
+18
+MSV
+6216
+01.04.1991
+to
+31.03.1995
+26980
+26980
+53960
+19
+TMJ
+6599
+01.10.1991
+to
+31.03.1995
+11990
+11990
+23980
+20
+TNU
+6629
+01.04.1992
+to
+30.09.1993
+13140
+13140
+26280
+21
+MDS
+6787
+01.04.1992
+to
+30.09.1995
+24170
+24170
+48340
+                                                                             Total
+374695
+465695
+840390
+
+
+8
+Oﬃ  ce of the Regional Transport Oﬃ  ce, Chennai (South-West)-600092.
+S.No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+TNJ
+1499
+01.10.88
+to
+30.06.93
+35480
+70960
+106440
+2
+TMO
+1821
+01.07.90
+to
+31.03.92
+5440
+10880
+16320
+3
+TMG
+6542
+01.10.90
+to
+31.03.92
+4690
+9380
+14070
+4
+MDE
+8661
+01.10.91
+to
+30.09.91
+20450
+37520
+57970
+5
+TAH
+9027
+01.10.91
+to
+31.03.95
+31800
+51969
+83769
+6
+TMT
+5290
+01.01.91
+to
+31.03.95
+14240
+24095
+38335
+7
+TMU
+1019
+01.04.92
+to
+31.03.95
+10300
+16215
+26515
+8
+TSJ
+3510
+01.04.92
+to
+31.12.94
+17080
+34160
+51240
+9
+TN09
+5157
+01.04.92
+to
+31.12.94
+9415
+15330
+24745
+10
+MDA
+1026
+01.04.92
+to
+30.06.95
+8450
+16900
+25350
+11
+TDU
+8061
+01.04.92
+to
+31.03.95
+10300
+16215
+26515
+12
+TMD
+5029
+01.04.92
+·to
+31.03.95
+10300
+16215
+26515
+13
+TN09B
+2277
+01.04.92
+to
+31.03.95
+28520
+45300
+73820
+14
+KRP
+5721
+01.07.92
+to
+31.03.95
+9455
+14525
+23980
+15
+TNP
+4992
+01.07.92
+to
+31.12.92
+5070
+10140
+15210
+16
+TNI
+8654
+01.07.92
+to
+31.03.95
+9455
+14525
+23980
+17
+KLN
+8658
+01.10.92
+to
+31.03.95
+8610
+12835
+21445
+18
+TME
+186
+01.04.93
+to
+31.03.95
+10580
+14450
+25030
+19
+TDR
+1636
+01.07.93
+to
+31.03.95
+16120
+20600
+36720
+20
+TAG
+6661
+01.10.93
+to
+31.03.95
+8000
+9290
+17290
+21
+TNH
+9295
+01.10.93
+to
+31.12.94
+18947
+21137
+40084
+22
+TML
+1077
+01.01.94
+to
+31.03.95
+12640
+12640
+25280
+23
+TMT
+9564
+01.01.94
+to
+30.06.95
+10500
+12000
+22500
+24
+TSC
+2237
+01.04.94
+to
+31.03.95
+5420
+5420
+10840
+25
+TAF
+754
+01.07.94
+. to
+31.03.95
+4425
+4425
+8850
+26
+TSK
+3772
+01.07.94
+to
+31.03.95
+7650
+7650
+15300
+27
+TMX
+3089
+01.01.95
+to
+30.06.95
+3550
+3550
+7100
+28
+TCB
+2359
+01.04.95
+to
+30.06.95
+4700
+4700
+9400
+29
+TML
+7236
+01.04.95
+to
+30.06.95
+2550
+2550
+5100
+30
+TCB
+7236
+01.04.95
+to
+30.06.95
+2550
+2550
+5100
+31
+TML
+8966
+01.04.95
+to
+30.06.95
+2350
+2350
+4700
+32
+TCB
+6105
+01.07.95
+to
+30.09.95
+2350
+2350
+4700
+33
+TML
+6549
+01.10.95
+to
+31.12.95
+2350
+2350
+4700
+34
+TN21Z
+720
+01.01.96
+to
+30.09.96
+4065
+4065
+8130
+35
+TCB
+2281
+01.04.96
+to
+30.09.96
+4700
+4700
+9400
+36
+TCE
+9755
+01.04.96
+to
+31.12.96
+5400
+5400
+10800
+37
+TCB
+7165
+01.07.96
+to
+30.09.96
+2350
+2350
+4700
+38
+TML
+5997
+01.10.96
+to
+31.12.96
+2350
+2350
+4700
+39
+TN04A
+5067
+01.10.96
+to
+30.04.97
+5950
+5950
+11900
+40
+TN01J
+324
+01.01.97
+to
+31.03.97
+4250
+4250
+8500
+382802
+574241
+957043
+
+
+9
+Oﬃ  ce of the Regional Transport Oﬃ  cer (Chennai Central)
+ 
+ 
+ 
+ 
+Sl.
+No.
+Vehicle No
+Period
+Tax
+Rs.
+Penalty
+Rs.
+Total
+Rs.
+1 . 
+TMT
+1657
+01/10/1987
+to
+30/06/1988
+3900
+7800
+11700
+2. 
+TMZ
+1945
+01/10/1987
+to
+30/09/1989
+11000
+22000
+33000
+3. 
+TMF
+4559
+01/07/1991
+to
+30/09/1994
+12755
+24585
+37340
+4.
+TSE
+0501
+01/10/1992
+to
+30/06/1994
+17190
+28590
+45780
+5.
+TDF
+3363
+01/04/1992
+  to
+30/09/1994
+24620
+44140
+68760
+6:
+TN01A
+5196
+01/04/1992
+to
+30/09/1994
+24620
+44140
+68760
+7.
+TN01H
+2845
+14/04/1999
+to
+31/1211995
+5100
+5100
+10200
+8. 
+TMF
+9149
+01/07/1991
+to
+31/03/1992
+6620
+13240
+l9860
+9.
+TN01F
+1919
+01/07/1944
+to
+31/03/1995
+12750
+12750
+25500
+10.
+TN01C
+4574
+01/01 /1993
+to
+30/09/1993
+27500
+34820
+62320
+Total
+14055
+237165
+38220
+Oﬃ  ce of the Regional Transport Oﬃ  cer (Chennai Central)
+Sl.
+No.
+Vehicle No
+Period
+Tax
+Penalty
+Total
+1
+TN01H
+83
+01.10.1994
+to
+22.11.1995
+6775
+6775
+13550
+2
+MSM
+119
+01.04.1993
+to
+31.12.1994
+15660
+21900
+37560
+3
+TN09C
+169
+01.07.1995
+to
+31.12.1995
+4600
+4600
+9200
+4
+MSS
+491
+01.07.1987
+to
+30.06.1988
+6700
+13400
+20100
+5
+MDK
+676
+01.04.1987
+to
+30.06.1987
+1020
+2040
+3060
+6
+MSX
+691
+01.10.1991
+to
+30.09.1994
+20450
+35660
+56110
+7
+TMJ
+763
+01.07 .1987
+to
+30.06.1988
+6350
+12700
+19050
+8
+MDE
+1297
+01.01.1993
+to
+30.09.1994
+12000
+18755
+30755
+9
+TMT
+1801
+01.10.1987
+to
+30.09.1990
+17800
+35600
+53400
+10
+TSH
+2111
+01.04.1990
+to
+31.03.1993
+21000
+42000
+63000
+11
+TMO
+2118
+01.10.1997
+to
+30.06.1992
+14235
+28470
+42705
+12
+TNP
+2282
+01.04.1990
+to
+30.06.1992
+10020
+20040
+30060
+13
+MBD
+2295
+01.10.1991
+to
+30.09.1994
+26500
+45310
+71810
+14
+MDF
+2383
+01.04.1994
+to
+31.12.1995
+12425
+12425
+24850
+15
+TAF
+2439
+01.10.1995
+to
+30.06.1996
+5790
+5790
+11580
+
+
+10
+Sl.
+No.
+Vehicle No
+Period
+Tax
+Penalty
+Total
+16
+TN01J 
+TN01J
+2846
+2847
+01.04.1998
+to
+30.06.1998
+1095
+1095
+2190
+17
+MSM
+2930
+01.10.1991
+to
+30.09.1994
+27100
+54200
+81300
+18
+TMM
+3274
+01.07.1992
+to
+30.09.1994
+19930
+39860
+59790
+19
+TNOlC
+3490
+01.04.1995
+to
+30.09.1995
+1770
+1770
+3540
+20
+TSJ
+3763
+01.01.1999
+to
+31.03.1999
+2450
+2450
+4900
+21
+MSW
+3878
+01.01.1993
+to
+31.09 .1994
+12000
+20450
+32450
+Total Rs.
+245670
+425290
+670960
+Oﬃ  ce of the Regional Transport Oﬃ  cer (Chennai Central)
+Sl.
+No.
+Vehicle No
+Period
+Tax
+Penalty
+Total
+1
+TN01H
+3985
+01.04.1997
+to
+31.12.1997
+4065
+4065
+8130
+2
+MDN
+4036
+01.01.1987
+to
+30.09.1989
+13380
+26760
+40140
+3
+MOD
+4152
+01.10.1994
+to
+30.09.1995
+7100
+7100
+14200
+4
+TS E
+5288
+01.10.1993
+to
+31.12 .1996
+11425
+12850
+24275
+5
+TNC
+5358
+01.03.1989
+to
+31.12.1989
+1800
+3600
+5400
+6
+TMU
+5540
+01.04.1989
+to
+31.03.1990
+3000
+6000
+9000
+7
+TNH
+5629
+01.01.1994
+to
+31.12 .1996
+27490
+27490
+54980
+8
+M DT
+5632
+01.01.1991
+to
+31.12 .1994
+26695
+46355
+73050
+9
+TMG
+6668
+01.04.1996
+to
+31.12.1996
+10000
+10000
+20000
+10
+TN01
+6951
+01.04.1995
+to
+31.12.1997
+28050
+28050
+56100
+11
+TMV
+7346
+01.10.1987
+to
+31.03.1988
+2600
+5200
+7800
+12
+MDT
+7741
+01.10.1993
+to
+30.09.1994
+6930
+8620
+15550
+13
+TMW
+7767
+01.04.1989
+to
+30.09.1993
+14260
+28520
+42780
+14
+TN01
+7930
+01.01.1990
+to
+31.12.1994
+72680
+77360
+150040
+15
+TSE
+8096
+01.04.1988
+to
+31.12.1991
+30240
+54180
+84420
+16
+MSP
+8530
+01.01.1990
+to
+30.09.1993
+18370
+36740
+55110
+17
+MDY
+8753
+01.04.1998
+to
+30.06.1998
+2300
+2300
+4600
+18
+TN01A
+8839
+01.10.1990
+to
+31.12.1998
+885
+885
+1770
+19
+MDY
+9226
+01.07.1989
+to
+31.03.1991
+19720
+39440
+59160
+20
+TNF
+9450
+01.04.1994
+to
+30.06.1994
+32020
+32020
+64040
+21
+AHK
+9619
+01.04.1995
+to
+31.12.1995
+7500
+7500
+15000
+22
+TMG
+9684
+01.10.1996
+to
+31.03.1997
+2655
+2655
+5310
+23
+TCZ
+9753
+01.01. 1991
+to
+31.03.1993
+27420
+54840
+82260
+Grand Total
+370585
+522530
+893115
+
+
+11
+Oﬃ  ce of the Regional Transport Oﬃ  cer (Chennai Central)
+Sl.
+No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+TNH
+4242
+01.07.95
+to
+31.03.94
+15380
+27210
+42590
+2
+TN01A
+4469
+01.07.95
+to
+31.03.96
+7650
+7650
+15300
+3
+MDC
+4697
+01.01.93
+to
+30.09.94
+12000
+20450
+32450
+4
+TMN
+4725
+01.10.93
+to
+30.09.95
+19380
+31410
+50790
+5
+MDH
+5216
+01.10.89
+to
+31.03.90
+3200
+6400
+9600
+6
+MDS
+5426
+01.07.93
+to
+30.09.95
+15805
+19100
+34905
+7
+TSK
+5704
+01.10.88
+to
+31.03.94
+36840
+73680
+110520
+8
+TNH
+5788
+01.10.93
+to
+31.12.96
+31980
+36360
+68340
+9
+TMP
+5855
+01.07.93
+to
+30.09.96
+21820
+27200
+49020
+10
+MSV
+5998
+01.04.88
+to
+31.03.89
+6400
+12800
+19200
+11
+TSI
+6039
+01.04.95
+to
+31.12.97
+14905
+14905
+29810
+12
+TMU
+7440
+01.04.95
+to
+31.03.96
+10600
+10600
+21200
+13
+TMN
+7586
+01.04.91
+to
+30.09.94
+30880
+61760
+92640
+14
+TMJ
+7772
+01.04.93
+to
+30.09.94
+5310
+5310
+10620
+15
+TSL
+7898
+01.10.91
+to
+31.12.93
+16560
+33120
+49680
+16
+TMQ
+7992
+01.07.92
+to
+31.03.93
+4225
+8450
+12675
+17
+MSQ
+8085
+01.07.92
+to
+30.09.95
+29780
+45020
+74800
+18
+MDO
+8407
+01.04.91
+to
+30.09.94
+23430
+26270
+49700
+19
+MSV
+8513
+01.01.86
+to
+30.09.87
+12030
+24060
+36090
+20
+TMB
+8696
+01.07.88
+to
+31.03.91
+21420
+42840
+64260
+21
+TMV
+9072
+01.04.95
+to
+31.12.95
+2655
+2655
+5310
+22
+MSM
+9183
+01.07.91
+to
+30.09.93
+19180
+38360
+57540
+23
+TSH
+9529
+01.07.94
+to
+31.12.95
+8130
+8130
+16260
+Total
+369560
+583740
+953300
+
+
+12
+Oﬃ  ce of the Regional Transport Oﬃ  cer (Chennai Central)
+Sl.
+No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+MDE
+0005
+01.04.1994
+to
+22.11.1995
+12425
+12425
+24850
+2
+MDF
+1391
+01.04.1993
+to
+30.09.1994
+12000
+18760
+30760
+3
+TMD
+1550
+01.10.1987
+to
+31.03.1989
+4200
+8400
+12600
+4
+TMH
+1598
+01.07.1988
+to
+30.06.1989
+5600
+11200
+16800
+5
+MDB
+1653
+01.07.1988
+to
+30.09.1989
+2250
+4500
+6750
+6
+TDM
+2664
+01.04 .1997
+to
+30.09.1997
+1770
+1770
+3540
+7
+TMV
+2852
+01.04.1991
+to
+31.12.1993
+22430
+45410
+67840
+8
+TSH
+2876
+01.10.1989
+to
+30.09.1993
+27440
+54880
+82320
+9
+MDF
+2879
+01.10.1989
+to
+31.12.1989
+1300
+2600
+3900
+10
+MDF
+2990
+01.07.1992
+to
+31.12 .1994
+16955
+27495
+44450
+11
+TSB
+3137
+01.04.1993
+to
+30.09.1994
+13360
+20920
+34280
+12
+TNF
+3178
+01.10.1993
+to
+30.09.1994
+9180
+18360
+27540
+13
+TDF
+3485
+01.07.1995
+to
+30.09.1995
+885
+885
+1770
+14
+TDH
+3588
+01.07.1991
+to
+31.12.1996
+11065
+20360
+31425
+15
+TMF
+3566
+01.10.1989
+to
+31.12 .1989
+1990
+3980
+5970
+16
+TMF
+3917
+01.10.1993
+to
+30.09.1994
+3460
+5150
+8610
+17
+TSO
+3939
+01.07.1991
+to
+30.09.1994
+11720
+21670
+33390
+18
+TDX
+4037
+01.04.1997
+to
+30.09.1997
+1770
+1770
+3540
+19
+TMH
+4049
+01.01.1997
+to
+31.03.1998
+2655
+2655
+5310
+20
+TM F
+4361
+01.10.1995
+to
+31.12.1995
+885
+885
+1770
+Total
+163340
+284075
+447415
+Oﬃ  ce of the Regional Transport Oﬃ  cer (Chennai Central)
+Sl.
+No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+TMM
+0709
+01.04 .1991
+to
+11.04.1995
+37080
+60470
+97550
+2
+TSA
+4108
+01.01.1995
+to
+30.09.1995
+2655
+2655
+5310
+3
+TMH
+4221
+01.04.1996
+to
+30.06.1996
+885
+885
+1770
+4
+TMJ
+6415
+01.07.1997
+to
+30.09.1997
+885
+885
+1770
+5
+TMY
+7752
+01.04.1993
+to
+30.06.1995
+7805
+9495
+17300
+6
+MDC
+7818
+01.04.1989
+to
+30.09.1990
+8940
+17880
+26820
+
+
+13
+Sl.
+No.
+Vehicle No.
+Period
+Tax 
+Rs.
+Penalty
+Rs.
+Total
+Rs.
+1.
+TN01  R
+7263
+01 / 07/2005
+to
+30/ 09/200 5
+70000
+70000
+140000
+2 .
+TN 01 M
+7999
+01/ 10/ 200
+to
+31 / 03/ 2004
+108000  
+108000
+216000
+3.
+TN02 F
+7999
+01/ 10/ 2003
+to
+30/ 06/2004
+162000
+162000
+324000
+Total Rs .
+340000
+340000
+680000
+Sl.
+No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+7
+TDO
+8096
+01.10.1994
+to
+31.12.1995
+4425
+8850
+13275
+8
+TMV
+8298
+01.10.1988
+to
+31.03.1989
+2200
+4400
+6600
+9
+TSH
+9033
+01.10. 1991
+to
+30.06.1994
+9335
+11705
+21040
+10
+TN07
+9052
+01.04.1995
+to
+30.09 .1995
+1770
+1770
+3540
+Grand Total
+75980
+118995
+194975
+Oﬃ  ce of the Regional Transport Oﬃ  cer (Chennai Central)
+Sl.
+No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+TMF
+0788
+01-04-1989
+to
+30-06-1994
+18200
+6000
+24200
+2
+TMJ
+1274
+01-04-1991
+to
+31-03-1992
+4000
+1000
+5000
+3
+TSB
+1427
+01-04-1993
+to
+31-03-1994
+9000
+4200
+13200
+4
+TDF
+8688
+01-07-1993
+to
+30-06-1994
+6000
+300
+6300
+5
+TMF
+9351
+01-01-1992
+to
+30-09-1994
+18000
+2700
+20700
+6
+TMJ
+9655
+01-10-1992
+to
+30-06-1994
+6000
+4800
+10800
+7
+TMF
+0338
+01-01-1993
+to
+30-09-1994
+11100
+17100
+28200
+8
+TMB
+0878
+01-07-1990
+to
+30-09-1994
+18000
+6400
+24400
+9
+TMJ
+3951
+01-07-1989
+to
+31-03-1994
+15000
+9000
+24000
+10
+TMM
+5675
+01-04-1990
+to
+30-09-1993
+15000
+0
+15000
+11
+TMF
+6922
+01-07-1992
+to
+30-09-1994
+15000
+900
+15900
+12
+TMD
+6793
+01-07-1991
+to
+30-09-1994
+11000
+9700
+20700
+13
+TMJ
+9005
+01-04-1991
+to
+31-03-1994
+12000
+5000
+17000
+14
+TMI
+9646
+01-04-1990
+to
+30-06-1990
+1000
+1000
+2000
+Total Rs.
+159300
+68100
+227400
+Oﬃ  ce of the Regional Transport Oﬃ  cer (Chennai Central)
+
+
+14
+Oﬃ  ce of the Regional Transport Oﬃ  cer (Chennai South)
+SI.No.
+Vehicle No.
+Owner Name and Address
+Period  of Arrears
+Amount Due
+From
+To
+Tax
+Penalty
+Total
+(1)
+(2)
+(3)
+(4)
+(5)
+1
+TMT
+254
+T.Suresh, 14-Vasantha Press 
+Road, Adyar, Ch-20.
+01.01.1997
+31.03.1998
+4425
+4425
+8850
+2
+TMH
+257
+Pushpa, 254 1st Block V-
+Teynampet, Ch-18.
+01.01.1990
+31.12.1994
+55635
+31325
+86960
+3
+TMF
+309
+B.Syed Mohamed, East 
+Mada Street,
+Thiruuvanmiyur, Ch-41.
+01.07.1996
+31.12.1996
+1770
+1770
+3540
+4
+TNU 
+403
+Saraswathy, Thirowpathy 
+Amman Kail Street, Ch-42 
+01.10.1993
+31.03.1995
+10480
+12170
+22650
+5
+TN07E
+453
+M.Viswanathan, 
+S/o Munusamy,
+21-Varadhapuarm, Kottur, 
+Ch-85.
+01.04.1994
+31.12.1995
+9485
+9485
+18970
+6
+TN02E
+545
+A.Gurusamy , 2121 St.Mary’s 
+Road, Ch-18. 
+01.04.1998
+30.06.1998
+2550
+2550
+5100
+7
+TMZ
+551
+R.L.Elumalai, No-18
+Thiru.Vi.Ka Road,
+Chennai-14
+01.01.1991
+31.03.1994
+7850
+15700
+23550
+8
+TMQ
+597
+G.Hari, S/o Gopal,
+No.19 First Street, 
+Govindarajapuram, Adyar, 
+Ch-20.
+01.07.1997
+30.06.1998
+3540
+3540
+7080
+9
+TMM
+657
+Ms. Adyar  Plywoods  & 
+Lamination 15/1 LB Road,  
+Gandhi Nagar Adyar, Ch-20
+01.10.1992
+31.12.1995
+11265
+15490
+26755
+10
+ AP05 
+713
+Sri Ramadas Motor 
+Transport Ltd., Eldams Road, 
+Chennai-18
+01.01.1993
+30.09. 1993
+7320
+7320
+14640
+11
+TNX
+725
+S. Baskaran, 4/1 Mettu St, 
+Thiruvanmiyur , Ch-41.  
+01.04.1993
+30.12.1994
+6035
+9415
+15450
+12
+TMI
+954
+N. Ravi, Alwarpet  Street, 
+Teynampet, Ch-18
+01.04.1992
+31.12.1992
+8760
+17520
+26280
+13
+TN31
+1011
+R.Christoper, No. 12 Balaji 
+Colony 100 Feet Road,
+Velachery, Ch-42
+01.04.1996
+31.12.1996
+2655
+2655
+5310
+14
+ABJ
+1127
+Ms. Kasile Forms P Ltd., 
+7, Krishnaswamy Street 
+Abiramipuram, Ch-18
+01.07.1992
+31.03.1995
+26580
+42960
+69540
+15
+MDA
+1163
+Rajalakshmi, No.3 Elango 
+Salai, Chennai-18
+01.10.1992
+31.03.1995
+10480
+12170
+22650
+16
+TSD
+1266
+A.Peter, 27, Kamaraja Street, 
+Eldams Road, Ch-18
+01.04.1990
+30.09.1992
+19060
+38120
+57180
+
+
+15
+SI.No.
+Vehicle No.
+Owner Name and Address
+Period  of Arrears
+Amount Due
+From
+To
+Tax
+Penalty
+Total
+(1)
+(2)
+(3)
+(4)
+(5)
+17  
+TN07H
+1345
+Gangai Amman Transport, 
+13, SPQ Indira Nagar, 
+Shoping Complex, LB Road, 
+Adyar, Ch-20
+01.10.1997
+ 31.12.1997
+4300
+4300
+8600
+18
+TMS
+1359
+M.Lakshmipathy, 23 Valmiki 
+Street, Thiruvanmiyur,
+Ch-41
+01.10.1993
+30.06.1995
+17280
+19670
+36950
+19
+MDI
+1366
+P. Raje ndran. 163- 
+Kandasamy Nagar, 
+Thiruvanmiyur, Ch-41.
+01.10.1995
+31.12.1996
+6775
+6775
+13550
+20
+TMK
+1373
+A.Gopal Nayar & Sons 216, 
+TTK Road, Alwarpet, Ch-18
+01.04.1993
+30.09.1994
+5150
+7685
+12835
+21
+TMI
+1400
+S.Bakthavatchalam, L478, 
+1st Cross Street, TNHB 
+Colony, Ch-4 1.
+01.07.1997
+31.12.1997
+1770
+1770
+3540
+22
+ TSL 
+1454
+S.Subramanian, 24- 
+Poadavathar Street, 
+Chennai-18
+01.01.1997
+30.06.1997
+1770
+1770
+3540
+23
+TN31
+1639
+S.Chakaravarthy, 24- 
+Radhakrishna Nagar Main 
+Road, Thiruvanmiyur, Ch-41.
+01.07.1997
+30.06.1995
+38440
+61990
+100430
+24
+TN31Z
+1650
+K.Baskar, 9-Elango Salai, 
+Teynampet, Ch-18.
+01.07.1995
+31.12.1995
+1770
+1770
+3540
+25
+MDH  
+1711
+C.Velayuthan, 20-East 
+Mada Street, Velachery, 
+Chennai-42.
+01.04.1992
+31.03.1993
+5160
+10320
+15480
+26
+MDA
+1923
+V. Ramadoss, 25- 
+Alayamman Koil Street, 
+Ch-18
+01.07.1994
+31.03.1995
+5325
+5325
+10650
+27
+TMQ
+1926
+P.  Murugavel, 18- 
+Thiruvalluvar Salai, Ch-18
+01.01.1995
+30.09.1995
+7050
+7050
+14100
+28
+TMG
+1998
+K.Manoharan, 28-First 
+Street, Parameswari Nagar, 
+Adyar, Ch-20.
+01.10.1996
+27.01.1998
+5310
+5310
+10620
+29
+TSR
+2010
+G. Rajeswari, 26-Pillayar 
+Koil Street, Velachery, 
+Chennai-42.
+01.01.1994
+30.09.1994
+25450
+44110
+69560
+30
+TN14
+2062
+G.Vijayakumar  Rajesh, 108 
+TTK Road, Alwarpet, Ch-18.
+01.04.1991
+31.12.1993
+13910
+27820
+41730
+31
+TSJ
+2068
+M.Shanmugavel, 39 
+Ramalingam Koil st, Ch-18
+01.07.1991
+31.12.1993
+8355
+16710
+25065
+32
+TNI
+2095
+K.A. Appukuttan
+S/o. Madurai, 2/48 Karieem 
+Ngr, EVR Rd, Ch-41.
+01.04 .1994
+31.03.1995
+3540
+3540
+7080
+
+
+16
+SI.No.
+Vehicle No.
+Owner Name and Address
+Period  of Arrears
+Amount Due
+From
+To
+Tax
+Penalty
+Total
+(1)
+(2)
+(3)
+(4)
+(5)
+33
+MDM
+2102
+S.  Arumugasamy, 
+S/o Subbiah, 18-Alwarpet, 
+Chennai-18
+01.10.1992
+31.03.1995
+17240
+25690
+42930
+34
+TSB
+2119
+K.Ganapathy, No.1 /56 3rd St 
+Thiruvanmiyur, Ch-41
+01.10.1996 
+31.03.1997
+5310
+5310
+10620
+35
+TMX
+2180
+S.Rajendiran, No. 254 M 
+Block Sathiyamoorthy Ngr, 
+Teynampet, Ch-18.
+01.01.1992
+31.12.1993
+19680
+39360
+59040
+36
+MDA
+2271
+S.Munusamy, No.42 
+Seethamman Rd 
+Thiruvalluvar Salai, 
+Teynampet, Ch-18.
+01.10.1993
+31.03.1995
+10450
+12170
+22620
+37
+TMG
+2300
+K.Neela, w/o K.Kothandam, 
+105 LB Rd,  Adyar , Ch-20
+01.04.1995
+31.12.1996
+6195
+6195
+12390
+38
+RNG
+2312
+The Director, Fero 
+Contentrate  Construction 
+of I ndia Pvt., Ltd., 12 
+Mahalakshmi Mansion, 
+Gandhi Nagar, 1st Main Road, 
+Adyar, Ch-20.
+01.07.1993
+30.09.1995
+21720
+21720
+43440
+39
+TMY
+2327
+K.Kanakarathy, 
+S/o Kumaresan, No.14 3rd 
+Main Rd, Nehru Ngr, Ch-20.
+01.10.1993
+31.03.1995
+10480
+12170
+22650
+40
+TN29A
+2404
+M.Ponnusamy, No.10 
+Ranganathapuram,  5th St, 
+Ch-20
+01.04.1996
+31.12.1996
+4065
+4065
+8130
+41
+TMM
+2424
+A.Subramanian, 31- 
+Thiruvalluvar Street, No-1 
+Bharathi Street, Ch-18.    
+01.01.1998
+31.03.1998
+2300
+2300
+4600
+42
+TAK
+2626
+S.V.  Alagesan, 1-C 1st Main 
+Road, Sasthri Nagar, Adya r, 
+Chennai-20
+01.04.1997
+30.06.1998
+6775
+6775
+13550
+43
+TML
+2699
+K.Mohan, S/o Kaliyaperumal, 
+37 VOC Street, Ch-18
+01.04.1995
+30.09.1995
+5100
+5100
+10200
+44
+TND
+2760
+M.Jeevarathinam, 5/1 
+Arunachalapuram 1st Street, 
+Adyar, Ch-20.
+01.07.1997
+29.01.1998
+2655
+2655
+5310
+45
+TSJ
+2889
+R.Diwakar, Plot No.9, 
+Sudha Nagar, Velachery, 
+Chennai-42.
+01.07.1995
+ 31.12.1995
+1770
+1770
+3540
+46
+TNU
+2937
+P. Krishnaveni, W/o Palani, 
+251 Alwarpet, Ch-18.
+01.01.1992
+30.09.1994
+18760
+37520
+56280
+47
+TSD
+2943
+Dayalan, S/o Elumalai, 
+18-10th Cross Street, 
+Chennai-20
+01.10.1997
+31.12.1997
+1355
+1355
+2710
+
+
+17
+SI.No.
+Vehicle No.
+Owner Name and Address
+Period  of Arrears
+Amount Due
+From
+To
+Tax
+Penalty
+Total
+(1)
+(2)
+(3)
+(4)
+(5)
+48
+TMI
+3168
+C.Vijayan, 3-Valluvar Nagar, 
+Adyar, Ch-20
+01.10.1998
+31.12.1998
+885
+885
+1770
+49
+TN07A
+3220
+TNSCC LTD., 32 1st  Main 
+Road, Gandhi Nagar, Adyar, 
+Ch-20 
+01.07.1998
+30.09.1998
+885
+885
+1770
+50
+TSG
+3267
+Dhanasekaran, S/o. Devaraj, 
+59-Velankanni Church Road, 
+Ch-20
+01.10.1990
+ 31.03.1992
+4690
+9380
+14070
+51
+TN09A
+3290
+Shanthi Anantharaman, 84 
+Nathamuthu Naicken Street, 
+Ch-18.
+01.04.1992  
+31.03.1995
+26720
+46430
+73150
+52 
+TN07
+3301
+P. Murugesan , 
+S/o Pitchaimuthu , 1-Canal 
+Cross Road, Gandhi Nagar, 
+Adyar, Ch-20.
+01.04.1998 
+30.06.1998
+885
+885
+1770
+53 
+TSI
+3490
+A.Gurusamy, 
+S/o Arumugam , 
+18-Pillayar Koil Street 
+(West) , Chennai-18.
+01.04.1997  30.06.1997
+2550
+2550
+5100
+54
+MSQ 
+3547
+C.M. Ramachandran, 25, 
+Seethama Road, 
+V-Teynampet, Ch-18.
+01.10.1994  31.03.1995
+3550
+3550
+7100
+55
+TSB
+3618
+Dhandapani, S/o Kumar, 
+No.14, Alwarpet, Ch-18.
+01.01.1995
+30.06.1995
+1770
+1770
+3540
+56 
+KLZ
+3649
+Krishnav eni, W/o Ethiraj 
+No-9, Kannabiran Koil 
+Street, Velachery, Ch-42.
+01.10.1993
+31.03.1995
+13580
+15770
+29350
+57 
+TN09
+3790
+P. N. Jagadeeswaran, 4, 
+Austin Nagar, Cenatoph 
+Lane, Teynampet, Ch-18  
+01.10.1992  31.03.1995
+17240
+25690
+42930
+58
+TSC
+3848
+S. Srinivasan, 7/A-4, 
+Swastiga Damodarapuram, 
+Adyar, Ch-20.
+01.10.1998
+31.12.1998
+885
+885
+1770
+59
+MSS
+3856
+ R. Selvaraj, 
+S/o. Rangasamy, 40, 
+Arugammal Street, 
+Indira Nagar, Ch-18.
+01.10.1992
+31.12.1994
+15465
+23915
+39380
+60
+MDF
+3886
+M.Ali, 
+Kanikai Pillayar Street, 
+Thiruvanmiyur, Ch-41
+01.07.1997
+31.03.1998
+5325
+5325
+10650
+61 
+TMV
+3918
+ P.R. Muthu, 
+S/o. Periyathambi, 15 Bridge 
+Road, Adyar, Ch-20.
+01.01.1993
+30.09.1993
+2535
+5070
+7605
+
+
+18
+SI.No.
+Vehicle No.
+Owner Name and Address
+Period  of Arrears
+Amount Due
+From
+To
+Tax
+Penalty
+Total
+(1)
+(2)
+(3)
+(4)
+(5)
+62
+TNP
+4014
+R. Nagarajan, 
+6, 2nd Street, 
+Sriram Nagar, Adyar, Ch-20.
+01.04.1998  30.06.1998
+885
+885
+1770
+63
+MSS
+4137
+P. Kamaraj, No.1/115,
+East Coast Road, Ch-18. 
+01.04.1991
+30.06.1991
+1490
+2980
+4470
+64 
+TME
+4237
+S. Sambath Kumar,
+S/O. Sundarrajan No.23/2,
+25th Cross Street, Besant 
+Nagar, Ch-90
+01.07.1991  31.03.1992
+6520
+13040
+19560
+65
+TN07A
+4660
+V. Sathiyamurthi, 
+54, TVA Koil Street, 
+Thiruvanmiyur, Ch-41.
+01.04.1994
+31.12.1995
+6195
+6195
+12390
+66
+TSR
+4842
+B. Venkatachalapathy, 
+19-B, Sriram Nagar,
+Dr. Radhakrishnan Nagar, 
+Thiruvanmiyur, Ch-41
+01.07.1996
+31.12.1996
+4900
+4900
+9800
+67
+MDH 
+4939
+R. Ganesan, 
+84, Nattu Muthu Naicker 
+Street, Ch-18.
+01.10.1992   31.03.1995
+13860
+19775
+33635
+68
+TMO
+4991
+Lakshmi Cigaratte Store 84, 
+Besant Nagar, Ch-90.
+01.04.1992    30.09.1994
+13860
+23155
+37015
+69 
+TDU
+5094
+D. Elango, 83, Pamalaya, 
+Eswara Koil Street, Ch-18.
+01.07.1996  31.12.1996
+1770
+1770
+3540
+70
+TMK
+5162
+J. Mani, 
+15, Bridge Road, Adyar, 
+Ch-20.
+01.07.1994    31.12.1994
+1770
+1770
+3540
+71 
+TMC
+5164
+S. Thiyagarajan,
+8, Easwaran Koil Street,
+Adyar, Ch-20.
+01.04.1997
+31.12.1997
+4065
+4065
+8130
+72 
+TMY
+5316
+K.S.Abdul Sakoor, 
+S/o Shaikjadlud, 
+2-Sevagan Colony, 
+Thiruvanmiyur, Ch-41.
+01.01.1991
+31.03.1992
+7850
+15700
+23550
+73 
+TMO
+5389
+V.Saravanan, S/o Vadivelu, 
+64-Valmiki Nagar, 
+Thiruvanmiyur, Ch-41.
+01.01.1998
+31..03.1998
+885
+885
+1770
+74 
+TMO
+5423
+M.Soundara Pandian, 
+S/o Manickam, 
+H2/6 LIG Block LB Road,
+Thiruvanmiyur, Ch-41
+01.10.1990   31.03.1992
+4690
+9380
+14070
+75
+RPZ
+5510
+The Director, 
+Fero Contentrate 
+Construction of India Pvt., 
+Ltd., 12 Mahalakshmi 
+Mansion, Gandhi Nagar, 
+1st  Main Road, Adyar, 
+Ch-20
+01.07.1993    30.09.1995
+21720
+26400
+48120
+
+
+19
+SI.No.
+Vehicle No.
+Owner Name and Address
+Period  of Arrears
+Amount Due
+From
+To
+Tax
+Penalty
+Total
+(1)
+(2)
+(3)
+(4)
+(5)
+76
+TMO
+5626
+ J.Mathialagan, 
+S/o Jackraj, 
+66-C Alcot Kuppam Beach, 
+Besant Nagar, Ch-90
+01.01.1993
+30.09.1992
+2535
+5070
+7605
+77 
+TMO
+5630
+Hivelm, 
+135, LB  Road, 
+Thiruvanmiyur, Ch-41
+01.04.1993   31.12.1994
+6035
+8570
+14605
+78 
+TMO
+5726
+ Ms.Vikram Agencies, 29, 
+2nd Main Road, Adyar, 
+Ch-20.
+01.04.1994
+30.09.1994
+1770
+1770
+3540
+79
+TSR
+5778
+A. Iqbal,     S/o Abubakkar 
+116 CN Colony, 
+Indira Nagar, Adyar, Ch-20
+01.01.1998   31.03.1998
+885
+885
+1770
+80 
+TMO
+5815
+M.Nagulan, S/o Muniyan 
+No.12, Thiruveethiamman 
+Koil Street, Kalikundram, 
+Ch-113.
+01.10.1995  31.12.1996
+4425
+4425
+8850
+81 
+TSG
+6154
+K. Dhandapani, 
+S/o Kannan, 114-Alwarpet,
+Ch-18.
+01.01.1996
+31.12.1996
+3540
+3540
+7080
+82 
+TMK
+6431
+P.   Munusamy, 
+51- Malligaipoo Nagar, 
+Adyar, Ch-20
+01.01.1998  
+31.03.1998
+885
+885
+1770
+83
+MSY
+6599
+Vedamuthu, 
+5, Arunachala Puram, 
+Adyar, Ch-20
+01.07.1988   31.03.1991
+15060
+30120
+45180
+84
+MSL
+7122
+B.Bhuaneswar, 
+S/o Boopathy, 
+62-Periyar Road, Ch-41
+01.07.1993  
+30.09.1995
+12000
+14580
+26580
+85
+TME
+7164
+P.  Gajendra Naidu, 
+No. 6, Shastri Nagar, 
+Adyar, Ch-20.
+01.01.1994
+30.09.1995
+16340
+16340
+32680
+86
+TSG
+8078
+C. Meyyammai, 
+w/o Chindamani, 
+No.121/7 L B Road 
+Thiruvanmiyur, Ch-41.
+01.10.1994  
+31.12.1997
+11505
+11505
+23010
+87
+TMY  
+8086
+R.Karikalan, No.38, 
+Ramalingeshwarar Koil St, 
+Ch-18.
+01.01.1993   
+30.09.1995
+14580
+19740
+34320
+88
+TN37
+8097
+N.Chellappan, 
+No.128 3rd St, Sastri ngr,  
+Adyar, Ch-20.
+01.04.1997  
+31.12.1997
+2655
+2655
+5310
+
+
+20
+SI.No.
+Vehicle No.
+Owner Name and Address
+Period  of Arrears
+Amount Due
+From
+To
+Tax
+Penalty
+Total
+(1)
+(2)
+(3)
+(4)
+(5)
+89
+TDF 
+8177
+S.Vengatesan , 
+S/o Sriaman, 
+No.91, Mallipoo Ngr, 
+Adyar Ch-20
+01.10.1992  
+30.09.1996
+27890
+36340
+64230
+90
+MSC
+8179
+S.Susai, No.864, 
+Nathamuthu Naicker St, 
+Ch-18.
+01.07.1991   31.03.1995
+25490
+42190
+67680
+91
+TN01
+8199
+Mahindra D-60, Alwarpet 
+Street, Ch-18.
+01.01.1995  
+30.06.1995
+1770
+1770
+3540
+92
+TMG
+8300
+ MIS Marketing Co, 
+102, Dr. Ranga Road 
+Ch-18
+01.10.1994
+31.03.1995
+1770
+1770
+3540
+93
+TDT
+8316
+J.Rajasekaran, 
+12, Govindarajapuram, 
+18th St,  Adyar, Ch-20.
+01.04.1996   31.12.1997
+6195
+6195
+12390
+94
+TN01F
+8460
+N.Kuparaja, S/o Maria Naicker, 
+45, 4th Block, J.J.Nagar, 
+Ch-85.
+01.01.1998   
+31.03.1998
+2550
+2550
+5100
+95
+MSM
+8525
+S.Thandoramoorthy 
+S/o Shanmuganathan,
+3/203, East cross st, Ch-41
+01.07.1992
+30.06.1995
+26830
+39975
+66805
+96
+TMI
+8686
+ G.A.Ahmed Rajath, 
+S/o Hameed, 
+No.1 Nethaji Street, 
+Thanthai Periyar Nagar, 
+Ch-113.
+01.01.1993
+31.03.1997
+14845
+18245
+33090
+97
+MDS
+9091
+ P.Santhanam, 
+No.  9/1 Kamaraj Rd, 
+Teynampet, Ch-18.
+01.07.1997
+30.06.1997
+4700
+4700
+9400
+98
+TNO9 D
+9093
+T.C. Gopal, S/o. Saigaram, 36, 
+Naidu Street, 
+Kotturpuram, Ch-85
+01.10.1994
+31.12.1997
+11505
+11505
+23010
+99
+TNZ
+9138
+L. Gurusamy, 
+No.5, Arunachalapuram, 
+Adyar, Ch-20.
+01.07.1997
+31.12.1997
+1770
+1770
+3540
+100
+TMX
+9186
+M/S. Goyal Dresses, 
+109, Mount Road, Ch-18.
+01.04.1992
+31.03.1995
+10300
+16215
+26515
+101
+MDY
+9238
+T. Marimuthu, 
+M-80, First Cross Road, Banco 
+Building, Besant Nagar, Ch-90.
+01.01.1991
+31.03.1992
+7850
+15700
+23550
+896205
+1229585
+2125790
+
+
+21
+OFFICE OF THE REGIONAL TRANSPORT OFFICE, CHENNAI (WEST) - 78. 
+National Permit
+S.No.
+Vehicle No. 
+Period
+Tax
+Penalty
+Total
+1
+TSC
+588
+1990 to 1993
+32410
+64820
+97230
+2 
+TSJ 
+3879 
+1990 to 1993 
+30320 
+60640 
+90960 
+3 
+TCZ 
+5299 
+1991 to 1993 
+20020 
+40040 
+60060 
+4 
+TAO 
+9117 
+1991 to 1994 
+26950 
+51350 
+78300 
+5 
+TCZ 
+6499 
+1991 to 1995 
+36700 
+62600 
+99300 
+6 
+TCZ 
+7699 
+1992 to 1993. 
+12200 
+24400 
+36600 
+7 
+TDL 
+9748 
+1992 to 1995 
+35180 
+46160 
+81340 
+8 
+TN09C 
+1413 
+1993 to 1994 
+9780 
+14560 
+24340 
+9 
+TN09C 
+2616 
+1993 to 1995 
+22400 
+34600 
+57000 
+10 
+TSO 
+2822 
+1994 to 1995 
+5100 
+5100 
+10200 
+11 
+TN09E 
+3600 
+1994 to 1995 
+5100 
+5100 
+10200 
+Regional Transport Oﬃ  ce Chennai (South), Chennai-41
+RR ACT YEAR WISE DETAILS
+Sl.
+No.
+Vehicle No.
+Class of 
+Vehicle
+Period of Tax
+Tax
+Penalty
+Total
+(Rs.) 
+Police
+Report
+Thailsdar
+Report
+Where
+abouts to
+addressed 
+all RTO’s
+1
+TAU 
+9621 
+NP 
+01.07.1994 
+30.09.1995 
+11750 
+11750 
+23,500
+En-
+closed 
+En-
+closed 
+En-
+closed
+2
+TN07E 
+725 
+NP 
+01.04.1996 
+30.06.1997 
+12750 
+12750 
+25,500
+En-
+closed 
+En-
+closed 
+En-
+closed
+3
+TSR 
+4123 
+NP 
+01.01.1991 
+31.03.1992 
+12,200 
+24400 
+36600 
+En-
+closed 
+En-
+closed 
+En-
+closed
+4
+TN07 
+228 
+NP 
+01.07.1994 
+30.09.1994 
+2400 
+2400 
+4800 
+En-
+cosed 
+En-
+closed
+En-
+closed
+5
+TSR 
+1616 
+NP 
+01.04.1989 
+31.03.1992 
+292.80 
+58560 
+87840 
+En-
+closed 
+En-
+closed
+En-
+closed
+6
+TCV 
+910 
+NP 
+01.04.1993 
+31.12.1995 
+50160 
+58120 
+118280 
+En-
+closed 
+En-
+closed
+En-
+closed
+7
+ TMG 
+4547 
+NP 
+06.02.2133 
+03.07.2231 
+85140 
+121080 
+206220 
+En-
+closed 
+En-
+closed
+En-
+closed
+8
+ TMG 
+9159 
+NP 
+01.10.1991 
+31.03.1995 
+32500 
+55400 
+87900 
+En-
+closed 
+En-
+closed
+En-
+closed
+246180 
+344460 
+590640 
+
+
+22
+S.No.
+Vehicle No. 
+Period
+Tax
+Penalty
+Total
+12 
+TN07 
+4365 
+1994 to 1995 
+10200 
+10200 
+20400 
+13 
+TML 
+5890 
+1994 to 1995 
+7650 
+7650 
+15300 
+14 
+TN01B 
+6300 
+1994 to 1995 
+12640 
+15080 
+27720 
+15 
+TN07B 
+1611 
+1996 to 1997 
+7650 
+7650 
+15300 
+Total 
+274300 
+449950 
+724250 
+REGIONAL TRANSPORT OFFICE, CHENNAI (WEST), CHENNAI - 78. 
+MAXICAB PERMIT
+S.No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+TME
+264
+1.1.95 to 28.2.95
+17100
+17100
+34200
+2
+TCW
+337
+1.1.94 to 30.6.95
+10500
+10500
+21000
+3
+TMH
+626
+1.1.95 to 30.6.95
+3600
+3600
+7200
+4
+TN04
+1144
+1.7.96 to 30.6.97
+7200
+7200
+14400
+5
+TMB
+2336
+1.10.91 to 30.6.95
+24000
+24000
+48000
+6
+TCS
+2929
+1.7.93 to 30.6.95
+13500
+13500
+27000
+7
+TMA
+3015
+1.10.91 to 30.6.94
+16800
+16800
+33600
+8
+TN09B
+3873
+13.05 to 31.3.05
+6000
+6000
+12000
+9
+TCW
+4 181
+1.7.91 to 30.6.96
+32200
+32200
+64400
+10
+TCW
+4246
+1.10.91 to 30.6.95
+24000
+24000
+48000
+11
+TN09U
+5460
+1.10.05 to 31.12.05
+6000
+6000
+12000
+12
+TMK
+5756
+1.1.95 to 30.6.96
+7200
+7200
+14400
+13
+TMI
+5875
+1.1.94 to 30.6.95
+10500
+10500
+21000
+14
+TMK
+6055
+1.1.92 to 31.3.93
+7500
+7500
+15000
+15
+TDZ
+6224
+1.1.96 to 30.6.96
+7200
+7200
+14400
+16
+TMG
+6662
+1.1.92 to 30.6.92
+4500
+4500
+9000
+17
+TMK
+6665
+1.1.95 to 30.6.97
+9000
+9000
+18000
+18
+TCZ
+6692
+1.1.97 to 31 3 97
+1800
+1800
+3600
+19
+TMI
+6773
+1.1.95 to 30.6.98
+7200
+7200
+14400
+20
+TMI
+6894
+1.10.89 to 30.6.91
+7000
+7000
+14000
+
+
+23
+S.No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+21
+TMI
+6913
+1.10.90 to 31.12.93
+17500
+17500
+35000
+22
+TMA
+6930
+1.7 93 to 30.6.94
+6300
+6300
+12600
+23
+TCZ
+7074
+1.1.91 to 306.95
+27000
+27000
+54000
+24
+TMI
+7349
+1.10.95 to 31.12.95
+1800
+1800
+3600
+25
+TME
+7529
+1.10.89 to 30.6.90
+5000
+5000
+10000
+26
+TSA
+7569
+1.4.92 to 30.6.95
+21000
+21000
+42000
+27
+TMA
+7866
+1.1.5 to 30.6.99
+7200
+7200
+14400
+28
+TMM
+8002
+1.10.89  to 30.6.92
+15500
+15500
+31000
+29
+TMM
+8739
+1.10.93 to 30.6.95
+12000
+12000
+24000
+30
+TMK
+8794
+1.4.91 to 31.3.94
+17000
+17000
+34000
+31
+TMJ
+8835
+1.1.95 to 30.6.2000
+3600
+3600
+7200
+32
+TMK
+9072
+1.1.92 to 30.6.93
+9000
+9000
+18000
+33
+TNK
+9151
+1.10 to 97 to 31.3.97
+5400
+5400
+10800
+34
+TCX
+9397
+1.10.96 to 31.12.96
+1800
+1800
+3600
+35
+TMG
+9547
+1.10.89 to 30.9.89
+1750
+1750
+3500
+Total
+374650
+374650
+749300
+OFFICE OF THE REGIONAL TRANSPORT OFFICE, CHENNAI (WEST), CHENNAI - 78. 
+GOODS VEHICLE
+Sl. No.
+File Year
+Regn. No.
+Tax
+Penalty
+Total
+1
+1989- 1990
+TSJ 0871
+7915
+15830
+23745
+2
+1989-1990
+MSS 0951
+16770
+33540
+50310
+3
+1989-1990
+TSJ 1356
+38560
+77120
+115680
+4
+1989-1990
+TMA 1827
+30910
+61820
+92730
+5
+1989-1990
+TMI 2131
+15470
+28325
+43795
+6
+1990 - 1991
+TN210056
+43640
+77390
+121030
+7
+1990 - 1991
+TSK 0549
+25090
+50180
+75270
+8
+1990 - 1991
+TSO 0619
+13200
+24590
+37790
+
+
+24
+Sl. No.
+File Year
+Regn. No.
+Tax
+Penalty
+Total
+9
+1990 - 1991
+TSF 0910
+17600
+35200
+52800
+10
+1990 - 1991
+TMG0976
+16575
+33150
+49725
+11
+1990 - 1991
+TDE 1351
+11780
+16215
+27995
+12
+1990 - 1991
+TNI 1472
+16215
+28045
+44260
+13
+1990 - 1991
+TMR1962
+14605
+25710
+40315
+14
+1990 - 1991
+TS02025
+22080
+44160
+66240
+15
+1990 - 1991
+TMJ 2039
+11740
+23480
+35220
+16
+1990 - 1991
+TSO 2685
+13085
+24440
+37525
+17
+1990 - 1991
+MSM 3126
+15900
+31800
+47700
+18
+1990 - 1991
+ADC 3447
+43000
+74360
+117360
+19
+1990 - 1991
+MSV3957
+27425
+51385
+78810
+20
+1990 - 1991
+TMK 4293
+11440
+22880
+34320
+21
+1990 - 1991
+TDU4359
+8725
+8725
+17450
+22
+1990 - 1991
+TSR 4975
+11585
+21440
+33025
+23
+1990 - 1991
+TSI 5698
+21920
+42150
+64070
+24
+1990 - 1991
+TMT 7746
+8915
+17830
+26745
+25
+1990 - 1991
+TSJ9555
+12470
+23995
+36465
+26
+1990 - 1991
+TSJ 9729
+11070
+21295
+32365
+27
+1991-1992
+TMI0120
+8260
+16520
+24780
+28
+1991-1992
+TMR 439
+27370
+37110
+64480
+29
+1991-1992
+TSD0719
+13600
+23475
+37075
+30
+1991-1992
+TSO 0964
+8490
+15250
+23740
+31
+1991-1992
+TSA 1360
+11145
+11185
+22330
+32
+1991-1992
+TN09A 1692
+34600
+46800
+81400
+33
+1991-1992
+TSI 2595
+11720
+20825
+32545
+34
+1991-1992
+TCH2956
+11990
+19595
+31585
+35
+1991-1992
+MDO 3597
+4670
+9340
+14010
+36
+1991-1992
+TMA3669
+27980
+51470
+79450
+37
+1991-1992
+TSK3767
+18370
+34400
+52770
+
+
+25
+Sl. No.
+File Year
+Regn. No.
+Tax
+Penalty
+Total
+38
+1991-1992
+MDA 3902
+24000
+39210
+63210
+39
+1991-1992
+MDT4403
+22225
+37435
+59660
+40
+1991-1992
+TNK4434
+8260
+16520
+24780
+41
+1991-1992
+MDN 4566
+8250
+16500
+24750
+42
+1991-1992
+MSZ6953
+24000
+39210
+63210
+43
+1991-1992
+TSJ7574
+8450
+16055
+24505
+44
+1991-1992
+TNW7657
+32500
+53110
+85610
+45
+1991-1992
+TCW8006
+13680
+25500
+39180
+46
+1991-1992
+TSJ8314
+11585
+21440
+33025
+47
+1991-1992
+TDH8352
+23190
+40650
+63840
+48
+1991-1992
+TMX8754
+12740
+12740
+25480
+49
+1991-1992
+TN09 9277
+25478
+34040
+59518
+50
+1992-1993
+TDF 0106
+20620
+20450
+41070
+51
+1992-1993
+TMH0144
+10300
+16215
+26515
+52
+1992-1993
+KRC 0221
+15550
+16800
+32350
+53
+1992-1993
+TMZ 0477
+11200
+11200
+22400
+54
+1992-1993
+TMR 1265
+13520
+23660
+37180
+55
+1992-1993
+TN09 1305
+11740
+19400
+31140
+56
+1992-1993
+TNI 1499
+5070
+5070
+10140
+57
+1992-1993
+MDF 1614
+11990
+18760
+30750
+58
+1992-1993
+TN09 1737
+11740
+19480
+31220
+59
+1992-1993
+TNZ 1959
+4480
+8960
+13440
+60
+1992-1993
+MDK 1980
+16230
+39860
+56090
+61
+1992-1993
+TCH 2346
+27320
+43000
+70320
+62
+1992-1993
+TDQ 2469
+19930
+29070
+49000
+63
+1992-1993
+TNO 9C2547
+26180
+40220
+66400
+64
+1992-1993
+MDF2700
+22395
+34225
+56620
+65
+1992-1993
+TCW3006
+20965
+33865
+54830
+66
+1992-1993
+TDS 3879
+27320
+43000
+70320
+67
+1992-1993
+TN45 3967
+17905
+11145
+29050
+68
+1992-1993
+TDC4344
+17905
+11145
+29050
+69
+1992- 1993
+TSK 4354
+24640
+35590
+60230
+70
+1992-1993
+TMG4498
+22340
+33290
+55630
+
+
+26
+Sl. No.
+File Year
+Regn. No.
+Tax
+Penalty
+Total
+71
+1992-1993
+TNH5796
+4380
+8760
+13140
+72
+1992-1993
+TMG 7855
+21465
+21465
+42930
+73
+1992-1993
+TMG 8694
+19240
+55860
+75100
+74
+1992-1993
+TMO 9059
+24500
+39890
+64390
+75
+1992-1993
+TNW 9240
+845
+1690
+2535
+76
+(1993-1994)
+MDB0864
+1690
+1690
+3380
+77
+(1993-1994)
+TN21Z1096
+9560
+9560
+19120
+78
+(1993-1994)
+MSM 1263
+15730
+18150
+33880
+79
+(1993- 1994)
+TN09C1324
+6075
+7760
+13835
+80
+(1993-1994)
+TN09D1789
+17520
+17080
+34600
+81
+(1993-1994)
+MDQ2182
+11480
+12170
+23650
+82
+(1993-1994)
+AEE2745
+11640
+11640
+23280
+83
+(1993- 1994)
+TCB2875
+19960
+27280
+47240
+84
+(1993-1994)
+TMC3767
+12890
+12890
+25780
+85
+(1993-1994)
+AAC 3982
+13880
+16120
+30000
+86
+(1993-1994)
+TN01A 4069
+8000
+9290
+17290
+87
+(1993-1994)
+TN09A4219
+13880
+16120
+30000
+88
+(1993-1994)
+TMI 4329
+4425
+4425
+8850
+89
+(1993-1994)
+TN09Z4389
+6195
+6195
+12390
+90
+(1993-1994)
+MDT4664
+845
+1690
+2535
+91
+(1993-1994)
+MDT7824
+15805
+17495
+33300
+92
+(1993-1994)
+TMI 7996
+6920
+6920
+13840
+93
+(1993-1994)
+TAR 8074
+6920
+6920
+13840
+94
+(1993-1994)
+TNE 8250
+11390
+11390
+22780
+95
+(1993-1994)
+TCH 8373
+33860
+45560
+79420
+96
+(1993-1994)
+TSI 9027
+6075
+7765
+13840
+97
+1994-1995
+RJ06G0275
+19600
+19600
+39200
+98
+1994-1995
+TN01E 0509
+10200
+10200
+20400
+99
+1994-1995
+TSA 0804
+2655
+2655
+5310
+100
+1994-1995
+TN32Y 0876
+2655
+2655
+5310
+101
+1994-1995
+TN27A 0905
+2655
+2655
+5310
+102
+1994-1995
+CAK1085
+30720
+30720
+61440
+103
+1994-1995
+TDJ 1121
+2655
+2655
+5310
+
+
+27
+Sl. No.
+File Year
+Regn. No.
+Tax
+Penalty
+Total
+104
+1994-1995
+TMQ1170
+2655
+2655
+5310
+105
+1994-1995
+TMJ1281
+6195
+6195
+12390
+106
+1994-1995
+MDL1465
+7050
+7050
+14100
+107
+1994-1995
+TAI 1469
+18800
+18800
+37600
+108
+1994-1995
+TSD2611
+2655
+2655
+5310
+109
+1994-1995
+AP13T2642
+3550
+3550
+7100
+110
+1994-1995
+MDB 2844
+7100
+7100
+14200
+111
+1994-1995
+TN09C 3009
+10200
+10200
+20400
+112
+1994-1995
+TMN 3027
+6900
+6900
+13800
+113
+1994-1995
+TDJ 3141
+3540
+3540
+7080
+114
+1994-1995
+TNY3360
+2710
+2710
+5420
+115
+1994-1995
+TCW3788
+885
+885
+1770
+116
+1994-1995
+TCK3929
+5420
+5420
+10840
+117
+1994-1995
+TSB 3966
+885
+885
+1770
+118
+1994-1995
+TMS4076
+4425
+4425
+8850
+119
+1994-1995
+TMT4176
+1775
+1775
+3550
+120
+1994-1995
+TME4426
+885
+885
+1770
+121
+1994-1995
+TN45Z4569
+12700
+12700
+25400
+122
+1994-1995
+TNU 4733
+11390
+11390
+22780
+123
+1994-1995
+TNG5249
+4700
+4700
+9400
+124
+1994-1995
+TN09A 7654
+12125
+12125
+24250
+125
+1994-1995
+TMN 7864
+6270
+6270
+12540
+126
+1994-1995
+TDU 7876
+7650
+7650
+15300
+127
+1994-1995
+TNK8187
+2655
+2655
+5310
+128
+1994-1995
+TAX8789
+2750
+2750
+5500
+129
+1994-1995
+TMQ9206
+4700
+4700
+9400
+130
+1994-1995
+TMR9439
+3540
+3540
+7080
+131
+1994-1995
+MDE9558
+11500
+11500
+23000
+132
+1994-1995
+TMG 9609
+3540
+3540
+7080
+133
+1995-1996
+ABV 0888
+7350
+7350
+14700
+134
+1995-1996
+PYT1225
+2190
+2190
+4380
+135
+1995-1996
+TSO 1737
+885
+885
+1770
+136
+1995-1996
+TML 2344
+7650
+7650
+15300
+
+
+28
+Sl. No.
+File Year
+Regn. No.
+Tax
+Penalty
+Total
+137
+1995-1996
+TDV3141
+1355
+1355
+2710
+138
+1995-1996
+TMT 3254
+1775
+1775
+3550
+139
+1995-1996
+TSG3357 .
+5420
+5420
+10840
+140
+1995-1996
+TML 4149
+4700
+4700
+9400
+141
+1995-1996
+MDR4192
+1775
+1775
+3550
+142
+1995-1996
+TDM 4303
+885
+885
+1770
+143
+1995-1996
+TMI 4678
+2350
+2350
+4700
+144
+1995-1996
+TNH4716
+2300
+2300
+4600
+145
+1995-1996
+MMY 4965
+4800
+4800
+9600
+146
+1995-1996
+TCB7405
+7050
+7050
+14100
+147
+1995-1996
+MSX7683
+885
+885
+1770
+148
+1995-1996
+MSV8145
+2300
+2300
+4600
+149
+1995-1996
+TMR8298
+2065
+2065
+4130
+150
+1995-1996
+TNH8537
+1770
+1770
+3540
+151
+1995-1996
+TML 8874
+7650
+7650
+15300
+152
+1995-1996
+TN09E8914
+2550
+2550
+5100
+153
+1995-1996
+TMQ9186
+1770
+1770
+3540
+154
+1995-1996
+TNG 9293
+885
+885
+1770
+155
+1995-1996
+TSJ9822
+10200
+10200
+20400
+156
+1995-1996
+TMT 9924
+2450
+2450
+4900
+157
+1996-1997
+TN57N 0034
+7050
+7050
+14100
+158
+1996-1997
+TMR 0525
+6900
+6900
+13800
+159
+1996-1997
+MDB0935
+5325
+5325
+10650
+160
+1996-1997
+TMD1365
+2655
+5320
+7975
+161
+1996-1997
+TN09A 2189
+5000
+5000
+10000
+162
+1996-1997
+MSY2545
+3550
+7100
+10650
+163
+1996-1997
+TN09H2633
+4900
+9800
+14700
+164
+1996-1997
+TN09F3001
+2550
+2550
+5100
+165
+1996-1997
+MDR3017
+1775
+3550
+5325
+166
+1996-1997
+MDY3556
+4065
+8130
+12195
+167
+1996-1997
+TMQ3654
+2300
+2300
+4600
+168
+1996-1997
+TNl3780
+2655
+5320
+7975
+169
+1996-1997
+TNN4376
+4700
+4700
+9400
+
+
+29
+Sl. No.
+File Year
+Regn. No.
+Tax
+Penalty
+Total
+170
+1996-1997
+TN554620
+2710
+2710
+5420
+171
+1996-1997
+TMY4685
+4600
+9200
+13800
+172
+1996-1997
+TN09F4909
+5100
+5100
+10200
+173
+1996-1997
+TAM4933
+2710
+5420
+8130
+174
+1996-1997
+TM05016
+1770
+1770
+3540
+175
+1996-1997
+MDT5112
+2367
+2367
+4734
+176
+1996-1997
+MDF5389
+2300
+2300
+4600
+177
+1996-1997
+MDA5529
+4600
+4600
+9200
+178
+1996-1997
+TMS5751
+6900
+6900
+13800
+179
+1996-1997
+TSl5932
+2655
+2655
+5310
+180
+1996-1997
+TMT5933
+2655
+2655
+5310
+181
+1996-1997
+TMR6194
+2655
+2655
+5310
+182
+1996-1997
+TMT6552
+885
+885
+1770
+183
+1996-1997
+MDN6884
+2710
+2710
+5420
+184
+1996-1997
+TCH7555
+1770
+1770
+3540
+185
+1996-1997
+TMS7579
+2655
+2655
+5310
+186
+1996-1997
+TMT7623
+1180
+1180
+2360
+187
+1996-1997
+TN09Z7657
+1355
+1355
+2710
+188
+1996-1997
+TN097988
+1770
+1770
+3540
+189
+1996-1997
+TCB8177
+4700
+4700
+9400
+190
+1996-1997
+MDY8333
+9800
+9800
+19600
+191
+1996-1997
+TSE9108
+1770
+1770
+3540
+192
+1997-1998
+TNH0059
+2350
+2350
+4700
+193
+1997-1998
+TNS1634
+2350
+2350
+4700
+194
+1997-1998
+TMA2169
+2400
+2400
+4800
+195
+1997-1998
+MSM2379
+1775
+1775
+3550
+196
+1997-1998
+TNM2626
+1930
+1930
+3860
+197
+1997-1998
+TN09E2626
+885
+885
+1770
+198
+1997-1998
+TNOlE2763
+885
+885
+1770
+199
+1997-1998
+TN073312
+885
+885
+1770
+200
+1997-1998
+TAO3339
+885
+885
+1770
+201
+1997-1998
+TN09A3659
+885
+885
+1770
+202
+1997-1998
+TSE3838
+885
+885
+1770
+
+
+30
+Sl. No.
+File Year
+Regn. No.
+Tax
+Penalty
+Total
+203
+1997-1998
+APC3846
+1775
+1775
+3550
+204
+1997-1998
+TMV4015
+1355
+1355
+2710
+205
+1997-1998
+MDR4303
+1775
+1775
+3550
+206
+1997-1998
+TNP5659
+885
+885
+1770
+207
+1997-1998
+MDN6208
+1775
+1775
+3550
+208
+1997-1998
+TNK6480
+885
+885
+1770
+209
+1997-1998
+TMV8289
+885
+885
+3550
+210
+1997-1998
+TMV9250
+1775
+1775
+1770
+211
+1997-1998
+TMJ9675
+885
+885
+4600
+212
+1999-2000
+KL1293
+2300
+2300
+2710
+213
+1999-2000
+MDH5325
+1355
+1355
+1770
+214
+1999-2000
+TM5730
+885
+885
+2710
+215
+1999-2000
+MDA6024
+1355
+1355
+2710
+216
+1999-2000
+TNR6435
+1355
+1355
+1770
+217
+1999-2000
+TDX7632
+885
+885
+4700
+218
+1999-2000
+TML8598
+2350
+2350
+1770
+219
+1999-2000
+TMF9360
+885
+885
+1770
+Total
+2030570
+3029867
+5060437
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI (NORTH WEST)-102.
+Sl.No.
+Vehicle No.
+Period
+Tax
+Penalty
+ Total
+1
+TNH
+122
+01.10.1990 to 30.09.1994
+1490
+22530
+24020
+2
+MDH
+1734
+01.04.1991 to 31.12.1991
+885
+2440
+3325
+3
+TSD
+2025
+01.01.1995 to 30.09.1995
+2550
+5100
+7650
+4
+TMR
+2377
+01.04.1991 to 30.09.1994
+1690
+22140
+23830
+5
+TMU
+2458
+01.04.1992 to 30.09.1994
+2080
+4730
+6810
+6
+TMO
+2646
+01.07.1993 to 30.06.1994
+2155
+4310
+6465
+7
+MDB
+2855
+01.04.1993 to  30.09.1994
+1690
+8450
+10140
+8
+TMB
+3328
+01.04.1991 to 30.09.1991
+885
+1770
+2655
+9
+TSA
+3454
+01.10.1992 to 30.09.1994
+845
+5995
+6840
+10
+MDJ
+3746
+01.04.1993 to 30.09.1994
+1290
+6580
+7870
+11
+MSQ
+3853
+01.07.1992 to 30.09.1994
+845
+6840
+7685
+
+
+31
+Sl.No.
+Vehicle No.
+Period
+Tax
+Penalty
+ Total
+12
+TMG
+3860
+01.01.1997 to 30.09.1997
+2450
+4900
+7350
+13
+TMZ
+3960
+01.07.1993 to 30.09.1994
+2190
+8980
+11170
+14
+MDR
+4002
+01.07.1996 to 31.03.1997
+1775
+3550
+5325
+15
+MSY
+4266
+01.01.1993 to 31.03.1993
+1690
+1690
+3380
+16
+TMO
+4434
+01.07.1992 to 30.09.1994
+2240
+18040
+20280
+17
+KAO4D
+4512
+01.01.1995 to 30.09.1995
+2550
+5100
+7650
+18
+TN02
+4989
+01.07.1997 to 30.09.1997
+2450
+2450
+4900
+19
+TNW
+5134
+01.07.1992 to 30.09.1994
+845
+6840
+7685
+20
+MSP
+6422
+01.04.1993 to 30.09.1994
+1290
+6590
+7880
+21
+MSW
+6429
+01.01.1991 to  30.09.1994
+845
+11910
+12755
+22
+TMO
+6474
+01.04.1993 to 31.03.1996
+885
+13690
+14575
+23
+MDE
+6631
+01.07.1992 to 30.09.1994
+2190
+17740
+19930
+24
+ TDS
+6723
+01.10.1992 to 30.06.1993
+1840
+13680
+15520
+25
+TMT
+6759
+01.07.1993 to 30.09.1994
+2240
+9180
+11420
+26
+MDY
+7088
+01.07.1996 to 31.12.1997
+845
+8875
+9720
+27
+MSQ
+7518
+01.07.1992 to  31.12.1993
+1890
+5160
+7050
+28
+TSA
+7685
+01.07.1992 to 30.09.1994
+2340
+18940
+21280
+29
+ TDR
+7882
+01.07.1992 to  30.09.1994
+1840
+14900
+16740
+30
+TMZ
+7896
+01.01.1991 to 30.06.1991
+1690
+1690
+3380
+31
+MSL
+7976
+01.07.1992 to 31.03.1994
+1690
+10140
+11830
+32
+TMV
+8022
+01.04.1993 to 30.09.1994
+2240
+13660
+15900
+33
+TMF
+8529
+01.10.1992 to 31.03.1995
+2340
+21500
+23840
+34
+TMM
+9441
+01.10.1992 to 30.09.1994
+1290
+9160
+10450
+35
+MDU
+5319
+01.01.1993 to 30.09.1994
+1690
+10310
+12000
+36
+ TDM
+59
+01.04.1992 to 31.03.1995
+2240
+25080
+27320
+ Total
+61980
+354640
+416620
+
+
+32
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI (NORTH WEST)-102.
+Sl.No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+TNZ
+2788
+01.07.1991 to 30.06.1992
+3450
+10350
+13800
+2
+TN09A
+8155
+01.07.1995  to 31.03.1997
+3450
+10350
+13800
+3
+TSL
+7497
+01.10.1992 to 30.09.1994
+845
+5995
+6840
+4
+TMJ
+966
+01.10.1993 to 30.09.1994
+845
+1690
+2535
+5
+TNM
+6932
+01.04.1995 to 31.03.1996
+885
+2655
+3540
+6
+TN01E
+1411
+01.01.1995 to 30.09.1995
+885
+1770
+2655
+7
+TNM
+2542
+01.10.1991 to 31.12.1994
+845
+14105
+14950
+8
+TNU
+6081
+01.10.1991 to 30.09.1994
+2190
+6790
+8980
+9
+MDA
+5164
+01.04.1996 to 30.09.1997
+1690
+10310
+12000
+10
+BPS
+8159
+01.04.1995 to 31.03.1996
+2550
+7650
+10200
+11
+TMI
+4757
+01.04.1995 to 30.09.1995
+885
+1770
+2655
+12
+TMM
+8063
+01.01.1996 to 31.03.1997
+885
+3540
+4425
+13
+TDQ
+7776
+01.10.1992 to 31.12.1994
+2615
+2615
+5230
+14
+MSM
+1672
+01.01.1993 to 30.09.1994
+1690
+10310
+12000
+15
+TMG
+4568
+01.07.1993 to 30.09.1994
+845
+3460
+4305
+16
+OR02A
+2924
+01.01.1993 to 31.12.1994
+2575
+18025
+20600
+17
+TMK
+7139
+01.10.1993 to 30.09.1994
+2190
+6790
+8980
+Total
+29320
+118175
+147495
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI (NORTH WEST)-102.
+Sl.No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+TCK
+4984
+01.10.1991 to 30.09.1994
+845
+9345
+10190
+2
+MP20D
+3816
+01.01.1993 to 31.03.1993
+2440
+4880
+7320
+3
+MP02D
+3832
+01.01.1993 to 31.03.1993
+2440
+4880
+7320
+4
+MP02D
+3858
+01.01.1993 to 31.03.1993
+2440
+4880
+7320
+5
+TN01C
+3872
+01.10.1992 to 31.12.1992
+‘845
+1690
+2535
+6
+MP20D
+3898
+01.01.1993 to 31.03.1993
+2440
+4880
+7320
+7
+TMT
+4068
+01.10.1992 to 31.12.1992
+1690
+3380
+5070
+8
+TMG
+7972
+01.07.1992 to 30.09.1994
+845
+6840
+7685
+9
+MSY
+8417
+01.07.1992 to 30.09.1992
+1690
+3380
+5070
+10
+TCW
+1251
+01.04.1993 to 31.03.1994
+1970
+9850
+11820
+11
+TN01C
+5605
+01.07.1992 to 30.09.1994
+1930
+9650
+11580
+12
+TMC
+1715
+01.04.1990 to 31.12.1995
+1490
+23060
+24550
+
+
+33
+Sl.No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+13
+MDH
+4761
+01.10.1990 to 30.09.1993
+1300
+14300
+15600
+14
+MDH
+6057
+01.10.1992 to 30.09.1994
+1690
+12000
+13690
+15
+MDS
+7331
+01.01.1993 to 30.09.1994
+2190
+6790
+8980
+ Total
+26245
+119805
+146050
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI NORTH WEST-102.
+Sl.No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+1
+TML
+459
+01.10.1992 to 31.03.1993
+1290
+2580
+3870
+2
+TMR
+484
+01.01.1993 to 30.09.1994
+1690
+10310
+12000
+3
+TNC
+1092
+01.07.1995 to 31.12.1995
+1355
+1355
+2710
+4
+TMS
+1445
+01.01.1993 to 30.09.1994
+1290
+7870
+9160
+5
+TCW
+1545
+01.07.1993 to 30.09.1994
+845
+3460
+4305
+6
+TMJ
+1754
+01.04.1991 to 31.12.1991
+885
+885
+1770
+7
+KA04D
+2359
+01.01.1995 to 30.09.1995
+2550
+5100
+7650
+8
+TSB
+2529
+01.04.1992 to 30.09.1994
+1690
+15380
+17070
+9
+MDM
+2681
+01.01.1992 to 30.09.1994
+845
+8530
+9375
+10
+TMP
+2922
+01.10.1992 to 30.09.1993
+1290
+3870
+5160
+11
+TMP
+2992
+01.10.1992 to 30.09.1993
+1290
+3870
+5160
+12
+MDB
+3021
+01.04.1995 to 30.09.1996
+2300
+2300
+4600
+13
+TN09Z
+3078
+01.10.1995 to 30.09.1996
+885
+2655
+3540
+14
+TSH
+3201
+01.07.1992 to 30.06.1994
+2440
+17190
+19630
+15
+TMQ
+3328
+01.10.1995 to 31.03.1996
+885
+885
+1770
+16
+MSP
+3798
+01.10.1992 to 30.09.1994
+1690
+12000
+13690
+17
+MDY
+3912
+01.10.1993 to 30.09.1994
+1290
+4000
+5290
+18
+TSJ
+5398
+01.07.1993 to 30.09.1994
+2440
+9980
+12420
+19
+MDS
+6574
+01.07.1992 to 30.09.1994
+1690
+13690
+15380
+20
+MDE
+6631
+01.07.1992 to 30.09.1994
+2190
+17740
+19930
+21
+TDS
+6723
+01.10.1992 to 30.06.1993
+1840
+3680
+5520
+22
+TN02C
+6979
+01.07.1997 to 30.09.1997
+3700
+3700
+7400
+23
+MDE
+7037
+01.10.1991 to 30.09.1994
+845
+9375
+10220
+24
+MDE
+7244
+01.10.1992 to 30.09.1994
+1690
+12000
+13690
+25
+MDK
+7249
+01.10.1992 to 30.09.1994
+845
+5995
+6840
+26
+TDF
+7370
+01.10.1992 to 30.09.1994
+845
+5995
+6840
+27
+MSM
+7464
+01.10.1193 to 30.09.1994
+1290
+4000
+520
+
+
+34
+Sl.No.
+Vehicle No.
+Period
+Tax
+Penalty
+Total
+28
+TMR
+7565
+01.10.1992 to 30.09.1994
+2340
+16600
+18940
+29
+TMP
+7967
+01.01.1992 to 30.06.1993
+1690
+8450
+10140
+30
+TMC
+8223
+01.01.1995 to 30.06.1998
+1355
+17615
+18970
+31
+TNF
+9045
+01.07.1993 to 30.09.1994
+1840
+7540
+9380
+32
+TSA
+9279
+01.10.1992 to 30.09.1994
+2340
+26400
+28740
+33
+MDY
+9822
+01.07.1992 to 30.09.1994
+2090
+17140
+19230
+Total
+53540
+282140
+335680
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI (EAST)
+WATER PROPOSAL FOR GOODS CARRIAGE
+Sl.No.
+Vehicle No.
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+1
+TMF 0109
+01/01/1997
+to
+30/09/1997
+7350
+7350
+14700
+2
+TNP 0169
+01/10/1995
+to
+30/09/1996
+7100
+7100
+14200
+3
+TMQ 0306
+01/04/1992
+to
+21/03/1994
+14720
+27600
+42320
+4
+TSH 0698
+01/07/1990
+to
+31/03/1993
+18990
+37980
+56970
+5
+TN33Z 0737
+01/01/1994
+to
+30/09/1996
+7050
+7050
+14100
+6
+MDB 0887
+01/01/1992
+to
+17/07/1994
+18760
+32280
+51040
+7
+TCX 0981
+01/10/1996
+to
+31/12/1997
+6775
+6775
+13550
+8
+TNU 1647
+01/04/1993
+to
+31/03/1995
+7050
+7050
+14100
+9
+TN04 1722
+01/07/1992
+to
+11/03/1993
+7170
+14340
+21510
+10
+TN09A 1857
+01/04/1992
+to
+12/01/1995
+30520
+48300
+78820
+11
+TMM 2325
+01/04/1997
+to
+31/12/1997
+5790
+5790
+11580
+12
+MOG 3024
+01/01/1997
+to
+31/12/1997
+7100
+7100
+14200
+13
+TNJ 3157
+01/04/1993
+to
+31/12/1994
+16010
+22730
+38740
+14
+TMN 3346
+01/01/1993
+to
+31/03/1994
+11200
+20160
+31360
+15
+TMJ 3357
+01/10/1994
+to
+31/03/1995
+4700
+4700
+9400
+16
+TDS 3755
+01/10/1989
+to
+31/03/1993
+31360
+62720
+94080
+17
+MSY 3894
+01/07/1996
+to
+31/03/1997
+6900
+6900
+13800
+18
+TSB 3993
+01/10/1995
+to
+31/12/1995
+678
+1355
+2033
+19
+MDH 4116
+01/07/1989
+to
+30/06/1994
+30930
+61860
+92790
+20
+MSQ 4276
+01/10/1990
+to
+30/06/1994
+9555
+18045
+27600
+21
+TMT 4282
+01/07/1997
+to
+26/08/1997
+1534
+1534
+3068
+22
+TDH 4509
+01/07/1990
+to
+30/09/1994
+30210
+52790
+83000
+
+
+35
+Sl.No.
+Vehicle No.
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+23
+TMT 4509
+01/10/1998
+to
+31/12/1998
+2550
+2550
+5100
+24
+MDB 4523
+01/07/1998
+to
+30/09/1998
+1775
+1775
+3550
+25
+MDJ 4539
+01/07/1991
+to
+31/12/1994
+30640
+52190
+82830
+26
+MSR 4571
+01/04/1990
+to
+30/09/1993
+11260
+22520
+33780
+27
+MSR 4592
+01/07/1986
+to
+30/09/1990
+7350
+14700
+22050
+28
+MDT 4616
+01/07/1986
+to
+31/03/1993
+25630
+59240
+84870
+29
+TNQ 4689
+01/04/1996
+to
+30/11/1997
+5900
+5900
+11800
+30
+MSR 4761
+01/04/1991
+to
+30/09/1991
+3780
+7560
+11340
+31
+TNK 4771
+01/07/1996
+to
+31/01/1997
+2065
+2065
+4130
+32
+TMZ 4855
+01/10/1992
+to
+31/12/1994
+20490
+31690
+52180
+33
+TMZ 5037
+01/04/1994
+to
+06/04/1995
+11500
+11500
+23000
+34
+TSH 5115
+01/04/1998
+to
+30/09/1998
+4900
+4900
+9800
+35
+MDF 5169
+01/01/1991
+to
+31/12/1994
+26780
+46460
+73240
+36
+TSB 5194
+01/04/1991
+to
+31/12/1994
+35480
+61070
+96550
+37
+MOR 5329
+01/01/1992
+to
+30/06/1995
+24085
+37605
+61690
+38
+MOE 5391
+01/01/1991
+to
+31/03/1994
+21370
+41050
+62420
+39
+TNL 6624
+01/04/1996
+to
+30/09/1996
+4700
+4700
+9400
+40
+TNG 7003
+01/04/1997
+to
+30/09/1997
+4700
+4700
+9400
+41
+MDS 7115
+01/01/1992
+to
+30/09/1994
+18760
+32280
+51040
+42
+TMI 7470
+01/04/1994
+to
+30/06/1996
+16200
+16200
+32400
+43
+TN59C 7699
+01/04/1997
+to
+30/09/1997
+2710
+2710
+5420
+44
+TMU 8889
+01/07/1990
+to
+23/09/1992
+18410
+36820
+55230
+45
+TMA 8957
+01/07/1990
+to
+31/03/1991
+6720
+13440
+20160
+46
+TNH 9299
+01/07/1997
+to
+30/06/1998
+9400
+9400
+18800
+47
+MSQ 9357
+01/07/1989
+to
+31/03/1993
+23550
+47100
+70650
+48
+TMR 9379
+01/04/1989
+to
+30/06/1992
+25620
+51240
+76860
+49
+MSS 9460
+01/04/1988
+to
+14/12/1992
+35750
+71500
+107250
+50
+MSW 9621
+01/07/1990
+to
+27/05/1992
+12520
+25040
+37560
+Total
+696047
+1179414
+1875461
+
+
+36
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI EAST.
+DETAILS OF OLD  ARREARS IN RESPECT OF GOODS CARRIAGES
+Sl.No.
+Vehicle No.
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+1
+TN04B 3234
+01/07/1997
+to
+12/11/1997
+2065
+885
+2950
+2
+MSL 3273
+01/10/1992
+to
+28/07/1993
+2080
+4160
+6240
+3
+TMT 3340
+01/04/1998
+to
+30/06/1998
+2300
+2300
+4600
+4
+TSA 3406
+01/07/1993
+to
+31/12/1994
+6035
+6035
+12070
+5
+TCH 3567
+01/07/1997
+to
+30/09/1997
+1475
+1475
+2950
+6
+MDR 3685
+01/07/1997
+to
+31/12/1997
+3550
+3550
+7100
+7
+TN04 3762
+01/10/1998
+to
+31/12/1998
+1355
+1355
+2710
+8
+TAJ 4911
+01/04/1996
+to
+31/08/1996
+1475
+1475
+2950
+9
+TMZ 4928
+01/01/1994
+to
+30/06/1994
+1040
+1040
+2080
+10
+TCZ 4935
+01/01/1994
+to
+21/12/1994
+3500
+3500
+7000
+11
+TMN 5236
+01/04/1998
+to
+30/06/1998
+2300
+2300
+4600
+12
+TCZ 5244
+01/10/1997
+to
+30/11/1997
+1667
+1667
+3334
+13
+TMH 5417
+01/01/1998
+to
+30/06/1998
+3917
+3917
+7834
+14
+TMX 5421
+01/04/1997
+to
+31/10/1997
+3500
+7000
+10500
+15
+MDH 5429
+01/04/1997
+to
+30/09/1997
+4600
+4600
+9200
+16
+MDF 5474
+01/04/1998
+to
+30/09/1998
+1840
+1840
+3680
+17
+TNY 5712
+01/10/1997
+to
+28/02/1998
+3917
+3917
+7834
+18
+TMT 5907
+01/04/1997
+to
+30/06/1997
+885
+885
+1770
+19
+TMY 5922
+01/04/1998
+to
+30/06/1998
+1355
+1355
+2710
+20
+TNU 5956
+01/10/1997
+to
+28/02/1998
+3867
+3867
+7734
+21
+TNU 6705
+01/01/1995
+to
+30/06/1997
+25850
+25850
+51700
+22
+TMT 8082
+01/04/1997
+to
+30/09/1997
+1770
+1770
+3540
+23
+TN04A 5839
+01/10/1996
+to
+31/12/1996
+2450
+2450
+4900
+24
+MSS 9263
+01/07/1993
+to
+30/06/1994
+9070
+15970
+25040
+25
+TN09D 9264
+01/10/1997I
+to
+30/06/1998
+7650
+7650
+15300
+                                                                            Total
+99513
+110813
+210326
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI (EAST).
+WAIVER PROPOSAL FOR GOODS CARRIAGE
+Sl.No.
+Vehicle No.
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+1
+TN21X 0462
+01/01/1992
+to
+31/03/1995
+24280
+39000
+63280
+2
+TSC 0634
+01/10/1990
+to
+31/03/1994
+11450
+22055
+33505
+3
+TNE 0846
+01/04/1994
+to
+31/12/1994
+7050
+7050
+14100
+4
+MDH 0885
+01/07/1996
+to
+31/12/1997
+6775
+6775
+13550
+
+
+37
+Sl.No.
+Vehicle No.
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+5
+TNK 1798
+01/10/1991
+to
+25/03/1993
+21980
+43960
+65940
+6
+TNU 3457
+01/01/1993
+to
+30/09/1993
+6570
+13140
+19710
+7
+MDK 3575
+01/01/1995
+to
+31/03/1996
+11750
+11750
+23500
+8
+TNB 3603
+01/01/1993
+to
+31/12/1994
+18250
+27210
+45460
+9
+MBJ 3657
+13/01/1993
+to
+31/12/1994
+13775
+20535
+34310
+10
+MSY  4975
+01/10/1994
+to
+31/03/1995
+3550
+3550
+7100
+11
+TNR 5054
+01/07/1987
+to
+30/06/1992
+26035
+52070
+78105
+12
+TMS 5335
+01/10/1991
+to
+30/09/1993
+19810
+39620
+59430
+13
+MDH 5436
+01/07/1996
+to
+31/10/1997
+9467
+9467
+18934
+14
+TMP 5463
+01/10/1988
+to
+30/06/1993
+26300
+52650
+78950
+15
+MSS 5495
+01/07/1991
+to
+30/09/1994
+21940
+38640
+60580
+16
+TNH 5599
+01/04/1992
+to
+15/12/1993
+15680
+31360
+47040
+17
+TNR 5659
+01/07/1997
+to
+31/12/1997
+5100
+5100
+10200
+18
+MDF 5751
+01/07/1989
+to
+30/09/1993
+26930
+53860
+80790
+19
+TMP 5784
+01/04/1991
+to
+31/12/1994
+32480
+55870
+88350
+20
+TMR 5909
+01/04/1988
+to
+13/11/1991
+10664
+21328
+31992
+21
+MDH 5954
+01/10/1989
+to
+31/12/1993
+20710
+41420
+62130
+22
+TMT 5983
+01/10/1989
+to
+31/12/1993
+29280
+58560
+87840
+23
+TNI 6080
+01/04/1997
+to
+30/09/1997
+1770
+1770
+3540
+24
+TAX 6199
+01/10/1996
+to
+30/09/1997
+7720
+7720
+15440
+25
+TMR 6219
+01/10/1989
+to
+31/12/1989
+1400
+2800
+4200
+26
+TNF 6282
+01/07/1996
+to
+30/09/1997
+8875
+8875
+17750
+27
+TMT 6372
+01/04/1996
+to
+30/09/1996
+3860
+3860
+7720
+28
+TCS 6435
+01/07/1996
+to
+31/03/1997
+7050
+7050
+14100
+29
+TMN 6690
+01/01/1995
+to
+30/06/1995
+34720
+54230
+88950
+30
+TNL 6873
+01/10/1997
+to
+28/02/1998
+6500
+6500
+13000
+31
+MDS 6995
+01/10/1992
+to
+30/06/1995
+24085
+37605
+61690
+32
+TCB 7121
+01/01/1997
+to
+30/09/1997
+7050
+7050
+14100
+33
+TNA 7448
+01/04/1993
+to
+31/12/1994
+15660
+22230
+37890
+34
+TSB 7695
+01/04/1993
+to
+10/07/1996
+22800
+28800
+51600
+35
+TVY 8429
+01/01/1998
+to
+30/06/1998
+5100
+5100
+10200
+36
+TDY 8570
+01/07/1997
+to
+31/03/1998
+7500
+7500
+15000
+37
+TMX 9086
+01/07/1988
+to
+31/12/1992
+13905
+27810
+41715
+38
+MDS 9709
+01/04/1992
+to
+30/09/1994
+30922
+53048
+83970
+Total
+568743
+936918
+1505661
+
+
+38
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI (EAST).
+WAIVER PROPOSAL FOR GOODS CARRIAGE
+Sl.No
+Vehicle No
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+1
+TNY 0204
+01/04/1997
+to
+30/09/1997
+4700
+4700
+9400
+2
+TNU 0341
+01/01/1996
+to
+30/09/1996
+7440
+7440
+14880
+3
+TMM 0446
+01/01/1993
+to
+02/12/1995·
+24750
+33510
+58260
+4
+MDD 0525
+01/01/1992
+to
+30/12/1993
+15330
+30660
+45990
+5
+TN21 0637
+01/10/1992
+to
+31/03/1995
+8610
+12835
+21445
+6
+MSR 0656
+01/01/1995
+to
+30/09/1995
+6900
+6900
+13800
+7
+TMO 0750
+01/01/1990
+to
+04/07/1993
+10220
+20440
+30660
+8
+TMH 0835
+01/07/1·991
+to
+08/03/1995
+9200
+17555
+26755
+9
+TN04 0934
+01/04/1993
+to
+08/09/1994
+10225
+13095
+23320
+10
+TMT 0959
+01/10/1995
+to
+30/09/1996
+12750
+12750
+25500
+11
+TN04B 0963
+01/10/1995
+to
+30/09/1996
+3540
+3540
+7080
+12
+TMS 1099
+01/04/1991
+to
+21/02/1994
+24090
+48970
+73060
+13
+TMS 1155
+01/01/1996
+to
+30/09/1996
+7050
+7050
+14100
+14
+TMQ 1159
+01/04/1998
+to
+30/06/1998
+3900
+3900
+7800
+15
+TN31A 1186
+01/04/1997
+to
+31/12/1997
+·2655
+2655
+5310
+16
+MDJ 1216
+01/10/1996
+to
+31/12/1997
+11750
+11750
+23500
+17
+TCD 1236
+01/10/1996
+to
+31/12/1997
+12750
+12750
+25500
+18
+TNP 1253
+01/07/1992
+to
+30/06/1995
+10340
+16255
+26595
+19
+TMK 1266
+01/10/1997
+to
+31/03/1998
+4700
+4700
+9400
+20
+TN04B 1256
+01/04/1997
+to
+31/12/1997
+7650
+7650
+15300
+21
+MDI 1291
+01/10/1995
+to
+30/09/1996
+9400
+9400
+18800
+22
+AAV1319
+01/04/1966
+to
+31/12/1997
+16450
+16450
+32900
+23
+TMT 1329
+01/07/1996
+to
+31/12/1997
+14100
+14100
+28200
+24
+TN04B  1393
+01/04/1996
+to
+31/12/1997
+12425
+12425
+24850
+25
+TMR 1410
+01/04/1993
+to
+31/03/1995
+8610
+8610
+17220
+26
+TMT 1477
+01/10/1990
+to
+30/09/1994
+13140
+23825
+36965
+Total
+272675
+363915
+636590
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI (EAST).
+WAIVER PROPOSAL FOR GOODS CARRIAGE
+Sl.No
+Vehicle No
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+1
+TMH 3069
+01.04.1990
+to
+31.12.1994
+9490
+9490
+18980
+2
+TSC 3115
+01.01.1997
+to
+31.12.1997
+33730
+59830
+93560
+
+
+39
+Sl.No
+Vehicle No
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+3
+TN043128
+01.10.1992
+to
+19.12.1994
+10200
+10200
+20400
+4
+TCX 3159
+01.07.1996
+to
+31.03.1997
+16830
+26030
+42860
+5
+TN04 3214
+01.07.1995
+to
+31.03.1997
+10800
+10800
+21600
+6
+TN04A 3335
+01.10.1995
+to
+31.08.1996
+9485
+9485
+18970
+7
+TMV 4066
+01.01.1992
+to
+31.12.1994
+8617
+8617
+17234
+8
+TCS 4132
+01.10.1991
+to
+30.09.1991
+27210
+45130
+72340
+9
+TMY 4402
+01.04.1990
+to
+30.09.1994
+29450
+49610
+79060
+10
+TMO 4433
+01.01.1986
+.to
+30.06.1990
+28090
+50940
+79030
+11
+TMY 4464
+01.10.1998
+to
+31.12.1998
+30500
+55000
+85500
+12
+MSL 4527
+01.10.1993
+to
+31.12.1995
+2350
+2350
+4700
+13
+TMH 4647
+01.01.1991
+to
+26.03.1995
+21380
+23670
+45050
+14
+TMS 4941
+01.04.1991
+to
+30.06.1995
+36620
+66230
+102850
+15
+TMY 4948
+01.07.1992
+to
+30.09.1993
+38920
+64150
+103070
+16
+TMU 4966
+01.01.1987
+to
+31.03.1989
+5160
+10320
+15480
+17
+TMH 5133
+01.04.1998
+to
+31.12.1998
+11500
+23000
+34500
+18
+TDM 5297
+01.07.1995
+to
+31.10.1997
+12300
+12300
+24600
+19
+TNN 5379
+01.07.1991
+to
+31.12.1994
+21933
+21933
+43866
+20
+TMY 5568
+01 .07.1992
+to
+31.12.1994
+30640
+52190
+82830
+21
+TMU 5779
+01.01.1998
+to
+31.05.1998
+17155
+27295
+44450
+22
+MSL 5827
+01.10.1990
+to
+31.12.1994
+3917
+3917
+7834
+23
+TSJ 5925
+01.07.1995
+to
+30.09.1996
+36160
+63230
+99390
+24
+MDS 6221
+01.07.1991
+to
+31.12.1994
+8875
+8875
+17750
+25
+TAS 6685
+01.01.1996
+to
+30.09.1996
+31340
+55630
+86970
+26
+TN04 6723
+01.07.1997
+to
+30.09.1997
+7050
+7050
+14100
+27
+MDE 6967
+01.07.1990
+to
+31.03.1990
+1775
+1775
+3550
+28
+TNY 9538
+01.04.1990
+to
+31.12.1994
+13970
+25325
+39295
+Total
+515447
+804372
+1319819
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI (EAST).
+WAIVER PROPOSAL FOR GOODS CARRIAGE
+SI.No.
+Vehicle No
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+1
+TSC 124
+01.07.1992
+to
+01:01.1995
+9455
+15370
+24825
+2
+TSE 0660
+01.07.1997
+to
+31.12.1997
+1770
+1770
+3540
+3
+MDM 0993
+01.07.1997
+to
+31.12.1997
+4600
+4600
+9200
+
+
+40
+SI.No.
+Vehicle No
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+4
+TN04 1024
+01.10.1990
+to
+30.09.1994
+10605
+17830
+28435
+5
+TNB 1182
+01.10.1993
+to
+30.09.1995
+18580
+23060
+41640
+6
+MSW 1646
+01.04.1997
+to
+31.12.1997
+5325
+5325
+10650
+7
+MDG 3090
+01.10.1990
+to
+31.03.1993
+16100
+32200
+48300
+8
+TMT 3749
+01.04.1993
+to
+31.12.1994
+16010
+22730
+38740
+9
+TN04 4075
+01.07.1992
+to
+31.03.1995
+17520
+22400
+39920
+10
+TNH 4239
+01.04.1996
+to
+30.09.1997
+11580
+11580
+23160
+11
+AP31T 4451
+01.10.1996
+to
+30.09.1997
+10200
+10200
+20400
+12
+AP31T 4474
+01.10.1996
+to
+31.03.1997
+5100
+5100
+10200
+13
+AP31T 4476
+01.10.1996
+to
+31.03.1997
+5100
+5100
+10200
+14
+TNY 4579
+01.07.1991
+to
+31.03.1993
+15680
+31360
+47040
+15
+AP31T 4705
+01.10.1996
+to
+31.03.1997
+5100
+5100
+10200
+16
+TN0 44775
+01.10.1997
+to
+31.03.1998
+9200
+9200
+18400
+17
+TMT 4778
+01.04.1992
+to
+30.04.1994
+8530
+14445
+22975
+18
+TN04 4943
+01.10.1990
+to
+30.09.1995
+47060
+76730
+123790
+19
+TMJ 5091
+01.10.1990
+to
+30.06.1994
+24635
+44205
+68840
+20
+TMH 5226
+01.01.1992
+to
+31.12.1994
+27210
+45130
+72340
+21
+MBT 5265
+01.04.1990
+to
+30.06.1994
+27615
+51765
+79380
+22
+MDN 5367
+01.04.1991
+to
+31.03.1995
+26980
+7199
+34179
+23
+MDN 5559
+01.01.1991
+to
+30.06.1993
+16300
+32600
+48900
+24
+TNL 5659
+01.07.1995
+to
+31.07.1996
+9967
+9967
+19934
+25
+TCZ 5895
+01.01.1990
+to
+31.03.1993
+22170
+45480
+67650
+26
+TMT 6510
+01.04.1994
+to
+31.12.1994
+6900
+6900
+13800
+27
+MDE 6903
+01.10.1992
+to
+30.09.1995
+25860
+39380
+65240
+28
+TMR 6810
+01.10.1990
+to
+30.06.1991
+1560
+3120
+4680
+29
+TMG 7151
+01.04.1997
+to
+30.09.1997
+7800
+7800
+15600
+30
+TDS 7605
+01.04.1992
+to
+31.03.1995
+22440
+35320
+57760
+31
+TMD 9875
+01.04.1997
+to
+30.09.1997
+4600
+4600
+9200
+Total
+441552
+647566
+1089118
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI (EAST).
+WAIVER PROPOSAL FOR GOODS CARRIAGE
+Sl. No.
+Vehicle No.
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+1
+TN04D 1527
+01.01.1997
+to
+31.12.1997
+5420
+5420
+10840
+2
+TMU 1667
+01.04.1991
+to
+01.11.1995
+16145
+25250
+41395
+3
+MDM 1758
+01.04.1994
+to
+23.12.1994
+4740
+4740
+9480
+4
+TN09A 1789
+01.07.1996
+to
+20.12.1997
+5310
+5310
+10620
+
+
+41
+Sl. No.
+Vehicle No.
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+5
+TMU 1924
+01.01.1992
+to
+03.05.1994
+13140
+24090
+37230
+6’
+TNJ 1929
+01.10.1996
+to
+31.3.1997
+3540
+3540
+7080
+7
+TNJ  2000
+01.01.1997
+to
+31.12.1997
+9400
+9400
+18800
+8
+MDG 1930
+01.07.1992
+to
+22.5.1995
+34225
+51505
+85730
+9
+MDB 3021
+01.01.1997
+to
+31.12.1997
+9200
+9200
+18400
+10
+MDF 3338
+01.10.1996
+to
+31.12.1997
+8900
+8900
+17800
+11
+MDT 3400
+01.10.1993
+to
+31.12.1994
+8705
+10395
+19100
+12
+KLA 3432
+01.10.1994
+to
+31.3.1995
+3860
+3865
+7725
+13
+TNU 3469
+01.07.1992
+to
+31.12.1994
+22230
+35370
+57600
+14
+TNF 3677
+01.10.1992
+to
+30.06.1994
+32310
+60030
+92340
+15
+TNZ 3803
+01.10.1992
+to
+30.06.1993
+6570
+13140
+19710
+16
+TMS 3889
+01.01.1996
+to
+04.11.1997
+18018
+18018
+36036
+17
+TN28X 3906
+01 .10.1996
+to
+31.12.1997
+12250
+12250
+24500
+18
+MDH 4027
+01.01.1994
+to
+30.06.1994
+3465
+3465
+6930
+19
+MDH 4051
+01.07.1992
+to
+31.12.1994
+13095
+20835
+33930
+20
+MDH 4052
+01.07.1991
+to
+31.12.1994
+25915
+38815
+64730
+21
+TNH 4066
+01.07.1992
+to
+30.09.1994
+35700
+64610
+100310
+22
+TSK 4129
+01.10.1997
+to
+31.3.1998
+3160
+3160
+6320
+23
+MDF 4260
+01.04.1991
+to
+30.09.1994
+30880
+54970
+85850
+24
+MDH 4798
+01.01.1991
+to
+31.12.1994
+26695
+46375
+73070
+25
+MDA 4859
+01.10.1995
+to
+30.09.1997
+14200
+14200
+28400
+Total
+367073
+546853
+913926
+OFFICE OF THE REGIONAL TRANSPORT OFFICER, CHENNAI (EAST).
+WAIVER PROPOSAL FOR MAXI CAB
+SI.No
+Vehicle No
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+1
+TMF 1688
+01.10.1991 to  26.04.1995
+22800
+36300
+59100
+2
+TMA1348
+01.07.1996 to 06.01.1997
+4200
+4200
+8400
+3
+TCZ 1470
+01.04.1994 to 10.07.1996
+16800
+16800
+33600
+4
+TSI 1735
+01.04.1992 to  30.06.1995
+21000
+30000
+51000
+5
+TN04 1812
+01.07.1992 to 13.11.1994
+15300
+25800
+41100
+6
+TSK 4999
+01.10.1995 to 30.06.1996
+5400
+5400
+10800
+7
+TMH 7890
+01.01.1992 to 03.05.1996
+29100
+41100
+70200
+8
+TMH 8941
+01.01.1995 to 24.07.1996
+13200
+13200
+26400
+9
+TMT 9576
+01.10.1999  to 31.12.1999
+2100
+2100
+4200
+Total
+129900
+174900
+304800
+
+
+42
+OFFICE OF THE REGIONAL TRANSPORT OFFICER CHENNAI (EAST)
+WAIVER PROPOSAL FOR OMNI BUS
+SI. No.
+Vehicle No.
+Period of Non-Payment of Tax
+Tax
+Penalty
+Total
+1.
+TN09 B 4999
+01/04/1997 to 31/03/1998
+234000
+234000
+468000
+ 
+K. PHANINDRA REDDY,  
+ 
+ 
+ 
+Additional Chief Secretary to Government.
+PRINTED AND PUBLISHED BY THE COMMISSIONER OF STATIONERY AND PRINTING, CHENNAI 
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU

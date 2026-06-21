@@ -1,0 +1,3815 @@
+---
+source: "original_fallback"
+type: "ordinary"
+year: "2021"
+pdf_url: "https://web.archive.org/web/20220812233327/http://www.stationeryprinting.tn.gov.in/gazette/2021/49_II_1.pdf"
+Part: "2. Part II-Section 1"
+Content: "Notifications or Orders of specifi c character or of particular interest to the public issued by Secretariat Departments HOME, PROHIBITION AND EXCISE DEPARTMENT - Notifications under the Tamil Nadu Prohibition Act - Amendment to Notification PUBLIC WORKS DEPARTMENT - Ground Water - Dynamic Ground Water Resources Assessment for Tamil Nadu"
+Date: "2021-12-08"
+Issue: "49"
+---
+
+TAMIL  NADU 
+GOVERNMENT  GAZETTE 
+PUBLISHED BY AUTHORITY
+ 
+  © 
+[Regd. No. TN/CCN/467/2012-14.
+ GOVERNMENT  OF  TAMIL  NADU 
+[R. Dis. No. 197/2009. 
+ 
+ 
+ 
+  2021 
+[Price:  Rs. 12.80 Paise.  
+[133]
+No. 49] 
+CHENNAI, WEDNESDAY, DECEMBER 8, 2021  
+ 
+ 
+ 
+ 
+Karthigai 22, Pilava, Thiruvalluvar Aandu–2052
+Part  II—Section  1
+Notiﬁ cations or Orders of speciﬁ c character or of particular interest to the public
+issued by Secretariat Departments.
+NOTIFICATIONS BY GOVERNMENT 
+CONTENTS
+DTP—II-1 (49 )—1
+Pages.
+HOME, PROHIBITION AND EXCISE DEPARTMENT
+Notifications under the Tamil Nadu Prohibition Act.  
+                                                  
+    Amendment to Notification       ..         ..                 ..                      ..              ..
+134
+PUBLIC WORKS DEPARTMENT
+Ground Water 
+Dynamic Ground Water Resources Assessment for Tamil Nadu as on 
+March 2020 - Categorization of Firkas as Over Exploited, Critical, 
+Semi-Critical Safe and Saline / Poor Quality based on the Assessment 
+in Tamil Nadu - Approved Orders Issued. 
+.. 
+.. 
+.. 
+..
+135-163
+
+
+134 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+NOTIFICATIONS BY GOVERNMENT
+HOME, PROHIBITION AND EXCISE DEPARTMENT
+Notifications under the Tamil Nadu Prohibition Act.
+Amendment to Notification 
+[G.O. Ms. No. 47, Home Prohibition and Excise (III), 20th November 2021, 
+è£˜ˆF¬è 4, Hôõ, F¼õœÀõ˜ Ý‡´¢-2052.]
+No. II(1)/HOPE/24/2021.–In exercise of the powers conferred by sub-section (1) of section 18-B of the Tamil Nadu Prohibition Act, 1937 
+(Tamil Nadu Act X of 1937), the Governor of Tamil Nadu hereby makes the following amendment to the Prohibition and 
+Excise Department Notiﬁ cation No.II(1)/PE/239(d)/81, published at page 2 of Part II–Section 1 of the Tamil Nadu Government 
+Gazette Extraordinary, dated the 1st May 1981, as subsequently amended:- 
+Aඕඍඖඌඕඍඖග.
+In the said Notiﬁ cation, in the Table, in the Annexure under the entry "Indian Made Foreign Spirits (brand names of 
+which are speciﬁ ed in the Annexure) other than sacremental wine" in column (1),- under the heading "PREMIUM BRANDS", 
+under the sub-heading "Thiruvalargal Empee Distilleries Limited", the entries "Red Knight Select Deluxe Whisky", "Macmillan 
+Premium Brandy" and "Hercules Reserve 3'X' Rum" shall be omitted. 
+[G.O. Ms. No. 48, Home Prohibition and Excise (III), 20th November 2021, 
+è£˜ˆF¬è 4, Hôõ, F¼õœÀõ˜ Ý‡´¢-2052.]
+No. II(1)/HOPE/25/2021.–In exercise of the powers conferred by sub-section (1) of Section 18-B of the Tamil Nadu Prohibition 
+Act, 1937 (Tamil Nadu Act X of 1937), the Governor of Tamil Nadu hereby makes the following amendments to the Prohibition 
+and Excise Department Notiﬁ cation No.II(1)/PE/239(d)/81, published at page 2 of Part II–Section 1 of the Tamil Nadu 
+Government Gazette Extraordinary, dated the 1st May 1981, as subsequently amended :- 
+Aඕඍඖඌඕඍඖගඛ.
+In the said Notiﬁ cation, in the Table, in the Annexure, under the entry "Indian Made Foreign Spirits (brand names of 
+which are speciﬁ ed in the Annexure) other than sacremental wine" in column (1 ),- 
+ 
+(1)  under the heading "MEDIUM BRANDS", under the sub-heading "Thiruvalargal Mohan Breweries and Distilleries 
+Limited", the following entries shall be omitted, namely:- 
+ 
+ 
+"TI's MH XO No.1 Brandy" and 
+ 
+ 
+"TI's Master XXX Rum". 
+ 
+(2)  under the heading "PREMIUM BRANDS", under the sub-heading "Thiruvalargal Mohan Breweries and Distilleries 
+Limited", the following entries shall be omitted, namely:- 
+ 
+ 
+"Seven Islands Rare Blended Whisky", 
+ 
+ 
+"Sipping Spirits Resolute Crystal Vodka" and 
+ 
+ 
+"Santana Coconut Rum". 
+ 
+S.K. PRABAKAR,
+ 
+Additional Chief Secretary to Government.
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 135
+PUBLIC WORKS DEPARTMENT
+No. II(1)/PWD/26/2021.
+[Ground Water - Dynamic Ground Water Resources Assessment for Tamil Nadu as on March 2020 - Categorization 
+of Firkas as Over Exploited, Critical, Semi-Critical Safe and Saline / Poor Quality based on the Assessment 
+in Tamil Nadu - Approved Orders Issued.]
+The following Government Order is Published:–
+[G.O. Ms. No. 155, Public Works (R1), 28th October 2021, 
+äŠðC 11, Hôõ, F¼õœÀõ˜ Ý‡´¢-2052.]
+Rඍඉඌ:
+ 
+1. 
+G.O.(Ms).No.326, Public Works Department, Dated 23.11.1993. 
+ 
+2. 
+G.O.(Ms).No.51, Public Works Department, Dated 11.02.2004. 
+ 
+3. 
+G.O.(Ms).No.52, Public Works Department, Dated 02.03.2012 
+ 
+4. 
+G.O.(Ms).No.142, Public Works Department, Dated 23.07.2014 
+ 
+5. 
+G.O.(Ms).No.113, Public Works Department, Dated 09.06.2016 
+ 
+6. 
+G.O.(Ms).No.257, Public Works Department, Dated 1.10.2018 
+ 
+7. 
+G.O.(Ms).No.161, Public Works Department, Dated 23.10.2019 
+ 
+8. 
+From the Chief Engineer, State Ground and Surface Water Resources Data Centre, Letter No. 
+DD(G)/GWRA-2020/2021, Dated 23.8.2021. 
+Order: No. 155, Public Works (R1), 28th October 2021.
+Based on the development of the ground water resources, the Panchayat Union Blocks in Tamil Nadu were 
+categorized as Dark and Grey areas as on January 1992 and January 1997 (Projected development at year 5) in the 
+Government Order ﬁ rst read above. The Blocks with ground water development between 85% to 100% were categorized as 
+"Dark Blocks" and the Blocks with ground water development between 65% to 85% were categorized as "Grey Blocks". 
+The Government directed that no Scheme should be formulated in the Dark Blocks and in the Grey Blocks, Schemes 
+should be formulated in consultation with the Ground Water Wing of the Public Works Department only. The above 
+categorisation was done in accordance with the then prevailing Ground Water Estimation Committee - 1984 (GEC-1984) 
+Norms. Thereafter, the Committee constituted by the Ministry of Water Resources, Government of India, has recommended 
+to adopt the GEC-1997 Norms for estimation of the ground water resources in all the States, 
+2. In the Government Order second read above, the Government approved the categorization of the Panchayat 
+Union Blocks in Tamil Nadu as Over-Exploited, Critical, Semi-Critical and Safe Blocks for ground water development as 
+on January, 2003. The Government directed that no Schemes should be formulated in the Over Exploited and Critical 
+Blocks and in the Semi-Critical and Safe Blocks, all the Schemes should be formulated in consultation with the State 
+Ground and Surface Water Resources Data Centre of the Water Resources Organisation in the Public Works Department. 
+It was also ordered therein that the term "Scheme" excludes energisation of agricultural pump sets by the Tamil Nadu 
+Electricity Board. The Government further directed that appropriate rain water harvesting and artiﬁ cial recharge schemes 
+be carried out in all the categories of Blocks and while carrying out the above Schemes, priority should be given to 
+the Over Exploited and Critical Blocks so as to avoid further deterioration. 
+3. In the Government Order third read above, the Government approved the categorization of the Panchayat Union Blocks 
+as Over-Exploited, Critical, Semi-Critical and Safe Blocks based on the assessment of the State Ground Water Resources 
+as on March 2009. All the Over Exploited and Critical Blocks were notiﬁ ed as A Category Blocks (where the stage of ground 
+water extraction is 90% and above) and all the Semi Critical and Safe Blocks were notiﬁ ed as B Category Blocks (where the 
+stage of ground water extraction is below 89%). The Government directed that no Schemes should be formulated in Over 
+Exploited and Critical blocks "Notiﬁ ed as A Category Blocks" and in the Semi-Critical and Safe Blocks "Notiﬁ ed as B Category 
+Blocks", all the Schemes should be formulated through the State Ground and Surface Water Resources Data Centre of the 
+Water Resources Department and the Chief Engineer, State Ground and Surface Water Resources Data Centre, would issue 
+"No Objection Certiﬁ cate" for ground water clearance. The Government further directed to exclude the ground water drawal 
+for domestic purpose by individual household; domestic Infrastructure Project (Housing); Government's Drinking Water Supply 
+
+
+136 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+Schemes and Non Water based Industries (i.e., the industries which do not require and use water, either as raw material or 
+for other processing). The Chief Engineer, State Ground and Surface Water Resources Data Centre, would permit domestic 
+use of water by these Non Water based Industries by issuing "No Objection Certiﬁ cate" based on the hydro-geological 
+conditions. The Government further directed that appropriate Rain Water Harvesting and Artiﬁ cial Recharge Schemes should 
+be carried out in the categories viz, Over exploited, Critical, Semi Critical and Safe Blocks of Tamil Nadu and while carrying 
+out the above Schemes, priority should be given to marginal quality and bad quality areas so as to avoid further deterioration. 
+The Government further directed that all the Schemes and Proposals based on ground water would have to adhere to the 
+Government Orders and Conditions detailed in the Annexure-II to the above mentioned Government Order. This Government 
+Order had been upheld by the Hon'ble Bench of Madras High Court, in its Common Judgement dated 18.09.2013, in 
+WA Nos. 923 to 926 of 2009, WP Nos 23116 of 2006, 23896 to 23900 of 2016, 4711 of 2004 and 12375 of 2008. 
+The Hon'ble High Court had made it clear that even with the repealing of the Tamil Nadu Ground Water (Development and 
+Management) Act, 2003, this G.O. would govern the interest of the parties and the State in the matter of regulating the 
+business of the Writ Appellants. 
+4. In furtherance of the Orders and Instructions issued in the Government Order third read above, the Regulations for 
+management of ground water and issue of No Objection Certiﬁ cate / License for extraction of groundwater in the State were 
+approved in the Government Order fourth read above. 
+5. Subsequently, in the Government Order ﬁ fth read above, the Dynamic Groundwater resources in the State were 
+estimated taking a Revenue Firka as an Search 2011 and accordingly the Government had approved categorization of the 
+over-Exploited, Critical, Semi-Critical, Safe and Saline Firkas based on the above assessment. Thereafter, the Government, in 
+the Government Orders sixth and seventh read above, the Government have approved the categorisation of the Firkas in the 
+State as Over-Exploited, Critical, Semi-Critical, Safe and Saline / Poor Quality Firkas based on the Ground Water Resources 
+Assessment as on March 2013 and March 2017 respectively. 
+6. In the letter eight read above, the Chief Engineer (State Ground and Surface Water Resources Data Centre) has 
+sent a proposal to the Government for approval of Estimation of the Dynamic Groundwater Resources in Tamil Nadu as on 
+March 2020 and Categorisation of Firkas and requested for approval of the Ground Water Assessment 2020 and notiﬁ cation 
+of the Categorization of the Firkas of Tamil Nadu based on the above assessment. 
+7. The Government have decided to approve the categorization of the Revenue Firkas in the State based on the Estimation 
+of the Dynamic Ground Water Resources as on March 2020. Accordingly, the Government approve the categorisation of 
+the Revenue Firkas in the State as Over-Exploited, Critical, Semi- Critical, Safe and Saline/Poor Quality as detailed in the 
+Annexure of this Order, based on the Dynamic Ground Water Resources Assessment as on March 2020 which shall be 
+notiﬁ ed in the Tamil Nadu Government Gazette. 
+8. The Chief Engineer (State Ground and Surface Water Resources Data Centre), Water Resources Department is further 
+directed that appropriate rain water harvesting and Artiﬁ cial recharge schemes shall be carried out in the categories viz, 
+Over exploited, Critical, Semi Critical, Safe and saline/Poor quality Firkas of Tamil Nadu. While carrying out the above Schemes, 
+priority shall be given to marginal quality and bad quality areas so as to avoid further deterioration. 
+(By Order of the Governor)
+ 
+ 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 137
+ 
+ANNUXURE 
+[G.O. Ms. No. 155, Public Works (R1) Department, Dated 28.10.2021] 
+ 
+Categorisation of Firkas in Tamil Nadu as on-2020)
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+ARlYALUR DISTRICT (Total Firkas-15) 
+ARlYALUR TALUK 
+1 
+ARIYALUR 
+2 
+ELAKURICHI 
+3 
+KEELAPALUR 
+4 
+NAGAMANGALAM 
+5 
+THRUMANUR 
+SENDURAI TALUK 
+6 
+SENDURAI 
+7 
+PONPARAPPI 
+8 
+MATHUR 
+UDAYARPALAYAM TALUK 
+9 
+T. PALUR 
+10 
+SUTHAMALLI 
+11 
+KUNDAVELI-II
+12 
+UDAYARPALAYAM 
+13 
+JAYANKONDAM 
+ANDIMADAM TALUK 
+14 
+ANDIMADAM 
+15 
+KUVAGAM 
+CHENGALPATTU DISTRICT (Total Firkas-40) 
+CHENGALPATTU TALUK 
+1
+APPUR
+2 
+KATTANKULATHUR 
+3
+CHENGALPATTU
+4 
+PALLUR(K) 
+5 
+SINGAPERUMAL KOIL 
+THIRUKAZHUKUNDRAM TALUK 
+6 
+THIRUKAZHU- 
+KUNDRAM 
+7 
+MAMALLAPURAM 
+8 
+NERUMBUR 
+9 
+PONVILA 
+YANTHAKALATHUR 
+THIRUPORUR TALUK 
+10 
+KARUMBAKKAM 
+11 
+THIRUPORUR 
+12 
+NELLIKUPPAM 
+13 
+KELAMBAKKAM 
+14 
+MANAMBATHY 
+15 
+PAIYANUR 
+MADURANTHAKAM TALUK 
+16
+ORATHI
+17 
+ACCHIRUPAKKAM 
+18 
+KARUGKUZHI 
+19 
+ONAMPAKKAM 
+20 
+MADHURANTHAGAM 
+21 
+JAMEENENDATHUR 
+22 
+VAIYAVUR 
+- 
+23 
+PERUMPAKKAM 
+24 
+L.ENDATHUR 
+CHEYYUR TALUK 
+25 
+CHEYYUR 
+26 
+KADAPAKKAM 
+27 
+CHITHAMUR 
+28 
+LATHUR 
+29 
+KAYAPAKKAM 
+30 
+SUNAMPEDU 
+31 
+KODUR 
+
+
+138 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+TAMBARAM TALUK 
+32 
+CHITLAPAKKAM 
+33 
+MADAMBAKKAM 
+34 
+TAMBARAM 
+35 
+MEDAVAKKAM 
+PALLAVARAM TALUK 
+36 
+PAMMAL
+37 
+PALLAVARAM 
+38 
+VANDALUR 
+39 
+MAMBAKKAM 
+40 
+GUDUVANCHERI 
+CHENNAl DISTRICT (Total Firkas-30) 
+EGMORE-NUNGAMBAKKAM TALUK 
+1 
+EGMORE-NUNGAMBAKKAM-I 
+2 
+EGMORE-NUNGAMBAKKAM-II 
+3 
+EGMORE-NUNGAMBAKKAM-III 
+4 
+EGMORE-NUNGAMBAKKAM-IV 
+KOTTAl- THONDIARPET TALUK 
+5 
+KOTTAl-THONDIARPET-I 
+6 
+KOTTAl-THONDIARPET-II
+7 
+KOTTAl-THONDIARPET-III
+8 
+KOTTAl-THONDIARPET-IV
+MAMBALAM - GUINDY TALUK 
+9 
+MAMBALAM - GUINDY-I 
+10 
+MAMBALAM - GUINDY-II 
+11 
+MAMBALAM - GUINDY-III 
+12 
+MAMBALAM - GUINDY-IV 
+MYLAPORE - TlRUVALLIKENI TALUK 
+13 
+MYLAPORE - TIRUVALLIKENI-I
+14 
+MYLAPORE - TIRUVALLIKENI-II 
+15 
+MYLAPORE - TIRUVALLIKENI-III
+16 
+MYLAPORE - TIRUVALLIKENI-IV 
+PURASAWALKAM-PERAMBUR TALUK 
+17 
+PURASAWALKAM- 
+PERAMBUR-I
+18 
+PURASAWALKAM- 
+PERAMBUR-II 
+19 
+PURASAWALKAM- 
+PERAMBUR-III 
+20 
+PURASAWALKAM- 
+PERAMBUR-IV 
+SHOLINGANALLUR TALUK 
+21 
+SHOLINGANALLUR 
+22 
+PALLIKARANAI 
+ALANTHUR TALUK 
+23
+ALANTHUR 
+AMBATTUR TALUK 
+24 
+AMBATTUR 
+25 
+KORATTUR 
+MADHAVARAM TALUK 
+26 
+MADHAVARAM 
+MADURAVOYAL TALUK 
+27 
+MADURAVOYAL 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 139
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+28 
+PORUR 
+THIRUVOTRlYUR TALUK 
+29 
+THIRVOTRIYUR 
+30 
+MANALI 
+COIMBATORE DlSTRlCT(Total Firkas- 38) 
+ANNUR TALUK 
+1 
+ANNUR(S) 
+2 
+ANNUR(N) 
+3 
+SARKAR SAMAKULAM 
+COIMBATORE NORTH TALUK 
+4 
+GANAPATHI 
+5 
+THUDIALUR 
+6 
+ANUPPAR PALAYAM 
+7 
+PERIANAICKEN PALAYAM 
+8
+SARAVANAM PATTI
+COIMBATORE SOUTH TALUK 
+9
+COIMBATORE 
+10
+SINGANALLUR 
+KlNATHUKATAVU TALUK 
+11
+VADACHITTUR 
+12
+KINATHUKATAVU 
+13
+KOVILPALAYAM 
+MADUKKARAI TALUK 
+14
+OTTAKKAL MANDABAM 
+15 
+KURICHI 
+16 
+MADUKKARAI 
+17 
+THIRUMALAIAMPALAYAM 
+METTUPALAYAM TALUK 
+18 
+METTUPALAYAM 
+19 
+KARAMADAI 
+PERUR TALUK 
+20 
+ALANDURAI 
+21 
+KUNIAMUTHUR 
+22 
+MADAMPATTI 
+23 
+THONDAMUTHUR 
+24 
+VADAVALLI 
+25 
+PERUR 
+ANAMALAI TALUK 
+26 
+KOTTUR 
+27 
+MARCHINAICKEN
+PALAYAM 
+28 
+ANAMALAI 
+POLLACHI TALUK 
+29 
+RAMAPATTINAM 
+30 
+POLLACHI(N) 
+31 
+POLLACHI(S) 
+32 
+PERIANEGAMAM 
+33 
+KOLARPATTI 
+SULUR TALUK 
+34 
+KARUMATHAM PATTI 
+35 
+SULUR 
+36 
+SELAKKARICHAL 
+37 
+VARAPATTI 
+VALPARAI TALUK 
+38 
+VALPARAI 
+
+
+140 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+CUDDALORE DlSTRlCT (Total Firkas-32) 
+BHUVANAGIRI TALUK 
+1 
+BHUVANAGIRI 
+2 
+SETHIYATHOPPU 
+3 
+PARANGIPETTAI 
+CHIDAMBARAM TALUK 
+4 
+ORATHUR 
+5 
+THIRUVAKULAM 
+6 
+CHIDAMBARAM 
+CUDDALORE TALUK 
+7
+ RETTYCHAVADI
+8 
+THIRUVANTHIPURAM 
+9 
+MANJAKKUPPAM 
+KATTUMANNARKOIL TALUK 
+10 
+UDAIYARKUDI 
+11 
+PUTHUR 
+12 
+KUMARACHI 
+13 
+KATTUMANNARKOIL 
+SRlMUSHNUM TALUK 
+14 
+SRIMUSHNAM 
+KURINJIPADI TALUK 
+15 
+KURINJIPADI 
+16 
+KULLANCHAVADI 
+PANRUTI TALUK 
+17
+NELLIKUPPAM
+18 
+PANRUTI 
+19 
+MARUNGUR 
+20 
+KADAMPULIYUR 
+TITTAGUDI TALUK 
+21
+PENNADAM
+22 
+THOZHUDUR 
+23 
+TlTTAGUDI (E) 
+24
+TlTTAGUDI (W) 
+VEPPUR TALUK 
+25 
+SIRUPAKKAM 
+26 
+VEPPUR 
+VlRUDHACHALAM TALUK 
+27 
+KAMMAPURAM(E) 
+28 
+UMANGALAM 
+29 
+KO-MANGALAM 
+30 
+KAMMAPURAM(W) 
+31 
+VIRUDHACHALAM (N) 
+32 
+VIRUDHACHALAM (S) 
+DHARMAPURI DISTRICT (Total Firkas -23) 
+DHARMAPURI TALUK 
+1 
+DHARMAPURI 
+2 
+KRISHNAPURAM 
+HARUR TALUK 
+3 
+HARUR 
+4 
+THEERTHAMALAI 
+5 
+MORAPPUR 
+KARlMANGALAM TALUK 
+6 
+PERIANAHALLI 
+7 
+KARIMANGALAM 
+8 
+KAMBAINALLUR 
+NALLAMPALLI TALUK 
+9 
+INDUR 
+10 
+NALLAMPALLI 
+11 
+PALAYAM 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 141
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+PALACODE TALUK 
+12 
+MARANDAHALLI 
+13 
+PALACODE 
+14 
+PULIKARAI 
+15 
+VELLICHANDAI 
+PAPPIREDDIPATTY TALUK 
+16 
+BOMMIDI 
+17 
+PAPPIREDDI PATTY 
+18 
+KADATHUR 
+19 
+THENKARAIKOTTAI 
+PENNAGARAM TALUK 
+20 
+PAPPARAPATTY 
+21 
+SUNJALNATHAM 
+22 
+PENNAGARAM 
+23 
+PERUMBALAI 
+DlNDIGAL DISTRICT (Total Firkas 40) 
+DlNDIGAL EAST TALUK 
+1 
+SHANARPATTI 
+2 
+KAMBILIAMPATTI 
+3 
+DINDIGUL EAST 
+4 
+SILVATHUR 
+DlNDIGAL WEST TALUK 
+5 
+REDDIARCHATRAM 
+6 
+PALAKKANOOTHU 
+7 
+DHARMATHUPATTI 
+8 
+DINDIGUL WEST 
+ATHOOR TALUK 
+9 
+AYYAMPALAYAM 
+10 
+ATHOOR 
+11 
+CHINNALPATTI 
+NATHAM TALUK
+12 
+REDDIAPATTI 
+13 
+SENTHURAI 
+14 
+NATHAM 
+NlLAKOTTAI TALUK 
+15 
+NILAKOTTAI 
+16 
+PILLAIYAR
+ NATHAM 
+17 
+VATLAGUNDU 
+18 
+VIRUVEEDU 
+19 
+ORUTHATTU 
+PALANI TALUK 
+20 
+THOPPAMPATTI 
+21 
+NEIKKARA
+PATTAI 
+22 
+PAPPAMPATTI 
+23 
+PALANI 
+24 
+AYAKUDI 
+25 
+KORIKADAVU 
+ODDANCHATHRAM TALUK 
+26 
+CHINNAKKAMPATTI 
+27 
+DEVATHUR 
+. 
+28 
+KALLlMANTHAYAM 
+29 
+ODDANCHATHRAM 
+30 
+PULlYURNATHAM 
+VEDASANDUR TALUK 
+31 
+AYYALUR 
+32 
+ERIODU 
+33 
+VADAMADURAI 
+34 
+VEDASANDUR 
+GUJILIAMPARAI TALUK 
+35 
+KOTTANATHAM 
+
+
+142 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+36 
+KOVILUR 
+37 
+PALAYAM. 
+KODIAKANAL TALUK 
+38 
+KODIAKANAL 
+39 
+PANNAIKADU 
+40 
+THANDIKUDI 
+ERODE DISTRICT (Total Firkas-34) 
+ANTHIUR TALUK 
+1 
+ANTHIYUR 
+2 
+AMMAPETTAI 
+3 
+BURGUR 
+4 
+ATHANI 
+BHAVANI TALUK 
+5 
+BHAVANI 
+6 
+KAVANDAPADI 
+7 
+KURICHI 
+ERODE TALUK 
+8 
+ERODE EAST 
+9 
+ERODE NORTH 
+10 
+ERODE WEST 
+NAMBlYUR TALUK 
+11 
+NAMBIYUR 
+12 
+ELATHUR 
+GOBICHETTlPALAYAM TALUK 
+13 
+KASIPALAYAM 
+14 
+SIRUVALUR 
+15 
+GOBICHETTIPALAYAM 
+16 
+VANIPUTHUR 
+17 
+KUGALUR 
+KODUMUDI TALUK 
+16 
+KODUMUDI 
+19 
+SIVAGIRI 
+20 
+KILAMPADI 
+MODAKURICHI TALUK 
+21 
+MODAKURICHI 
+22 
+POONDURAI 
+23
+ARACHALUR
+PERUNDURAI TALUK 
+24 
+CHENNIMALAI 
+25 
+KANJIKOIL 
+26 
+PERUNDURAI 
+27 
+VELLODE 
+28 
+THINGALUR 
+SATHYAMANGALAM TALUK 
+29 
+BHAVANISAGAR 
+30 
+KUTHIYALATHUR 
+31 
+PUNJAIPULIAM PATTI 
+32 
+ARASUR 
+33 
+SATHYA MANGALAM 
+THALAVADI TALUK 
+34 
+THALAVADI 
+KALLAKURICHI DISTRICT (Total Firkas-23) 
+KALLAKURICHI TALUK 
+1 
+INDILI 
+2 
+NAGALUR 
+3 
+THIYAGADURGAM 
+4 
+KALLAKURICHI 
+SANKARAPURAM TALUK 
+5 
+ALATHAUR 
+6 
+ARIYALUR (V) 
+7 
+SANKARAPURAM 
+8 
+VADAPONPARAPI 
+9 
+RISHIVANDHIYAM 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 143
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+CHINNA SALEM TALUK 
+10 
+NAlNARPALAYAM 
+11 
+  CHINNASALEM 
+12 
+VADAKANANDAL
+KALVARAYAN HILLS TALUK 
+ 
+ 
+13
+KALVARAYAN HILLS
+ 
+14
+VELLIMALAI
+THIRUKOILUR TALUK 
+15 
+THIRUPPALA PANDAL
+16 
+MANALURPETTAI 
+17 
+THIRUKOlLUR 
+ULUNDURPETTAI TALUK 
+18 
+ELAVANASUR KOTTAI 
+19 
+  KALAMARUDUR 
+20 
+SENGURICHI 
+21 
+THIRUNAVALLUR 
+22 
+ERAlYUR 
+23 
+  ULUNDURPETTAI 
+KANCHEEPURAM DlSTRlCT(Total Firkas-25) 
+KANCHEEPURAM TALUK 
+1 
+  GOVINDHAVADI 
+2 
+THIRUPPU KUZHI 
+3 
+KANCHEEPURAM 
+4 
+SIRUKAVERIPAKKAM 
+5 
+CHITTIAMBAKKAM 
+6 
+PARANDUR 
+UTHIRAMERUR TALUK 
+7 
+ARUMPULIYUR 
+8 
+KALlYAMPOONDI 
+9 
+SALAVAKKAM 
+10 
+THIRUPULIVANAM 
+11 
+KUNNAVAKKAM 
+12 
+UTHIRAMERUR 
+WALAJABAD TALUK 
+13 
+WALAJABAD 
+14 
+MAHARAL 
+15 
+THENNERI 
+SRIPERMPUDUR TALUK 
+16 
+MADURAMANGALAM 
+17 
+SRIPERUMPUDUR 
+18 
+SUNKUVARCHATRAM
+19 
+THANDALAM 
+20 
+VALLAM 
+KUNDRATHUR TALUK 
+21 
+KOLLAPAKKAM 
+22 
+KUNDRATHUR 
+23 
+MANGADU 
+24 
+PADAPPAI 
+25 
+SERAPPANACHERI 
+KANYAKUMARI DlSRlCT(TOTAL FIRKAS-18) 
+AGATHEESWARAM TALUK 
+1 
+RAJAKKA 
+MANGALAM 
+2 
+KANNIYAKUMARI 
+3 
+NAGERCOIL 
+4 
+SUCHINDRAM 
+THIRUVATTAR TALUK 
+5 
+KULASEKARAM 
+6 
+THIRUVATTAR 
+KALKULAM TALUK 
+7 
+COLACHEL 
+8 
+KURUNTHENCODE 
+9 
+THIRUVITHANCODE 
+10 
+THUCKALAY 
+THOVALAI TALUK 
+11 
+AZHAIPANDIPURAM 
+12 
+BHOOTHAPANDY 
+13 
+THOVALAI 
+
+
+144 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+VlLVANCODE TALUK 
+14 
+ARUMANAI 
+15 
+EDAICODE 
+16 
+VILAVANCODE 
+KlLLIYOOR TALUK 
+17 
+MIDALAM 
+18 
+PAINKULAM 
+KARUR DISTRICT (Total Firkas-20) 
+ARAVAKURICHI TALUK 
+1
+PALLAPATTI 
+2 
+CHINNADHARA
+ PURAM 
+3 
+ARAVAKURICHI 
+KADAVUR TALUK 
+4 
+KADAVUR 
+. 
+5 
+MAlLAMPATTI 
+KARUR TALUK 
+6 
+THORANAKALPATTI
+7
+VELLlYANAl 
+8
+KARUR 
+KRISHINARAYAPURAM TALUK 
+9 
+PANJAPATTI 
+10 
+CHINTHALAVADI 
+11 
+KATTALAI 
+KULITHLAI TALUK 
+12
+THOGAIMALAI
+13 
+KULITHALAI 
+14 
+NANGAVARAM 
+MANMANGALAM TALUK 
+15 
+VANGAL 
+16 
+MANMANGALAM 
+17 
+THALAPATTI 
+PUGALUR TALUK 
+18 
+K.PARAMATHY 
+19 
+THENNILAI 
+20 
+PUGALUR 
+KRISHNAGIRI DISTRICT (Total Firkas -29)
+BARGUR TALUK 
+1 
+BARGUR 
+2 
+PALEPALLl 
+ANJETTl TALUK 
+3 
+ANJETTI 
+DENKANIKOTTAI TALUK 
+4 
+RAYAKOTTAI 
+5 
+KELAMANGALAM 
+6 
+ANDEVANAPALLl 
+7 
+DENKANIKOTTIA 
+8 
+KAKKADASAM 
+9 
+THALLY 
+HOSUR TALUK 
+10 
+BAGALUR 
+11 
+MATHIGIRI 
+12 
+HOSUR 
+KRlSHNAGlRI TALUK 
+13 
+ALAPATTI 
+14 
+PERIYAMUTHUR 
+15 
+KAVERIPATTINAM 
+16 
+GURUPARAPALLl 
+17 
+KRISHNAGIRI 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 145
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+18 
+VEPPANAPALLI 
+POCHAMPALLI TALUK 
+19 
+MATHUR 
+20 
+POCHAMPALLI 
+21 
+BARUR 
+22 
+NAGARASAMPATTI 
+SHOOLAGIRI TALUK 
+23 
+BERIGAI 
+24 
+SHOOLAGIRI 
+25 
+UTHANAPALLl
+UTHANGARAI TALUK 
+26 
+KALLAVI
+27
+SAMALPATTI 
+28 
+SINGARAPETTAI 
+29 
+UTHANGARAI 
+MADURAI DISTRICT(Total Firkas-51) 
+MADURAI EAST TALUK 
+1 
+APPAN THIRUPATHI 
+2 
+ARUMABANUR 
+3 
+KALLANDHIRI 
+4 
+KUNNATHUR 
+5 
+OTHAKKADAI 
+6 
+RAJAKKUR 
+7 
+SAKKIMANGALAM 
+MADURAI NORTH TALUK 
+8 
+CHATHRAPATTI 
+9 
+KOOLAPANDI 
+10 
+KULAMANGALAM 
+11 
+SAMAYANALLUR 
+12 
+SATHAMANGALAM 
+MADURAI SOUTH TALUK 
+13 
+MADURAI EAST 
+14 
+AVANIYAPURAM 
+15 
+VlRATHANUR 
+MADURAI WEST TALUK 
+16 
+NAGAMALALI PUDUKOTTA 
+17 
+ MADURAI WEST 
+MELUR TALUK 
+18 
+A.VELLALAPATTI 
+19 
+KARUNGALAKUDI 
+20 
+KOTTAMPATTI
+21 
+KEELAVALAVU 
+22 
+VELLALUR 
+23 
+MELAVALAVU 
+24 
+MELUR 
+25 
+THIRUVATHAVUR 
+PERAIYUR TALUK 
+26 
+SEDAPATTI
+27
+ELUMALAI
+28
+ATHIPATTI
+29
+PERAIYUR
+30
+MOTHAGAM
+31 
+T.KALLUPATTI 
+KALLlGUDI TALUK 
+32 
+KALLIGUDI 
+33 
+KURAIYUR 
+34 
+SIVARAKKOTTAI 
+THIRUMANGALAM TALUK 
+35 
+KOKKULAM 
+36 
+THIRUMANGALAM 
+37 
+PANNIKKUNDU 
+THRUPPARANKUNDRAM TALUK
+38
+VALAYANKULAM
+39
+THIRUPPARAN-
+  KUNDRAM
+
+
+146 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+USILAMPATTl TALUK 
+40 
+USILAMPATTI 
+41 
+KARUMATHUR 
+42 
+VALANTHUR 
+43
+UTHAPPA NAlCKANUR
+44 
+SINDHUPATTI 
+VADlPATTI TALUK 
+45
+MUDUVARPATTI
+46
+ALANGANALLUR
+47
+PALAMEDU 
+48 
+SOLAVANDHAN 
+49 
+THANICHIAM 
+50 
+NEERATHAN 
+51 
+THENKARAI 
+NAGAPATTINAM DlSTRlCT(TotaI Firkas-31) 
+KILVELUR TALUK 
+1 
+KEELAlYUR 
+2 
+KILVELUR 
+3 
+THEVOOR. 
+4 
+VELANGANNI 
+KUTTALAM TALUK
+5 
+KUTTALAM 
+6 
+MANGANALLUR 
+7 
+PALAIYUR 
+MAYILADUTHURAI TALUK 
+8 
+MAYlLADUTHURAI 
+9 
+MANALMEDU 
+10 
+PATTAVARTHI 
+NAGAPATTINAM TALUK 
+11 
+THIRU-
+KANNAPURAM 
+12 
+KANGALAN 
+CHERI 
+13 
+NAGAPPATTINAM 
+14
+THERKUPOIGAI
+NALLUR
+15 
+THlRUMARUGAL 
+SIRKALI TALUK 
+16 
+PUTHUR
+17 
+VAITHEESWARAN KOIL 
+18
+SIRKALl
+19 
+MADHANAM
+20 
+THlRUVENGADU
+THARANGAMPADI TALUK 
+21 
+MELAIYUR 
+22 
+THILLAYADI 
+23 
+SEMBANARKOIL
+24 
+THIRUVILAIYATTAM
+THIRUKKUVALAI TALUK 
+25 NIRMULAI 
+26 THIRUKKUVALAI 
+27 VALIVALAM 
+VEDARANYAM TALUK 
+28 
+KARIYA PATTINAM 
+29 
+THAGATUR
+30 
+THALAlNAYAR 
+31 VEDARANYAM 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 147
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+NAMAKKAL DISTRICT (TotaI Firkas-30) 
+NAMAKKAL TALUK 
+1 
+NALLIPALAYAM
+2 
+NAMAKKAL
+3 
+PUDUCHATRAM 
+4 
+SELLAPPAMPATTI
+SENTHAMANGALAM TALUK 
+5
+ALANGANATHAM
+6 
+ERUMAlPATTI 
+7 
+KALAPPANAIKAN PATTI 
+8 
+SENTHAMANGALAM 
+MOHANUR TALUK 
+9 
+MOHANUR 
+10 
+PALLAPATTI 
+11 
+VALAIYAPATTI
+KOLIMALAI TALUK 
+12 
+THlRUPULI NADU 
+13 
+VALAVANTHI NADU 
+PARAMATHI VELUR TALUK 
+14 
+NALLUR 
+15 
+JEDARPALAYAM 
+ 
+16 
+PARAMATHl 
+17 
+PANDAMANGALAM 
+RASIPURAM TALUK 
+18 
+MANGALAPURAM 
+19 
+MULLUKURICHI 
+20 
+NAMAGIRIPETTAI 
+21 
+RASlPURAM 
+22 
+VENNANDUR 
+KUMARAPALAYAM TALUK 
+23 
+KUMARAPALAYAM 
+24 
+PALLlPALAYAM 
+THIRUCHENGODE TALUK 
+25 
+MALLASAMUDRAM 
+26 
+ELACHIPALAYAM 
+27 
+MANICKAM PALAYAM 
+28 
+VAIYAPPAMALAI 
+29 
+MOLASI 
+30 
+THIRUCHENGODE 
+PERAMBALUR DISTRICT (TotaI Firkas-11) 
+ALANDUR TALUK 
+1 
+CHETTlKULAM 
+2 
+KOOTHUR 
+3 
+KOLAKANATHAM 
+VEPPANTHATTAI TALUK 
+4
+VENGALAM 
+5 
+PASUMBALUR 
+6 
+VALIKANDAPURAM 
+PERAMBALUR TALUK 
+7 
+KURUMBALUR 
+8
+PERAMBALUR
+KUNNAM TALUK 
+9 
+KEELAPULlYUR 
+10 
+VADAKKALUR 
+11 
+VARAGUR 
+PUDUKKOTTAI DISTRICT (Total Firkas-45) 
+ALANGUDI TALUK 
+1 
+KEERAMANGALAM 
+2 
+ALANGUDI 
+3 
+VENNAVALKUDI 
+4 
+VALLANADU 
+
+
+148 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+ARANTHANGI TALUK 
+5 
+ARASARKULAM 
+6 
+ARANTHANGI 
+7 
+ATHANI 
+8 
+NAGUDI 
+9 
+POOVATHAKUDI 
+10 
+SILATTUR 
+AVUDAlYARKOIL TALUK 
+11 
+AVUDAlYARKOIL 
+12 
+EMBAL 
+13 
+PONPETTE 
+14 
+MIMISAL 
+GANDARVAKOTTAI TALUK 
+15 
+GANDARVAKOTTAI 
+16 
+KALLAKKOTTAI 
+17 
+PUDUNAGAR 
+ILLUPPUR TALUK 
+18 
+VEERAPATTY 
+19 
+KUDUMIYANMALAI 
+20 
+ILLUPPUR 
+21 
+SITHANAVASAL 
+KARAMBAKUDI TALUK 
+22 
+MALAlYUR 
+23 
+KARAMBAKUDI 
+KULATHUR TALUK 
+24 
+NARTHAMALAl 
+25 
+KEERANUR 
+26 
+KILLUKKOTTAI 
+27 
+KUNNANDARKOIL 
+28 
+MATHOOR 
+MANAMELKUDI TALUK 
+29 
+MANAMELKUDI 
+30 PERUMARUTHUR 
+31 KOTTAI PATTINAM 
+32 SINKAVANAM 
+PONNAMARAVATHY TALUK 
+33 
+ARASAMALAI 
+34 
+KARAlYUR 
+35 
+PONNAMARAVATHY 
+PUDUKKOTTAI TALUK 
+36 
+VARAPPUR 
+37 
+PUDUKKOTTAI 
+THIRUMAYAM TALUK 
+38 
+KOTTUR 
+39 
+KEELANILAI 
+40 
+SENGEERAI 
+41 
+THIRUMAYAM 
+42 
+VIRACHILAI 
+VIRALIMALAI TALUK
+43 
+KODUMBALUR 
+44 
+NEERPALANI 
+45 
+VlRALIMALAI 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 149
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+RAMANATHAPURAM DlSTRICT (Total Firkas-38)
+KADALADI TALUK 
+1 
+AAPPANUR 
+2 
+KADALADI 
+3 
+MELACHELVANUR 
+4 
+S.THARAIKUDI 
+5 
+SAYALKUDI 
+6 
+SIKKAL 
+KAMUTHI TALUK 
+7 
+ABIRAMAM 
+6 
+KAMUTHI EAST 
+9 
+KAMUTHI WEST 
+10 
+KOVILANKULAM 
+11 
+PERUNAAZHI 
+KEELAKKARAI TALUK 
+12 
+T.U.MANGAI 
+13 THIRUPULLANI 
+14 
+KEELAKKARAI 
+MUDUKULATHUR TALUK 
+15 
+KAKKUR 
+16 
+MUDUKULATHUR 
+SOUTH 
+17 
+KEELATHUVAL 
+18 
+MELAKODUMALUR 
+19 
+MUDUKULATHUR 
+NORTH
+20 
+THERIRUVELI 
+PARAMAKUDI TALUK 
+21 
+BOGALUR 
+22 
+KILlYUR 
+23 
+MANJUR 
+24 
+NAINARKOIL 
+25 
+PARAMAKUDI 
+26 
+PARTHIPANOOR 
+RAMANATHAPURAM TALUK 
+27 
+DEVIPATTINAM 
+28 
+MANDAPAM 
+29 
+RAMANATHAPURAM 
+30 
+PERUNKULAM 
+RAMESHWARAM TALUK 
+31 
+RAMESWARAM 
+R.S. MANGALAM TALUK 
+32 
+AANANDHUR 
+33 
+R.S. MANGALAM 
+34 
+SHOLANDHUR 
+THIRUVADANAI TALUK 
+35 
+PULLUR 
+36   MANGALAKUDI 
+37 
+THIRUVADANI 
+38   THONDI 
+RANIPET DISTRICT (TotaI Firkas-18) 
+WALAJAH TALUK 
+1 
+WALAJAH 
+2 
+VISHARAM 
+3 
+RANIPET 
+
+
+150 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+ARAKKONAM TALUK 
+4 
+PALLUR 
+5 
+ARAKONAM (NORTH) 
+6 
+ARAKONAM (SOUTH) 
+7 
+PARANJI 
+ARCOT TALUK 
+8 
+TIMIRI 
+9
+ARCOT
+10 
+PUDUPADI 
+NEMILI TALUK 
+11 
+ NEMILI (V) 
+12 
+KAVERIPAKKAM 
+13 
+PANAPAKKAM 
+SHOLUNGHUR TALUK 
+14 
+SHOLINGHUR 
+15 
+VELAM 
+16 
+BANAVARAM 
+KALAVAI TALUK 
+17 
+ KALAVAI 
+18 
+MAMBAKKAM 
+SALEM DISTRICT (TotaI Firkas-44) 
+ATTUR TALUK 
+1 
+MALLIYAKARAl 
+2 
+ATTUR 
+3 
+KATTUKKOTTAI 
+4 
+THALAIVASAL
+EDAPPADI TALUK 
+5 
+EDAPPADI 
+6 
+KONGANAPURAM 
+‘.7 
+POOLAMPATTI
+GANGAVALLI TALUK 
+8 
+VEERAGANOOR 
+9 
+GANGAVALLI 
+10 
+PATCHMALAI 
+KADAYAMPATTI  TALUK 
+11 
+KADAYAMPATTI 
+12 
+SEMMANDAPPATTI
+METTUR TALUK 
+13 
+MECHERI 
+14 
+KOLATHUR 
+15 
+NANGAVALLI
+t 
+16 
+PALAMALAI 
+17 
+METTUR 
+18 
+POTTANERI 
+OMALUR TALUK 
+19 
+OMALUR 
+20 
+ KARUPUR 
+21 
+THARAMANGALAM 
+PETHANAICKAN PALAYAM TALUK 
+22 
+PETHANAICKAN PALAYAM 
+23 
+KALRAYANMALAI 
+24 
+YETHAPUR 
+SALEM TALUK 
+25 
+SALEM-TOWN 
+26 
+ PANAMARATHUPPATTI 
+27
+VALASAIYUR 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 151
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+SALEM SOUTH TALUK 
+28 
+VEERAPANDI
+29 
+VEMBADITHALAM
+30
+KONDALAMPATTI
+SALEM WEST TALUK 
+31 
+THlRUMALAIGlRl 
+32 
+ALAGAPURAM 
+33 
+SURAMANGALAM 
+SANKARI TALUK 
+34 
+ERNAPURAM 
+35 
+THEVUR 
+36 
+SANKARl EAST 
+37 
+SANKARI WEST 
+VAZHAPPADI TALUK 
+38 
+VAZHAPPADI 
+39 
+ARUNOOTHUMALAI 
+40 
+KARlPPATTI
+41 
+BELUR 
+-’ 
+YERCAUD TALUK 
+42 
+PUTHUR
+43 
+VELLAKKADAI
+44 
+YERCAUD
+SlVAGANGA DISTRICT (Total Firkas-39) 
+DEVAKOTTAI TALUK 
+1 
+DEVAKOTTAI 
+2 
+KANDADEVI 
+3 
+KANNANGUDI 
+4 
+PUZHIYAl 
+5 
+SARUGANI 
+ILYANGUDI TALUK 
+.. 
+6 
+ILAYANGUDI 
+7 
+SOORANAM 
+B 
+THAYAMANGALAM 
+9 
+A.THIRUVUDUIR  
+  PURAM 
+10 
+SALAlGRAMAM 
+KALAYARKOVIL TALUK 
+11 
+NATTARASANKOTTAI 
+12 
+KALAYARKOVIL
+13 
+MARAVAMANGALAM 
+14 
+SILUKKAPATTI 
+15 
+MALLAL 
+KARAlKUDI TALUK 
+16 
+KALLAL
+17 
+KARAIKUDI 
+18 
+PALLATHUR 
+19 
+SAKKOTTAI 
+20 
+MITHRAVAYAL 
+MANAMADURAI TALUK 
+21 
+SEIKALATHUR 
+22 
+MUTHANENTHAL
+23 
+MANAMADURAI 
+
+
+152 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+SlVAGANGAI TALUK 
+24 
+MATHAGUPATTI 
+25 
+OKKUR 
+26 
+PERIAKOTTAl 
+27 
+SIVAGANGAI 
+28 
+THAMARAKKI 
+SlNGAMPUNARI TALUK 
+29 
+S.S.KOTTAI 
+30 
+SINGAMPUNARI 
+31. 
+VARAPPUR 
+THIRUPPATHUR TALUK 
+32 
+NATCHIYAPURAM 
+33 
+THIRUKOSTIYUR 
+34 
+THIRUPPATHUR 
+35 
+ILAYATHAKUDI 
+36 
+NERKUPPAI 
+THIRUPUVANAM TALUK 
+37 
+KONTHAGAl 
+38 
+THIRUPPUVANAM 
+39 
+THIRUPPACHETHY 
+TENKASI DISTRICT (Total Firkas -31) 
+TENKASI TALUK 
+1 
+KALLURANI 
+2 
+ALWARKURICHI 
+3 
+KADAYAM
+4 
+TENKASI 
+KADAYANALLUR TALUK 
+5 
+AYIKUDI 
+6 
+KADAYANALLUR 
+7 
+PULIYANKUDI 
+SENGOTTAI TALUK 
+8 
+ELATHUR 
+9 
+PANPOLI
+10 
+SCHENCOTTAI 
+VEERAKERALAMPUDUR TALUK 
+11 
+KARUVANTHA
+12 
+VEERAKERALAM     
+PUDUR 
+13 
+SURANDAI 
+14 
+UTHUMALAI
+THIRUVENGADEM TALUK
+15 
+KARlSAL KULAM 
+16 
+THIRVENGADEM 
+17
+PAZHANKOTTAI
+SANKARANKOIL TALUK 
+18 
+KARlVAKLAMVANDANALLUR 
+19 
+KURUKKALPATTI
+20 
+SANKARANKOLl 
+21 
+SERNTHA MANGALAM 
+22 
+VEERASIGAMANI 
+ALANKULAM TALUK
+23 
+KEEZHAPAVOOR 
+24 
+ALANKULAM 
+25 
+PUDUPATTI
+26 
+NETTUR 
+27 
+VENKADAMPATTI
+, 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 153
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+SlVAGIRI TALUK 
+28 
+GUDALUR 
+29 
+VASUDEVANALLUR 
+30 
+SIVAKIRI 
+CHERAN MAHADEVI TALUK 
+31 
+PAPPAKUDI 
+THANJAVUR DISTRICT (Total Firkas-50) 
+BUDHULUR TALUK 
+1 
+AGARAPETTAI 
+2 
+BUDALUR 
+3 
+SENGIPATTI 
+4 
+THIRUKKATTU PALLI 
+KUMBAKONAM TALUK 
+5 
+DEVANANCHERI 
+6 
+CHOLANMALIGAI 
+7 
+KUMBAKONAM 
+8 
+MURUKKANGUDI 
+9 
+NACHIYARKOll 
+ORATHANAD TALUK 
+10 
+THONDARAM PATTU 
+11 
+ULUR 
+12 
+ORATHANAD 
+13 
+EACHANKOTTAI 
+14 
+KAVALIPATTI
+15 
+THEKKUR 
+16 
+THIRUMANGALA KOTTAI 
+17 
+SILLATHUR
+PAPANASAM TALUK 
+18 
+AYYAMPETTAI 
+19 
+SALIYAMANGALAM 
+20 
+MELATTUR 
+21 
+PAPANASAM 
+22 
+AMMAPET
+23 
+KABISTHALAM 
+PATTUKKOTTAI TALUK 
+24 
+TlRUCHITRAM BALAM 
+25 
+NAMBIVAYAL 
+26 
+KURICHI 
+27 
+THUVLARANKURICHI 
+28 
+PERIYAKOTTAI 
+29 
+ANDIKKADU 
+30 
+THAMBIKOTTAI 
+31 
+MADUKKUR 
+32 
+PATTUKKOTTAI 
+33 
+ADlRAMPATTlNAM 
+PERAVURANI TALUK 
+34 
+AVANAM
+35 
+PERAVURANI 
+36 
+PERUMAGALUR 
+37 
+KURUVIKARAMBAI 
+THANJAVUR TALUK 
+38 
+NANJIKOTTAI 
+39 
+PERAMBUR 
+40 
+VALLAM 
+41 
+THANJAVUR 
+42 
+RAMAPURAM 
+THlRUVAlYARU TALUK 
+43 
+KANDIYUR 
+44 
+NADUKAVERI 
+45 
+THIRUVAlYARU 
+THIRUVIDAMARUDUR TALUK 
+46 
+ADUTHURAI 
+47 
+KATHIRA MANGALAM 
+48 
+THIRUVIDA MARUDUR 
+49 
+TIRUPPANANDAL 
+50 
+PANDANALLUR 
+
+
+154 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+THE NILGIRIS DISTRICT (Totai Firkas-15) 
+COONOOR TALUK 
+1 
+COONOOR 
+2 
+KETTI 
+3 
+MELUR 
+GUDALUR TALUK 
+4 
+DEVARSHOLA 
+5 
+GUDALUR 
+KOTHAGlRl TALUK 
+6 
+KlLKOTAGIRI 
+7 
+NEDUGULA 
+8 
+KOTAGIRI 
+PANDALUR TALUK 
+9 
+CHERAMBADI 
+10 
+PANDALUR 
+KUNDAH TALUK 
+11 
+IHALAR 
+12 
+KUNDAH 
+UDHAGAMANDALAM TALUK 
+13 
+SHOLUR 
+14 
+THUNERI 
+15 
+UDHAGAMANDALAM 
+THENI DISTRICT (Total Firkas-17) 
+ANDIPATTI TALUK 
+1 
+KANDAMANUR 
+2 
+ANDIPATTI 
+3 
+RAJATHANI 
+4 
+MAYLADUMPARAI 
+BODINAYAKANUR TALUK 
+5 
+KODANGIPATTI 
+6 
+BODINAYAKANUR 
+7 
+RASINGAPURAM 
+PERlYAKULAM TALUK 
+8 
+DEVATHANAPATTI 
+9 
+THENKARAI 
+THENl TALUK 
+10 
+THENI 
+11 
+KODIVILARPATTI 
+UTHAMAPALAYAM TALUK 
+12 
+ERASAKKA NAlCKANUR 
+13 
+UTHAMAPALAYAM 
+14 
+CHINNAMANUR 
+15 
+THEVARAM 
+16 
+MARKAYANKOTTAI 
+17
+CUMBUM
+17
+CUMBAM
+TIRUCHIRAPPALLI DISTRICT {Total Firkas-43) 
+LALGUDI TALUK 
+1 
+PERUVALPUR 
+2 
+VALADI 
+3 
+ANBIL 
+4 
+KALLAKKUDI 
+5 
+LALGUDI 
+6 
+PULLAMBADI 
+MANAPPARAI TALUK 
+      7         VAlYAMPATTI
+8 
+MANAPPARAI 
+     9          PANNAPPATTI
+10 
+V.PERlYAPATTI 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 155
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+MANNACHANALLUR TALUK 
+11 
+KARIYAMANICKAM 
+12 
+MANNACHA NALLUR 
+13 
+SIRUGAMBUR 
+MARUNGAPURI TALUK 
+14 
+MARUNGAPURI 
+15 
+VALANADU 
+16 
+THUVARANGURICHI 
+MUSIRI TALUK 
+17 
+THUMBALAM 
+18 
+MUSIRI 
+19 
+AAMUR 
+20 
+PULIVALAM 
+21 
+THATHAlYANGAR PETTAI 
+22
+VALAIEDUPPU 
+SRIRANGAM TALUK 
+23 
+MAHIKANDAM 
+24 
+ANDANALLUR 
+25 
+KULUMANI 
+26 
+SOMARASAN PETTAI 
+27 
+SRIRANGAM 
+THOTTlYAM TALUK 
+28 
+EALURPATTI 
+29 
+KATTUPUTHUR 
+30 
+THOTTIYAM 
+THURAIYUR TALUK 
+31 
+KOPPAMPATTI 
+32 
+UPPILIYAPURAM 
+33 
+THURAIYUR 
+34 
+KANNANUR 
+35 
+ERAGUDI 
+36 
+SENGATTUP PATTI 
+TlRUVERUMBUR TALUK 
+37 
+NAVALPATTU 
+38 
+TIRUVERUMBUR 
+39 
+VENGUR 
+TlRUCHIRAPPALLI  EAST TALUK 
+40
+TlRUCHIRAPPALLI
+NORTH
+41
+TlRUCHIRAPPALLI
+SOUTH
+TIRUCHIRAPPALLI WEST TALUK 
+42
+TlRUCHIRAPPALLI
+NORTH
+43
+TlRUCHIRAPPALLI
+SOUTH
+TIRUPATHUR DISTRICT (Total Firkas-11) 
+TIRUPATHUR TALUK 
+1 
+KAHDHILI
+2 
+ANDIYAPPANUR 
+3 
+JOLARPET 
+4 
+KORATTI
+5 
+PUDURNADU 
+6 
+TlRUPATHUR 
+VANlYAMBADI TALUK 
+7 
+VANIYAMBADI 
+8 
+ALANGAYAM
+9 
+AMBALUR 
+NATRAMPALLI TALUK 
+10 
+AMMANANKOIL 
+11 
+NATRAMPALLI 
+
+
+156 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+THlRUVALLUR DISTRICT (TotaI Firkas-47) 
+THlRUVALLUR TALUK 
+1 
+VENGATHUR 
+2 
+POONDI 
+3 
+AMMANAM BAKKAM 
+4 
+TIRUR 
+5 
+PANDUR 
+6 
+MAPPEDU 
+7 
+THIRUVALLUR 
+8 
+VELLlYUR 
+9 
+KADAMBATHUR 
+AVADI TALUK 
+10 
+AVADI 
+11 
+MORAl 
+12 
+TlRUMULLAIVOIYAL 
+13 
+THIRUNINRAVUR 
+14 
+VELLANUR 
+UTHUKKOTTAI TALUK 
+15 
+UTHUKKOTTAI 
+16 
+PENNALURPETT 
+17 
+KANNIGAIPAIR 
+18 
+PERIYAPALAYAM 
+19 
+VELAKAPURAM 
+POONAMALLEE TALUK 
+20 
+POONAMALLEE 
+21 
+THIRUMAZHISAI 
+22
+VOYALANALLUR 
+23 
+NEMAM 
+PONNERI TALUK 
+24 
+PUZHAL 
+25 
+ARANI 
+26 MINJUR 
+27 
+GNAYIRU 
+28 
+PONNERI 
+29 
+SHOLAVARAM 
+30 
+THIRUPALAIVANAM 
+31 
+KATTUR 
+32 
+KOLUR 
+R.K.PET TALUK 
+33 
+R.K.PET 
+34 
+ERUMBI 
+35 
+BALAPURAM 
+PALLIPATTU TALUK 
+36 
+PALLIPATTU 
+37 
+POTHATTUR PETTAI 
+GUMMIDIPOONDI TALUK 
+38 
+ELAVUR 
+39 
+MADHARPAKKAM 
+40 
+POOVALAMBEDU 
+41 
+GUMMIDIPOONDI 
+TIRUTTANI TALUK 
+42 
+TIRUTTANI 
+43 
+CHERUKKANOOR 
+44 
+THIRUVALANGADU 
+45 
+POONIMANGADU 
+46 
+MANAVOR 
+47 
+KANAGAMMA
+ CHATTRAM 
+THIRUVANNAMALAI DISTRICT (TotaI Firkas-52) 
+ARANI  TALUK 
+1 
+MULLIPATTU 
+2 
+ARNI 
+3 
+AGRAPALAYAM 
+4 
+SATHYAVlJAYA 
+  NAGARAM 
+5 
+KANNAMANGALAM 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 157
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+CHENGAM TALUK 
+6 
+CHENGAM 
+7 
+MELPALLIPATTU 
+8 
+PACHAL 
+9 
+PUDUPALAYAM 
+10 
+ERAlYUR 
+CHETPET TALUK 
+11 
+THACHAMBADI 
+12 
+DEVIKAPURAM 
+13 
+KOLAPPALUR 
+14 
+NEDUNGUNAM 
+CHEYAR TALUK 
+15 
+VADA THANDALAM 
+16 
+VAKKADAI 
+17 
+ANAKAVOOR 
+18 
+CHEYYAR 
+19 
+THETHURAI 
+KALASAPAKKAM TALUK 
+20 
+KADALADI
+21 
+KALASAPAKKAM 
+22 
+KETTAVARAM PALAYAM 
+KlLPENNATHUR TALUK 
+23 
+SOMASPADI 
+24 
+KILPENNATHUR 
+ 
+25 
+VETTAVLAM 
+POLUR TALUK 
+26 
+KELUR 
+27 
+MODAYUR 
+28 
+MANDAKOLATHUR 
+, 
+29 
+SANTHAVASAL
+30 POLUR
+THANDARAMPATTU. TALUK 
+31 
+THANlPADI 
+32 
+THANDARAMPATTU
+33 
+VANAPURAM 
+THIRUVANNAMALAI TALUK 
+34 
+THURlNJIPURAM 
+35 
+VERAlYUR 
+36 
+T.V.MALAI (NORTH) 
+37 
+THATCHAM PATTU 
+38 
+MANGALAM 
+39 
+T.V MALAI (SOUTH) 
+40 
+NAYADUMANGALAM 
+VANDAVASI TALUK 
+41 
+MALAIYUR 
+42 
+VANDAVASI 
+43 
+THELLAR 
+44 
+OSUR 
+45 
+PERANAMALLUR 
+46 
+CHENNAVARAM 
+47 
+DESUR 
+48 
+KILKODUNGALUR 
+VEMBAKKAM TALUK
+49 
+NATERI 
+50 
+PERUNGATTUR 
+51 
+VEMBAKKAM 
+52 
+DUSI 
+THIRUVARUR DISTRICT  (Total Firkas-27)
+KODAVASL TALUK
+1 
+KODAVASAL 
+2 
+THIRUVIZHI MAZHALAI
+NIDAMANGALAM TALUK 
+3
+KORADACHERI 
+4 
+NIDAMANGALAM 
+5 
+VADUVUR 
+
+
+158 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+MANNARKUDI  TALUK 
+6· 
+KOTTUR 
+7 
+MANNARGUDI 
+8 
+PALAIYUR .’ 
+9 
+THALAIYA MANGALAM 
+10 
+ULLIKOTTAI 
+KOOTHANALLUR TALUK  
+11
+KULIKKARAI / KAMALAPURAM
+12 
+VADAPATHI                  
+MANGALAM 
+13 
+KOOTHANALLUR 
+NANNILAM TALUK
+14 
+AGARATHlRU MALAM 
+15 
+SANNANALLUR 
+16 
+PERALAM 
+17 
+NANNlLAM 
+THlRUTHURAIPOONDI TALUK 
+18 
+EDAIYUR 
+19 
+MUTHUPET 
+20 
+THIRUTHURAI 
+POONDI 
+21 
+ALATHAMPADI 
+THlRUVARUR TALUK 
+22 
+THIRUKKANNA MANGAI 
+23 
+THIRUVARUR 
+24 
+KUNNIYUR 
+VALANGAIMAN TALUK 
+25 
+ALANGUDI 
+26 
+AVOOR 
+27 
+VALANGAIMAN 
+.. 
+THOOTHUKKUDI DISTRICT (Total Firkas-41) 
+ETTAYAPURAM TALUK
+1 
+CHOLAPURAM 
+2 
+ETTAYAPURAM 
+3 
+KADALIYUR 
+4 
+MUTHULAPURAM 
+5 
+PADARNTHAPULI 
+KOVILPATTI TALUK 
+6
+ ILAYARASANENDAL 
+7 
+KALUGUMALAI 
+8 
+NALLATIN PUTHUR 
+9 
+KOVILPATTI 
+KAYATHAR TALUK 
+10 
+KAYATHAR 
+11 
+KAMANAlCKEN PATTI 
+12 
+KADAMBUR 
+OTTAPIDARAM TALUK 
+13 
+PARIVALLlKOTTAI 
+14 
+EPPODUMVENDRAN 
+15 
+MANIYACHI 
+16 
+PASUVANTHANAI 
+17 
+VEDANATHAM 
+18 
+OTTAPIDARAM 
+SATTANKULAM TALUK 
+19 
+PALLAKURICHI 
+20 
+SATTANKULAM 
+21 
+SRIVENKATES 
+WARAPURAM 
+ERAL TALUK 
+22 
+ARUMUGA
+MANGALAM 
+23 
+PERUNGULAM 
+24 
+ALWARTHIRU NAGARI 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 159
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+SRlVAlKUNDAM TALUK 
+25 
+DEIVASEYALPURAM 
+26 
+SEIDUNGANALLUR 
+27 
+SRIVAIKUNDAM 
+28 
+VALLANAD 
+THOOTHUKUDI TALUK 
+29 
+KEELATHATLA PARAI 
+30 
+MUDIVAITHANENDAL 
+31 
+PUDUKOTTAI 
+32 
+THOOTHUKUDI 
+TlRUCHENDUR TALUK 
+33 
+UDANGUDI 
+34 
+AUTHOOR 
+35 
+TlRUCHENDUR 
+VILATHIKULAM TALUK 
+36 
+KADALKUDI 
+37 
+KULATHUR 
+38 
+PUDUR 
+39 
+SIVAGNANAPURAM 
+40 
+VEMBAR 
+41 
+VILATHIKULAM 
+TIRUNELVELI DISTRICT (Total Firkas -29) 
+AMBASAMUDRAM TALUK 
+1. 
+AMBASAMUDRAM 
+2 
+SINGAMPATTI 
+CHERANMAHADEVI TALUK 
+3 
+CHERAN MAHADEVI 
+4 
+MELASAVAL 
+5 
+MUKKUDAL 
+MANUR TALUK 
+6 
+VANNIKONENTHAL
+7 
+MANUR 
+8 
+THALAlYUTHU 
+“ 
+NANGUNERI TALUK 
+9 
+MOOLAKARAIPATTI 
+10 
+ERUVADI 
+11 
+KALAKADU 
+12 
+NANGUNERI 
+13 
+POOLAM 
+PALAYAMKOTTAI TALUK 
+14 
+SIVANTHIPATTI 
+15 
+MELAPATTAM 
+16 
+MUNEER PALLAM 
+17 
+PALAYAMKOTTAI 
+RADHAPURAM TALUK 
+18 
+PAZHAVOOR 
+19 
+RADHAPURAM 
+20 
+LEVINJIPURAM 
+21 
+SAMUGARENGA              
+PURAM 
+22 
+PANAGUDI 
+23 
+VALLIYOOR 
+TISAYANVILAI TALUK 
+24 
+VlJAYARAYANA    
+PURAM 
+25 
+TISAYANVILAI 
+
+
+160 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+TIRUNELVELI TALUK 
+26 
+GANGAIKONDAN 
+27 
+MADHAVAKURICHI 
+28 
+NARANAMMAL PURAM 
+29 
+TIRUNELVELI 
+TIRUPPUR DISTRICT (Total Firkas-33) 
+AVINASHI TALUK 
+1 
+AVINASHI(E) 
+2 
+AVINASHI(W) 
+3
+CHEYUR
+4
+PERUMANALLUR
+DHARAPURAM TALUK 
+5 
+MULANUR 
+6 
+ALANGAYAM 
+7 
+DHARAPURAM 
+8 
+KUNDADAM 
+9 
+SANKARANDAM 
+PALAYAM 
+10 
+KANNIVADI 
+11 
+PONNAPURAM 
+KANGEYAM TALUK 
+12 
+KANGEYAM 
+13 
+NATHAKADAlYUR 
+14 
+UTHIYUR 
+15 
+VELLAKOIL 
+MADATHUKULAM TALUK 
+16
+THUNGAVI
+17
+MADATHUKULAM
+PALLADAM TALUK 
+18 
+KARADIVAVI 
+19 
+PALLADAM 
+20 
+PONGALUR 
+21 
+SAMALAPURAM 
+TIRUPPUR (N) TALUK 
+22 
+VELAMPALAYAM 
+23 
+TIRUPPUR (N) 
+TIRUPPUR (S) TALUK 
+24 
+AVlNASHl PALAYAM(S) 
+25 
+NALLUR 
+26 
+TIRUPPUR (S) 
+UDUMALPETTAI TALUK 
+27 
+GUDIMANGALAM 
+28 
+UDUMALPET 
+29 
+PERIAVALAVADI 
+30 
+KURICHIKOTTAI 
+31 
+PETHAPPAMPATTI 
+UTHUKULI TALUK 
+32 
+KUNNATHUR 
+33 
+UTHUKULI 
+~ 
+VELLORE DISTRICT (TotaI Firkas-23) 
+AMBUR TALUK 
+1 
+AMBUR 
+t 
+2 
+MADHANUR 
+3 
+THUTHIPATTU 
+4 
+MELASANNAN KUPPAM 
+GUDlYATHAM TALUK 
+5 
+GUDlYATHAM (WEST) 
+6 
+GUDIYATHAM (EAST) 
+7 
+VALATHUR 
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 161
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+KADPADI TALUK 
+8 
+KATPADI 
+9 
+MELPADI 
+10 
+THIRUVALAM 
+ANAICUT TALUK 
+11 
+ANAICUT 
+12 
+USSOOR 
+13 
+PALLIKONDA 
+14 
+ODUGATHUR 
+15 
+AGARAM 
+VELLORE TALUK 
+16 
+SATHUVACHARI 
+17 
+PENNATHUR 
+18 
+KANIYAMBADI 
+19 
+VELLORE 
+PERNAMPATTU TALUK 
+20 
+MELPATTI 
+21 
+PERNAMPATTU 
+K.V.  KUPPAM TALUK 
+22 
+K.V.  KUPPAM 
+23 
+VADUGANTHANGAL 
+VlLUPPURAM DISTRICT (Tolal Firkas-34) 
+VlLUPPURAM TALUK 
+1 
+KANDAMANGALAM 
+2 
+KANAI 
+3 
+VAJAAVANUR 
+4 
+VlLUPPURAM 
+THlRUVENNAINALLUR TALUK 
+5 
+CHITHALINGA MADAM 
+6 
+T.V.NALLUR 
+7 
+ARASUR 
+KANDACHIPURAM TALUK 
+8 
+MUGAlYUR 
+9 
+ARAKANDANALLUR 
+VlKKlRAVANDI TALUK 
+10 
+ANNIYUR 
+11 
+VIKKlRAVANDI 
+12 
+KANJANUR 
+13 
+SITHALAMPATTU
+VANUR TALUK 
+14 
+NEMILI 
+15 
+KILIYANUR 
+16 
+VANUR 
+17 
+UPPUMELUR 
+TINDIVANAM TALUK 
+18 
+OLAKKUR 
+19 
+TINDIVANAM 
+20 
+MAILAM 
+21 
+VADASIRUNALLUR 
+22 
+AVANIPUR 
+23 
+DEEVANUR 
+24 
+RETTANAl 
+GINGEE TALUK 
+25 
+GINGEE 
+26 
+MELOLAKKUR 
+27 
+SATHlYA MANGALAM 
+28 
+VALLAM 
+MELMALAlYANUR TALUK 
+29 
+AVALURPETTAI 
+30 
+MELMALAIYANUR 
+31 
+SATHAMPADI 
+MARAKKANAM TALUK 
+32 
+BRAMMADESAM 
+33 
+MARAKKANAM 
+34 
+SlRUVADI 
+
+
+162 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+[Part  II—Sec. 1
+OVER EXPLOITED 
+(Extraction Greater than 100%) 
+CRITICAL 
+(Extraction> 
+90% and <100%) 
+SEMI CRITICAL 
+(Extraction> 
+70% and <90%) 
+SAFE 
+(Extraction Less 
+than 70%) 
+SALINE /
+POOR QUALITY 
+VIRUDHUNAGAR DISTRICT (TotaI Firkas-39) 
+ARUPPUKOTTAI TALUK 
+1 
+ARUPPUKOTTAI 
+2 
+PALAYAMAPATTI
+3 
+PANDALKUDI 
+4 
+PARALATCHI 
+5 
+MANDAPASALAI 
+KARIAPATTI TALUK 
+6 
+MALLANKINAR 
+7 
+KALKURUCHI 
+8 
+KARIAPATTI 
+9 
+MUDUKKAN-KULAM 
+RAJAPALAYAM TALUK 
+10 
+CHOLAPURAM 
+11 
+IYANKOLLAN
+ -KONDAN 
+13 
+SEITHUR 
+13 
+RAJAPALAYAM 
+SATTUR TALUK 
+14 
+PADANTHAL
+15 
+NENMENI 
+16 
+SATTUR 
+17 
+NALLI 
+SlVAKASI TALUK 
+18 
+MANGALAM 
+19 
+SIVAKASI 
+20 
+THIRUTHANGAL 
+21 
+SALWARPATTI 
+SRIVILLIPUTTUR TALUK 
+22 
+PILLAIYARKULAM 
+23 
+IMALLI 
+24 
+SRIVILLIPUTTUR 
+WATRAP TALUK 
+25 
+NATHAMPATTI 
+26 
+KOTTAlYUR 
+27 
+WATRAP 
+THIRUCHULI TALUK 
+28 
+A.MUKKULAM 
+29 
+NARIKUDI 
+30 
+THIRUCHULI 
+31 
+VEERACHOLAN 
+VIRUDHUNAGAR TALUK 
+32 
+AMATHUR 
+33 
+ONDIPULI
+NAICKANUR 
+34 
+VIRUDHUNAGAR 
+35 
+VATCHAKARA-PATTI
+VEMBAKOTTAI TALUK 
+36 
+KEELARAJAKULA RAMAN 
+37 
+ALANGULAM 
+38 
+ELAYIRAM-PANNAI 
+39 
+VEMBAKOTTAI 
+OVER EXPIOITED
+CRlTICAL 
+SEMI CRITlCAL 
+SAFE 
+SALINE 
+435 
+63 
+225 
+409 
+34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SANDEEP SAXENA,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional Chief Secetary to Government.
+
+
+Dec. 8, 2021] 
+TAMIL  NADU  GOVERNMENT  GAZETTE 
+ 
+ 
+ 163
+Aඊඛගකඉඋග
+G.O. (Ms.) No. 155, Public Works (R1) Department, dated 28.10.2021 
+Dynamic Ground Water Resources of Tamil Nadu, March - 2020 
+SI. 
+No. 
+District 
+Total No.of 
+Firkas 
+Over 
+Exploited 
+Critical 
+Semi 
+Critical 
+Safe 
+Saline / Poor 
+Quality
+1 
+Ariyalur 
+15 
+- 
+- 
+1 
+14 
+- 
+2 
+Chengalpattu 
+40 
+3 
+2 
+17 
+18 
+- 
+3 
+Chennai 
+30 
+26 
+- 
+1 
+3 
+- 
+4 
+Coimbatore 
+38 
+30 
+2 
+5 
+1 
+- 
+5 
+Cuddalore 
+32 
+6 
+1 
+12 
+13 
+- 
+6 
+Dharmapuri 
+23 
+14 
+- 
+7 
+2 
+- 
+7 
+Dindugal 
+40 
+26 
+5 
+5 
+4 
+- 
+8 
+Erode 
+34 
+20 
+1 
+10 
+3 
+- 
+9 
+Kallakurichi 
+23 
+6 
+6 
+5 
+6 
+- 
+10 
+Kancheepuram 
+25 
+3 
+1 
+6 
+15 
+11 
+Kanyakumari 
+18 
+- 
+- 
+1 
+17 
+- 
+12 
+Karur 
+20 
+14 
+- 
+4 
+2 
+- 
+13 
+Krishnagiri 
+29 
+12 
+1 
+7 
+9 
+- 
+14 
+Madurai 
+51 
+11 
+3. 
+7 
+30 
+- 
+15 
+Nagappattinam 
+31 
+13 
+- 
+- 
+1 
+17 
+16 
+Namakkal 
+30 
+22 
+1 
+4 
+3 
+- 
+18 
+Perambalur 
+11 
+7 
+- 
+1 
+3 
+- 
+19 
+Pudukottai 
+45 
+- 
+- 
+10 
+32 
+3 
+20 
+Ramanathapuram 
+38 
+- 
+- 
+- 
+29 
+9 
+21 
+Ranipet 
+18 
+4 
+2 
+11 
+1 
+- 
+22 
+Salem 
+44 
+34 
+2 
+2 
+6 
+- 
+23 
+Sivagangai 
+39 
+- 
+- 
+- 
+39 
+- 
+24 
+Tenkasi 
+31 
+17 
+1 
+4 
+9 
+- 
+25 
+Thanjavur 
+50 
+34 
+4 
+8 
+4 
+- 
+17 
+The Nilgiris 
+15 
+- 
+- 
+2 
+13 
+- 
+26 
+Theni 
+17 
+2 
+2 
+8 
+5 
+- 
+33 
+Thiruchirappalli 
+43 
+17 
+1 
+8 
+17 
+- 
+34 
+Thirupathur 
+11 
+6 
+2 
+3 
+- 
+- 
+27 
+Thiruvallur 
+47 
+7 
+2 
+17 
+20 
+1 
+32 
+Thiruvannamalai 
+52 
+23 
+6 
+23 
+- 
+- 
+31 
+Thiruvarur 
+27 
+10 
+1 
+3 
+9 
+4 
+28 
+Thoothukudi 
+41 
+3 
+1 
+2 
+35 
+- 
+29 
+Tirunelveli 
+29 
+2 
+1 
+6 
+20 
+- 
+30 
+Tiruppur 
+33 
+23 
+4 
+5 
+1 
+- 
+35 
+Vellore 
+23 
+16 
+2 
+4 
+1 
+- 
+36 
+Villupuram 
+34 
+19 
+4 
+6 
+5 
+- 
+37 
+Virudhunagar 
+39 
+5 
+5 
+10 
+19 
+- 
+Total
+1166
+435
+63
+225
+409
+34
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   SANDEEP SAXENA,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional Chief Secretary to Government.
+ 
+PRINTED AND PUBLISHED BY THE COMMISSIONER OF STATIONERY AND PRINTING, CHENNAI 
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU

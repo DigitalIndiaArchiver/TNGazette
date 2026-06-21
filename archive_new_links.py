@@ -11,8 +11,9 @@ Usage:
   python archive_new_links.py --delay 2                    # seconds between saves
 """
 import argparse
-import time
+import signal
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -27,27 +28,52 @@ DATA_DIR = Path(__file__).parent / "data"
 URL_COLUMNS = {"URL", "PDF Link"}
 
 
-def _archive_one(url: str, max_tries: int = 5) -> tuple:
+class _Timeout(Exception):
+    """Raised when a Wayback API call times out."""
+    pass
+
+
+def _timeout_handler(_signum, _frame):
+    raise _Timeout()
+
+
+def _archive_one(url: str, max_tries: int = 5, timeout: int = 30) -> tuple:
     """Archive one URL and return (archived_url, archived_date) or (None, None)."""
+    # Set an alarm so stuck HTTP calls don't hang forever
+    signal.signal(signal.SIGALRM, _timeout_handler)
+
     # 1. Check CDX for existing snapshot
     try:
+        signal.alarm(timeout)
         cdx = waybackpy.WaybackMachineCDXServerAPI(url, USER_AGENT)
         oldest = cdx.oldest()
+        signal.alarm(0)
         if oldest:
             return oldest.archive_url, pd.to_datetime(
                 oldest.timestamp, format="%Y%m%d%H%M%S"
             )
+    except _Timeout:
+        signal.alarm(0)
+        return None, None
     except NoCDXRecordFound:
+        signal.alarm(0)
         pass
     except Exception:
+        signal.alarm(0)
         pass  # network blip — fall through to try saving
 
     # 2. Save to Wayback
     try:
+        signal.alarm(timeout)
         save_api = waybackpy.WaybackMachineSaveAPI(url, USER_AGENT, max_tries=max_tries)
         archive_url = save_api.save()
+        signal.alarm(0)
         return archive_url, pd.Timestamp.utcnow().floor("s")
+    except _Timeout:
+        signal.alarm(0)
+        return None, None
     except Exception:
+        signal.alarm(0)
         return None, None
 
 

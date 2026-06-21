@@ -18,11 +18,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
         with:
+          # Token with push access — used by git commands below
           token: ${{ secrets.WORKFLOW_SECRET }}
 
-      - uses: actions/cache@v5
+      - uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
@@ -30,7 +31,7 @@ jobs:
             ${{ runner.os }}-pip-
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
@@ -43,6 +44,14 @@ jobs:
       - name: Archive unarchived PDF links to Wayback Machine
         run: python archive_new_links.py --delay 2
 
-      - uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "Weekly scrape and Wayback archival"
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Weekly scrape and Wayback archival"
+          git push

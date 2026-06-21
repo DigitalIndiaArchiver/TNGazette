@@ -45,9 +45,12 @@ jobs:
         run: python archive_new_links.py --delay 2
 
       - name: Commit and push changes
+        env:
+          TOKEN: ${{ secrets.WORKFLOW_SECRET }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git add -A
           if git diff --staged --quiet; then
             echo "No changes to commit"

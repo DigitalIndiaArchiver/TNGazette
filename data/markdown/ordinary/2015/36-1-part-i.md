@@ -1,0 +1,483 @@
+---
+source: "original_fallback"
+type: "ordinary"
+year: "2015"
+pdf_url: "https://web.archive.org/web/20230404094643/http://www.stationeryprinting.tn.gov.in/gazette/2015/36-I-1.pdf"
+Part: "1. Part I"
+Content: "Notifications or Orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments. HOME DEPARTMENT - Courts-I - Appointments I. NOTICE REGARDING GAZETTE EXTRAORDINARY ISSUES PUBLISHED DURING THE WEEK. II. NOTICE REGARDING PARTS AND SECTIONS OF THE GAZETTE NOT PUBLISHED DURING THE WEEK."
+Date: "2015-09-09"
+Issue: "36"
+---
+
+TAMIL  NADU
+GOVERNMENT GAZETTE
+PUBLISHED BY AUTHORITY
+No. 36]
+CHENNAI, WEDNESDAY, SEPTEMBER 9, 2015
+Aavani 23, Manmadha, Thiruvalluvar Aandu–2046
+Part  I
+Notifications or Orders regarding first appointments, investiture of
+magisterial powers, etc., issued by Secretariat Departments.
+[ 89 ]
+DTP—Part-I- 36)—1
+NOTIFICATIONS   BY  GOVERNMENT
+CONTENTS
+©
+[Regd. No. TN/CCN/467/2012-14.
+GOVERNMENT OF  TAMIL  NADU
+[R. Dis. No. 197/2009.
+ 2015
+[Price :  Rs.  2.40 Paise.
+  81
+Pages.
+— NIL—
+ 91-93
+Pages.
+HOME DEPARTMENT
+(Courts-I)
+Appointments
+..
+..
+..
+..
+..
+..
+
+
+TAMIL NADU GOVERNMENT  GAZETTE
+[Part I
+90
+I. NOTICE
+REGARDING
+GAZETTE
+EXTRAORDINARY
+ISSUES  PUBLISHED
+DURING  THE
+WEEK.
+The following Notifications were published in Extraordinary issues of the Tamil Nadu Government Gazette
+during the week ending 29th August 2015 :—
+Issue
+Part and
+   Date of  Issue.
+Issued by.
+Subject.
+Number
+Section.
+(1)
+(2)
+(3)
+(4)
+(5)
+185
+Part IV—Section 1
+25th August 2015
+Legislative Assembly
+of the State of Tamil Nadu
+186
+ Part II—Section 2
+26th August 2015
+Industries Department
+187
+Part IV—Section 1
+27th August 2015
+Legislative Assembly
+of the State of Tamil Nadu
+188
+Part IV—Section 2
+28th August 2015
+Law  Department
+II. NOTICE REGARDING PARTS AND SECTIONS OF THE GAZETTE NOT PUBLISHED DURING THE WEEK.
+The following Parts and Sections of the Gazette are not published in this week:—
+Part II—Section 1
+Part III—Sections 1(b) and 2
+Part IV—Sections 1,2,3 and 4
+Part V—Sections 1,2,3 and 4
+Part VI—Sections 2 and 3 (b)
+`
+Tamil Nadu Appropriation (Vote
+on Account) (No.2) Act, 2015.
+  L.A. Bill No. 6 of 2015.
+Acquisition of Lands.
+Tamil Nadu Municipal Laws
+(Amendment) Act, 2015.
+  L.A. Bill No. 7 of 2015.
+Tamil Nadu Appropriation (Vote
+on Account) (No.2) Act, 2015.
+  Act No. 9 of  2015.
+
+
+Sep. 9, 2015]
+TAMIL NADU  GOVERNMENT GAZETTE
+91
+HOME DEPARTMENT
+(Courts-I)
+[G.O. (4D) No. 49, Home (Courts-I), 20th August 2015.]
+No.I/HO/13/2015.—The Governor of Tamil Nadu hereby
+appoints the following 138 candidates to act temporarily as
+Civil Judge (Junior Division) in the Tamil Nadu State Judicial
+Service:—
+Sl.No.
+Name of the Candidate
+Thiru/Tmt/Selvi—
+(1)
+(2)
+1
+xxxxx
+2
+THIRUNAVUKKARASU, D.
+3
+xxxxx
+4
+NAGAPPAN, M.
+5
+xxxxx
+6
+PALANI KUMAR, G,
+7
+RAVICHANDRAN, M.
+8
+VIPICEE, S.
+9
+PRINCE SAMUVEL RAJ, S.
+10
+KALAIYARASI REENA, C.
+11
+xxxxx
+12
+MOHANAPRIYA, K.
+13
+DHAMAYANTHI, P.K.
+14
+ANITHACHRISTY, J.
+15
+AYSH BEGUM, S.D.
+16
+xxxxx
+NO CANDIDATE
+17
+SHABEENA, K.S.
+18
+PANDY, R.
+19
+VADIVEL, S.
+20
+VISWANATH, N.
+21
+MAHINDRA VARMA, P.
+22
+UDAYASURIYA, V.
+23
+SUBRAMANI, S.
+24
+VENGADALAKSHMI, S.
+25
+RAMESH, K.
+26
+TAMILARASI, V.A.
+27
+JAYACHANDARAN, C.
+28
+SANTHANAKUMAR, S.
+29
+KALYANA MARIMUTHU, S.
+Sl.No.
+Name of the Candidate
+Thiru/Tmt/Selvi—
+(1)
+(2)
+30
+PADMAVATHI, G.
+31
+xxxxx
+32
+MANOHARAN, R.
+33
+PRASAD, S.
+34
+CHANDRASEKAR, P.
+35
+xxxxx
+36
+SARANYA, A.
+37
+KALAl NILA, P.
+38
+BASKARAN, S.
+39
+MANIVASAGAN, R.
+40
+SARAVANA SENTHIL KUMAR, A.
+41
+SUBATHRA, R.M.
+42
+GNANASAMBANDAM, N.
+43
+SANTHOSH, V.L.
+44
+RISANA PARVEEN, B.
+45
+JAYAMANI, M.
+46
+VIJAYAN, R.
+47
+RAJESH KUMAR, K.S.
+48
+JAYANTHI, M.
+49
+SUJATHA, K.
+50
+MURALITHARAN, V.
+51
+RAJESH RAJU, T.
+52
+SANTHI, S.
+53
+SELVARAJ, E.
+54
+GOKULAKRISHNAN, T.
+55
+MURUGANANTHI, M.
+NO CANDIDATE
+56
+YUVARAJ, G.
+57
+NILAVARASAN, K.
+58
+YUVARAJ, K.
+59
+SURESH, N.
+60
+SANTHOSHAM, M.
+61
+BALAMURUGAN, V. S
+62
+BHARATHI, T.
+63
+PADMA KUMARI, K.R.
+64
+xxxxx
+65
+xxxxx
+NOTIFICATIONS BY GOVERNMENT
+
+
+TAMIL NADU GOVERNMENT  GAZETTE
+[Part I
+92
+66
+RAGUPATHIRAJA, L.
+67
+KARTHIKEYAN, R.
+68
+MOHAMED ALl, A.
+69
+xxxxx
+70
+DINESHKUMAR, C.
+71
+NAGALAKSHMI @ VIJAYARANI, J.
+72
+xxxxx
+73
+ARUNKUMAR, G.
+74
+KADHIRAVAN, A.
+75
+NALINIDEVI, K.
+76
+SOUNDHARYA, B.
+77
+ASHOK PRASATH, G.
+NO CANDIDATE
+78
+xxxxx
+79
+PRIYA, G.
+80
+SUNDARRAJAN, T.
+81
+EZHILARASI, P.
+82
+VISWANATHAN, K.
+83
+BALA MURUGAN, P.
+84
+SUBBULAKSHMI, P.
+85
+STARLI, J.
+86
+RADIKA, V.
+87
+ALLI, P.
+88
+SARAVANA BABU, R.
+89
+xxxxx
+90
+xxxxx
+91
+CHANDRAKASABOOPATHI, K.
+92
+PRAVEEN KUMAR, T.
+93
+xxxxx
+94
+RAGOTHAMAN, G.
+95
+GEETHA, V.
+96
+RAJA S RAMYA.
+97
+MALATHI, T.
+98
+VIGNESMADHU, K.
+99
+xxxxx
+100
+VANITHA, A.
+101
+SHANMUGAM, K.
+102
+BABU, S.
+103
+NISHANTHINI, P.S.A.
+104
+xxxxx
+105
+SEGANASBANU, K.
+106
+KANNAN, A.
+107
+NILAVESHWARAN, N.
+108
+SRIDEVI, P.
+109
+MUNUSAMY, S.
+110
+SATHEESKUMAR, R.
+111
+SUMITHA, P.
+112
+RAJASEKAR, C.
+113
+VETRIMANI, C.M.
+114
+BASKAR, K.
+NO CANDIDATE
+115
+RAMESH, N.
+116
+ACHUTHAN, V.
+117
+RUBANA, G.
+118
+VANATHI, A.
+119
+RAJESWARI, R.
+120
+xxxxx
+121
+MUTHU ESAKKI, A.
+122
+BHARATHIRAJAN, N.
+123
+VANNAMALAR, V .
+124
+KADARKARAISELVAM, M.
+125
+ALIMA, M.
+126
+SINDHU MATHI, T.
+127
+LAVANYA, V.
+128
+RANGARAJ, P.
+129
+xxxxx
+130
+RAMKUMAR, K.
+131
+RAMASANKARAN, G.
+132
+GOPALAKANNAN, S.
+133
+ANU PRIYA, N.
+134
+BHARATHA DEVI, V.
+135
+PADMAPRIYA, A.K.
+136
+MALATHI, K.S.
+137
+PRAVEENA, M.
+138
+SARANYA SELVAM.
+139
+SUBASHINI, C.
+140
+NITHYAKALA, T.
+Sl.No.
+Name of the Candidate
+Thiru/Tmt/Selvi—
+(1)
+(2)
+Sl.No.
+Name of the Candidate
+Thiru/Tmt/Selvi—
+(1)
+(2)
+
+
+Sep. 9, 2015]
+TAMIL NADU  GOVERNMENT GAZETTE
+93
+Sl.No.
+Name of the Candidate
+Thiru/Tmt/Selvi—
+(1)
+(2)
+Sl.No.
+Name of the Candidate
+Thiru/Tmt/Selvi—
+(1)
+(2)
+141
+KALAIARASI, K.M.
+142
+ROSE KALA, K.
+143
+TAMILARASI, R.
+144
+ROSELIN, B.
+145
+INIYA KARUNAGARAN
+146
+GURULAKSHMI, R.D.
+147
+PREETHI, N.
+148
+DIVYA DHAYANAND, B.
+149
+ANANTHI, G.
+150
+SHOBA DEVI, D.
+151
+VIJAYALAKSHMI, V.
+152
+MUTHULAKSHMI, B.
+153
+SUGANTHI, S.
+154
+SIVAGAMASUNDARY, V.
+155
+ABDUL SALAM, R.
+156
+SHAPNA, S.
+157
+NARMADHA, S.
+158
+xxxxx
+APURVA VARMA,
+Principal Secretary to Government.
+PRINTED AND PUBLISHED BY THE DIRECTOR OF STATIONERY AND PRINTING, CHENNAI
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU

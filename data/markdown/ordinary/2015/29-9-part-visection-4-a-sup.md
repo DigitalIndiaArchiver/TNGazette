@@ -1,0 +1,122 @@
+---
+source: "original_fallback"
+type: "ordinary"
+year: "2015"
+pdf_url: "https://web.archive.org/web/20230404095314/http://www.stationeryprinting.tn.gov.in/gazette/2015/29-VI-4A-Sup.pdf"
+Part: "9. Part VI—Section 4-A-Sup"
+Content: "Advertisements by private individuals and private institutions TAMIL NADU ACUPUNCTURE COUNCIL"
+Date: "2015-07-22"
+Issue: "29"
+---
+
+[ 1 ]
+TAMIL NADU
+GOVERNMENT GAZETTE
+PUBLISHED  BY  AUTHORITY
+No. 29A]
+CHENNAI, WEDNESDAY, JULY 22, 2015
+ Aadi 6, Manmadha, Thiruvalluvar Aandu – 2046
+Part VI–Section  4
+(Supplement)
+Advertisements  by  Private  Individuals  and  Private  Institutions.
+DTP—VI-4 Sup. (29A)—1
+©
+[Regd. No. TN/CCN/467/2012-14.
+GOVERNMENT OF  TAMIL  NADU
+[R. Dis. No. 197/2009.
+2015
+[Price:  Re.  0.80 Paise.
+TAMIL NADU  ACUPUNCTURE COUNCIL
+The executive committee has been authorized as per the Bye–laws and as per the Resolution in the General Body Meeting held
+on 17th May 2015. The following NEW MEMBERS have been approved and enrolled in the register of TAMIL NADU
+ACUPUNCTURE COUNCIL as  Registered Acupuncturists. This is the 13th list of the Council in continuation  of the  list  published
+in the Tamil Nadu Government Gazette, dated 12th November 2014 in Part VI–Section 4 (Supplement):—
+1. 409. DR. R.MOHAMMED
+EBRAHIMUDDIN
+Son of  E.MOHAMMED
+RAHAMANUDDIN,
+No. 9, RANGASWAMY STREET,
+NAGALKENI, CHROMPET,
+CHENNAI-600 044.
+2. 410. DR. MARKIYAR
+ABDUL RAZACK,
+Son of  A. MOHAMMED KAMAL,
+19/2, KEMP ROAD,
+FRAZER TOWN,
+BANGALORE- 560 005.
+3. 411. DR. R.VENKATESH
+Son of  V.S. RAMAMOORTHI,
+5/534 INDIRA STREET,
+NGO COLONY,
+VIRUDHUNAGAR- 626 001.
+4. 412. DR. S .SELVAM
+Son of  S. SUBRAMANIAN,
+KUNNAM (PO) & TK,
+ARIYALUR MAIN ROAD,
+PERAMBALUR (DT) - 621 708
+5. 413. DR. SUMITA SARANG SATARKAR,
+Daughter of MADHAV V. SATARKAR,
+SWASTHYA SANTULAN MEDICARE,
+PVT. LTD, 1559, SADASHIV PETH,
+OPP. HOTEL SUYASH. NEAR NAVI PETH,
+VITTHAL MANDIR,
+PUNE - 411 030, MAHARASHTRA.
+6. 414. DR. DEEPAK MADAN,
+Son of H.L. MADAN,
+835/2, MOUNT ROAD,
+CHENNAI - 600 002
+7. 415. DR. R. SRIDHAR
+Son of RAMANATHAN,
+1/14, 5th STREET,
+MACMILLAN COLONY,
+NANGANALLUR,
+CHENNAI - 600 061.
+
+
+2
+8.
+ 416. DR. A. DHAWLATH NISHA,
+Daughter of M. ABDUL RAHMAN,
+No. 35/70, C-BLOCK,
+M.M.D.A. COLONY,
+ARUMBAKKAM.
+CHENNAI - 600 106.
+9.
+ 417. DR A.HALEEMA KHATHOON,
+Daughter of I.ASLAM KHAN,
+26-A, 3rd CROSS STREET.
+NEHRU NAGAR.
+PALLAVARAM, CHENNAI-600 043.
+10.
+418. DR. A.MOHAMED SULTHAN,
+Son of  S. ALAUDEEN,
+PLOT No.155A, FLAT No. F1,
+5th CROSS STREET,
+KUBERAN NAGAR EXTN,
+MADIPAKKAM, CHENNAI -600 091.
+11. 419. DR. N.SIKKENDER KUMAR JAIN,
+Son of I. NORATMAL JAIN,
+26/4, 24/4, MENOD STREET,
+NAVARATNA APARTMENT,
+SECOND FLOOR,
+PURASAIWALKAM,
+CHENNAI - 600 007.
+12.
+420. DR. Y.HEMAVATHI,
+Daughter of PICHUMANl. R.,
+179, VISHNUPRIYA AVENUE,
+7th STREET,
+KAYARAMBEDU VILLAGE,
+GUDUVANCHERRY-603 202.
+KANCHEEPURAM DT.
+13. 421. DR. DEEPU BALACHANDRAN,
+Son of K.S.BALACHANDRAN,
+VALLATH HOUSE, VIYYUR P.O.,
+THRISSUR -680 010, KERALA.
+PRINTED AND PUBLISHED BY THE DIRECTOR OF STATIONERY AND PRINTING, CHENNAI
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU
+Chennai,
+S. NAGENDRAN,
+17th July  2015.
+Secretary.
+Tamil Nadu Acupuncture Council.

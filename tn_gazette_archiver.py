@@ -351,21 +351,33 @@ def main(archive_mode):
         ys = str(datetime.today().year)
         extraordinary_dataframes.to_csv(
             f'data/ExtraOrdinaryGazattes_{ys}.csv', index=False)
+        extraordinary_dataframes.to_parquet(
+            f'data/ExtraOrdinaryGazattes_{ys}.parquet', index=False, engine='pyarrow')
         if gazatte_issues_dataframes:
             gazatte_issues_dataframes.to_csv(
                 f'data/GazatteIssues_{ys}.csv', index=False)
+            gazatte_issues_dataframes.to_parquet(
+                f'data/GazatteIssues_{ys}.parquet', index=False, engine='pyarrow')
         if gazette_dataframes:
             gazette_dataframes.to_csv(
                 f'data/Gazattes_{ys}.csv', index=False)
+            gazette_dataframes.to_parquet(
+                f'data/Gazattes_{ys}.parquet', index=False, engine='pyarrow')
     else:
         extraordinary_dataframes.to_csv(
             'data/ExtraOrdinaryGazattes.csv', index=False)
+        extraordinary_dataframes.to_parquet(
+            'data/ExtraOrdinaryGazattes.parquet', index=False, engine='pyarrow')
         if gazatte_issues_dataframes:
             gazatte_issues_dataframes.to_csv(
                 'data/GazatteIssues.csv', index=False)
+            gazatte_issues_dataframes.to_parquet(
+                'data/GazatteIssues.parquet', index=False, engine='pyarrow')
         if gazette_dataframes:
             gazette_dataframes.to_csv(
                 'data/Gazattes.csv', index=False)
+            gazette_dataframes.to_parquet(
+                'data/Gazattes.parquet', index=False, engine='pyarrow')
 
 
 if __name__ == "__main__":

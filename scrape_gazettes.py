@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Scrape TN Gazette extraordinary pages and save CSVs."""
+"""Scrape TN Gazette extraordinary pages and save CSVs + Parquets."""
 import base64, csv, io, requests
+import pandas as pd
 from bs4 import BeautifulSoup
 
 years = [
@@ -47,11 +48,17 @@ for b64_id, year in years:
                 cells[6].get_text(strip=True),
             ])
     
-    filepath = f'data/ExtraOrdinaryGazattes_{year}.csv'
-    with open(filepath, 'w', newline='', encoding='utf-8') as f:
+    filepath_csv = f'data/ExtraOrdinaryGazattes_{year}.csv'
+    with open(filepath_csv, 'w', newline='', encoding='utf-8') as f:
         f.write(','.join(HEADERS) + '\n')
         for row in data:
             f.write(','.join(esc(v) for v in row) + '\n')
-    print(f'  Saved {len(data)} entries to {filepath}')
+    print(f'  Saved {len(data)} entries to {filepath_csv}')
+
+    # Also save as Parquet for machine-friendly consumption
+    df = pd.DataFrame(data, columns=HEADERS)
+    filepath_parquet = f'data/ExtraOrdinaryGazattes_{year}.parquet'
+    df.to_parquet(filepath_parquet, index=False, engine='pyarrow')
+    print(f'  Saved {len(data)} entries to {filepath_parquet}')
 
 print('Done!')

@@ -1,0 +1,81 @@
+---
+source: "original_fallback"
+type: "extraordinary"
+year: "2011"
+pdf_url: "https://web.archive.org/web/20220809042208/http://www.stationeryprinting.tn.gov.in/extraordinary/2011/441-Ex-IV-4.pdf"
+Issue No: "441"
+Issue Date: "2011-11-24"
+Gazette Number: "Part IV—Section 4"
+Category: "CENTRAL ACTS AND ORDINANCES"
+Department: "MINISTRY OF LAW AND JUSTICE - (Legislative Department) - THE CABLE TELEVISION NETWORKS (REGULATION) AMENDMENT ORDINANCE, 2011, No. 3 of 2011"
+---
+
+TAMIL NADU
+GOVERNMENT GAZETTE
+EXTRAORDINARY
+PUBLISHED  BY  AUTHORITY
+Part  IV—Section  4
+CENTRAL  ACTS  AND  ORDINANCES
+©
+[Regd. No. TN/CCN/467/2009-11.
+GOVERNMENT  OF   TAMIL  NADU
+[R. Dis. No. 197/2009.
+2011
+[Price:  Rs. 4.00 Paise.
+No. 441]
+CHENNAI, THURSDAY, NOVEMBER 24, 2011
+Karthigai 8, Thiruvalluvar Aandu–2042
+DTP  IV-4 Ex.(441)—1
+[51]
+MINISTRY OF LAW AND JUSTICE
+(Legislative Department)
+New Delhi, the 25th October, 2011 / Karthika 3, 1933 (Saka)
+Networks
+THE CABLE TELEVISION NETWORKS (REGULATION)
+AMENDMENT ORDINANCE, 2011
+No. 3 of 2011
+
+
+52
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+53
+
+
+54
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+55
+     Provided that the cable operator shall also offer the channels in the basic
+”
+
+
+56
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+57
+such inspection.
+
+
+58
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+59
+PRATIBHADEVISINGH PATIL,
+President.
+V.K. BHASIN,
+Secretary to the Government of India.
+(Republished by Order of the Governor)
+R. KATHIRVEL,
+Additional Secretary to Government,
+Law Department.
+PRINTED AND PUBLISHED BY THE DIRECTOR OF STATIONERY AND PRINTING, CHENNAI
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU

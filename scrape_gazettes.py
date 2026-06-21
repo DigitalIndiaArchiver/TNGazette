@@ -22,7 +22,12 @@ def esc(val):
 for b64_id, year in years:
     url = f'https://www.stationeryprinting.tn.gov.in/extra_ordinary_lists.php?id={b64_id}'
     print(f'Fetching {year}...')
-    resp = requests.get(url, timeout=30)
+    try:
+        resp = requests.get(url, timeout=60)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f'  Error fetching {year}: {e}')
+        continue
     soup = BeautifulSoup(resp.content, 'html.parser')
     table = soup.find('table')
     if not table:

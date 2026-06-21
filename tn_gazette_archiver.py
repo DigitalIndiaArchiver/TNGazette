@@ -58,43 +58,44 @@ EXTRAORDINARY_PAGE_URL = SITE_URL + "/extra_ordinary_lists.php"
 EXTENSION = ".php"
 
 
-def wayback_archival(df, url_col):
+def wayback_archival(df, url_col, user_agent="TNGazette Archiver",
+                     max_tries=5, delay=0.5):
     """
-    Wayback archival of URL columns in dataframe
+    Wayback archival of URL columns in dataframe.
+    Checks CDX first (skip if already archived), then saves new URLs.
     """
+    import time
     archived_urls = []
     archived_dates = []
 
     for url in df[url_col]:
-        user_agent = "Python Archiver"
-        cdx_api = waybackpy.WaybackMachineCDXServerAPI(url, user_agent)
-        save_url = False
+        # 1. Check CDX for existing snapshot
         try:
+            cdx_api = waybackpy.WaybackMachineCDXServerAPI(url, user_agent)
             oldest_snapshot = cdx_api.oldest()
-
             if oldest_snapshot:
                 archived_urls.append(oldest_snapshot.archive_url)
                 archived_dates.append(pd.to_datetime(
                     oldest_snapshot.timestamp, format='%Y%m%d%H%M%S'))
-            else:
-                save_url = True
+                continue
         except waybackpy.exceptions.NoCDXRecordFound:
-            save_url = True
-        if save_url:
-            try:
-                save_api = waybackpy.WaybackMachineSaveAPI()
-                response = save_api.save(url)
+            pass
+        except Exception:
+            pass  # network issue — try saving anyway
 
-                if response.status_code == 200:
-                    archive_url = f"https://web.archive.org/web/{url}"
-                    archived_urls.append(archive_url)
-                    archived_dates.append(pd.Timestamp.utcnow().floor('s'))
-                else:
-                    archived_urls.append(None)
-                    archived_dates.append(None)
-            except Exception:
-                archived_urls.append(None)
-                archived_dates.append(None)
+        # 2. Save to Wayback
+        try:
+            save_api = waybackpy.WaybackMachineSaveAPI(
+                url, user_agent, max_tries=max_tries)
+            archive_url = save_api.save()
+            archived_urls.append(archive_url)
+            archived_dates.append(pd.Timestamp.utcnow().floor('s'))
+        except Exception:
+            archived_urls.append(None)
+            archived_dates.append(None)
+
+        if delay > 0:
+            time.sleep(delay)
 
     df['Archived URL'] = archived_urls
     df['Archived Date'] = archived_dates

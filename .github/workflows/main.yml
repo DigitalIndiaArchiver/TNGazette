@@ -3,26 +3,25 @@ name: Weekly Extract
 on:
   push:
     branches: ["main"]
-    paths: ["tn_gazette_archiver.py"]
+    paths: ["tn_gazette_archiver.py", "scrape_gazettes.py", "archive_new_links.py"]
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 0" # Run every Sunday at midnight UTC
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   run:
-    name: Run tn_gazette_archiver
+    name: Scrape & Archive
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4.1.1
         with:
-          # [Required] Access token with `workflow` scope.
           token: ${{ secrets.WORKFLOW_SECRET }}
+
       - uses: actions/cache@v3.3.2
         with:
           path: ~/.cache/pip
@@ -33,11 +32,17 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4.7.1
         with:
-          python-version: 3.10.11
+          python-version: "3.10"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run Archiver
-        run: python tn_gazette_archiver.py
+      - name: Scrape new Extraordinary Gazettes
+        run: python scrape_gazettes.py
+
+      - name: Archive unarchived PDF links to Wayback Machine
+        run: python archive_new_links.py --delay 2
+
       - uses: stefanzweifel/git-auto-commit-action@v5.0.0
+        with:
+          commit_message: "Weekly scrape and Wayback archival"

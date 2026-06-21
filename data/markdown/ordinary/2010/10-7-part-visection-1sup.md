@@ -1,0 +1,1815 @@
+---
+source: "original_fallback"
+type: "ordinary"
+year: "2010"
+pdf_url: "https://web.archive.org/web/20230404124928/http://www.stationeryprinting.tn.gov.in/gazette/2010/10-VI-1Sup%28a%29.pdf"
+Part: "7. Part VI–Section 1(Sup)"
+Content: "Notifications by Heads of Departments, Etc. JUDICIAL NOTIFICATION - Unclaimed Deposits in the City Civil Court, Chennai-104"
+Date: "2010-03-17"
+Issue: "10"
+---
+
+TAMIL NADU
+GOVERNMENT GAZETTE
+PUBLISHED  BY  AUTHORITY
+No. 10A]
+CHENNAI, WEDNESDAY, MARCH 17, 2010
+Panguni 3, Thiruvalluvar Aandu–2041
+Part VI–Section  1
+(Supplement)
+NOTIFICATIONS   BY   HEADS  OF  DEPARTMENTS, ETC.
+DTP—VI-1 Sup. (10A)—1
+[ 1 ]
+©
+[Regd. No. TN/CCN/467/2009-11.
+GOVERNMENT  OF   TAMIL  NADU
+[R. Dis. No. 197/2009.
+2010
+[Price :  Rs. 3.20 Paise.
+JUDICIAL  NOTIFICATION
+Unclaimed Deposits in the City Civil Court, Chennai-104
+(Dis. No. 3564/2010/L.S.)
+No. VI(1)/77/2010.
+Notice is hereby given that the undermentioned items of deposits above Rs. 5/- in the City Civil Court, Chennai remaining
+unclaimed for more than four years ending with 31st December, 2005 and that unless the parties entitled to them appear and claim
+them on or before 31st March 2010, those items of deposits will be lapsed and credited to Government Account under Rule 54 of
+Section (1) and under Rule 119 (d) (i) of  Section II of Civil Rule of Practice and Circular Orders Volume II.
+PARTICULARS OF DEPOSIT
+Sl.No.
+Challan
+Date of
+Amount.
+Nature of
+Suit No.
+Plaintiff
+Defendant
+Ledger
+No.
+Deposit.
+Deposit.
+A.R.C./L.A.C.
+Counsel  Name.
+Counsel Name.
+Folio.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+1
+2133/17
+30/06/05
+1176.00
+AA
+ARC.1216/03 EP.1460/04
+N.Namasivayam
+21-XI
+2
+2060/44 etc
+25/06/99
+2810.50
+AA
+ARC.9876/94 EP.1424/97
+R.Vijaya Kamala
+22-XI
+3
+2057/3
+14/07/98
+600.00
+AA
+ARC.363/89  EP.2839/90
+R.Krishnaswamy
+23-XI
+4
+2298/10 etc
+11/07/96
+2490.50
+AA
+ARC.1190/94 EP.3701/95
+K.Kalaivanan Bharathi
+23-XI
+5
+4095/1
+01/03/96
+400.00
+AA
+ARC.117/88  EP.4424/94
+R.Selvakumar
+41-XI
+6
+2338/7
+08/12/04
+3468.70
+AA
+ARC.173/95  EP.952.01
+J.Esther Beula
+51-XI
+7
+2451/9 etc
+16/03/04
+12999.00
+AA
+ARC.6266/96 EP.1792/02
+S.Arun Kumar
+53-XI
+8
+2360/17 etc
+18/12/02
+5218.00
+AA
+ARC.824/00  EP.1145/03
+K.Kalaivanan Bharathi
+62-XI
+9
+2331/21 etc
+29/11/04
+5706.00
+AA
+ARC.1910/94  EP.435/04
+S.Arun Kumar
+62-XI
+10
+2148/9
+20/12/04
+400.00
+AA
+ARC.875/94   EP.1245/97
+K.Kalaivanan Bharathi
+63-XI
+11
+2148/16
+20/12/04
+1100.00
+AA
+ARC.197/98  EP.864/99
+R.Sridharan
+63-XI
+DTP—VI-1 Sup. (10A)—1a
+
+
+2
+12
+1216 etc
+08/01/01
+2984.00
+AA
+ARC.1160/98 EP.2418/99
+R.Vijaya Kamala
+81-X!
+13
+2064/4 etc
+22/06/00
+3000.50
+AA
+ARC.531/96 EP.2989/97
+M.Devendran
+205-XI
+14
+2495/21 etc
+07/04/03
+7535.50
+AA
+ARC.560/97  EP.651/99
+K.B.Kamalaraju
+234-XI
+15
+2101/38 etc
+25/07/00
+484.50
+AA
+ARC.867/90 EP.5458/95
+R.Krishnasamy
+26-XII
+16
+2716/16
+24/04/01
+183.00
+AA
+ARC.511/96  EP.110/98
+S.Ramesh
+26-XII
+17
+2386/1 etc
+23/11/00
+2052.50
+AA
+ARC.617/98 EP.1571/99
+K.Kalaivanan Bharathi
+31-XII
+18
+2028/7 etc
+07/05/01
+16636.00
+AA
+ARC.1402/94 EP.1576/98
+S.Ramesh
+32-XII
+19
+2008/7 etc
+09/04/02
+13182.88
+AA
+ARC.370/91  EP.3082/98
+R.Sridharan
+33-XII
+20
+2076/14  etc
+22/05/01
+7345.50
+AA
+ARC.246/95  EP.1047/00
+N.Venkataraman
+33-XII
+21
+2078/14  etc
+03/06/03
+7851.00
+AA
+ARC.107/98 EP.298/99
+N.Namasivayam
+35-XII
+22
+2107/11
+11/06/02
+207.00
+AA
+ARC.110/98  EP.767/99
+T.N.Suguna
+49-XII
+23
+1104/2 etc
+10/08/01
+23901.00
+AA
+ARC.555/94 EP.111/96
+M.Durairaj
+52-XII
+24
+2525/24 etc
+04/02/02
+3120.00
+AA
+ARC.141/00 EP.344/01
+P.Subramanian
+63-XII
+25
+2410/20 etc
+23/01/03
+3050.00
+AA
+ARC.1504/91 EP.3606/95
+K.Kalaivanan Bharathi
+64-XII
+26
+2116/38 etc
+18/06/02
+15330.00
+AA
+ARC.1592/94 EP.1141/00
+R.Munusamy
+64-XII
+27
+1010  etc
+17/04/02
+20900.00
+AA
+ARC.1172/97 EP.1234/99
+M.Suresh
+65-XII
+28
+2408/6 etc
+22/01/03
+12880.00
+AA
+ARC.710/94 EP.524/01
+A.R.Nixon
+66-XII
+29
+2215/3 etc
+26/08/02
+10274.50
+AA
+ARC.616/93  EP.3904/94
+K.Valayapathy
+67-XII
+30
+2333/22 etc
+19/11/02
+6118.50
+AA
+ARC.458/00  EP.1349/01
+S.Ganesamurthy
+71-XII
+31
+2031/25
+20/05/02
+1628.00
+AA
+ARC.86/94  EP.735/00
+N.Venkataraman
+71-XII
+32
+2127/5 etc
+21/06/02
+2376.00
+AA
+ARC.48/01  EP.2105/01
+N.Venkataraman
+72-XII
+33
+2179/1
+16/08/04
+500.00
+AA
+ARC.230/98  EP.2299/99
+S.Ganesamurthy
+72-XII
+34
+2495/3
+02/04/04
+237.30
+AA
+ARC.119/00  EP.2100/01
+M.Durairaj
+72-XII
+35
+2404/17
+04/12/04
+3200.00
+AA
+ARC.211/02  EP.1866/02
+R.Vijaya kumar
+77-XII
+36
+3059/1 etc
+02/01/97
+6957.00
+AA
+ARC.805/90  EP.1239/94
+R.Krishnaswamy
+77-XII
+37
+6756
+30/04/04
+560.00
+AA
+ARC.434/88  EP.1198/90
+S.Seshadri
+77-XII
+38
+2027/19
+29/04/09
+1000.00
+AA
+ARC.314/89  EP.953/03
+N.Namasivayam
+79-XLL
+39
+2385/12
+23/02/04
+500.00
+AA
+ARC.409/93 EP.1812/01
+J.Esther Beula
+79-XII
+40
+2474/4
+17/03/05
+5266.50
+AA
+ARC.350/93 EP.2237/97
+K.Valayapathy
+85-XII
+41
+2313/33 etc
+19/10/00
+9000.00
+AA
+ARC.825/93 EP.338/95
+R.Selvakumar
+155-XII
+42
+2623/17 etc
+27/02/01
+16400.00
+AA
+ARC.1143/98 EP.1191/00
+M.Devendran
+264-XII
+43
+2011/7 etc
+12/04/05
+385.00
+AA
+ARC.659/99 EP.1368/02
+J.Esther Beula
+19-XIII
+44
+2276/5 etc
+23/10/00
+3200.00
+AA
+ARC.1334/97  EP.70/99
+R.Abarna
+19-XIII
+45
+2502 etc
+08/04/05
+1200.00
+AA
+ARC.369/00 EP.409/02
+N.Namasivayam
+20-XIII
+46
+2160/8 etc
+28/07/03
+11516.50
+AA
+ARC.18/94  EP.350/02
+M.Devendran
+21-XIII
+47
+2371/2 etc
+23/01/03
+6008.00
+AA
+ARC.810/00 EP.1931/02
+P.Muralidharan
+24-XIII
+48
+2055/11
+24/05/04
+933.50
+AA
+ARC.263/00 EP.1618/02
+S.Ganesamurthy
+24-XIII
+49
+2387/5 etc
+20/01/05
+16920.00
+AA
+ARC.16/97 EP.461/00
+V.Rajaraman
+25-XIII
+50
+1245/2
+07/08/95
+575.00
+AA
+ARC.854/91  EP.34/93
+T.Ramalingam
+25-XIII
+51
+2258/4 etc
+10/10/03
+7640.00
+AA
+ARC.40/94  EP.2776/98
+C.Dayakar
+26-XIII
+Sl.No.
+Challan
+Date of
+Amount.
+Nature of
+Suit No.
+Plaintiff
+Defendant
+Ledger
+No.
+Deposit.
+Deposit.
+A.R.C./L.A.C.
+Counsel  Name.
+Counsel Name.
+Folio.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+
+
+3
+52
+2306/7 etc
+12/10/00
+13092.00
+AA
+ARC.39/94  EP.2982/95
+N.Venkataraman
+37-XIII
+53
+2500/64
+12/01/01
+1738.50
+AA
+ARC.1297/97 EP.699/99
+N.Venkataraman
+37-XIII
+54
+2446/36 etc
+18/01/00
+7971.50
+AA
+ARC.942/94  EP.5093/95
+N.Venkataraman
+39-XIII
+55
+2028/13
+07/05/01
+208.50
+AA
+ARC.880/94 EP.1247/97
+K.Kalaivanan Bharathi
+40-XIII
+56
+1238/1 etc
+14/02/01
+12386.00
+AA
+ARC.493/95 EP.3246/97
+K.Valayapathy
+41-XIII
+57
+2369/19 etc
+16/12/99
+7223.50
+AA
+ARC.736/96 EP.359/98
+M.Devendran
+42-XIII
+58
+2158/5 etc
+19/08/99
+5196.00
+AA
+ARC.214/97 EP.2614/97
+R.Vijayakamala
+42-XIII
+59
+2487/30 etc
+29/02/00
+6480.00
+AA
+ARC785/96 EP.1400/98
+S.Ramesh
+43-XIII
+60
+2424/12
+28/11/00
+211.50
+AA
+ARC.708/96 EP.281/99
+M.Durairaj
+43-XIII
+61
+2006 etc
+02/05/01
+119242.00
+AA
+ARC.294/96 EP.1657/98
+P.Muthu
+44-XIII
+62
+2272/7
+23/10/04
+1092.00
+AA
+ARC.509/96 EP/1359/99
+A.Babu
+45-XIII
+63
+2166/1 etc
+02/07/01
+9850.50
+AA
+ARC.951/97 EP.664/99
+M.Devendran
+47-XIII
+64
+2075/16 etc
+23/05/02
+950.25
+AA
+ARC.1179/94 EP.948/01
+A.R.Nixon
+47-XIII
+65
+2410/21 etc
+23/01/03
+5181.00
+AA
+ARC.109/98 EP.1772/01
+J.Esther Beula
+49-XIII
+66
+2074/7
+22/05/02
+1071.00
+AA
+ARC.1027/99 EP.2095/01
+M.Durairaj
+49-XIII
+67
+2160/14 etc
+22/07/03
+15427.50
+AA
+ARC.1696/93 EP.361/02
+A.R.Nixon
+50-XIII
+68
+2171/23
+05/08/03
+1070.00
+AA
+ARC.1302/96 EP.1451/98
+R.Sridharan
+50-XIII
+69
+2277/22
+26/10/04
+1702.30
+AA
+ARC.448/99 EP.2189/01
+M.Devendran
+51-XIII
+70
+2438/24 etc
+17/02/03
+1755.50
+AA
+ARC..862/99 EP.795/02
+P.Subramanian
+51-XIII
+71
+2215/11
+25/08/05
+566.50
+AA
+ARC.835/93 EP.2021/95
+M.Durairaj
+51-XIII
+72
+1037/2 etc
+13/05/04
+9744.00
+AA
+ARC.618/94 EP.508/02
+S..Sukumaran
+52-XIII
+73
+2331/23
+02/12/03
+128.00
+AA
+ARC.119/91 EP.1971/01
+A.R.Nixon
+52-XIII
+74
+2286/31 etc
+03/11/03
+19976.50
+AA
+ARC.949/00 EP.1800/02
+A.R.Nixon
+58-XIII
+75
+2127/19 etc
+03/07/03
+14506.00
+AA
+ARC.555/93 EP.2249/01
+M.Devendran
+59-XIII
+76
+2535/34 etc
+29/01/01
+11499.50
+AA
+ARC.381/96 EP.2836/97
+M.Suresh
+60-XIII
+77
+2166/17 etc
+08/08/00
+10899.00
+AA
+ARC.987/96 EP.360.98
+M.Durairaj
+60-XIII
+78
+2086/10 etc
+14/06/04
+2093.50
+AA
+ARC.1404/94 EP.1451/02
+Y.Yesudoss
+62-XIII
+79
+2020/10 etc
+23/04/04
+3533.00
+AA
+ARC.2033/93 EP.360/02
+A.R.Nixon
+62-XIII
+80
+2136/6
+14/07/03
+1637.79
+AA
+ARC.1352/98 EP.1406/01
+M.Durairaj
+62-XIII
+81
+2136/10 etc
+14/07/03
+4000.00
+AA
+ARC.563/98 EP.2117/02
+S.Srinath
+63-XIII
+82
+1124/1
+12/08/04
+451.50
+AA
+ARC.415/01  EP.1744/02
+M.Durairaj
+63-XIII
+83
+2028/8 etc
+29/04/04
+5853.00
+AA
+ARC.795/99 EP.1277/01
+P.Muthu
+64-XIII
+84
+1271/1 etc
+25/02/04
+13051.5
+AA
+ARC.250/01 EP.162/03
+S.Ganesamurthy
+65-XIII
+85
+2479/24 etc
+30/03/04
+4400.00
+AA
+ARC.380/01 EP.80/03
+N.Namasivayam
+65-XIII
+86
+2191/25
+08/09/03
+1223.00
+AA
+ARC.650/99 EP.1265/01
+K.Mohan
+66-XIII
+87
+2219/20 etc
+08/09/03
+11000.00
+AA
+ARC.348/99 EP.369/01
+N.Namasivayam
+66-XIII
+88
+2406/2 etc
+04/02/04
+5778.00
+AA
+ARC.717/94 EP.1045/02
+B.Balaji Singh
+67-XIII
+89
+2270//40
+21/10/03
+2000.00
+AA
+ARC.347/99 EP.411/03
+S.Ganesamurthy
+68 XIII
+90
+2327/18 etc
+25/11/03
+4932.00
+AA
+ARC.896/99 EP.2285/01
+N.Namasivayam
+68 XIII
+91
+2191/77
+19/08/04
+15.50
+AA
+ARC.875/00 EP.753/02
+S.Ganesamurthy
+72 XIII
+92
+2426/8
+31/02/04
+1908.00
+AA
+ARC.568/01 EP.272/02
+R.Vijayakumar
+75 XIII
+Sl.No.
+Challan
+Date of
+Amount.
+Nature of
+Suit No.
+Plaintiff
+Defendant
+Ledger
+No.
+Deposit.
+Deposit.
+A.R.C./L.A.C.
+Counsel  Name.
+Counsel Name.
+Folio.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+
+
+4
+93
+2203/3 etc
+25/08/04
+4649.50
+AA
+ARC.539/01 EP.1173/02
+R.Thanigaisivam
+75 XIII
+94
+1286/2
+08/03/04
+2000.00
+AA
+ARC.47/01 EP.2108/02
+S.Srinath
+76 XIII
+95
+1121/2 etc
+06/08/04
+13641.00
+AA
+ARC.954/00 EP.837/02
+N.Namasivayam
+77XIII
+96
+1244/3 etc
+23/03/99
+6203.50
+AA
+ARC.322/96 EP.1288/97
+M.Devendran
+89 XIII
+97
+2497/6 etc
+28/02/00
+10452.50
+AA
+ARC.655/97 EP.1310/98
+M.Devendran
+89 XIII
+98
+2229/9 etc
+12/09/00
+15400.00
+AA
+ARC.503/93 EP.1805/97
+S.Alagarraj
+40 XIV
+99
+3345/5 etc
+27/11/95
+13164.56
+AA
+ARC.1322/92 EP.2078/94
+C.Dayakar
+24 XV
+100 2608/1 etc
+23/02/01
+2987.50
+AA
+ARC.516/97 EP.2790/98
+K.Valayapathy
+26 XV
+101 222/42 etc
+08/09/00
+13975.75
+AA
+ARC.375/92 EP.1798/96
+K.Martin Arokiaraj
+35-XII
+102 2156/35 etc
+18/08/99
+6993.00
+AA
+ARC.50/87 EP.660/92
+K.Krishnaswamy
+36 XV
+103 2489/32 etc
+25/02/00
+13224.50
+AA
+ARC.1043/96 EP.563/98
+S.Arun Kumar
+38 XV
+104 2325/3 etc
+25/11/03
+2000.00
+AA
+ARC.87/95 EP.1383/96
+R.Munusamy
+38 XV
+105 2225/15 etc
+17/09/03
+10000.00
+AA
+ARC.744/92 EP.631/01
+R.Abarna
+48 XV
+106 2085/7 etc
+14/06/04
+11142.00
+AA
+ARC.4/01 EP.374/03
+J.Esther Beula
+48 XV
+107 2215/23 etc
+08/09/04
+20524.50
+AA
+ARC.743/01 EP.1670/02
+M.Durairaj
+54 XV
+108 2271/15
+27/10/04
+2473.00
+AA
+ARC378/01 EP.917/03
+N.Venkatraman
+56 XV
+109 2379/3 etc
+20/12/99
+6592.50
+AA
+ARC.975/95 EP.2927/97
+K.Sunandha
+123 XV
+110 1142/9 etc
+08/11/00
+5109.00
+AA
+ARC.186/95 EP.238/97
+C.Dayakar
+164 XV
+111 2467/33
+04/12/97
+496.00
+AA
+ARC.459/92 EP.688/95
+R.Selvakumar
+265 XV
+112 2205/5 etc
+16/08/02
+1011.00
+AA
+ARC.236/95 EP.1622/00
+T.N.Suguna
+265 XV
+113 1406/10 etc
+20/03/97
+2768.50
+AA
+ARC.129/92 EP.2033/94
+B.Maheshwari
+268 XV
+114 2114/25 etc
+30/07/99
+2289.00
+AA
+ARC.291/94 EP.1611/95
+R.Vijayakamala
+1 XVI
+115 2041/2 etc
+14/05/03
+7078.00
+AA
+ARC.746/99 EP.1383/01
+M.Durairaj
+3 XVI
+116 2266/2 etc
+11/07/97
+7362.50
+AA
+ARC.346/93 EP.22/95
+N.Namasivayam
+8 XVI
+117 3498/22 etc
+02/01/96
+18651.00
+AA
+ARC.567/91 EP.902/95
+C.Dayakar
+10 XVI
+118 2661/2 etc
+03/10/96
+1172.00
+AA
+ARC.407/93 EP.336/95
+R.Selvakumar
+12 XVI
+119 2423/9 etc
+13/02/04
+2092.00
+AA
+ARC.312/98 EP.478/99
+R.Munusamy
+19 XVI
+120 2021/8 etc
+16/05/00
+5000.00
+AA
+ARC.204/97 EP.741/98
+S.Arun Kumar
+20 XVI
+121 2593/8 etc
+02/05/00
+4152.00
+AA
+ARC.585/90 EP.2696/97
+R.Krishnasamy
+22 XVI
+122 2336/1
+05/10/01
+23.00
+AA
+ARC.54/97 EP.1147/98
+N.Namasivayam
+26 XVI
+123 2410/36
+23/01/03
+1613.87
+AA
+ARC.786/94 EP.2263/01
+.A.R.Nixon
+27 XVI
+124 2404/9
+04/02/04
+1000.00
+AA
+ARC.1114/93 EP.818/03
+P.Muralidharan
+27 XVI
+125 3003/2 etc
+21/12/96
+720.00
+AA
+ARC.110/93 EP.1496/94
+R.Vijayakamala
+28 XVI
+126 2302/5 etc
+10/11/04
+6300.00
+AA
+ARC.860/93 EP.500/95
+P.Muthu
+42 XVI
+127 2304
+20/12/04
+750.00
+AA
+ARC.755/93 EP.3335/96
+A.R.Nixon
+47 XVI
+128 2109/17
+28/06/04
+8.50
+AA
+Arb.Award 51/01 EP.1903/02
+S.Arun Kumar
+50 XVI
+129 6409
+27/10/94
+429.00
+AA
+ARC.268/93 EP.1302/94
+S.Goldwern
+75 XVI
+130 3744/12 etc
+11/06/97
+868.00
+AA
+ARC.2104/94 EP.2179/96
+K.Sunandha
+77 XVI
+131 1222/2
+17/01/01
+791.50
+AA
+ARC.443/93 EP.3531/93
+P.G.Padmanabhan
+77 XVI
+132 2274/25 etc
+04/10/99
+10142.00
+AA
+ARC.605/95 EP.619/98
+R.Sridharan
+78 XVI
+Sl.No.
+Challan
+Date of
+Amount.
+Nature of
+Suit No.
+Plaintiff
+Defendant
+Ledger
+No.
+Deposit.
+Deposit.
+A.R.C./L.A.C.
+Counsel  Name.
+Counsel Name.
+Folio.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+
+
+5
+133 2231/3 etc
+23/07/97
+8358.00
+AA
+ARC.563/93 EP.1941/96
+K.Sunandha
+78 XVI
+134 2375/12 etc
+21/08/97
+7371.50
+AA
+ARC.744/94 EP.3381/95
+M.Devendran
+78 XVI
+135 3677/41 etc
+01/02/96
+8211.00
+AA
+ARC.1902/93 EP.269/95
+C.Ramachandran
+80 XVI
+136 1229/10 etc
+14/10/96
+870.00
+AA
+ARC.181/92 EP.3990/94
+M.Devendran
+82 XVI
+137 3700/8
+05/02/96
+920.00
+AA
+ARC.1516/91 EP.1724/93
+M.Suresh
+83 XVI
+138 1600/9 etc
+19/01/95
+636.00
+AA
+ARC.49/91 EP.1328/93
+E.S.Raja
+83 XVI
+139 6498 etc
+28/10/94
+1936.00
+AA
+ARC.530/92 EP.2863/93
+P.N.Radhakrishnan
+87 XVI
+140 3098/3 etc
+09/12/96
+3137.30
+AA
+ARC.815/91 EP.4114/94
+J.Hemalatha
+88 XVI
+141 1105/1 etc
+01/09/97
+7240.00
+AA
+ARC.1276/92 EP.251/96
+K.Ragavendran
+89 XVI
+142 3081/9 etc
+25/11/96
+3903.50
+AA
+ARC.901/91 EP.2158/94
+M.Sridhar
+253 XVI
+143 2183/8 etc
+16/07/01
+5800.50
+AA
+ARC.337/96 EP.2188/98
+M.Durairaj
+253XVI
+144 2438/8
+08/01/01
+6.25
+AA
+ARC.118/95 EP.1049/00
+M.Durairaj
+12 XVII
+145 2423/1 etc
+28/11/01
+1082.00
+AA
+ARC..259/94 EP.3763/95
+C.Dayakar
+14 XVII
+146 2426/10 etc
+13/02/04
+10248.00
+AA
+ARC.638/96 EP.191/99
+R.Vijayakamala
+19 XVII
+147 1106 etc
+09/07/99
+11500.50
+AA
+ARC.931/93 EP.4590/95
+Selvam
+20 XVII
+148 2476/23 etc
+05/01/01
+2186.00
+AA
+ARC.2249/93 EP.4970/95
+R.Selvakumar
+21 XVII
+149 1024/10 etc
+15/05/98
+2496.50
+AA
+ARC.2106/93 EP.4809/95
+K.Valayapathy
+22 XVII
+150 2953/5
+08/07/05
+16.00
+AA
+ARC.547/93 EP.2187/94
+M.Sridhar
+22 XVII
+151 2103/12 etc
+23/06/04
+1306.75
+AA
+ARC.160/93 EP.566/94
+M.Suresh
+22 XVII
+152 2284/3 etc
+23/10/00
+1752.50
+AA
+ARC.177/96 EP.1668/98
+T.N.Suguna
+31 XVII
+153 2025/3 etc
+02/05/02
+2535.50
+AA
+ARC.530/99 EP.918/01
+P.Muthu
+31 XVII
+154 2472/20
+17/01/02
+8.00
+AA
+ARC.302/97 EP.475/01
+J.Esther Beula
+33 XVII
+155 2297/29
+03/11/04
+2679.00
+AA
+ARC.641/01 EP.1147/03
+K.Kalaivanan Bharathi
+62 XVII
+156 2050/10
+20/12/02
+898.00
+AA
+ARC.308/94 EP.3449/95
+R.Munusamy
+62 XVII
+157 2379/15
+07/01/05
+2992.00
+AA
+ARC.674/03 EP.932/04
+T.Ramalingam
+62 XVII
+158 2112/1 etc
+18/06/96
+3520.00
+AA
+ARC.408/93 EP.1559/94
+M.Durairaj
+63 XVII
+159 2603/9 etc
+22/03/02
+22162.00
+AA
+ARC.1098/99 EP.1720/01
+R.Vijayakamala
+72 XVII
+160 2320/29
+21/04/99
+93.00
+AA
+ARC.262/95 EP.1872/96
+M.Devendran
+30 XVIII
+161 2336 etc
+15/12/03
+6837.10
+AA
+ARC.576/96 EP.2478/98
+M.Suresh
+32 XVIII
+162 2297/5 etc
+15/03/99
+9254.50
+AA
+ARC.667/93 EP.4279/94
+S.Goldwern
+32 XVIII
+163 2399/3 etc
+13/09/94
+4734.00
+AA
+ARC.305/94 EP.3404/95
+N.Venkatraman
+38/XVIII
+164 2027/4
+20/04/05
+792.00
+AA
+ARC.1330/92 EP.1463/03
+S.Alagarraj
+55 XVIII
+165 2179/38 etc
+23/11/98
+9102.56
+AA
+ARC.710/92 EP.1131/94
+R.Selvakumar
+9 XIX
+166 2166/35 etc
+06/11/98
+1699.00
+AA
+ARC.206/96 EP.1379/99
+M.Durairaj
+12 XIX
+167 2088/15
+05/07/00
+851.85
+AA
+ARC.396/94 EP.544/95
+N.Namasivayam
+12 XIX
+168 2525/11
+04/02/02
+238.00
+AA
+ARC.808/94 EP.3449/95
+N.Namasivayam
+16 XIX
+169 2381/41 etc
+30/08/97
+6061.50
+AA
+ARC.864/94 EP.4857/95
+K.Valayapathy
+18 XIX
+170 524
+28/04/98
+5273.00
+AA
+ARC.825//91 EP.1242/94
+K.Martin Arokiaraj
+26 XIX
+171 2370/1 etc
+11/11/00
+2472.00
+AA
+ARC.653/90 EP.2732/94
+C.Dayakar
+26 XIX
+172 2063/40 etc
+30/06/98
+4859.00
+AA
+ARC.813/94 EP.123/96
+M.Sridhar
+27 XIX
+Sl.No.
+Challan
+Date of
+Amount.
+Nature of
+Suit No.
+Plaintiff
+Defendant
+Ledger
+No.
+Deposit.
+Deposit.
+A.R.C./L.A.C.
+Counsel  Name.
+Counsel Name.
+Folio.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+
+
+6
+173 2190/8 etc
+26/11/98
+19506.00
+AA
+ARC..259/94 EP.3763/95
+T.N.Suguna
+30 XIX
+174 2188/18
+02/08/02
+775.08
+AA
+ARC449/94 EP.3494/95
+A.R.Nixon
+32 XIX
+175 1063/2 etc
+25/06/03
+1693.50
+AA
+ARC.720/94 EP.2243/96
+M.Sridhar
+34 XIX
+176 2069/2
+27/06/00
+269.50
+AA
+ARC.633/92 EP.735/96
+B.Maheswari
+35 XIX
+177 2054/17 etc
+19/04/98
+8712.50
+AA
+ARC.881/94 EP.777/96
+M.Devendran
+38 XIX
+178 2371/14
+16/12/99
+665.80
+AA
+ARC14/96 EP.1297/97
+M.Devendran
+39 XIX
+179 2167/54
+06/11/93
+4366.00
+AA
+ARC.1123/91 EP.2009/94
+R.Krishnasamy
+40 XIX
+180 2220/35 etc
+10/12/98
+7067.20
+AA
+ARC.1701/92 EP.840/97
+S.Ramadevi
+27 XX
+181 2005/27
+10/05/00
+6528.00
+AA
+ARC.538/97 EP.3023/97
+Rank Associates
+27 XX
+182 2005/38 etc
+10/05/00
+1233.00
+AA
+ARC.828/94 EP.4899/95
+N.Namasivayam
+30 XX
+183 2249/25
+06/01/99
+16.50
+AA
+ARC.2011/94 EP.747/96
+B.Maheswari
+30 XX
+184 2193/11 etc
+18/07/01
+3560.50
+AA
+ARC.277/96 EP.1215/97
+M.Durairaj
+38 XX
+185 2432/2 etc
+14/01/00
+55137.70
+AA
+ARC.968/96 EP.1133/98
+N.Namasivayam
+44 XX
+186 2344/8
+25/11/02
+58.00
+AA
+ARC.901/93 EP.2065/01
+A.R.Nixon
+55 XX
+UWB from Central
+Nazar  City Civil Court,
+Chennai.
+187
+1067/1 &  etc 23/06/04
+4677.00
+AA
+OS.5796/99 & Etc.
+UWB from Central
+467-I
+Nazar  City Civil Court,
+to 471-I
+Chennai.
+188
+1210/1 & etc
+29/10/04
+5242.00
+AA
+OS.3146/03 & etc
+UWB from Central
+472-1
+Nazar  City Civil Court,
+to 477-1
+Chennai.
+189
+1018/1 & etc
+02/05/05
+6204.00
+AA
+Ep.1649/00 & etc
+UWB from Central
+478-1
+Nazar  City Civil Court,
+to 484-I
+Chennai.
+190
+1170/1 & etc
+10/11/05
+5286.00
+AA
+EP 1463/02 & etc
+UWB from Central
+484-1
+Nazar  City Civil Court,
+to 489-I
+Chennai.
+191
+2070/12 etc
+ 28/06/00
+4400.00
+AA
+OS.3127/91 EP.2037/99
+A.Tamil Selvan
+S.Rathna
+26 II
+Sabapathy
+192
+2446/2
+18/01/00
+133.00
+AA
+OS.2101/95 EP.596/96
+Particulars not
+available
+193
+81
+23/07/99
+2700.00
+Rent
+OS .2858/99
+A.S.Narasiman
+A.S.Chandra- 124-II
+sekaran
+194
+231
+03/12/01
+2500.00
+Condi- OS.7675/95 IA.2962/00
+P.Devadoss
+Viswanathan 161-II
+tional
+Order
+195
+457
+10/08/00
+7000.00
+Condi- OS.8608/97 IA.22339/97
+S.D.N.Vimalanathan
+R.Bala-
+76-III
+tional
+krishnan-D-I
+Order
+196
+92
+22.11.01
+1000.00
+Condi-  OS.606/99 IA.739/01
+K.C.Ananda
+A.Mohamed
+234-IV
+tional
+Padmanaban
+Ghouse
+Order
+197
+249
+27/10/94
+94.00
+Auction OS/9559/95 EP.960/02
+K.P.Santhose
+7-V
+Charge
+198
+340
+02/01/01
+4000.00
+Condi-  OS.7034/00 IA.19213/00
+M.Ganesan
+M.Ameer
+191-V
+tional
+John
+Order
+Sl.No.
+Challan
+Date of
+Amount.
+Nature of
+Suit No.
+Plaintiff
+Defendant
+Ledger
+No.
+Deposit.
+Deposit.
+A.R.C./L.A.C.
+Counsel  Name.
+Counsel Name.
+Folio.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+
+
+7
+Sl.No.
+Challan
+Date of
+Amount.
+Nature of
+Suit No.
+Plaintiff
+Defendant
+Ledger
+No.
+Deposit.
+Deposit.
+A.R.C./L.A.C.
+Counsel  Name.
+Counsel Name.
+Folio.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+199
+76
+26/11/01
+5000.00
+Condi-
+OS.5510/96 IA.19599/99
+K.Sandhanam
+192-V
+tional
+Order
+200
+248
+24/01/03
+300.00
+Condi-
+OS.1064/92
+A.T.Balaji
+192-V
+tional
+Order
+201
+391
+04/05/00
+3423.25
+Condi-
+OS.790/95 AS.253/99
+M.Vaithyanathan
+M.Jayabalan 148-VI
+tional
+Order
+202
+2065/14 etc
+14/05/01
+7817.00
+AA
+OS.4814/97 EP.1256/00
+Bharathvaj
+S.Udaya
+161-VI
+Kumar D-3
+203
+127
+27/11/01
+2000.00
+Condi-
+OS.7070/98 IA.10557/99
+Vallinayagham
+R.Thiyaga-
+163-VI
+tional
+rajan
+Order
+Chennai-104,
+B.C. GOPINATH,
+8th March 2010.
+Registrar,
+City Civil Court.
+PRINTED AND PUBLISHED BY THE DIRECTOR  OF STATIONERY AND PRINTING, CHENNAI
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU

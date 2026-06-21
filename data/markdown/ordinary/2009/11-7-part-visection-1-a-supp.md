@@ -1,0 +1,3475 @@
+---
+source: "original_fallback"
+type: "ordinary"
+year: "2009"
+pdf_url: "https://web.archive.org/web/20220812232458/http://www.stationeryprinting.tn.gov.in/gazette/2009/11-vi-1(A-Supp).pdf"
+Part: "7. Part VI—Section 1 (A Supp)"
+Content: "Notifications by Heads of Departments, Etc. JUDICIAL NOTIFICATIONS - UNCLAIMED DEPOSITS, CITY CIVIL COURT, CHENNAI-600 104. - Statement for Lapsed Deposits for the year 2008-2009"
+Date: "2009-03-25"
+Issue: "11"
+---
+
+[ 1 ]
+TAMIL NADU
+GOVERNMENT GAZETTE
+PUBLISHED  BY  AUTHORITY
+No. 11A]
+CHENNAI, WEDNESDAY, MARCH 25, 2009
+Panguni 12, Thiruvalluvar Aandu–2040
+©
+GOVERNMENT  OF   TAMIL  NADU
+[Regd. No. TN/CCN/467/2009-11.
+2009
+[Price :  Rs. 8.00 Paise.
+Part VI–Section  1
+(Supplement)
+NOTIFICATIONS   BY   HEADS  OF  DEPARTMENTS, ETC.
+DTP—VI-1 Sup. (11)—1
+JUDICIAL NOTIFICATIONS
+UNCLAIMED DEPOSITS, CITY CIVIL COURT, CHENNAI-600 104.
+Statement for Lapsed Deposits for the year 2008-2009
+(Dis. No. 2435/09/L.S.)
+
+
+JUDICIAL NOTIFICATION
+UNCLAIMED DEPOSITS IN THE CITY CIVIL COURT, CHENNAI-104
+PARTICULARS OF DEPOSITS
+Amount
+Nature of Deposit
+Suit No./A.R.C./L.A.C.,
+Plaintiff Counsel Name
+1
+1241
+14/02/03
+2999.00
+OS6709/01
+475-I
+2
+1094
+04/08/03
+3578.00
+EP1023/00
+479-I
+3
+1206
+15/12/03
+3170.00
+ARC5/97 EP1159/99
+483-I
+4
+3
+29/05/02
+500.00
+COST
+OS8879/90 IA21315/01
+132-I
+5
+30
+28/06/02
+500.00
+COST
+OS7335/88 IA9036/00
+133-I
+6
+195
+30/09/02
+250.00
+COST
+OS6349/91 IA6854/01
+136-I
+7
+464
+24/10/02
+500.00
+COST
+OS3521/81 IA438/01
+138-I
+8
+407
+20/03/03
+500.00
+COST
+OS398/85 IA9706/00
+140-I
+9
+75
+01/08/97
+1746.00
+COST
+OS876/85 IA6994/95
+140-I
+10
+383
+30/11/92
+5000.00
+COST
+OS6466/79 
+141-I
+(Dis. No.2435/09/LS.)
+No.VI(1)/118/2009
+     Notice is hereby given that the undermentioned items of deposits above Rs.5/- in the City Civil Court Chennai remaining unclaimed for more 
+than four years ending with 31st December 2004 and that unless the parties entitled to them appear and claim them on or before 31st March, 
+2009 those items of deposits will be lapsed and credited to Government Account under Rule 54 of Section (1) and under Rule 119(d)(i) of Section 
+II of Civil Rule of Practice and Circular Orders Volume II. 
+Sl.
+No Challan No.
+Date of 
+deposit
+Defendant Counsel 
+Name
+Ledger 
+Folio
+Unspent Witness Batta
+Unspent Witness Batta
+Unspent Witness Batta
+R.Sundararajan
+G.Saravanan
+D.Ashok Kumar
+P.B.Ramanujam
+T.V.Ramanujam
+K.J.S.Premkumar
+S.P.Veeraraghavan
+N.M.Manivarman
+P.Devadas
+A.R.Sampathkumar
+R.Vijayan
+A.Seshan
+Inamdar Abdul 
+Saleem
+
+
+11
+268
+25/10/00
+5000.00
+COST
+OS4752/94 CRP3006/98
+145-I
+12
+161
+18/10/01
+200.00
+COST
+OS6430/94 IA16584/96
+152-I
+13
+177
+20/11/01
+500.00
+COST
+OS626/88 IA13285/01
+154-I
+14
+194
+20/11/01
+500.00
+COST
+OS3514/81 EP1799/00
+154-I
+15
+226
+21/11/01
+250.00
+COST
+156-I
+16
+20
+27/11/01
+150.00
+COST
+OS13072/96 IA11029/98
+158-I
+17
+170
+20/11/01
+500.00
+COST
+OS3139/79 IA17062/91
+159-I
+18
+245
+25/01/02
+750.00
+COST
+OS7712/85 IA19796/01
+160-I
+19
+313
+27/12/02
+250.00
+COST
+OS2956/86 
+169-I
+20
+380
+27/02/03
+150.00
+COST
+OS1585/92 IA5591/02
+169-I
+21
+1149/3
+20/10/03
+500.00
+COST
+174-I
+22
+330
+05/04/02
+150.00
+Copying Charges
+OS8146/98 IA16149/99 
+231-I
+23
+358
+10/02/03
+2000.00
+Expert Charges
+OS6186/96 IA935/02
+232-I
+24
+109
+31/07/02
+200.00
+Copying Charges
+OS5416/99 IA6669/99
+232-I
+25
+421
+03/04/03
+500.00
+Copying Charges
+OS3354/00 IA5875/03
+233-I
+26
+373
+18/09/03
+50.00
+Copying Charges
+OS8410/95 IA2807/99
+John Victor
+234-I
+27
+339
+26/11/98
+49749.75
+OS4829/96 EP1225/00
+8-II
+28
+2716/20
+24/04/01
+3063.00
+AA
+OS6763/99 EP450/99
+16-II
+29
+369
+04/05/00
+23195.00
+Conditional Order
+OS4426/96 
+16-II
+30
+300
+16/12/98
+180000.00
+Sale Proceeds
+OS1388/96 IA16960/98
+116-II
+31
+451
+10/02/99
+115000.00
+OS8055/96
+122-II
+S.Srinivasan
+J.Mahalingam
+G.Balasubramanian
+S.Kannan
+A.Gunaseelan
+S.L.Kalavathy
+M.Srinivasan
+Subramania Rao
+OS1483/89 IA15020/93 
+CMA121/99
+A.Subramanya Iyer
+R.Subramanian
+P.D.Ashok kumar
+K.P.Gopalakrishnan
+V.N.Krishna Rao
+Velraj
+K.Kumarasamy
+A.Lakshmanan
+P.B.Ramanujam
+K.Krishnamurthy
+M.Venkatachalapathi
+M.Devendran
+OS837/87 IA21853/00 & 
+IA18587/03
+R.Srinivasan
+K.Sathiamurthy
+S.Palani
+K.P.Gopalakrishnan
+M.V.Venkataseshan
+T.V.Ramanujam
+Ranga
+Narasinga Rao
+Karamathullah
+A.Natarajan
+Gowrisankar
+Balance Sale 
+Consideration 
+S.N.Narasimhalu
+G.Dasappar
+P.Susheela Rani
+R.Ravichandran
+C.P.Rajagopala Iyengar
+K.Raghavan
+P.Seshadri
+Balance Sale 
+Consideration 
+V.P.Gopalan
+
+
+Amount
+Nature of Deposit
+Suit No./A.R.C./L.A.C.,
+Plaintiff Counsel Name
+32
+142
+13/08/99
+16500.00
+Conditional Order
+OS4432/99 
+123-II
+33
+167
+06/11/00
+150000.00
+Sale Consideration
+OS10610/96
+135-II
+34
+427
+08/03/01
+10000.00
+Water Charges
+OS7548/00 IA20146/00
+142-II
+35
+468
+17/07/01
+75000.00
+Conditional Order
+OS865/01 IA2594/01
+147-II
+36
+471
+17/07/01
+10000.00
+Conditional Order
+OS1465/01 IA4695/01
+147-II
+37
+478
+17/07/01
+10000.00
+Order of Court
+OS1525/01 IA4680/01
+148-II
+38
+100
+27/11/01
+10000.00
+Conditional Order
+OS3883/99 IA9872/99
+150-II
+39
+2011/9
+23/04/02
+20075.25
+AA
+OS4120/99 EP2247/00
+151-II
+40
+2205/1
+06/08/02
+5000.00
+AA
+OS339/00 EP652/02
+165-II
+41
+2329/1
+19/11/02
+3238.00
+AA
+OS614/00 EP1612/00
+165-II
+42
+2646/1
+05/03/01
+800.00
+AA
+OS8308/96 EP1064/99
+77-III
+43
+88
+01/08/00
+50000.00
+Conditional Order
+OS1735/96
+65-III
+44
+397
+22/11/01
+1500.00
+COST
+OS416/91 IA11749/00
+16-IV
+45
+2083/2
+05/07/00
+13810.00
+AA
+OS9433/96 EP212/98
+21-IV
+46
+93
+07/10/02
+12000.00
+Sale Consideration
+OS4050/00 
+35-IV
+47
+176
+22/09/99
+80000.00
+Conditional Order
+OS12057/96 
+43-IV
+48
+179
+22/09/99
+5000.00
+Decree Amount
+OS3464/96
+43-IV
+49
+142
+12/10/99
+225000.00
+OS1564/96 
+44-IV
+50
+2371/7
+02/11/99
+9185.00
+AA
+OS1419/96 EP1567/98
+45-IV
+51
+2399/2
+28/12/99
+16500.00
+AA
+OS1044/96 EP3436/97
+52-IV
+52
+2292/18
+11/10/00
+13200.00
+AA
+OS1414/96 EP1958/99
+63-IV
+Sl.
+No Challan No.
+Date of 
+deposit
+Defendant Counsel 
+Name
+Ledger 
+Folio
+R.Krishnasamy
+S.P.V.Sivasubra-
+manian
+S.Sundar
+Thirumuruga-
+nandam
+L.Prabhakar
+J.A.Selvakumar
+G.Sugumaran
+K.Sukumaran
+S.Jaganathan
+S.Senthilnathan
+M.A.Srinivasan
+K.Tamilvendan
+P.Srinivasan
+T.Skandhakumar
+E.J.Iyappa
+B.S.Sundara-
+moorthi
+Y.K.Rajagopal
+V.Narayanasamy
+P.M.Bhaskaran
+C.Rajan
+T.K.Ramkumar
+N.Varadarajan
+M.Mahendrakumar
+V.Baskaran
+N.S.Varadachari
+Balance Sale 
+Consideration 
+R.Santhanam
+R.Santhanam
+R.Santhanam
+R.Santhanam
+
+
+53
+242
+08/11/00
+150000.00
+OS11546/96 
+71-IV
+54
+256
+08/11/00
+25000.00
+Auction Sale
+OS5361/00 IA16709/00
+71-IV
+55
+286
+08/11/00
+42000.00
+OS4075/00 IA10360/00
+72-IV
+56
+2008
+03/05/01
+25000.00
+AA
+OS8976/96 EP1217/99
+83-IV
+57
+337
+02/01/01
+20600.00
+Conditional Order
+OS6961/00 IA18525/00
+83-IV
+58
+369
+14/02/01
+100000.00
+Conditional Order
+OS7463/00 IA19914/00
+87-IV
+59
+390
+14/02/01
+5000.00
+Conditional Order
+OS7473/00 IA19972/00
+87-IV
+60
+396
+14/02/01
+314261.38
+Conditional Order
+OS4779/96 AS317/00
+87-IV
+61
+179
+30/09/02
+50400.00
+OS680/96 
+91-IV
+62
+298
+04/09/01
+9900.00
+AA
+OS1164/01 IA3564/01
+99-IV
+63
+75
+04/09/01
+9900.00
+AA
+OS1178/01 IA3683/01
+100-IV
+64
+410
+29/10/01
+10000.00
+Conditional Order
+OS1150/00 IA2919/00
+101-IV
+65
+283
+21/11/01
+7990.00
+Conditional Order
+OS6931/99 IA17402/99
+103-IV
+66
+306
+21/11/01
+11234.00
+Conditional Order
+OS7617/99 
+103-IV
+67
+2388
+06/11/01
+170000.00
+AA
+OS6300/96 IA17273/01
+110-IV
+68
+2155/23
+28/07/03
+7.87
+AA
+OS3766/99 EP1325/01
+111-IV
+69
+2043/10
+14/05/03
+925.00
+AA
+OS300/01 EP1325/02
+123-IV
+70
+2056/5
+26/05/03
+2083.00
+AA
+OS6559/00 EP1974/01
+123-IV
+71
+2129/21
+04/07/03
+40109.00
+AA
+OS4510/99 EP1111/02
+127-IV
+72
+47
+25/06/03
+770000.00
+Conditional Order
+OS9295/96 IA138/03
+129-IV
+73
+2136/1
+14/07/03
+1025.00
+AA
+OS697/97 EP500/01
+134-IV
+74
+183
+19/11/03
+26947.50
+Conditional Order
+OS1871/02 CRP146/02
+139-IV
+75
+2349/6
+16/12/03
+1100.00
+AA
+OS2023/02 EP2222/02
+142-IV
+Balance Sale 
+Consideration 
+S.Jaganathan
+Thangavelu
+G.Veerapathiran
+Redemption of 
+Mortgage suit
+M.L.Ramesh
+K.Arunthathi
+M.A.Ghatala
+Addl. City G.P.
+P.J.George
+S.Mahimairaj
+S.K.Sundarsanam
+P.Wilson
+M.Amirjan
+K.Venkataraman
+V.Narayanasamy
+P.Srikrishnan
+Balance Sale 
+Consideration 
+S.Vijayakumar
+C.Rajan
+D.Dharamchand
+P.D.Venkatesan
+D.Dharamchand
+E.Rajaram
+S.K.Sathish
+S.N.Narasimhalu
+P.Wilson
+G.Veerapathiran
+S.Venkatesan
+V.K.Rajagopalan
+M.R.Gopalan
+E.Kumar
+G.Rajalingam
+N.Balasubramanian
+M.A.Nisar Ahmed
+T.Skandhakumar
+Srikrishna
+S.V.Durai Solai Malai
+Sivasubramanian
+S.Athmananda-
+perumal
+R.Suresh
+
+
+Amount
+Nature of Deposit
+Suit No./A.R.C./L.A.C.,
+Plaintiff Counsel Name
+76
+145
+27/10/03
+252500.00
+Specific Performance
+OS1030/96 IA397/02
+51-V
+77
+161
+27/10/03
+75000.00
+OS1705/96 
+51-V
+78
+32
+29/05/02
+430.00
+Recovery amount
+OS311/00 IA761/00 
+3-VI
+79
+2503/21
+21/01/02
+3214.00
+Transferred amount
+OS3338/96 CS36/86
+9-VI
+80 2503/21/1 21/01/02
+10222.00
+Transferred amount
+OS3378/96 CS164/86
+9-VI
+81
+146
+27/10/03
+252500.00
+Specific Performance
+OS1031/96 IA398/02
+11-VI
+82
+2503/28
+21/01/02
+1760.00
+Transferred amount
+OS3831/96 CS319/87
+13-VI
+83
+2503/30
+21/01/02
+10781.00
+Transferred amount
+OS6766/96 CS850/90
+13-VI
+84
+2003/22
+04/04/02
+10730.00
+AA
+OS6030/91 EP282/97
+16-VI
+85
+297
+25/10/93
+30000.00
+AA
+OS1306/91
+19-VI
+86
+57
+05/07/95
+30583.00
+Conditional Order
+OS2245/90 AS214/95
+24-VI
+87
+2503/5
+29/01/02
+18048.05
+Transferred amount
+OS2452/96 CS602/82
+46-VI
+88
+2503/8
+21/01/02
+22043.75
+Transferred amount
+OS2677/96 CS171/84
+47-VI
+89
+2503/15
+21/01/02
+3000.00
+Transferred amount
+OS3203/96 CS522/85
+48-VI
+90
+2503/34
+21/01/02
+218500.00
+Transferred amount
+OS6894/96 CS1059/90
+49-VI
+91
+2503/35
+21/01/02
+10033.00
+Transferred amount
+OS6738/96 CS746/90 
+49-VI
+92
+2503/37
+21/01/02
+21370.00
+Transferred amount
+OS6407/96 CS20/90
+49-VI
+93
+2503/42
+21/01/02
+27270.50
+Transferred amount
+OS7199/96 CS210/91
+50-VI
+94
+2503/43
+21/01/02
+5704.00
+Transferred amount
+OS7280/96 CS356/91
+50-VI
+95
+2503/45
+21/01/02
+50000.00
+Transferred amount
+OS9592/96 CS1550/92
+51-VI
+96
+2503/47
+21/01/02
+240735.20
+Transferred amount
+OS4553/96 CS481/92
+Additional C.G.P.
+51-VI
+97
+2503/52
+21/01/02
+412379.98
+Transferred amount
+OS11967/96 CS1593/94
+51-VI
+Sl. 
+No Challan No.
+Date of 
+deposit
+Defendant Counsel 
+Name
+Ledger 
+Folio
+S.Ponnarasi
+Govindarajan
+Balance Sale 
+Consideration  
+A.Ilango
+P.K.Somasubramanian
+D.J.Krishnamurthy
+B.Kamaraj
+V.Veeraraghavan
+S.Venkataraman
+R.Harikesavan
+P.Govindarajan
+T.V.Ramanujam
+A.G.Narasimhan
+P.Chidambarasubra-
+manian
+Ramakrishnan
+K.Chairman Selvaraj
+S.Vijayakumar
+N.A.Kareem
+S.Kothandaraman
+Anand Dass Gupta
+R.Gopal
+S.Subramanian
+S.Kasimurugan
+A.S.Chandrasekaran
+R.S.Venkatachari
+P.Seshadri
+A.Tamilarasan
+P.Sankaran
+S.N.Hussain
+R.Muthukumarasamy
+Rangarajan
+R.Thiagarajan
+P.Sreenivasalu
+R.Thiagarajan
+Surana & Surana
+
+
+98
+2503/53
+21/01/02
+71000.00
+Transferred amount
+OS2115/96 CS653/94
+52-VI
+99
+2503/49
+21/01/02
+4299.00
+Transferred amount
+OS10638/96 CS709/93
+54-VI
+100
+2215/19
+09/08/01
+8800.00
+AA
+OS779/96 EP3470/98
+58-VI
+101
+319
+31/12/02
+250.00
+COST
+OS14437/96 IA12706/01
+66-VI
+102
+16
+29/05/02
+1800.00
+Rent
+OS2204/02
+66-VI
+103
+40
+29/05/02
+716600.00
+Decree Amount
+OS15188/96 
+69-VI
+104
+49
+30/05/02
+13015.00
+Conditional Order
+OS7167/00 
+70-VI
+105
+52
+31/05/02
+8800.00
+Conditional Order
+OS2440/02 IA7428/02
+70-VI
+106
+54
+28/06/02
+7500.00
+Order of Court
+OS3989/02 IA7294/02
+71-VI
+107
+2105/25
+12/06/02
+800.00
+AA
+OS222/96 EP469/00
+71-VI
+108
+2314
+08/11/02
+109640.00
+Compensation Award
+OS6185/96 AS217/00
+C.G.P.
+77-VI
+109
+2332/27
+19/11/02
+4300.00
+AA
+OS5112/99 EP124/02
+77-VI
+110
+221
+21/11/02
+15722.80
+Conditional Order
+OS5757/99 EP437/00
+78-VI
+111
+2382/2
+24/12/02
+400.00
+AA
+OS708/96 EP92/98
+78-VI
+112
+2417/2
+24/01/03
+5405.00
+AA
+OS2546/00 EP39/02
+81-VI
+113
+329
+10/02/03
+360000.00
+Conditional Order
+82-VI
+114
+158
+18/11/03
+395000.00
+OS15292/96 
+89-VI
+115
+166
+18/11/03
+1000.00
+Handwriting Expert
+OS8183/99 IA96/03
+90-VI
+116
+72
+28/06/02
+273871.50
+Order of Court
+OS2093/01
+134-VI
+117
+40
+16/05/94
+12765.50
+Conditional Order
+OS2087/94 IA4143/94 
+23-VII
+118
+41
+16/05/94
+10858.00
+Conditional Order
+OS2088/94 IA4145/94
+23-VII
+119
+152
+28/11/94
+20000.00
+Conditional Order
+OS3208/94 
+27-VII
+120
+393
+28/02/95
+10000.00
+Conditional Order
+OS10083/94
+27-VII
+S.B.S.Raman
+P.B.Ramanujam
+M.A.Ghatale
+M.Muneersheriff
+R.Santhanam
+S.Palaniappan
+I.Goklaney
+S.Dasaiya & 
+Anuradha
+C.A.Sundaram
+Ramani Natarajan
+T.Skandhakumar
+C.P.Sivamohan
+J.Abdul Razak
+A.Natarajan
+C.V.Pagalavan
+M.Balachandran
+R.N.Amarnath
+R.Natarajan
+T.V.Krishnamachari
+K.Nagarajan
+T.K.Seshadri
+R.Sivasubramanian
+OS7102/96 
+CMP10874/02 
+V.Ramesh
+M.Venkatakrishnan
+Balance Sale 
+Consideration 
+D.Murugesan
+C.Subramanian
+N.Jothi
+S.Shyamala
+S.T.Ramanathan
+T.V.Krishnamachari
+T.V.Krishnamachari
+D.Veerasekaran
+I. Mahendran D1
+R.Sundaramurthy
+
+
+Amount
+Nature of Deposit
+Suit No./A.R.C./L.A.C.,
+Plaintiff Counsel Name
+121
+148
+29/09/95
+3000.00
+Conditional Order
+OS4996/95 IA9764/95
+30-VII
+122
+2014/17
+21/06/99
+14507.75
+AA
+OS57/93 EP2863/97
+35-VII
+123
+2193
+23/08/00
+396528.00
+OS3649/96 EP553/00
+Additional G.P.
+43-VII
+124
+20
+03/07/96
+100000.00
+Conditional Order
+OS2701/96 
+74-VII
+125
+313
+28/10/96
+45000.00
+Conditional Order
+OS13519/96 IA16505/96
+74-VII
+126
+223
+25/09/96
+207000.00
+Conditional Order
+OS4073/96 
+75-VII
+127
+502
+03/03/97
+75000.00
+Sale of Consideration
+OS6935/96
+79-VII
+128
+116
+04/08/97
+5000.00
+Conditional Order
+OS9624/96 IA10595/96
+87-VII
+129
+265
+25/10/93
+1750.00
+Conditional Order
+OS6905/93
+88-VII
+130
+262
+25/08/98
+300.00
+COST
+OS5548/96 
+88-VII
+131
+2166/6
+15/07/00
+2000.00
+AA
+OS5036/92 EP2062/00
+106-VII
+132
+2024/4
+02/05/02
+400.00
+AA
+OS715/96 EP2521/97
+109-VII
+133
+110
+31/07/02
+65000.00
+Decree Amount
+OS10825/96
+111-VII
+134
+148
+29/08/02
+62565.00
+Conditional Order
+OS1376/96
+119-VII
+135
+184
+30/09/02
+500.00
+Conditional Order
+OS5183/96 IA17407/00
+121-VII
+136
+289
+28/10/02
+12000.00
+Conditional Order
+OS13210/96 
+122-VII
+137
+237
+25/10/02
+33580.50
+Conditional Order
+OS2631/00 IA7011/00
+127-VII
+138
+274
+29/11/02
+15000.00
+Conditional Order
+OS5799/01 
+128-VII
+139
+367
+12/03/03
+65000.00
+Conditional Order
+OS5106/02 IA15791/02
+131-VII
+140
+2467/26
+07/03/03
+800.00
+AA
+OS5757/00 EP1179/01
+131-VII
+141
+476(A)
+19/03/03
+7500.00
+Conditional Order
+OS15986/96 IA23664/96
+135-VII
+Sl.
+No Challan No.
+Date of 
+deposit
+Defendant Counsel 
+Name
+Ledger 
+Folio
+M.Kamalanadhan
+P.Sreenivasalu
+Compensation 
+Amount
+E.S.Raja
+S.Subbiah
+P.B.Ramanujam
+K.S.Madhavan
+Himmatmal Mardia
+M.Rajaram
+S.Anbalagan
+S.Subburaman
+V.Manohar
+K.Mahendran
+P.Balambal
+V.S.Rajan
+P.K.Hussain
+A.Veerappan
+A.S.Kailasam
+Nandini
+P.B.Ramanujam
+Rajagopalan
+P.L.Narayanan
+S.M.M.Nithyanand
+S.D.Balaji
+R.Rajagopalan
+B.Kalathinathan
+R.Ethiraj
+R.Ganesan
+Y.K.Rajagopal
+M.Ravi Bharathy
+G.Jaganathan
+RTS.Hariharan
+G.Jaganathan
+RTS.Hariharan
+K.Jayakumar
+Suresh Babu
+
+
+142
+99
+22/08/03
+5375.00
+COST
+148-VII
+143
+104
+22/08/03
+134292.00
+Conditional Order
+OS3238/00
+149-VII
+144
+2201/24
+28/08/03
+4886.00
+AA
+OS134/96 EP1571/01
+151-VII
+145
+3842/24
+05/03/96
+19.50
+Interest
+L.A.C.24/1913
+Particulars N/A **
+Particulars N/A
+139-IX
+146
+2014/2
+12/06/97
+66.25
+Interest
+L.A.C.41/1916
+Particulars N/A
+Particulars N/A
+186-IX
+147
+3423/5
+08/12/95
+6.50
+Interest
+L.A.C.7/1915
+Particulars N/A
+Particulars N/A
+186-IX
+148
+2366/61
+07/08/97
+8.00
+Interest
+L.A.C.1/1916
+Particulars N/A
+Particulars N/A
+195-IX
+149
+7209
+27/02/91
+69.74
+Interest
+L.A.C.53/1933
+Particulars N/A
+Particulars N/A
+216-IX
+150
+6340
+14/12/87
+12.65
+Interest
+L.A.O.P.140/87
+Particulars N/A
+Particulars N/A
+287-IX
+151
+6341
+14/12/87
+32.20
+Interest
+L.A.O.P.141/87
+Particulars N/A
+Particulars N/A
+287-IX
+152
+6339
+14/12/87
+62.10
+Interest
+L.A.O.P.145/87
+Particulars N/A
+Particulars N/A
+290-IX
+153
+6338
+14/12/87
+40.25
+Interest
+L.A.O.P.147/87
+Particulars N/A
+Particulars N/A
+290-IX
+154
+6337
+14/12/87
+87.40
+Interest
+L.A.O.P.148/87
+Particulars N/A
+Particulars N/A
+290-IX
+155
+5350
+30/09/87
+6.30
+Interest
+L.A.O.P.154/87
+Particulars N/A
+Particulars N/A
+291-IX
+156
+291
+30/08/91
+100.00
+Interest
+L.A.O.P.52/88
+C.G.P.
+292-IX
+157
+3231
+30/04/87
+34.10
+Interest
+L.A.O.P.66/87
+C.G.P.
+34-IX
+158
+3230
+30/04/87
+40.95
+Interest
+L.A.O.P.65/87
+C.G.P.
+34-IX
+159
+2049/5
+14/06/97
+55.33
+Interest
+L.A.C.101/64
+Particulars N/A
+Particulars N/A
+274-IX
+160
+4351
+24/07/87
+48.35
+Interest
+L.A.O.P.107/87
+Particulars N/A
+Particulars N/A
+282-IX
+161
+4352
+24/07/87
+192.25
+Interest
+L.A.O.P.108/87
+C.G.P.
+L. VIJAYAN
+287-IX
+162
+3642
+25/04/90
+12.65
+Interest
+L.A.O.P.65/89
+--
+C.G.P.
+325-IX
+163
+3644
+25/04/90
+46.00
+Interest
+L.A.O.P.63/89
+--
+C.G.P.
+326-IX
+164
+2104
+21/08/98
+100.00
+Interest
+L.A.O.P.83/86
+Particulars N/A
+Particulars N/A
+348-IX
+165
+4860
+20/08/87
+10.35
+Interest
+L.A.O.P.78/87
+C.G.P.
+371-IX
+166
+6335
+14/12/87
+82.80
+Interest
+L.A.O.P.80/87
+S. SRIDHAR       
+C.G.P.
+371-IX
+167
+6333
+14/12/87
+34.75
+Interest
+L.A.O.P.83/87
+C.G.P.
+L. VIJAYAN
+371-IX
+168
+6334
+14/12/87
+18.50
+Interest
+L.A.O.P.84/87
+C.G.P.
+--
+377-IX
+OS7098/96 CMP1217/03 
+AS166/03
+Liagat Ali
+M.Shanmuga
+P.B.Ramanujam
+S.Sivagnanam
+M.Balachandran
+C.A.Doraimanickkam
+M.S. Subramanian
+P.B.Ramanujam
+R.Balasubramanian
+
+
+Amount
+Nature of Deposit
+Suit No./A.R.C./L.A.C.,
+Plaintiff Counsel Name
+169
+4863
+20/08/87
+5.20
+Interest
+L.A.O.P.85/87
+ADDL. C.G.P.
+K. KANAGARAJ
+377-IX
+170
+3664
+07/07/87
+42.55
+Interest
+L.A.O.P.91/87
+C.G.P.
+--
+377-IX
+171
+3667
+07/07/87
+8.05
+Interest
+L.A.O.P.94/87
+Particulars N/A
+378-IX
+172
+3668
+07/07/87
+9.20
+Interest
+L.A.O.P.95/87
+C.G.P.
+D.JOSE DANIEAL
+378-IX
+173
+3669
+07/07/87
+5.15
+Interest
+L.A.O.P.96/87
+C.G.P.
+--
+378-IX
+174
+2345
+13/07/95
+76.00
+Interest
+L.A.C.196/92
+Particulars N/A
+Particulars N/A
+407-IX
+175
+8640
+16/04/72
+24.74
+Interest
+L.A.C.43/88
+C.G.P.
+B. ANANDAN
+33-X
+176
+6165
+24/12/98
+70.90
+Interest
+L.A.C.25/55
+Particulars N/A
+Particulars N/A
+50-X
+177
+8500
+02/03/93
+71.88
+Interest
+L.A.C.145/55
+Particulars N/A
+Particulars N/A
+50-X
+178
+5256
+04/09/91
+43.00
+Interest
+L.A.C.53/56
+Particulars N/A
+Particulars N/A
+51-X
+179
+7154
+09/01/92
+90.00
+Interest
+L.A.C.45/71
+Particulars N/A
+Particulars N/A
+88-X
+180
+4975
+27/09/88
+78.75
+Interest
+L.A.C.45/67
+Particulars N/A
+Particulars N/A
+224-X
+181
+3988
+27/06/94
+75.00
+Interest
+L.A.C.352/63
+Particulars N/A
+Particulars N/A
+288-X
+182
+2717/2
+21/07/80
+84.96
+Interest
+L.A.C.46/79
+Particulars N/A
+Particulars N/A
+303-X
+183
+7363
+25/02/83
+66.40
+Interest
+L.A.C.50/79
+Particulars N/A
+Particulars N/A
+303-X
+184
+6817
+24/03/84
+37.49
+Interest
+L.A.C.10/80
+Particulars N/A
+Particulars N/A
+304-X
+185
+5520
+21/09/94
+84.34
+Interest
+L.A.C.15/24
+Particulars N/A
+Particulars N/A
+300-X
+186
+3005
+20/04/87
+94.90
+Interest
+L.A.C.9/86
+Particulars N/A
+Particulars N/A
+337-X
+187
+5246
+31/10/88
+18.55
+Interest
+L.A.C.21/86
+Particulars N/A
+Particulars N/A
+346-X
+188
+6865
+07/02/83
+99.58
+Interest
+L.A.C..301/65
+Particulars N/A
+Particulars N/A
+203-X
+189
+2717/2
+21/07/80
+84.96
+Interest
+L.A.C.46/79
+Particulars N/A
+Particulars N/A
+303-X
+190
+7363
+25/02/83
+66.40
+Interest
+L.A.C.50/79
+Particulars N/A
+Particulars N/A
+303-X
+191
+6817
+24/03/84
+37.49
+Interest
+L.A.C.10/80
+Particulars N/A
+Particulars N/A
+304-X
+192
+5520
+21/09/94
+84.34
+Interest
+L.A.C.15/24
+Particulars N/A
+Particulars N/A
+300-X
+193
+3005
+20/04/87
+94.90
+Interest
+L.A.C.9/86
+Particulars N/A
+Particulars N/A
+337-X
+Sl.
+No Challan No.
+Date of 
+deposit
+Defendant Counsel 
+Name
+Ledger 
+Folio
+
+
+194
+5246
+31/10/88
+18.55
+Interest
+L.A.C.21/86
+Particulars N/A
+Particulars N/A
+346-X
+195
+6865
+07/02/83
+99.58
+Interest
+L.A.C..301/65
+Particulars N/A
+Particulars N/A
+203-X
+196
+2411/7
+05/02/04
+7535.5
+AA
+ARC560/97 EP651/99
+4-XI
+197
+2426/20
+30/01/03
+16132
+AA
+ARC473/00 EP1119/02
+5-XI
+198
+2298/10
+11/07/96
+2490.50
+AA
+ARC1190/94 EP3701/95
+6-XI
+199
+1470
+10/07/90
+2080.00
+AA
+ARC61/86 EP1191/89
+14-XI
+200
+4719
+20/08/91
+1628.30
+AA
+ARC247/89 EP2358/90
+19-XI
+201
+1578
+17/08/90
+4635.00
+AA
+ARC51/87 EP414/89
+20-XI
+202
+2476/26
+17/01/02
+4500.00
+AA
+ARC772/93 EP205/96
+21-XI
+203
+3144/3
+29/09/95
+8324.50
+AA
+ARC53/90 EP74/94
+22-XI
+204
+1931
+05/12/91
+2477.20
+AA
+ARC78/89 EP1039/90
+23-XI
+205
+2077/7
+25/06/97
+2816.00
+AA
+ARC9/87 EP5494/95
+25-XI
+206
+3247/4
+21/01/97
+1031.56
+AA
+ARC638/89 EP1832/90
+25-XI
+207
+4067/7
+08/05/96
+800.00
+AA
+ARC550/89 EP3104/94
+25-XI
+208
+7271
+06/12/94
+2924.00
+AA
+ARC849/89 EP1305/91
+26-XI
+209
+4095/1
+01/03/96
+400.00
+AA
+ARC117/88 EP4424/94
+26-XI
+210
+2427/3
+03/12/01
+3278.00
+AA
+ARC826/95 EP2249/97
+26-XI
+211
+6988
+27/10/93
+7755.45
+AA
+ARC917/89 EP3081/91
+30-XI
+212
+2314/1
+25/07/97
+4651.00
+AA
+ARC33/89 EP3556/94
+31-XI
+213
+2199/3
+21/08/03
+7645.00
+AA
+ARC30/96 EP873/97
+36-XI
+214
+2093/22
+11/07/00
+13150.00
+AA
+ARC634/98 EP1489/99
+37-XI
+215
+2087/2
+04/06/02
+502.50
+AA
+ARC365/98 EP1433/99
+41-XI
+216
+2209/8
+01/09/03
+989.50
+AA
+ARC978/99 EP861/01
+42-XI
+217
+224/2
+12/09/02
+2169.00
+AA
+ARC338/99 EP2063/00
+42-XI
+218
+2295
+03/11/03
+1445.00
+AA
+ARC943/89 EP807/92
+42-XI
+219
+7554
+16/12/93
+1440.50
+AA
+ARC284/88 EP1441/90
+53-XI
+K.B. Govindarajan
+S. Ganesamoorthi
+R. Selvakumar
+S. Seshadri
+T. Ramalingam
+R. Krishnasamy
+K. Valayapathy
+R. Krishnasamy
+S. Seshadri
+R. Krishnasamy
+R. Krishnasamy
+P.N. Padmanabhan
+S. Seshadri
+P. Veerasamy
+K. Valayapathy
+S. Seshadri
+R. Krishnasamy
+C.Dayakar
+R. Munuswamy
+M. Devendran
+A.R.Nixon
+M.Devendran
+S. Seshadri
+S. Seshadri
+
+
+Amount
+Nature of Deposit
+Suit No./A.R.C./L.A.C.,
+Plaintiff Counsel Name
+220
+3347
+19/06/92
+4929.00
+AA
+ARC687/89 EP1312/91
+53-XI
+221
+3143/3
+29/09/95
+2737.35
+AA
+ARC564/90 EP1521/92
+167-XI
+222
+2100/8
+23/06/03
+16.00
+AA
+ARC815/95 EP1959/98
+15-XII
+223
+9494
+12/05/93
+2785.00
+AA
+ARC106/90 EP1712/92
+20-XII
+224
+8709
+ 16/03/93
+1489.33
+AA
+ARC426/90 EP2371/91
+21-XII
+225
+2429/11
+03/11/97
+1822.25
+AA
+ARC712/90 EP2553/95
+21-XII
+226
+3543/2
+03/04/97
+1300.00
+AA
+ARC495/90 EP3415/92
+22-XII
+227
+2381/89
+30/08/97
+671.00
+AA
+ARC1368/90 EP82/94
+24-XII
+228
+2505/12
+23/12/97
+16689.85
+AA
+ARC894/90 EP2379/93
+25-XII
+229
+2412/22
+28/01/03
+400.00
+AA
+ARC1309/97 EP1128/99
+29-XII
+230
+2505/28
+24/01/01
+1742.00
+AA
+ARC1362/92 EP776/96
+30-XII
+231
+2525/4
+25/01/01
+2840.00
+AA
+ARC144/95 EP899/98
+30-XII
+232
+2530/36
+25/01/01
+1980.00
+AA
+ARC639/98 EP1758/99
+30-XII
+233
+2170/40
+02/07/01
+22997.00
+AA
+ARC1094/96 EP3468/97
+33-XII
+234
+2127/21
+03/07/03
+1742.00
+AA
+ARC1035/96 EP574/98
+35-XII
+235
+2277/19
+26/10/04
+400.00
+AA
+ARC884/98 EP1741/01
+35-XII
+236
+2623/17
+27/02/01
+16400.00
+AA
+44-XII
+237
+2553/14
+19/02/03
+19274.00
+AA
+ARC232/00 EP830/01
+64-XII
+238
+2525/24
+04/02/02
+3120.00
+AA
+ARC141/00 EP344/01
+67-XII
+239
+2236/2
+12/09/02
+52.50
+AA
+ARC495/99 EP186/01
+67-XII
+240
+2600/8
+18/03/02
+7980.00
+AA
+ARC711/94 EP956/01
+68-XII
+241
+2215/9
+26/08/02
+7408.25
+AA
+69-XII
+242
+2325/24
+20/11/03
+940.00
+AA
+ARC128/93 EP2309/01
+80-XII
+Sl.
+No Challan No.
+Date of 
+deposit
+Defendant Counsel 
+Name
+Ledger 
+Folio
+R.Krishnasamy
+T. Ramalingam
+R. Sridharan
+M.Suresh
+T.Ramalingam
+M.Suresh
+B.Krishnasamy
+M.Suresh
+R. Krishnasamy
+K. Mohan
+PER. Nambiar
+S.Ramadurai
+R.Sridharan
+C.Dayakar
+C.Dayakar
+C.Dayakar
+ARC1143/98 
+EP1191/2000
+M.Devendran
+A.R.Nixon
+P.Subramanian
+N.Venkataraman
+A.R.Nixon
+ARC1592/94 
+EP1141/2000
+R.Munuswamy
+J.Esther Beula
+
+
+243
+1110
+04/09/03
+8.00
+AA
+ARC949/99 EP2166/01
+82-XII
+244
+2236/4
+12/09/02
+3000.00
+AA
+ARC151/96 EP348/02
+82-XII
+245
+2497/10
+08/04/03
+6982.00
+AA
+ARC1042/98 EP1537/02
+83-XII
+246
+2393/4
+03/01/03
+683.00
+AA
+ARC394/94 EP457/02 
+83-XII
+247
+2404/6
+22/01/03
+3297.00
+AA
+ARC793/99 EP202/01
+83-XII
+248
+2371/8
+30/12/03
+4658.50
+AA
+ARC322/00 EP754/02
+84-XII
+249
+2875/2
+27/11/96
+4470.03
+AA
+ARC480/90 EP3025/92
+85-XII
+250
+1098/2
+19/07/96
+1517.50
+AA
+ARC400/90 EP3043/92
+124-XII
+251
+2517/9
+30/01/02
+20979.00
+AA
+ARC247/88 EP294/01
+4-XIII
+252
+1245/2
+07/08/95
+575.00
+AA
+ARC854/91 EP34/93
+15-XIII
+253
+8597/3
+28/06/95
+769.35
+AA
+ARC736/90 EP561/93
+17-XIII
+254
+2071/6
+26/06/98
+15920.00
+AA
+ARC212/94 EP784/96
+27-XIII
+255
+2643/12
+02/03/01
+819.50
+AA
+ARC2299/93 EP3748/95
+37-XIII
+256
+2510/6
+06/03/00
+4861.00
+AA
+ARC39/94 EP3217/98
+38-XIII
+257
+2508/1
+21/02/00
+4008.00
+AA
+ARC89/93 EP1718/99
+40-XIII
+258
+2564/6
+16/02/01
+105.00
+AA
+ARC2/97 EP1399/98
+44-XIII
+259
+2543/7
+18/02/02
+1209.00
+AA
+ARC133/97 EP2753/98
+46-XIII
+260
+2215/14
+26/08/02
+9192.00
+AA
+ARC1494/93 EP1233/01
+53-XIII
+261
+2613/16
+02/04/02
+8.00
+AA
+ARC504/97 EP418/01
+53-XIII
+262
+2041/2
+03/05/02
+608.00
+AA
+ARC28/95 EP1808/01
+54-XIII
+263
+2052/7
+17/05/03
+2000.00
+AA
+ARC1199/97 EP539/02
+60-XIII
+264
+2213/8
+01/09/03
+4030.00
+AA
+ARC412/01 EP2025/02
+78-XIII
+265
+1139
+26/09/03
+3372.00
+AA
+ARC259/97 EP419/03
+82-XIII
+266
+582
+19/03/97
+5000.00
+AA
+ARC1701/91 EP2989/95
+3-XIV
+267
+2214/7
+16/09/99
+13051.15
+AA
+ARC926/91 EP2972/92
+4-XIV
+268
+2421/6
+13/01/00
+14.50
+AA
+ARC895/90 EP1423/98
+5-XIV
+269
+7921
+03/01/94
+20419.50
+AA
+ARC1528/91 EP312/93
+6-XIV
+P.Muthu
+M.Devendran
+R. Vijayakumar
+J.Esther Beula
+M.Durairaj
+M.Suresh
+R. Krishnasamy
+R.Krishnasamy
+R.Krishnasamy
+T.Ramalingam
+Shobana Padmanabhan
+M.Devendran
+A.R.Nixon
+S.Ramalingam
+A.R.Nixon
+S.Ramesh
+P.Yoganathan
+A.R.Nixon
+V. Rajaram
+J.Esther Beula
+J.Esther Beula
+N.Namasivayam
+S.Alagarraj
+K.Martin Arokiaraj
+T.Ramalingam
+K.Kalaivanan Bharathi
+M.Suresh
+
+
+Amount
+Nature of Deposit
+Suit No./A.R.C./L.A.C.,
+Plaintiff Counsel Name
+270
+2470/7
+04/01/01
+1260.50
+AA
+ARC1079/97 EP3267/98
+11-XIV
+271
+2440/14
+06/12/00
+10684.60
+AA
+ARC956/91 EP2406/94
+17-XIV
+272
+3081/9
+25/11/96
+3903.50
+AA
+ARC901/91 EP2158/94
+26-XIV
+273
+2093/10
+07/07/99
+6219.00
+AA
+ARC488/91 EP2183/97
+28-XIV
+274
+1144/3
+09/11/00
+5100.00
+AA
+ARC605/95 EP619/98
+29-XIV
+275
+2183/8
+16/07/01
+5800.50
+AA
+ARC337/96 EP2188/98
+30-XIV
+276
+2296/19
+14/10/99
+2289.50
+AA
+ARC1336/94 EP4685/95
+30-XIV
+277
+2375/4
+18/12/02
+15206.00
+AA
+ARC1332/96 EP1497/98
+33-XIV
+278
+2400/1
+29/12/99
+3685.50
+AA
+ARC1004/94 EP587/96
+33-XIV
+279
+2377/3
+20/12/02
+5200.00
+AA
+ARC2233/93 EP2926/97
+34-XIV
+280
+2229/9
+12/09/00
+15400.00
+AA
+ARC503/93 EP1805/97
+40-XIV
+281
+2571/16
+10/04/00
+5079.50
+AA
+ARC182/95 EP374/97
+41-XIV
+282
+2459/41
+24/01/00
+1320.50
+AA
+ARC462/97 EP1118/98
+41-XIV
+283
+2459/33
+24/01/00
+8800.00
+AA
+ARC305/95 EP2604/98
+42-XIV
+284
+2354/10
+07/06/99
+5400.00
+AA
+ARC115/94 EP3029/95
+42-XIV
+285
+2335/23
+08/11/02
+1510.50
+AA
+43-XIV
+286
+2426/7
+30/01/03
+10.50
+AA
+ARC449/94 EP151/02
+43-XIV
+287
+2301/4
+04/11/03
+130.00
+AA
+ARC1896/93 EP1079/01
+43-XIV
+288
+2497/2
+08/04/03
+28036.50
+AA
+ARC626/2000 EP2085/01
+46-XIV
+289
+2437/20
+14/02/03
+3000.00
+AA
+ARC334/01 EP1473/02
+47-XIV
+290
+2599/16
+02/04/98
+5040.00
+AA
+ARC884/91 EP1801/94
+82-XIV
+291
+2242/27
+21/01/99
+4339.00
+AA
+ARC283/95 EP1061/96
+165-XIV
+292
+2003/22
+09/05/00
+2649.50
+AA
+ARC43/97 EP425/98
+14-XV
+Sl.
+No Challan No.
+Date of 
+deposit
+Defendant Counsel 
+Name
+Ledger 
+Folio
+K. Mohan
+C.Dayakar
+M.Sridhar
+C.Dayakar
+R.Sridharan
+M.Durairaj
+K.Valayapathy
+K.Valayapathy
+N.Namasivayam
+K.Natarajan
+S.Alagarraj
+K.Kalaivanan Bharathi
+M.Devendran
+R.Munuswamy
+N. Venkataraman
+ARC1401/98 
+EP1266/2000
+K. Valayapathy
+M.Durairaj
+C.Dayakar
+M.Durairaj
+S.Srinath
+R.Selvakumar
+C.Dayakar
+M.Devendran
+
+
+293
+2349/25
+16/12/03
+700.00
+AA
+ARC1387/95 EP1284/02
+16-XV
+294
+2608/1
+23/02/01
+2987.50
+AA
+ARC516/97 EP2790/98
+23-XV
+295
+2010/11
+21/06/99
+1677.00
+AA
+ARC1491/92 EP4726/95
+24-XV
+296
+3723/5
+15/02/96
+327.00
+AA
+ARC385/92 EP1969/94
+24-XV
+297
+3385/4
+25/02/97
+277.50
+AA
+ARC470/92 EP2707/93
+24-XV
+298
+2467/33
+04/12/97
+496.00
+AA
+ARC459/92 EP688/95
+25-XV
+299
+2525/9
+25/01/01
+6911.50
+AA
+ARC1775/92 EP822/95
+25-XV
+300
+3592/8
+18/01/96
+1400.00
+AA
+ARC786/92 EP3366/94
+27-XV
+301
+3071/4
+20/09/95
+5987.00
+AA
+ARC292/93 EP2850/94
+28-XV 
+302
+2402/31
+16/09/97
+12797.00
+AA
+ARC1031/92 EP4152/95
+32-XV
+303
+2156/35
+18/08/99
+6993.00
+AA
+ARC50/87 EP660/92
+37-XV
+304
+2489/32
+25/02/00
+13224.50
+AA
+ARC1043/96 EP563/98
+39-XV
+305
+2146/1
+30/07/99
+22690.00
+AA
+ARC135/95 EP3241/97
+40-XV
+306
+2536/7
+31/01/01
+352.00
+AA
+ARC473/96 EP3125/97
+44-XV
+307
+2480/5
+25/02/00
+8.70
+AA
+ARC346/96 EP174/98
+48-XV
+308
+2472/8
+07/01/02
+800.00
+AA
+ARC411/99 EP239/01
+Rank Associates
+48-XV
+309
+2387/3
+20/01/05
+2456.00
+AA
+ARC725/99 EP655/01
+49-XV
+310
+2205/5
+16/08/02
+1011.00
+AA
+ARC236/95 EP1622/2000
+49-XV
+311
+2081/21
+04/06/02
+1200.00
+AA
+ARC281/92 EP2800/96
+51-XV
+312
+1406/10
+20/03/97
+2768.50
+AA
+ARC12/92 EP2033/94
+170-XV
+313
+2254
+09/02/94
+911.00
+AA
+ARC1777/92 EP2468/93
+182-XV
+314
+2114/25
+30/07/99
+2289.00
+AA
+ARC29/94 EP1611/95
+1-XVI
+315
+2254/21
+29/09/00
+4413.50
+AA
+ARC109/93 EP437/99
+2-XVI
+316
+1331/3
+08/01/97
+1535.59
+AA
+ARC132/91 EP1364/94
+3-XVI
+317
+2077/13
+27/05/02
+1071.00
+AA
+ARC581/97 EP309/91
+3-XVI
+318
+2502/2
+29/01/02
+2962.50
+AA
+ARC799/99 EP464/01
+4-XVI
+C.Dayakar
+K.Valayapathy
+M.Sridhar
+R.Selvakumar
+R.Selvakumar
+R.Selvakumar
+S.Goldwern
+C.Dayakar
+S.T.Deivikraj
+M.Suresh
+R.Krishnaswamy
+S.Alagarraj
+K.Valayapathy
+N.Namasivayam
+T.Ramalingam
+R.Ratnathara
+T.N.Suguna
+N.Namasivayam
+B.Maheshwari
+E.S.Raja
+R.Vijayakamala
+M.Devendran
+C.Dayakar
+K.Mahendran
+M.Durairaj
+
+
+Amount
+Nature of Deposit
+Suit No./A.R.C./L.A.C.,
+Plaintiff Counsel Name
+319
+2183/23
+21/08/00
+20500.50
+AA
+ARC1146/97 EP132/99
+9-XVI
+320
+2564/1
+16/02/01
+3331.00
+AA
+ARC949/97 EP663/99
+10-XVI
+321
+2570/22
+10/04/00
+5568.50
+AA
+ARC19/93 EP2897/95
+12-XVI
+322
+3498/22
+02/01/96
+18965.00
+AA
+ARC567/93 EP902/95
+13-XVI
+323
+2126/2
+19/06/96
+21600.00
+AA
+ARC110/93 EP1498/94
+18-XVI
+324
+2530/4
+25/01/01
+7466.00
+AA
+ARC254/94 EP1796/95
+22-XVI
+325
+3649/92
+29/04/97
+14560.50
+AA
+ARC2378/94 EP5216/95
+23-XVI
+326
+3642/4
+21/04/97
+5876.00
+AA
+ARC698/94 EP3338/95
+24-XVI
+327
+2077/16
+01/09/03
+2500.00
+AA
+ARC1166/93 EP4144/95
+27-XVI
+328
+2631/2
+08/04/02
+7581.00
+AA
+ARC1288/94 EP460/96
+27-XVI
+329
+2118/8
+12/07/01
+150.50
+AA
+ARC126/95 EP902/99
+30-XVI
+330
+2593/8
+02/05/00
+4152.00
+AA
+ARC585/90 EP2696/97
+31-XVI
+331
+2535/30
+29/01/01
+3845.60
+AA
+ARC772/94 EP2722/96
+31-XVI
+332
+2381/1
+26/07/96
+46156.00
+AA
+ARC250/94 EP831/95
+16-XVII
+333
+2045/2
+24/07/98
+4782.70
+AA
+ARC542/94 EP2525/95
+19-XVII
+334
+2950/51
+10/12/96
+6658.00
+AA
+ARC259/94 EP3763/95
+21-XVII
+335
+2363/16
+15/11/00
+14389.00
+AA
+ARC1043/98 EP1802/99
+27-XVII
+336
+2441/55
+13/11/97
+1176.00
+AA
+ARC370/93 EP989/96
+29-XVII
+337
+2206/9
+16/09/99
+39316.00
+AA
+ARC264/96 EP2815/97
+34-XVII
+338
+2291/4
+11/10/99
+4828.00
+AA
+ARC1494/95 EP239/97
+40-XVII
+339
+2302/1
+29/10/02
+987.00
+AA
+ARC288/97 EP2436/98
+91-XVII
+340
+2412/7
+28/01/03
+921.00
+AA
+ARC1329/94 EP54/00
+18-XVIII
+341
+2339/5
+08/11/00
+7540.00
+AA
+ARC303/94 EP138/96
+20-XVIII
+342
+2336/34
+21/04/99
+2000.00
+AA
+ARC166/94 EP2946/95
+27-XVIII
+343
+2320/29
+21/04/99
+93.00
+AA
+ARC262/95 EP1892/96
+30-XVIII
+Sl.
+No Challan No.
+Date of 
+deposit
+Defendant Counsel 
+Name
+Ledger 
+Folio
+M.Devendran
+M.Durairaj
+K.Martin Arokiaraj
+C.Dayakar
+R.Vijayakumar
+M.Suresh
+S.Ramalingam
+C.Dayakar
+K.Martin Arokiaraj
+C.Dayakar
+R.Munuswamy
+R.Krishnaswamy
+K.Martin Arokiaraj
+R.Selvakumar
+R. Vijayakamala
+C.Dayakar
+R.Vijayakumar
+J.Hemalatha
+M.Suresh
+C.Dayakar
+R.Sridharan
+E.S.Raja
+R.Selvakumar
+K.Martin Arokiaraj
+M.Devendran
+
+
+344
+2009/45
+14/05/98
+8.50
+AA
+ARC1481/91 EP159/95
+30-XVIII
+345
+1021/4
+20/04/99
+2667.00
+AA
+ARC1276/92 EP251/96
+33-XVIII
+346
+2074/12
+22/05/02
+3993.50
+AA
+ARC597/98  EP1375/99
+42-XVIII
+347
+2270/36
+21/10/03
+4680.50
+AA
+ARC364/00 EP268/02
+47-XVIII
+348
+2346/6
+30/09/97
+16226.55
+AA
+ARC518/94 EP3373/95
+96-XVIII
+349
+2217/5
+04/07/97
+799.55
+AA
+ARC589/94 EP5357/95
+9-XIX
+350
+2153/2
+20/10/98
+3709.00
+AA
+ARC584/96 EP1486/97
+12-XIX
+351
+524
+28/04/98
+5273.00
+AA
+ARC825/91 EP1242/94
+24-XIX
+352
+2130/46
+07/10/98
+1840.00
+AA
+ARC833/92 EP683/97
+34-XIX
+353
+1125
+20/10/98
+7606.00
+AA
+ARC1461/90 EP200/93
+35-XIX
+354
+2159/6
+04/11/98
+2598.00
+AA
+ARC684/93 EP2800/95
+37-XIX
+355
+2069/24
+22/05/00
+2040.00
+AA
+ARC371/95 EP177/96
+38-XIX
+356
+1139/10
+13/11/98
+39223.00
+AA
+ARC75/96 EP1191/97
+40-XIX
+357
+2454/52
+05/03/03
+10876.00
+AA
+ARC1458/98 EP1423/00
+41-XIX
+358
+2004/29
+21/04/03
+3957.00
+AA
+ARC1043/96 EP527/02
+53-XIX
+359
+2133/7
+27/07/00
+14200.50
+AA
+ARC261/95 EP168/97
+217-XIX
+360
+2354/29
+07/06/99
+3300.00
+AA
+ARC747/94 EP3383/95
+1-XX
+361
+2267/40
+01/02/99
+15.25
+AA
+ARC54/94 EP266/95
+9-XX
+362
+2282/3
+25/02/99
+3107.00
+AA
+ARC539/95 EP1673/97
+10-XX
+363
+2100/7
+23/06/03
+1793.50
+AA
+ARC827/99 EP394/02
+15-XX
+364
+2505/16
+24/10/01
+594.00
+AA
+ARC669/96 EP3047/97
+15-XX
+365
+2060/29
+25/06/99
+75.14
+AA
+ARC599/93 EP3876/94
+16-XX
+S.Goldwern
+K.Ragavendran
+M.Durairaj
+R.Ratnathara
+M.Devendran
+K.Sunandha
+K.Sunandha
+K.Martin Arokiaraj
+K.Valayapathy
+R.Krishnasamy
+N.Namasivayam
+M.Suresh
+M.Suresh
+R.Munuswamy
+S.Alagarraj
+N.Venkataraman
+M.Devendran
+N.Namasivayam
+S.Ramesh
+R.Vijayakamala
+M.Devendran
+C.Dayakar
+
+
+366
+2193/9
+20/11/98
+1478.00
+AA
+ARC163/96 EP3508/96
+17-XX
+367
+2059/6
+19/06/00
+958.00
+AA
+ARC2518/94 EP3628/95
+17-XX
+368
+2176/10
+16/08/00
+20435.50
+AA
+ARC696/94 EP3562/96
+37-XX
+369
+2475/11
+05/01/01
+1605.00
+AA
+ARC753/94 EP2739/96
+37-XX
+370
+2326/7
+08/11/99
+123.50
+AA
+ARC114/96 EP278/97
+38-XX
+371
+2322/27
+21/04/99
+2288.00
+AA
+ARC288/95 EP19/97
+38-XX
+372
+2285/34
+24/02/99
+7632.30
+AA
+ARC200/94 EP3468/96
+43/XX
+373
+2355/5
+07/06/99
+7749.00
+AA
+ARC963/96 EP2841/97
+44-XX
+374
+2064/4
+22/06/00
+3000.50
+AA
+ARC531/96 EP2989/97
+45-XX
+375
+2266/5
+23/10/00
+5322.50
+AA
+ARC196/97 EP473/98
+45-XX
+376
+2586/13
+21/03/02
+2050.00
+AA
+ARC715/96 EP2521/97
+46-XX
+377
+2193/11
+18/07/01
+3560.50
+AA
+ARC277/96 EP1215/97
+46-XX
+378
+2111/4
+20/07/99
+7986.50
+AA
+ARC263/96 EP2452/97
+47-XX
+379
+2246/25
+27/09/00
+1825.60
+AA
+ARC776/94 EP2725/96
+47-XX
+380
+2686/6
+02/04/01
+2853.50
+AA
+ARC33/94 EP650/98
+48-XX
+381
+2031/12
+29/04/03
+49.00
+AA
+ARC426/96 EP122/98
+51-XX
+382
+2354/23
+07/06/99
+5376.00
+AA
+ARC598/97 EP1269/98
+52-XX
+383
+2110/8
+12/06/01
+1000.00
+AA
+ARC168/95 EP1060/97
+55-XX
+384
+2151/11
+29/06/01
+7200.00
+AA
+ARC408/97 EP660/99
+55-XX
+385
+2056/8
+11/05/01
+5223.00
+AA
+ARC1083/91 EP2189/94
+56-XX
+386
+2144/33
+30/07/02
+8313.00
+AA
+ARC1339/98 EP1270/00
+62-XX
+387
+2153/17
+05/07/02
+50.00
+AA
+ARC95/99 EP1278/2000
+68-XX
+388
+2243/3
+13/09/02
+1783.00
+AA
+OS127/92 EP2217/99
+68-XX
+R.Vijayakamala
+T.N.Unnikrishnan
+K.Valayapathy
+K.Martin Arokiaraj
+C.Dayakar
+R.Sridhar
+R.Vijayakamala
+M.Durairaj
+M.Devendran
+M.Devendran
+C.Dayakar
+M.Durairaj
+R.Munuswamy
+K.Martin Arokiaraj
+N.Venkataraman
+S.Ramalingam
+S.Ramalingam
+K.Kalaivanan Bharathi
+M.Durairaj
+M.Sridhar
+K.Valayapathy
+M.Durairaj
+K.V. Bharathy
+
+
+Amount
+Nature of Deposit
+Suit No./A.R.C./L.A.C.,
+Plaintiff Counsel Name
+389
+2464/10
+07/03/03
+12.50
+AA
+ARC178/94 EP86/02
+70-XX
+390
+2081/11
+06/06/03
+13270.00
+AA
+ARC789/94 EP1795/01
+71-XX
+391
+2270/31
+26/07/03
+3600.00
+AA
+ARC216/97 EP1153/98
+71-XX
+** N/A – Not Available
+S.T.LAKSHMI RAMESH,
+Registrar.
+Sl.
+No Challan No.
+Date of 
+deposit
+Defendant Counsel 
+Name
+Ledger 
+Folio
+M.Durairaj
+J.Esther Beula
+N.Namasivayam
+City Civil Court, Chennai-600 104,
+18th March, 2009.

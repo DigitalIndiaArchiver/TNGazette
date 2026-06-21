@@ -23,7 +23,7 @@ for b64_id, year in years:
     url = f'https://www.stationeryprinting.tn.gov.in/extra_ordinary_lists.php?id={b64_id}'
     print(f'Fetching {year}...')
     try:
-        resp = requests.get(url, timeout=60)
+        resp = requests.get(url, timeout=15)
         resp.raise_for_status()
     except requests.RequestException as e:
         print(f'  Error fetching {year}: {e}')

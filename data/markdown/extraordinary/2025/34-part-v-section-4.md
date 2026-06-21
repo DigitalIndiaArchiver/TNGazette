@@ -1,0 +1,101 @@
+---
+source: "original"
+type: "extraordinary"
+year: "2025"
+pdf_url: "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/34_Ex_V_4_2025.pdf"
+Issue No: "34"
+Issue Date: "24-01-2025"
+Extraordinary Part & Section: "Part V - Section 4"
+Extraordinary Type: "Notification by the Election Commission of India"
+Subject: "Election Commission’s Notification Regarding Exit Poll At the Bye-Election to Tamil Nadu Legislative Assembly from 98.Erode (East) Assembly Constituency.Public (Elections) DepartmentNotification No. SRO G-6/2025.--No.576/EXIT/2025/SDR/Vol.I3322-01-2025Part IV - Section 2Tamil Nadu Acts and OrdinancesActs (English)Law DepartmentAct No.4 of 2025.—The Tamil Nadu Borstal Schools (Repeal) Act, 2025. -- Act No.5 of 2025.—The Tamil Nadu Prohibition of Harassment of Woman (Amendment) Act, 2025.3222-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Approval of Development Plan 2046 for Hosur New Town Development Area under the Tamil Nadu Town and Country Planning Act.Housing and Urban Development  DepartmentNotification No. II(2)/HOU/69(a)/2025.--G.O.Ms. No.8, Housing and Urban Development [UD4(2)], 20th January 2025.3121-01-2025Part V - Section 2Notification relating to list of contesting candidates from Collector and Returning Officer, other Heads of Departments, Election Tribunals etc.ELECTION COMMISSION OF INDIA--List of Contesting Candidates--Bye – Election to the Tamil Nadu Legislative Assembly 2025, from the 98. Erode East Assembly ConstituencyPublic (Elections) DepartmentNotification No. SRO E-1/2025.3020-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (Miscellaneous)--Declaration of Wednesday the 5Th February 2025 as a Public Holiday on Account of Poll for the Bye-Election to Tamil Nadu Legislative Assembly from 98. Erode (East) Assembly Constituency under the Negotiable Instruments Act.Public DepartmentNotification No. II(1)/PUMIS/2(f)/2025.--G.O. Ms. No. 77, Public (Miscellaneous), 20th January 2025.2920-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition Of Lands--Notice Under Section 3(1) Of The Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997.Other DepartmentsNotification  No.VI(1)/38(c)/2025.--(LA-I(1)/9284002/2024)2811-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.FINANCE DEPARTMENT--Market Borrowing Programme of State Government by Auction.Finance DepartmentNotification No. II(1)/FIN/2(e-1)/2025.--[No.769(L)/W and M-II/2025]; Notification No. II(1)/FIN/2(e-2)/2025.--[No.770(L)/W and M-II/2025];2711-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.AGRICULTURE - FARMERS WELFARE DEPARTMENT--Implementation of Price Support Scheme (Pss) - Procurement of Green Gram Through National Agricultural Cooperative Marketing Federation of India (Nafed) Limited During Rabi 2024-2025.Agriculture DepartmentNotification No. II(1)/AGFW/2(d)/2025.--G.O. (2D) No. 10, Agriculture -Farmers Welfare (AP4), 10th January 20252611-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.AGRICULTURE - FARMERS WELFARE DEPARTMENT--Implementation of Price Support Scheme (Pss) – Procurement of Black Gram Through National Agricultural Cooperative Marketing Federation of India (Nafed) Limited During Rabi 2024-2025.Agriculture DepartmentNotification No. II(1)/AGFW/2(c)/2025.--G.O. (2D) No. 9, Agriculture -Farmers Welfare (AP4), 10th January 20252511-01-2025Part IV - Section 1Tamil Nadu BillsL.A. BILL (English)--Municipal Administration and Water Supply Department -- Forests.Legislative Assembly DepartmentL.A Bill No. 5 of 2025.--A Bill further to amend the Chennai Metropolitan Water Supply and Sewerage Act, 1978. -- L.A Bill No. 6 of 2025.-- A Bill Further to Amend the Tamil Nadu Forest Act, 1882.2511-01-2025Part IV - Section 1Tamil Nadu BillsL.A. BILL (Tamil)--Municipal Administration and Water Supply Department -- ForestsLegislative Assembly DepartmentL.A Bill No. 5 of 2025.--A Bill further to amend the Chennai Metropolitan Water Supply and Sewerage Act, 1978. -- L.A Bill No. 6 of 2025.-- A Bill Further to Amend the Tamil Nadu Forest Act, 1882.2411-01-2025Part V - Section 4Notification by the Election Commission of India.Election Commission’s Direction specifying that the Votes At the Current Bye-Election to Tamil Nadu Legislative Assembly from 98. Erode (East) Assembly Constituency shall be given and Recorded by means of Electronic Voting Machines and VVPAT.Public (Elections) DepartmentNotification No. SRO G-5/2025.--No.576/3/EVM/2025/SDR-Vol.-I2310-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Nomination of Four Persons in the Existing Vacancies in the Tamil Nadu State Council for Higher Education, Chennai under the Tamil Nadu State Council for Higher Education Act, 1992.Higher Education DepartmentNotification No. II(2)/HE/41(e)/2025.--G.O.(D) No.5, Higher Education (H2), 9th January 2025.2210-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Nomination of Search Committee Members to Recommend a Panel of Three Names to the Selection of Vice-Chancellor to the Madurai Kamaraj University, Madurai under the Madurai Kamaraj University Act, 1965.Higher Education DepartmentNotification No. II(2)/HE/41(d)/2025.--G.O.(D) No.4, Higher Education (H2), 9th January 2025.2110-01-2025Part IV - Section 1Tamil Nadu BillsLEGISLATIVE ASSEMBLY SECRETARIAT--Bills (English)Legislative Assembly DepartmentBill No. 2 of 2025--The Criminal Laws (Tamil Nadu Amendment) Act, 2025.--Bill No. 3 of 2025--The Tamil Nadu Prohibition of Harassment of Woman (Amendment) Act, 2025.--Bill No. 4 of 2025--The Tamil Nadu Panchayats (Amendment) Bill, 2025.2010-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition Of Lands--Notice Under Section 3(1) Of The Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997.--Acquisition Of Lands--Form Of Notice Under Sub-Section(1) Of Section 3 Of The Tamil Nadu Acquisition Of Lands For Industrial Purposes Act, 1997Other DepartmentsNotificationNo.VI(1)/38(b-1)/2025.--(LA-I(1)/9225305/2024) -- Notification No.VI(1)/38(b-2)/2025.--(CLA-SIP/2025/39/03/12/0001); Notification No.VI(1)/38(b-3)/2025.--(CLA-SIP/2025/40/02/01/0001); Notification No.VI(1)/ 38(b-4)/2025.--(CLA-SIP/2025/40/02/02/0001); Notification No.VI(1)/38(b-5)/2025.--(CLA-SIP/2025/40/07/05/0001); Notification No.VI(1)/38(b-6)/2025.--(CLA-TID/2025/03/03/05/0001); Notification No.VI(1)/38(b-7)/2025.--(CLA-TID/2025/03/05/26/0001); Notification No.VI(1)/38(b-8)/2025.--(CLA-TID/2025/03/07/31/0001); Notification No.VI(1)/38(b-9) /2025.--(LA-III(2)/9256179/2024)1910-01-2025Part V - Section 4Notification by the Election Commission of IndiaTHE ELECTION COMMISSION OF INDIA--Order of Election Commission of India Regarding Identification of Electors During the Bye-Election to Tamil Nadu Legislative Assembly from 98.Erode (East) Assembly Constituency to be Held on 05Th February 2025.Public (Elections) DepartmentNotification No. SRO G-4/2025.1810-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.HOME DEPARTMENT (Police-XIII)--Elections – Bye-Election to Tamil Nadu Legislative Assembly from 98.Erode (East) Assembly Constituency, 2025 – Police Personnel Connected with Election Related Duties – Exercise of Supervisory/ Disciplinary Control - Designating Police Officers/ Personnel under the Election Commission of India.Home, Prohibition and Excise DepartmentNotification No. II(2)/HO/41(c)/2025.--G.O. (D) No.39, Home (Police-XIII), 9th January 2025.1710-01-2025Part V - Section 4Notification by the Election Commission of IndiaTHE ELECTION COMMISSION OF INDIA--Appointment of Dates for Various Stages of Bye-Election to Tamil Nadu Legislative Assembly from 98. Erode (East) Assembly Constituency and Fixation of Hours of Poll to Fill a Vacancy Caused by the Death of a Member.Public (Elections) DepartmentNotification No. SRO G-3/2025.--No.100/1/TN-LA/2025.1609-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition Of Lands--Notice Under Section 3(1) Of The Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/38(a)/2025.--LA-I(1)/9147858/20241509-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.The Tamil Nadu Goods And Services Tax Act, 2017--Amendment To Notifications.Commercial Taxes and Registration DepartmentNotification No. II(2)/CTR/41(b-1)/2025.--G.O.Ms. No.7, Commercial Taxes and Registration (B1), 9th January 2025, Margazhi 25, Kurothi, Thiruvalluvar Aandu-2055.1409-01-2025Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Tamil Nadu Goods And Services Tax Rules, 2017.Commercial Taxes and Registration DepartmentNotification No. SRO A-C/2025.--G.O.Ms.No.6, Commercial Taxes and Registration (B1), 9th January 2025, Margazhi 25, Kurothi, Thiruvalluvar Aandu-2055.1309-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme Of State Government By AuctionFinance DepartmentNotification No. II(1)/FIN/2(b)/2025.--[No.768(L)/W and M-II/2025]1208-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.ENERGY DEPARTMENT--Appointment of Chairman of the Tamil Nadu Electricity Regulatory Commission under the Electricity Act, 2003.Energy DepartmentNotificaton No. II(2)/EGY/41(a)/2025.--G.O.Ms.No. 1, Energy (D1), 8th January 2025.1108-01-2025Part IV - Section 2Tamil Nadu Acts and OrdinancesAct (English)Law DepartmentAct No.1 of 2025.—The Tamil Nadu Goods and Services Tax (Amendment) Act, 2024. -- Act No. 2 of 2025.—The Tamil Nadu Goods and Services Tax (Second Amendment) Act, 2024. -- Act No. 3 of 2025.—The Tamil Nadu Goods and Services Tax (Third Amendment) Act, 2024.1008-01-2025Part V - Section 4Notification by the Election Commission of IndiaTHE ELECTION COMMISSION OF INDIA--Issue of Postal Ballot to COVID-19 Suspect Or Affected PersonsPublic (Elections) DepartmentNotification No. SRO/G-2/2025.908-01-2025Part V - Section 4Notification by the Election Commission of IndiaTHE ELECTION COMMISSION OF INDIA--Issue of Postal Ballot to Electors Above the Age of 85 Years and Electors with Physical Disability.Public (Elections) DepartmentNotification No. SRO/G-1/2025.808-01-2025Part IV - Section 1Tamil Nadu BillsL.A. BILL (English)Law DepartmentL.A Bill No. 1 of 2025.--A Bill to repeal the Tamil Nadu Borstal Schools Act, 1925.808-01-2025Part IV - Section 1 T SupTamil Nadu BillsL.A. BILL (Tamil)Law DepartmentL.A Bill No. 1 of 2025.--A Bill to repeal the Tamil Nadu Borstal Schools Act, 1925.707-01-2025Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIAT--Notifications by the Legislative Assembly Secretariat--Amendment to the Tamil Nadu Legislative Assembly RulesLegislative Assembly DepartmentNotification No. SRO A-B/2025.--[Letter No.7637/2024-1,TNLAS (Bills III), dated 07-01-2025.]607-01-2025Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.MUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENT--Amendments to the Tamil Nadu Urban Local Bodies Rules, 2023.Municipal Administration and Water Supply  DepartmentNotification No. SRO A- A/2025.--G.O.Ms.No.3, Municipal Administration and Water Supply (MC.2), 7th January 2025.506-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.MUNICIPAL ADMINISTRATION AND WATER SUPPLY (ELECTION) DEPARTMENT--Date of come into force of the  Tamil Nadu Urban Local Bodies (Second Amendment) Act, 2024 (Tamil Nadu act 25 of 2024)Municipal Administration and Water Supply  DepartmentNotification No. II(2)/MAWS/21(b)/2025.--G.O.Ms.No. 2, Municipal Administration and Water Supply (Election), 6 th January 2025,.406-01-2025Part III - Section 1(b)Service Rules including Ad hoc Rules, Regulations, etc., issued by Secretariat Departments.Amendments to the Special Rules for the Tamil Nadu Commercial Taxes Service.Commercial Taxes and Registration DepartmentNotification No. SRO B-3(a)/2025.--G.O.Ms. No.1, Commercial Taxes and Registration (E1), 6th January 2025303-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.HOME DEPARTMENT (Courts-V)--Date of Come Into Force of the Tamil Nadu Advocates Welfare Fund (Amendment) Act, 2024 (Tamil Nadu Act 39 of 2024)Home, Prohibition and Excise DepartmentNotification No. II(2)/HO/21(a)/2025.--G.O. Ms. No. 3, Home (Courts-V), 3rd January 2025.203-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.FINANCE DEPARTMENT--Market Borrowing Programme of State Government by Auction.Finance DepartmentNotification No. II(1)/FIN/2(a)/2025. [No.767(L)/W and M-II/2025]103-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.-Acquisition of Lands--Notice under Sub-Section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997.--Notice under Sub-Section (1) of Section (15) of the Tamil Nadu Highways Act, 2001 .--Notice under Sub-Section (1) of Section (15) of the Tamil Nadu Highways Act, 2001.Other DepartmentsNotification No.VI(1)/15(a-1)/2025.--(CLA-TID/2024/03/01/01/0001); Notification No.VI(1)/15(a-2)/2025.--(CLA-TID/2024/03/02/04/0001); Notification No.VI(1)/15(a-3)/2025.--(CLA-TID/2024/03/03/07/0001); Notification No.VI(1)/15(a-4)/2025.--(CLA-TID/2024/03/06/25/0001); Notification No.VI(1)/15(a-5)/2025.--(CLA-TID/2024/03/06/28/0001); Notification No.VI(1)/15(a-6)/2025.--(CLA-TID/2024/03/06/32/0001); Notification No.VI(1)/15(a-7)/2025.--(CLA-TID/2024/03/06/33/0001); Notification No.VI(1)/15(a-8)/2025.--(CLA-TID/2024/03/06/34/0001); Notification No.VI(1)/15(a-9)/2025.--(CLA-TID/2024/03/08/38/0001)--Notification No.VI(1)/15(a-10)/2025.--(LA- VI(3)/9129136/2024)--Notification No.VI(1)/15(a-11)/2025.--(LA- VI(3)/9129177/2024)"
+Department: "Public (Elections) Department"
+G.O No: "Notification No. SRO G-6/2025.--No.576/EXIT/2025/SDR/Vol.I"
+---
+
+TAMIL NADU
+GOVERNMENT GAZETTE
+EXTRAORDINARY 
+PUBLISHED BY AUTHORITY
+ 
+© 
+[Regd. No. TN/CCN/467/2012-14 
+GOVERNMENT OF TAMIL NADU  
+[R. Dis. No. 197/2009.
+ 
+2025 
+[Price: Re. 0.80 Paise.
+No. 34] 
+CHENNAI, FRIDAY, JANUARY 24, 2025 
+  
+Thai 11, Kurothi, Thiruvalluvar Aandu–2056
+Part V—Section 4
+ Notiﬁ cation by the Election Commission of India
+V-4 Ex. (34)
+[ 1 ]
+NOTIFICATION BY THE ELECTION COMMISSION OF INDIA
+ELECTION COMMISSION’S NOTIFICATION REGARDING EXIT POLL AT THE  BYE-ELECTION TO
+TAMIL NADU LEGISLATIVE ASSEMBLY FROM 98.ERODE (EAST) ASSEMBLY CONSTITUENCY
+No. SRO G-6/2025.
+ 
+The following Notification of the Election Commission of India, Nirvachan Sadan, Ashoka Road,
+New Delhi-110 001, dated 22nd January, 2025 is published:-
+No.576/EXIT/2025/SDR/Vol.I:- Whereas, the schedule for the  current general election to the Legislative Assembly 
+of NCT of Delhi and bye election to 273-Milkipur (SC) Assembly Constituency in Uttar Pradesh & 98-Erode 
+(East) Assembly Constituency in Tamil Nadu  has been announced by the Election Commission vide  Press Notes 
+No. ECI/PN/169/2025 and No. ECI/PN/170/2025, both dated 07th January, 2025; and
+2.   Whereas, Section 126A of the Representation of the People Act, 1951(in short R.P. Act, 1951) speciﬁ es 
+that “(1) No person shall conduct any exit poll and publish or publicise by means of the print or electronic media or 
+disseminate in any other manner, whatsoever, the result of any exit poll during such period, as may be notiﬁ ed by the 
+Election Commission in this regard. 
+ 
+(2) For the purposes of sub-section (1), the Election Commission shall, by a general order, notify the date 
+and time having due regard to the following, namely: —
+(a) 
+in case of a general election, the period may commence from the beginning of the hours ﬁ xed 
+for poll on the ﬁ rst day of poll and continue till half an hour after closing of the poll in all the States and Union 
+territories;
+(b) 
+In case of a bye-election or a number of bye-elections held together, the period may commence 
+from the beginning of the hours ﬁ xed for poll on and from the ﬁ rst day of poll and continue till half an hour 
+after closing of the poll; 
+Provided that in case of a number of bye-elections held together on diﬀ erent days, the period may 
+commence from the beginning of the hours ﬁ xed for poll on the ﬁ rst day of poll and continue till half an hour 
+after closing of the last poll. 
+
+
+2
+TAMIL NADU GOVERNMENT GAZETTE  EXTRAORDINARY
+ 
+PRINTED AND PUBLISHED BY THE COMMISSIONER OF STATIONERY AND PRINTING, CHENNAI  
+ON BEHALF OF THE GOVERNMENT OF TAMIL NADU
+ 
+(3) 
+Any person who contravenes the provisions of this section shall be punishable with imprisonment for a 
+term which may extend to two years or with ﬁ ne or with both.”
+3. 
+Now, therefore, in exercise of the powers under sub-Section (1) of Section 126A of the R.P. Act, 1951, the 
+Election Commission, having regard to the provisions of Sub-Section (2) of the said Section, hereby notiﬁ es the period 
+between 7.00 A.M. to  6.30 P.M. on 05.02.2025 (Wednesday) as the period during which conducting and publishing 
+or publicizing  exit poll by means of the print or electronic media or dissemination in any other manner whatsoever, 
+the result of any exit poll in connection with the aforesaid General and bye elections, shall be prohibited.
+4. 
+It is further clariﬁ ed that under Section 126(1)(b) of the R.P. Act, 1951, displaying any election matter including 
+results of any opinion poll or any other poll survey, in any electronic media, would be prohibited during the 
+period of 48 hours ending with the hours ﬁ xed for the conclusion of the poll in connection with the aforesaid 
+general and bye-elections.
+(By Order)
+ 
+S.B. J඗ඛඐඑ,
+ 
+Principal Secretary, 
+ 
+` 
+Election Commission of India.
+Secretariat, 
+ARCHANA PATNAIK,
+Chennai-600 009, 
+Chief Electoral Oﬃ  cer and
+24th January, 2025. 
+Secretary to Government,
+ 
+Public (Elections) Department.

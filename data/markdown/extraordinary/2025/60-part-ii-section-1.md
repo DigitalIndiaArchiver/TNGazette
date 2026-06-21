@@ -1,0 +1,159 @@
+---
+source: "original"
+type: "extraordinary"
+year: "2025"
+pdf_url: "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/60_Ex_II_1_2025.pdf"
+Issue No: "60"
+Issue Date: "12-02-2025"
+Extraordinary Part & Section: "Part II - Section 1"
+Extraordinary Type: "Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments."
+Subject: "AGRICULTURE - FARMERS WELFARE DEPARTMENT--Implementation of Price Support Scheme (PSS) – Procurement of Copra under Price Support Scheme for the Year 2025 Through National Agricultural Cooperative Marketing Federation of India (NAFED) - Production, Sowing Area, Average Yield, Peak Arrival/Harvesting Period.Agriculture DepartmentNotification No. II(1)/AGFW/4(t)/2025.--G.O. Ms. No. 36, Agriculture -Farmers Welfare (H2), 12th February 2025.5910-02-2025Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.INDUSTRIES, INVESTMENT PROMOTION AND COMMERCE DEPARTMENT--Amendment to the Tamil Nadu Business Facilitation Rules, 2017Industries DepartmentNotification No. SRO A- E/2025.--G.O.Ms.No. 13, Industries, Investment Promotion and Commerce (MIB.2), 10th February 20255809-02-2025Part V - Section 1Notifications by Government, Public (Elections) Department.Declaration of Result of Bye-Election to Tamil Nadu Legislative Assembly from 98. Erode (East) Assembly Constituency, 2025.Public (Elections) DepartmentNotification No. SRO D-1/2025.5707-02-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.ANIMAL HUSBANDRY, DAIRYING, FISHERIES AND FISHERMEN WELFARE DEPARTMENT--Constitution of Search Committee to Recommend a Panel of Three Names to the Chancellor for Appointment of Vice-Chancellor of Tamil Nadu Veterinary and Animal Sciences University, Chennai under the Tamil Nadu Veterinary and Animal Sciences University Act.Animal Husbandry, Dairying and  Fisheries DepartmentNotification No. II(2)/AHDFFW/130(b)/2025.--G.O. Ms. No. 7, Animal Husbandry, Dairying, Fisheries and Fishermen Welfare (AH-6(2)), 7th February 2025.5607-02-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Formation Of New Ammapettai Registration Sub-District Under The Registration Act, 1908.Commercial Taxes and Registration DepartmentNotification No. II(2)/CTR/130(a)/2025.--G.O.Ms.No. 48, Commercial Taxes and Registration (G), 7 February 2025.5506-02-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/4(e-1)/2025.--[No.774(L)/W and M-II/2025]; Notification No. II(1)/FIN/4(e-2)/2025.--[No.775(L)/W and M-II/2025]; Notification No. II(1)/FIN/4(e-3)/2025.--[No.776(L)/W and M-II/2025]5405-02-2025Part VI - Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.COLLECTORS AND LOCAL AUTHORITIES--Notification regarding the removal of the Vice President of Rangappanur Panchayat Council, Sankarapuram Panchayat Union, Kallakurichi District.Collector And Local AuthorityNotification No. VI(2)/ 4(b)/2025.--(Roc. No. A3/518/2024)5305-02-2025Part VI - Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.COLLECTORS AND LOCAL AUTHORITIES--Notification regarding the removal of the Chairman of the Madapattu Panchayat Council, Thirunavalur Panchayat Union, Kallakurichi District.Collector And Local AuthorityNotification No. VI(2)/ 4(a)/2025.--(Roc. No. A4/1268/2022)5205-02-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Upgradation – Notification regarding the establishment of the Town Panchayats of Sriperumbudur in Kanchipuram District, Mamallapuram in Chengalpattu District and Thiruvaiyaru in Thanjavur District as Municipal Councils.Municipal Administration and Water Supply  DepartmentNotification No. II(2)/MAWS/130(a-1)/2025; Notitication No. II(2)/MAWS/130(a-2)/2025.--G.O. (Ms.) No. 15, Municipal Administration and Water Supply (MA.5(2)) Department, 5th February 2025.5131-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF COMMERCIAL TAXES, EZHILAGAM, CHEPAUK, CHENNAI-600 005--Acquisition of Lands--Form of Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/78(a-1)/2025.--(LA-IV-1/9359430/2024);  Notification No.VI(1)/78(a-2)/2025.--(CLA-SIP/2025/40/08/06/0001); Notification No.VI(1)/78(a-3)/2025.--(CLA-TID/2025/03/02/03/0001); Notification No.VI(1)/78(a-4)/2025.--(CLA-TID/2025/03/06/26/0001); Notification No.VI(1)/78(a-5)/2025.--(CLA-TID/2025/03/07/36/0001); Notification No.VI(1)/78(a-6)/2025.--(CLA-TID/2025/03/07/37/0001); Notification No.VI(1)/78(a-7)/2025.--(CLA-TID/2025/03/07/38/0001);  Notification No.VI(1)/78(a-8)/2025.--CLA-TID/2025/03/08/29/0001)5031-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Tamil Nadu Goods And Services Tax Act, 2017.Commercial Taxes and Registration DepartmentNotification No. II(2)/CTR/82(b)/2025.--G.O. Ms. No. 45, Commercial Taxes and Registration (B1), 31st January 2025,4931-01-2025Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendment to the Tamil Nadu Goods And Services Tax Act, 2017.Commercial Taxes and Registration DepartmentNotification No. SRO A-D/2025.---G.O. Ms. No. 44, Commercial Taxes and Registration (B1), 31st January 20254831-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.List of Notaries Appointed by Government of Tamil Nadu and in Practice At the Beginning of the Year 2025.Law DepartmentNotification No. II(2)/LAW/82(a)/2025.--G.O. Ms. No. 22, Law (Administration), 31st January 2025, Thai 18, Kurothi, Thiruvalluvar Aandu-2056.4729-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by Auction.Finance DepartmentNotification No. II(1)/FIN/4(d)/2025.--[No.773(L)/W and M-II/2025.]4629-01-2025Part INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.HOME DEPARTMENT (Courts-IV)--Appointment as Additional Advocate General of Tamil Nadu to Represent the Government of Tamil Nadu Before the Supreme Court of India.Home, Prohibition and Excise DepartmentNotification No. I/HO/6(a)/2025.--G.O.Ms. No. 43, Home (Courts-IV), 29th January 2025.4529-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands in Salem District--Revenue Divisional Officer, Sankari--Under Section -19 (1) of the Central Act 30/2013 read with rule 16Other DepartmentsNotification No. VI(1)/ 69(a-1)/2025.--(Roc. No.4903/2023/A) -- Notification No. VI(1)/ 69(a-2)/2025.--(Roc. No.2203/2019/E)4428-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Nomination of Search Committee Members to Recommend a Panel of Three Persons to the Hon’ble Governor-Chancellor for Selection of Vice-Chancellor of the Tamil Nadu Physical Education and Sports University, Chennai under the Tamil Nadu Physical Education and Sports University Act 2004.Youth Welfare and Sports Development DepartmentNotification No. II(2)/YWSD/69(c)/2025.--G.O. Ms. No. 13, Youth Welfare and Sports Development (YW2), 28th January 20254328-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (Law Officers)--Census 2021 – Extension of Date of Freezing of Boundaries of Administrative Units in the State of Tamil Nadu upto 30.06.2025 and ban the formation of new units with effect from 01.07.2025 to till the completion of Census operations – Orders – Issued.Public DepartmentNotification No. II(1)/PULO/4(c)/2025.--[G.O. Ms. No. 101, Public (Law Officers), 28th January 20254228-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF COMMERCIAL TAXES, EZHILAGAM, CHEPAUK, CHENNAI-600 005--Notification Issued By Commissioner Of State Tax, Under The Tamil Nadu Goods And Services Tax Act, 2017 And The Tamil Nadu Goods And Services Tax Rules, 2017.Commercial Taxes and Registration DepartmentNotification No. VI(1)/ 55(e)/2025.--(No. 02/2025-PP2/GST-15/33/2024,Tamil Nadu Goods and Services Tax, Chennai, Monday, January 27, 2025, Thai 14, Kurothi, Thiruvalluvar Aandu-2056)4125-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF COMMERCIAL TAXES, EZHILAGAM, CHEPAUK, CHENNAI-600 005.--Notification Issued By Commissioner Of State Tax, Under The Tamil Nadu Goods And Services Tax Act 2017 And The Tamil Nadu Goods And Services Tax Rules 2017.Commercial Taxes and Registration DepartmentNotification No. VI(1)/55(d)/2025.--[No.01/2025-TNGST/PP2/GST-15/33/2024, Tamil Nadu Goods and Services Tax, Chennai, Saturday, January 25, 2025, Thai 12, Kurothi, Thiruvalluvar Aandu-2056.]4025-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.HOME DEPARTMENT (Police-XII)--Date of Come Into Force of the Tamil Nadu Prohibition of Harassment of Woman (Amendment) Act, 2025 (Tamil Nadu Act 5 of 2025)Home, Prohibition and Excise DepartmentNotification No. II(2)/HO/69(b)/2025.--G.O. Ms. No. 36, Home (Police-XII), 25th January 2025.3924-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by Auction.Finance DepartmentNotification No. II(1)/FIN/4(b-1)/2025.--[No.771(L)/W and M-II/2025]; No. II(1)/FIN/4(b-2)/2025.--[No.772(L)/W and M-II/2025]3824-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition Of Lands--Preliminary Notification by Land Acquisition Officer/ District Revenue Officer, Dharmapuri.Other DepartmentsNotification No.VI(1)/55(c)/2025.--(Roc. 10451/2023/B1)3724-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.HOME DEPARTMENT (Transport-I)--New Comprehensive Scheme, 2024 And Fare Revision Of Mini Bus Under The Motor Vehicles Act, 1988.Home, Prohibition and Excise DepartmentNotification No. II(1)/HO/4(a-1)/2025.--G.O. Ms. No. 33, Home (Transport-I), 23rd January 2025.3624-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition Of Lands--Form Of Notice Under Section 3(1) Of Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/55(b-1)/2025.--(LA-III-(2)/9256237/2024); Notification No.VI(1)/55(b-2)/2025.--(LA-IV-1/9256788/2024); Notification No.VI(1)/55(b-3)/2025.--(LA-IV-1/9256894/2024); Notification No.VI(1)/55(b-4)/2025.--(LA-IV-1/9256956/2024); Notification No.VI(1)/55(b-5)/2025.--(LA-IV-1/9257467/2024)3524-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition Of Lands--Notice Under Section 3(1) Of Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/55(a)/2025.--(LA-IV-2/9096215/2024)3424-01-2025Part V - Section 4Notification by the Election Commission of IndiaElection Commission’s Notification Regarding Exit Poll At the Bye-Election to Tamil Nadu Legislative Assembly from 98.Erode (East) Assembly Constituency.Public (Elections) DepartmentNotification No. SRO G-6/2025.--No.576/EXIT/2025/SDR/Vol.I3322-01-2025Part IV - Section 2Tamil Nadu Acts and OrdinancesActs (English)Law DepartmentAct No.4 of 2025.—The Tamil Nadu Borstal Schools (Repeal) Act, 2025. -- Act No.5 of 2025.—The Tamil Nadu Prohibition of Harassment of Woman (Amendment) Act, 2025.3222-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Approval of Development Plan 2046 for Hosur New Town Development Area under the Tamil Nadu Town and Country Planning Act.Housing and Urban Development  DepartmentNotification No. II(2)/HOU/69(a)/2025.--G.O.Ms. No.8, Housing and Urban Development [UD4(2)], 20th January 2025.3121-01-2025Part V - Section 2Notification relating to list of contesting candidates from Collector and Returning Officer, other Heads of Departments, Election Tribunals etc.ELECTION COMMISSION OF INDIA--List of Contesting Candidates--Bye – Election to the Tamil Nadu Legislative Assembly 2025, from the 98. Erode East Assembly ConstituencyPublic (Elections) DepartmentNotification No. SRO E-1/2025.3020-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (Miscellaneous)--Declaration of Wednesday the 5Th February 2025 as a Public Holiday on Account of Poll for the Bye-Election to Tamil Nadu Legislative Assembly from 98. Erode (East) Assembly Constituency under the Negotiable Instruments Act.Public DepartmentNotification No. II(1)/PUMIS/2(f)/2025.--G.O. Ms. No. 77, Public (Miscellaneous), 20th January 2025.2920-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition Of Lands--Notice Under Section 3(1) Of The Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997.Other DepartmentsNotification  No.VI(1)/38(c)/2025.--(LA-I(1)/9284002/2024)2811-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.FINANCE DEPARTMENT--Market Borrowing Programme of State Government by Auction.Finance DepartmentNotification No. II(1)/FIN/2(e-1)/2025.--[No.769(L)/W and M-II/2025]; Notification No. II(1)/FIN/2(e-2)/2025.--[No.770(L)/W and M-II/2025];2711-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.AGRICULTURE - FARMERS WELFARE DEPARTMENT--Implementation of Price Support Scheme (Pss) - Procurement of Green Gram Through National Agricultural Cooperative Marketing Federation of India (Nafed) Limited During Rabi 2024-2025.Agriculture DepartmentNotification No. II(1)/AGFW/2(d)/2025.--G.O. (2D) No. 10, Agriculture -Farmers Welfare (AP4), 10th January 20252611-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.AGRICULTURE - FARMERS WELFARE DEPARTMENT--Implementation of Price Support Scheme (Pss) – Procurement of Black Gram Through National Agricultural Cooperative Marketing Federation of India (Nafed) Limited During Rabi 2024-2025.Agriculture DepartmentNotification No. II(1)/AGFW/2(c)/2025.--G.O. (2D) No. 9, Agriculture -Farmers Welfare (AP4), 10th January 20252511-01-2025Part IV - Section 1Tamil Nadu BillsL.A. BILL (English)--Municipal Administration and Water Supply Department -- Forests.Legislative Assembly DepartmentL.A Bill No. 5 of 2025.--A Bill further to amend the Chennai Metropolitan Water Supply and Sewerage Act, 1978. -- L.A Bill No. 6 of 2025.-- A Bill Further to Amend the Tamil Nadu Forest Act, 1882.2511-01-2025Part IV - Section 1Tamil Nadu BillsL.A. BILL (Tamil)--Municipal Administration and Water Supply Department -- ForestsLegislative Assembly DepartmentL.A Bill No. 5 of 2025.--A Bill further to amend the Chennai Metropolitan Water Supply and Sewerage Act, 1978. -- L.A Bill No. 6 of 2025.-- A Bill Further to Amend the Tamil Nadu Forest Act, 1882.2411-01-2025Part V - Section 4Notification by the Election Commission of India.Election Commission’s Direction specifying that the Votes At the Current Bye-Election to Tamil Nadu Legislative Assembly from 98. Erode (East) Assembly Constituency shall be given and Recorded by means of Electronic Voting Machines and VVPAT.Public (Elections) DepartmentNotification No. SRO G-5/2025.--No.576/3/EVM/2025/SDR-Vol.-I2310-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Nomination of Four Persons in the Existing Vacancies in the Tamil Nadu State Council for Higher Education, Chennai under the Tamil Nadu State Council for Higher Education Act, 1992.Higher Education DepartmentNotification No. II(2)/HE/41(e)/2025.--G.O.(D) No.5, Higher Education (H2), 9th January 2025.2210-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Nomination of Search Committee Members to Recommend a Panel of Three Names to the Selection of Vice-Chancellor to the Madurai Kamaraj University, Madurai under the Madurai Kamaraj University Act, 1965.Higher Education DepartmentNotification No. II(2)/HE/41(d)/2025.--G.O.(D) No.4, Higher Education (H2), 9th January 2025.2110-01-2025Part IV - Section 1Tamil Nadu BillsLEGISLATIVE ASSEMBLY SECRETARIAT--Bills (English)Legislative Assembly DepartmentBill No. 2 of 2025--The Criminal Laws (Tamil Nadu Amendment) Act, 2025.--Bill No. 3 of 2025--The Tamil Nadu Prohibition of Harassment of Woman (Amendment) Act, 2025.--Bill No. 4 of 2025--The Tamil Nadu Panchayats (Amendment) Bill, 2025.2010-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition Of Lands--Notice Under Section 3(1) Of The Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997.--Acquisition Of Lands--Form Of Notice Under Sub-Section(1) Of Section 3 Of The Tamil Nadu Acquisition Of Lands For Industrial Purposes Act, 1997Other DepartmentsNotificationNo.VI(1)/38(b-1)/2025.--(LA-I(1)/9225305/2024) -- Notification No.VI(1)/38(b-2)/2025.--(CLA-SIP/2025/39/03/12/0001); Notification No.VI(1)/38(b-3)/2025.--(CLA-SIP/2025/40/02/01/0001); Notification No.VI(1)/ 38(b-4)/2025.--(CLA-SIP/2025/40/02/02/0001); Notification No.VI(1)/38(b-5)/2025.--(CLA-SIP/2025/40/07/05/0001); Notification No.VI(1)/38(b-6)/2025.--(CLA-TID/2025/03/03/05/0001); Notification No.VI(1)/38(b-7)/2025.--(CLA-TID/2025/03/05/26/0001); Notification No.VI(1)/38(b-8)/2025.--(CLA-TID/2025/03/07/31/0001); Notification No.VI(1)/38(b-9) /2025.--(LA-III(2)/9256179/2024)1910-01-2025Part V - Section 4Notification by the Election Commission of IndiaTHE ELECTION COMMISSION OF INDIA--Order of Election Commission of India Regarding Identification of Electors During the Bye-Election to Tamil Nadu Legislative Assembly from 98.Erode (East) Assembly Constituency to be Held on 05Th February 2025.Public (Elections) DepartmentNotification No. SRO G-4/2025.1810-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.HOME DEPARTMENT (Police-XIII)--Elections – Bye-Election to Tamil Nadu Legislative Assembly from 98.Erode (East) Assembly Constituency, 2025 – Police Personnel Connected with Election Related Duties – Exercise of Supervisory/ Disciplinary Control - Designating Police Officers/ Personnel under the Election Commission of India.Home, Prohibition and Excise DepartmentNotification No. II(2)/HO/41(c)/2025.--G.O. (D) No.39, Home (Police-XIII), 9th January 2025.1710-01-2025Part V - Section 4Notification by the Election Commission of IndiaTHE ELECTION COMMISSION OF INDIA--Appointment of Dates for Various Stages of Bye-Election to Tamil Nadu Legislative Assembly from 98. Erode (East) Assembly Constituency and Fixation of Hours of Poll to Fill a Vacancy Caused by the Death of a Member.Public (Elections) DepartmentNotification No. SRO G-3/2025.--No.100/1/TN-LA/2025.1609-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition Of Lands--Notice Under Section 3(1) Of The Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/38(a)/2025.--LA-I(1)/9147858/20241509-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.The Tamil Nadu Goods And Services Tax Act, 2017--Amendment To Notifications.Commercial Taxes and Registration DepartmentNotification No. II(2)/CTR/41(b-1)/2025.--G.O.Ms. No.7, Commercial Taxes and Registration (B1), 9th January 2025, Margazhi 25, Kurothi, Thiruvalluvar Aandu-2055.1409-01-2025Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Tamil Nadu Goods And Services Tax Rules, 2017.Commercial Taxes and Registration DepartmentNotification No. SRO A-C/2025.--G.O.Ms.No.6, Commercial Taxes and Registration (B1), 9th January 2025, Margazhi 25, Kurothi, Thiruvalluvar Aandu-2055.1309-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme Of State Government By AuctionFinance DepartmentNotification No. II(1)/FIN/2(b)/2025.--[No.768(L)/W and M-II/2025]1208-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.ENERGY DEPARTMENT--Appointment of Chairman of the Tamil Nadu Electricity Regulatory Commission under the Electricity Act, 2003.Energy DepartmentNotificaton No. II(2)/EGY/41(a)/2025.--G.O.Ms.No. 1, Energy (D1), 8th January 2025.1108-01-2025Part IV - Section 2Tamil Nadu Acts and OrdinancesAct (English)Law DepartmentAct No.1 of 2025.—The Tamil Nadu Goods and Services Tax (Amendment) Act, 2024. -- Act No. 2 of 2025.—The Tamil Nadu Goods and Services Tax (Second Amendment) Act, 2024. -- Act No. 3 of 2025.—The Tamil Nadu Goods and Services Tax (Third Amendment) Act, 2024.1008-01-2025Part V - Section 4Notification by the Election Commission of IndiaTHE ELECTION COMMISSION OF INDIA--Issue of Postal Ballot to COVID-19 Suspect Or Affected PersonsPublic (Elections) DepartmentNotification No. SRO/G-2/2025.908-01-2025Part V - Section 4Notification by the Election Commission of IndiaTHE ELECTION COMMISSION OF INDIA--Issue of Postal Ballot to Electors Above the Age of 85 Years and Electors with Physical Disability.Public (Elections) DepartmentNotification No. SRO/G-1/2025.808-01-2025Part IV - Section 1Tamil Nadu BillsL.A. BILL (English)Law DepartmentL.A Bill No. 1 of 2025.--A Bill to repeal the Tamil Nadu Borstal Schools Act, 1925.808-01-2025Part IV - Section 1 T SupTamil Nadu BillsL.A. BILL (Tamil)Law DepartmentL.A Bill No. 1 of 2025.--A Bill to repeal the Tamil Nadu Borstal Schools Act, 1925.707-01-2025Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIAT--Notifications by the Legislative Assembly Secretariat--Amendment to the Tamil Nadu Legislative Assembly RulesLegislative Assembly DepartmentNotification No. SRO A-B/2025.--[Letter No.7637/2024-1,TNLAS (Bills III), dated 07-01-2025.]607-01-2025Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.MUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENT--Amendments to the Tamil Nadu Urban Local Bodies Rules, 2023.Municipal Administration and Water Supply  DepartmentNotification No. SRO A- A/2025.--G.O.Ms.No.3, Municipal Administration and Water Supply (MC.2), 7th January 2025.506-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.MUNICIPAL ADMINISTRATION AND WATER SUPPLY (ELECTION) DEPARTMENT--Date of come into force of the  Tamil Nadu Urban Local Bodies (Second Amendment) Act, 2024 (Tamil Nadu act 25 of 2024)Municipal Administration and Water Supply  DepartmentNotification No. II(2)/MAWS/21(b)/2025.--G.O.Ms.No. 2, Municipal Administration and Water Supply (Election), 6 th January 2025,.406-01-2025Part III - Section 1(b)Service Rules including Ad hoc Rules, Regulations, etc., issued by Secretariat Departments.Amendments to the Special Rules for the Tamil Nadu Commercial Taxes Service.Commercial Taxes and Registration DepartmentNotification No. SRO B-3(a)/2025.--G.O.Ms. No.1, Commercial Taxes and Registration (E1), 6th January 2025303-01-2025Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.HOME DEPARTMENT (Courts-V)--Date of Come Into Force of the Tamil Nadu Advocates Welfare Fund (Amendment) Act, 2024 (Tamil Nadu Act 39 of 2024)Home, Prohibition and Excise DepartmentNotification No. II(2)/HO/21(a)/2025.--G.O. Ms. No. 3, Home (Courts-V), 3rd January 2025.203-01-2025Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.FINANCE DEPARTMENT--Market Borrowing Programme of State Government by Auction.Finance DepartmentNotification No. II(1)/FIN/2(a)/2025. [No.767(L)/W and M-II/2025]103-01-2025Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.-Acquisition of Lands--Notice under Sub-Section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997.--Notice under Sub-Section (1) of Section (15) of the Tamil Nadu Highways Act, 2001 .--Notice under Sub-Section (1) of Section (15) of the Tamil Nadu Highways Act, 2001.Other DepartmentsNotification No.VI(1)/15(a-1)/2025.--(CLA-TID/2024/03/01/01/0001); Notification No.VI(1)/15(a-2)/2025.--(CLA-TID/2024/03/02/04/0001); Notification No.VI(1)/15(a-3)/2025.--(CLA-TID/2024/03/03/07/0001); Notification No.VI(1)/15(a-4)/2025.--(CLA-TID/2024/03/06/25/0001); Notification No.VI(1)/15(a-5)/2025.--(CLA-TID/2024/03/06/28/0001); Notification No.VI(1)/15(a-6)/2025.--(CLA-TID/2024/03/06/32/0001); Notification No.VI(1)/15(a-7)/2025.--(CLA-TID/2024/03/06/33/0001); Notification No.VI(1)/15(a-8)/2025.--(CLA-TID/2024/03/06/34/0001); Notification No.VI(1)/15(a-9)/2025.--(CLA-TID/2024/03/08/38/0001)--Notification No.VI(1)/15(a-10)/2025.--(LA- VI(3)/9129136/2024)--Notification No.VI(1)/15(a-11)/2025.--(LA- VI(3)/9129177/2024)"
+Department: "Agriculture Department"
+G.O No: "Notification No. II(1)/AGFW/4(t)/2025.--G.O. Ms. No. 36, Agriculture -Farmers Welfare (H2), 12th February 2025."
+---
+
+No. 60]	
+CHENNAI, WEDNESDAY, FEBRUARY 12,  2025	
+	
+	
+	
+Thai 30, Kurothi, Thiruvalluvar Aandu-2056
+Part II—Section  1
+Notifications or Orders of specific character or of particular interest to the public 
+issued by Secretariat Departments.
+NOTIFICATIONS BY GOVERNMENT
+TAMIL  NADU
+GOVERNMENT GAZETTE
+EXTRAORDINARY PUBLISHED  BY  AUTHORITY
+	
+©	
+[Regd. No. TN/CCN/467/2012-14.
+	GOVERNMENT  OF  TAMIL  NADU	
+[R. Dis. No. 197/2009.	 	
+	
+	
+2025	
+[Price:  Re. 0.80 Paise. 
+[ 1 ]
+Ex-II-1(60)
+AGRICULTURE - FARMERS WELFARE DEPARTMENT
+IMPLEMENTATION OF PRICE SUPPORT SCHEME (PSS) – PROCUREMENT OF COPRA UNDER PRICE 
+SUPPORT SCHEME FOR THE YEAR 2025 THROUGH NATIONAL AGRICULTURAL COOPERATIVE 
+MARKETING FEDERATION OF INDIA (NAFED) - PRODUCTION, SOWING AREA, AVERAGE YIELD, PEAK 
+ARRIVAL/HARVESTING PERIOD.
+[G.O. Ms. No. 36, Agriculture -Farmers Welfare (H2), 12th February 2025, 
+தை 30, குரோதி, திருவள்ளுவர் ஆண்டு-2056.]
+No. II(1)/AGFW/4(t)/2025.
+Crop calendar and 
+Harvesting period of 
+Coconut in the State of 
+Tamil Nadu 
+A remunerative and stable price environment for Coconut growers/farmers is 
+very important for increasing Coconut production and productivity. The market price 
+for Copra many times tends to be unstable and volatile resulting in undue losses to 
+the growers / farmers as well as discourages adoption of the modern technology and 
+required inputs. 
+The Government’s price policy for agricultural commodities seeks to ensure 
+remunerative prices to the growers for their produce with a view to encourage higher 
+investment and production and to safeguard the interest of consumers by making 
+available supplies at reasonable prices with low cost of intermediation. The price policy 
+also seeks to evolve a balanced and integrated price structure in the overall perspective 
+of the needs of the economy.  
+Towards this end, the Government announces Minimum Support Price (MSP) for 
+major agricultural commodities each year in both the Crop seasons after taking into 
+account the recommendations of the Commission for Agricultural Costs and Prices 
+(CACP).
+
+
+2	
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+	
+PRINTED  AND  PUBLISHED  BY  THE COMMISSIONER  OF  STATIONERY  AND  PRINTING, CHENNAI 
+ON  BEHALF  OF  THE  GOVERNMENT  OF  TAMIL  NADU
+In the scheme for the procurement of Copra in the year of 2025, as per the 
+guidelines of Government of India (Department of Agriculture and Co-operation), the 
+notification regarding Crop calendar and harvesting period of Coconut in Tamil Nadu is 
+required as a  part of the  proposal.
+Therefore, the Government of Tamil Nadu is willing to implement the Price Support 
+Scheme (PSS) and its operation in Tamil Nadu and accordingly declare the following 
+details:
+NOTIFICATION PROPOSAL FOR PROCUREMENT OF COPRA IN TAMIL NADU FOR 
+COPRA SEASON 2025
+1
+Crop
+:
+Coconut
+2
+Commodity to be notified
+:
+Copra
+3
+Crop Calendar year
+:
+Throughout the year
+4
+Harvesting period
+:
+Throughout the year
+5
+Commencement of Arrival
+:
+Second week of February 
+6
+Peak arrival period
+:
+March to August
+7
+Details of Coconut and Copra production
+(a)
+Coconut area
+:
+4.727 lakh Hectare
+(Season and Crop Report 2022-23)
+(b)
+Coconut production
+:
+67,989 lakh nuts
+(c)
+Average yield per Hectare
+:
+14,383 nuts per Ha
+(d)
+Copra production
+:
+3,95,186 Metric Tonne
+(e)
+Expected quantity of
+Procurement under Price Support Scheme  
+(25%)
+Total of 98,796 Metric Tonne
+a.	 Milling Copra - 98,000 Metric Tonne
+b.	 Ball Copra - 796 Metric Tonne
+(f)
+Ruling market price
+:
+Rs.82.57 per Kg of Copra
+(g)
+Major Coconut Growing districts
+:
+Coimbatore, 
+Thiruppur, 
+Thanjavur, 
+Dindigul, 
+Kanyakumari, Theni, Erode, Krishnagiri, Salem, Tenkasi, 
+Pudukottai, 
+Thirupathur, 
+Madurai, 
+Virudhunagar, 
+Namakkal, 
+Sivagangai, Vellore, 
+Ramanathapuram, 
+Karur, Thoothukudi, Dharmapuri, Thiruvarur, Tirunelveli, 
+Trichy, Nagapattinam, and Mayiladuthurai.
+	
+V. DAKSHINAMOORTHY,	
+	
+Agricultural Production Commissioner and	
+	
+	
+Secretary to Government.

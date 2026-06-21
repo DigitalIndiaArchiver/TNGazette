@@ -1,0 +1,2908 @@
+---
+source: "original"
+type: "extraordinary"
+year: "2024"
+pdf_url: "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/366_Ex_VI_1_2024.pdf"
+Issue No: "366"
+Issue Date: "13-11-2024"
+Extraordinary Part & Section: "Part VI - Section 1"
+Extraordinary Type: "Notifications of interest to the General Public issued by Heads of Departments, Etc."
+Subject: "THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/754(a-1)/2024..----(LA-IV-2/8673004/2024); Notification No.VI(1)/754(a-2)/2024.--(LA-IV-2/8528865/2024); Notification No.VI(1)/754(a-3)/2024.--(LA-IV-2/8690889/2024); Notification No.VI(1)/754(a-4)/2024.--(LA-IV-2/8690869/2024)36512-11-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.RURAL DEVELOPMENT AND PANCHAYAT RAJ DEPARTMENT--The Tamil Nadu Panchayats (Procedure for Granting Permission for the Establishment of Factories / Industries and the Installation of Machineries) Rules, 2024.Rural Development and Panchayat Raj DepartmentNotification No. SRO A-20(a)/2024.--G.O.Ms. No.170, Rural Development and Panchayat Raj (PR-II), 12th November 2024.36412-11-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.RURAL DEVELOPMENT AND PANCHAYAT RAJ DEPARTMENT--Date of Coming Into Force of the Tamil Nadu Panchayats (Sixth Amendment) Act, 2024.Rural Development and Panchayat Raj DepartmentNotification No. II(2)/RDPR/1080(b)/2024.--G.O.Ms. No.169, Rural Development and Panchayat Raj [PR-1(1)], 12th November 2024.36312-11-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice under Sub-Section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/743(a-1)/2024.--(CLA-SIP/2024/40/02/06/0001)36211-11-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (Law Officers)--Census 2021 – Extension of Date of Freezing of Boundaries of Administrative Units in the State of Tamil Nadu Upto 31St December 2024 and Ban the Formation of New Units with Effect from 1St January 2025 to till the Completion of Census Operations – Orders – Issued.Public DepartmentNotification No. II(1)/PULO/29(a)/2024.--G.O. Ms. No.766, Public [Law Officers], 11th November 2024.36108-11-2024Part VI - Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Notification regarding dismissal of Kulasekarapatti Panchayat Council President under Keezhapavoor Panchayat Union, Tenkasi District.Collector And Local AuthorityNotification No. VI(2)/32(a)/2024.--[Roc. No. COLRD/1756/2022-A6]36006-11-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Listing “Snakebite Envenomation” as a Notifiable Disease in Tamil Nadu under the Tamil Nadu Public Health Act, 1939.Health and Family Welfare DepartmentNotification No. II(2)/HFW/1080(a)/2024.--G.O.Ms. No.360, Health and Family Welfare (AB2), 4th November 2024.35905-11-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendment to Tamil Nadu Urban Local Bodies Rules, 2023.Municipal Administration and Water Supply  DepartmentNotification No. SRO A-19(a)/2024.--G.O. Ms. No. 162, Municipal Administration and Water Supply (ME.3), 5th November 2024.35805-11-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997--Errata Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001.Other DepartmentsNotification No.VI(1)/729(b-1)/2024.--(LA-I(1)/8648396/2024); Notification No.VI(1)/729(b-2)/2024.--(LA-IV-2/8478031/2024)--Notification No.VI(1)/729(b-3)/2024.--(LA-VI(3)/8512872/2024)35730-10-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/27(g-1)/2024.--[No.751(L)/W and M-II/2024]; Notification No. II(1)/FIN/27(g-2)/2024.--[No.752(L)/W and M-II/2024]35630-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION DEPARTMENT, CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice under Sub-Section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997--Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/729(a-1)/2024.--(CLA-TID/2024/03/08/41/0001)--Notification No.VI(1)/729(a-2)/2024.--(LA-IV-1/8553873/2024)35528-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.INDUSTRIES, INVESTMENT PROMOTION AND COMMERCE DEPARTMENT--Acquisition of Lands--Preliminary NotificationIndustries DepartmentNotification No. II(2)/IIPC/1030(b-1)/2024.--G.O. Ms. No. 164, Industries, Investment Promotion and Commerce (GIM) Department, 28 October 2024. -- Notification No. II(2)/IIPC/1030(b-2)/2024.--G.O. Ms. No. 165, Industries, Investment Promotion and Commerce (GIM) Department, 28 October 2024.35428-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice under Sub-Section (1) of Section (15) of the Tamil Nadu Highways Act, 2001Other DepartmentsNotification No.VI(1)/709(c-1)/2024.--(LA-VI(1)/7887836/2024); Notification No.VI(1)/709(c-2)/2024.--(LA-VI(1)/7886875/2024)35324-10-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/27(f-1)/2024.--[No.747(L)/W and M-II/2024]; Notification No. II(1)/FIN/27(f-2)/2024.--[No.748(L)/W and M-II/2024]; Notification No. II(1)/FIN/27(f-3)/2024.--[No.749(L)/W and M-II/2024]; Notification No. II(1)/FIN/27(f-4)/2024.--[No.750(L)/W and M-II/2024]35223-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Industries, Investment Promotion and Commerce Department--Acquisition of Lands--Preliminary NotificationIndustries DepartmentNotification No. II(2)/IIPC/1030(a)/2024.--G.O. Ms. No. 156, Industries, Investment Promotion and Commerce (GIM) Department, 23 October 2024.35123-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Lands for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/ 709(b-1)/2024.--(CLA-SIP/2024/34/01/02/0001); Notification No.VI(1)/709(b-2)/2024.--(CLA-SIP/2024/34/11/01/0001); Notification No.VI(1)/709(b-3)/2024.--(CLA-SIP/2024/34/11/02/0001); Notification No.VI(1)/709(b-4)/2024.--(CLA-SIP/2024/34/13/01/0001); Notification No.VI(1)/709(b-5)/2024.--(CLA-SIP/2024/34/13/02/0001); Notification No.VI(1)/709(b-6)/2024.--(CLA-SIP/2024/40/01/09/0001); Notification No.VI(1)/709(b-7)/2024.--(CLA-SIP/2024/40/03/05/0001); Notification No.VI(1)/709(b-8)/2024.--(CLA-SIP/2024/40/03/08/0001); Notification No.VI(1)/709(b-9)/2024.--(CLA-SIP/2024/63/03/01/0001); Notification No.VI(1)/709(b-10)/2024.--(LAI-1/8586020/2024)35023-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--ACQUISITION OF LANDS--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Lands for Industrial Purposes Act, 1997 Read with the Tamil Nadu Land Acquisition Laws (Revival of Operation, Amendment and Validation) Act, 2019Other DepartmentsNotification No.VI(1)/709(a)/2024.--(CLA-TID/2024/03/06/33/0001)34922-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Lands for Industrial Purposes Act, 1997 Read with the Tamil Nadu Land Acquisition Laws (Revival Of Operation, Amendment and Validation) Act, 2019.--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/692(h-1)/2024.--(CLA-TID/2024/03/02/07/0001); Notification No.VI(1)/692(h-2)/2024.--(CLA-TID/2024/03/02/36/0001); Notification (CLA-TID/2024/03/02/08/0001)
+No.VI(1)/692(h-3)/2024.--Notification No.VI(1)/692(h-4)/2024.--(CLA-SIP/2024/34/09/02/0001)--Notification No.VI(1)/692(h-5)/2024.--(Roc.No. LAI-1/8586111/2024)34822-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Nilaiyur Canal Extension Project Madurai District--Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (Central Act 30/2013) Notification for Time Extension of 19(1) Declaration Under Section 25.Other DepartmentsNotification No.VI(1)/692(h)/2024.--(Roc.No. 57067/2002/B5)34721-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification under the Central Goods and Services Tax Act, 2017 (Central Act 12 of 2017).Commercial Taxes and Registration DepartmentNotification No. II(2)/CTR/986(f)/2024.--G.O.Ms. No.123, Commercial Taxes and Registration (B1), 21th October 2024, Aippasi 4,Kurothi, Thiruvalluvar Aandu–2055.34618-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION AND THE DISTRICT COLLECTOR-- Acquisition of Lands--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Lands for Industrial Purposes Act, 1997--Errata Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001.--Notice under Sub-Section (1) of Section (15) of the Tamil Nadu Highways Act, 2001Other DepartmentsNotification No.VI(1)/692(g-1)/2024.--(CLA-SIP/2024/34/02/02/0001); Notification No.VI(1)/692(g-2)/2024.--(CLA-SIP/2024/34/14/01/0001); Notification No.VI(1)/692(g-3)/2024.--(CLA-SIP/2024/34/14/02/0001)--Notification No.VI(1)/692(g-4)/2024.--(LAV(1)/8217143/2024)--Notification No.VI(1)/692(g-5)/2024.--(LA-VI(1)/82412451/2024)34518-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION AND THE DISTRICT COLLECTOR--Acquisition of Lands in Tiruchirappalli District--Preliminary Notification under Sub-Section (1) of Section 11 of Rfctlarr Act -2013Other DepartmentsNotification No. VI(1)/ 692(f)/2024.--(R.c.No. C1/7322/2022)34418-10-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.The Tamil Nadu Land Consolidation (For Special Projects), Rules 2024.Revenue and Disaster Management DepartmentNotification No. SRO A-18(c)/2024.--G.O. Ms. No. 426, Revenue and Disaster Management Department, Land Disposal Wing, [LD3(1)], 17th October 2024.34318-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Date of Coming into Force of the Tamil Nadu Land Consolidation (For Special Projects) Act, 2023 (Tamil Nadu Act 23 of 2023).Revenue and Disaster Management DepartmentNotification No. II(2)/REVDM/986(e)/2024.--G.O.Ms. No.425, Revenue and Disaster Management Department, Land Disposal Wing, LD3(1) Section, 17th October 2024.34217-10-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat DepartmentsUse Of Aadhaar Authentication For The Beneficiaries Under The Schemes Of ‘Tholkudi’, ‘CM Arise’ And ‘Nannilam Magalir Nila Udamai Thittam’ - Mandated As Per The Provisions Of Section 7 Of The Aadhaar (Targeted Delivery Of Financial And Other Subsidies, Benefits And Services) Act, 2016Adi Dravidar and Tribal Welfare DepartmentNotification No. II(1)/ADTW/27(e-1)/2024.--G.O. Ms. No. 92, Adi Dravidar and Tribal Welfare [TD.1(1)], 17th October 2024.34117-10-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by Auction.Finance DepartmentNotification No. II(1)/FIN/27(d)/2024.--[No.746(L)/W and M-II/2024]34017-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION AND THE DISTRICT COLLECTOR--Acquisition of Lands--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Lands for Industrial Purposes Act, 1997	Notification No.VI(1)/692(e-1)/2024.--(CLA-SIP/2024/40/07/07/0001)Other DepartmentsNotification No.VI(1)/692(e-1)/2024.--(CLA-SIP/2024/40/07/07/0001); Notification No.VI(1)/692(e-2)/2024.-(CLA-SIP/2024/40/07/04/0001); Notification No.VI(1)/692(e-3)/2024.--(CLA-SIP/2024/40/04/05/0001); Notification No.VI(1)/692(e-4)/2024.--(CLA-SIP/2024/40/04/02/0001); Notification No.VI(1)/692(e-5)/2024.--(CLA-SIP/2024/40/04/04/0001); Notification No.VI(1)/692(e-6)/2024.--(CLA-SIP/2024/40/08/05/0001); Notification No.VI(1)/692(e-7)/2024.--(CLA-SIP/2024/40/01/10/0001); Notification No.VI(1)/692(e-8)/2024.--(CLA-NLC/2024/08/03/22/0001); Notification No.VI(1)/692(e-9)/2024.--(LA-IV-1/8586059/2024); Notification No.VI(1)/692(e-10)/2024.--(LA-IV-1/8559494/2024); Notification No.VI(1)/692(e-11)/2024.--(LA-IV-1/8482554/2024); Notification No.VI(1)/692(e-12)/2024.--(LA-IV-1/8516173/2024); Notification No.VI(1)/692(e-14)/2024.--(LA-IV-1/8412354/2024); Notification No.VI(1)/692(e-15)/2024.--(LA-IV-(3)/8412319/2024)33915-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Syllabus for competitive examination to the post of Assistant Professor in respect of subjects namely, Information Technology and Cyber Security Laws and Family Law.Law DepartmentNotification No. II(2)/LAW/986(d)/2024.--G.O.Ms. No.806, Law (LS), 15th October 2024, Purattasi 29, Kurothi, Thiruvalluvar Aandu-2055.33815-10-2024Part VI - Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Notification regarding the dismissal of Surulipatty Panchayat Council President under Kambam Panchayat Union, Theni District.Collector And Local AuthorityNotification No. VI(2)/31(a)/2024.--[Roc. No. 3497/2020/Q-2 (A)]33715-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION DEPARTMENT, CHEPAUK, CHENNAI-600 005.	Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997.--Notice under Sub-Section (1) of Section (15) of the Tamil Nadu Highways Act, 2001Other DepartmentsNotification No.VI(1)/692(d-1)/2024.--(LA-IV-1/8107367/2024); Notification No.VI(1)/692(d-2)/2024.--(LA-IV-1/8264289/2024); Notification No.VI(1)/692(d-3)/2024.--(LA-IV-1/8264339/2024)--Notification No.VI(1)/692(d-4)/2024.--(LA-VI(3)-8264366-2024); Notification No.VI(1)/692(d-5)/2024.--LA-VI(2)-8331390-2024; Notification No.VI(1)/692(d-6)/2024.--(LA-VI(2)-8331442-2024); Notification No. VI(1)/692(d-7)/2024.--(LA-VI(3)/8331480/2024)33615-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Disaster management – notifying heat wave as a ‘state specific disaster for providing relief to the victims of heat wave – incurring the expenditure towards relief under state disaster response fund – orders issued.Revenue and Disaster Management DepartmentNotification No. II(2)/REVDM/986(c)/2024.--G.O.Ms. No.419, Revenue and Disaster Management, Disaster Management Wing, D.M.III (1) Section, 15th October 2024.33514-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Central Electricity Authority (Measures Relating to Safety and Electric Supply), Regulations, 2023 of Voltage Level for Self-Certification under Regulation 32 and 45 and Powers of Inspection under Regulation 32, 34, 38 and 45 under the Electricity Act, 2003.Energy DepartmentNotification No. II(2)/EGY/986(b-1)/2024.--G.O.Ms. No. 98, Energy (C2), 14th October 2024.33414-10-2024Part V - Section 4Notification by the Election Commission of IndiaOrder of the Election Commission of India--Disqualification of Thiru G. Arun Kumar Candidate Contested from 98- Erode (East) Assembly Constituency in Bye-Election to Legislative Assembly of Tamil Nadu, 2023 for Failure to Lodge the Accounts of Election Expenses under Section 10-A of the Representation of the People Act, 1951 by the Election Commission of India.Public (Elections) DepartmentNotification No. SRO G-37/2024.--No.76/TN-LA/98/BYE/2023/CEMS-II33314-10-2024Part V - Section 4Notification by the Election Commission of IndiaOrder of the Election Commission of India--Disqualification of Thiru S.P.Ramkumar, Candidate Contested from 98- Erode (East) Assembly Constituency in Bye-Election to Legislative Assembly of Tamil Nadu, 2023 for Failure to Lodge the Accounts of Election Expenses under Section 10-A of the Representation of the People Act, 1951 by the Election Commission of India.Public (Elections) DepartmentNotification No. SRO G-36/2024.--No.76/TN-LA/98/BYE/2023/CEMS-II33214-10-2024Part V - Section 4Notification by the Election Commission of IndiaELECTION COMMISSION OF INDIA--Disqualification of Thiru K. Sundhara Moorthy Candidate Contested from 98- Erode (East) Assembly Constituency in Bye-Election to Legislative Assembly of Tamil Nadu, 2023 for Failure to Lodge the Accounts of Election Expenses Under Section 10-A of The Representation of the People Act, 1951 by the Election Commission of India.Other DepartmentsNotification No. SRO G-35/2024.--No.76/TN-LA/98/BYE/2023/CEMS-II33114-10-2024Part V - Section 4Notification by the Election Commission of IndiaElection Commission of India--Disqualification of Thiru V. Krishnamoorthy Candidate Contested From 98- Erode (East) assembly Constituency In Bye-Election To Legislative Assembly of Tamil Nadu, 2023 for failure to Lodge the Accounts of Election Expenses under Section 10-A of the Representation of the People Act, 1951 by the Election Commission of India.Other DepartmentsNotification No. SRO G-34/2024.---No.76/TN-LA/98/BYE/2023/CEMS-II33014-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Lands for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/692(c-1)/2024.--(CLA-SIP/2024/34/12/04/0001); Notification No.VI(1)/692(c-2)/2024.--(CLA-SIP/2024/55/01/01/0001); Notification No.VI(1)/692(c-5)/2024.--(CLA-SIP/2024/34/10/02/0001); Notification No.VI(1)/692(c-6)/2024.--(CLA-SIP/2024/34/07/02/0001); Notification No.VI(1)/692(c-7)/2024.--(CLA-SIP/2024/34/08/02/0001); Notification No.VI(1)/692(c-8)/2024.--(CLA-SIP/2024/34/06/01/0001); Notification No.VI(1)/692(c-9)/2024.--(CLA-SIP/2024/34/05/02/0001); Notification No.VI(1)/692(c-10)/2024.--(CCLA-SIP/2024/34/12/05/0001); Notification No.VI(1)/692(c-11)/2024.--(CLA-SIP/2024/40/09/03/0001); Notification No.VI(1)/692(c-12)/2024.--(CLA-SIP/2024/40/09/04/0001); Notification No.VI(1)/692(c-13)/2024.--(CLA-SIP/2024/40/04/07/0001); Notification No.VI(1)/692(c-14)/2024.--(CLA-SIP/2024/40/08/02/0001)32914-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION AND THE DISTRICT COLLECTOR--ACQUISITION OF LANDS--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Lands for Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/692(b-1)/2024.--(CLA-TID/2024/03/08/44/0001)32814-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION AND THE DISTRICT COLLECTOR--Acquisition of Lands in Karur District.Other DepartmentsNotification No.VI(1)/692(a)/2024.--(Rc.No. C2 /1064/2023)32710-10-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.SOCIAL WELFARE AND WOMEN EMPOWERMENT DEPARTMENT--Amendments to the Tamil Nadu Juvenile Justice (Care And Protection Of Children) Rules, 2017.Social Welfare and Nutritious Meal Programme DepartmentNotification No. SRO A-18(c)/2024.--G.O. Ms. No. 76, Social Welfare and Women Empowerment [SW 8(1)], 10th October 2024.32609-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENT--Appointment of Member of Tamil Nadu Waqf Tribunal for a certain period under the Waqf Act, 1995.BC, MBC   Minorities Welfare DepartmentNotification No. II(2)/BCMBCMW/986(a)/2024.--G.O. (D). No. 78, Backward Classes, Most Backward Classes and Minorities Welfare (T2), 9th October 2024.32507-10-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat DepartmentsINDUSTRIES, INVESTMENT PROMOTION AND COMMERCE DEPARTMENT--Amendment To The Tamil Nadu Business Facilitation Rules, 2017.Industries DepartmentNotification No. SRO A-18(b)/2024.--G.O. Ms. No. 136, Industries, Investment Promotion and Commerce (MIB.2), 7th October 2024.32404-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENT--Appointment of Member of Parliament and Chairperson, Tamil Nadu Waqf Board as a Member of the Tamil Nadu State Haj Committee under the Haj Committee Act 2002.BC, MBC   Minorities Welfare DepartmentNotification No. II(2)/BCMBCMW/968(c)/2024.--G.O. (D). No. 76, Backward Classes, Most Backward Classes and Minorities Welfare (S1), 4th October 2024.32303-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Adi Dravidar and Tribal Welfare Department Appointment of Chairperson of Tamil Nadu State Commission for the Scheduled Castes And Scheduled Tribes – Orders - IssuedAdi Dravidar and Tribal Welfare DepartmentNotification No. II(2)/ADTW/968(b)/2024.---G.O. Ms. No. 80, Adi Dravidar and Tribal Welfare (ADW-6), 3rd October 202432203-10-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat DepartmentsAnimal Husbandry Department - Framing of Tamil Nadu State Pig Breeding Policy - Orders - Issued.Animal Husbandry, Dairying and  Fisheries DepartmentNotification No. II(1)/AHDFFW/27(c)/2024.--G.O. Ms. No. 83, Animal Husbandry, Dairying, Fisheries and Fishermen Welfare (AH-4), 1st October 2024.32103-10-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat DepartmentsMarket Borrowing Programme Of State Government By Auction.Finance DepartmentNotification No. II(1)/FIN/27(c)/2024.--[No.745(L)/W and M-II/2024]32002-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Award Of “Gandhi Adigal Police Medal” For The Year 2024 To Police Personnel For Their Outstanding Work In Prohibition Enforcement On The Occasion Of Republic Day, 2025.Home, Prohibition and Excise DepartmentNotification No. II(2)/HOPE/968(a)/2024.-- G.O. Ms. No. 49, Home, Prohibition and Excise (VII)(2), 1st October 2024.31901-10-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat DepartmentsAppointment of Vice-Chairman to Tamil Nadu State Council for Higher Education for Certain Period under the Tamil Nadu State Council for Higher Education Act, 1992Higher Education DepartmentNotification No. II(2)/HE/932(c)/2024.--G.O. Ms. No. 171, Higher Education (H2), 25th September 2024.31801-10-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001 -- Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/654(c-1)/2024.--(LA-V3/8135371/2024); Notification No.VI(1)/654(c-2)/2024.--(LA-V3/8137306/2024); Notification No.VI(1)/654(c-3)/2024.--(LA-IV-1/8212212/2024)31730-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.HOME DEPARTMENT (Courts-IV)--Nomination of Senior Most Judge of the Madras High Court, as the Executive Chairman of the Tamil Nadu State Legal Services Authority, Chennai under the Legal Services Authorities Act, 1987.Home, Prohibition and Excise DepartmentNotification No. II(2)/HO/932(b)/2024.--G.O. (D) No. 1173, Home (Courts-IV), 30th September 2024.31630-09-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendment to the Tamil Nadu Goods and Services Tax Rules, 2017.Commercial Taxes and Registration DepartmentNotification No. SRO A–18(a)/2024.--G.O. (Ms.) No. 114, Commercial Taxes and Registration (B1) Department, 30th September 2024, Purattasi 14, Kurothi, Thiruvalluvar Aandu-2055.31530-09-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--ACQUISITION OF LANDS--Notice Under Section 3(1) Of Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/654(b-1/2024.--(LA-IV-1/8178017/2024)31430-09-2024Part III - Section 1(b)Service Rules including Ad hoc Rules, Regulations, etc., issued by Secretariat Departments.Amendments to the Special Rules for the Tamil Nadu Adi Dravidar Welfare Subordinate Service.Adi Dravidar and Tribal Welfare DepartmentNotification No. SRO B-35(a)/2024.--G.O. Ms. No. 76, Adi Dravidar and Tribal Welfare (ADW 7), 30th September 2024.31329-09-2024Part INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.PUBLIC DEPARTMENT (Special-A)--Ministers – Inter-Se-Seniority of Ministers and Subjects – Orders – IssuedPublic DepartmentNotification No. I/PUSP/25(f)/2024.--G.O.Ms. No. 657, Public (Special-B), 29th September 2024, Purattasi 13, Kurothi, Thiruvalluvar Aandu-2055.31229-09-2024Part INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.PUBLIC DEPARTMENT (Special-A)--Ministers – Allocation of Subjects Among Ministers – Orders – Issued.Public DepartmentNotification No. I/PUSP/25(e)/2024.--G.O.Ms. No. 656, Public (Special-B), 29th September 2024, Purattasi 13, Kurothi, Thiruvalluvar Aandu-2055.31129-09-2024Part INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.PUBLIC DEPARTMENT (Special-A)--Ministers - Appointment — NotifiedPublic DepartmentNotification No. I/PUSP/25(d)/2024.--G.O.Ms. No. 655, Public (Special-B), 29th September 2024, Purattasi 13, Kurothi, Thiruvalluvar Aandu-205531028-09-2024Part INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.PUBLIC DEPARTMENT (Special-A)--Ministers - Thiru T. Mano Thangaraj, Thiru Gingee K.S. Masthan and Thiru K. Ramachandran - Relieved of Ministership—NotifiedPublic DepartmentNotification No. I/PUSP/25(c)/2024.--G.O.Ms. No. 654, Public (Special-B), 28th September 2024, Purattasi 12, Kurothi, Thiruvalluvar Aandu-205530928-09-2024Part INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.PUBLIC DEPARTMENT (Special-A)--Minister - Appointment of Thiru Udhayanidhi Stalin, Minister for Youth Welfare and Sports Development as Deputy Chief Minister—Notified.Public DepartmentNotification No. I/PUSP/25(b)/2024.--G.O.Ms. No. 653, Public (Special-B), 28th September 2024, Purattasi 12, Kurothi, Thiruvalluvar Aandu-2055.30828-09-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Animal Husbandry Department - Framing Of Tamil Nadu State Dog Breeding Policy - Orders - Issued.Animal Husbandry, Dairying and  Fisheries DepartmentNotification No. II(1)/AHDFFW/27(a)/2024.--G.O. Ms. No. 80, Animal Husbandry, Dairying, Fisheries and Fishermen Welfare (AH-4), 27th September 2024.30728-09-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION AND THE DISTRICT COLLECTOR.--ACQUISITION OF LANDS--New Bus Stand Nagapattinam DistrictOther DepartmentsNotification No. VI(1)/ 654(a)/2024.--(Rc.No. 13872/2022/F1)30624-09-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Framing of Tamil Nadu State Highways Authority (The Term of Office and Condition of Service and Powers and Duties of Chairperson and Members) Rules, 2024 and Tamil Nadu State Highways Authority (Budget, Accounts, Audit and Investment of Funds), Rules, 2024Highways and Minor Ports DepartmentNotification No. SRO A-17(d-1)/2024; Notification No. SRO A-17(d-2)/2024.--G.O. Ms. No. 118, Highways and Minor Ports (HF1), 24th September 2024.30524-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.HIGHWAYS AND MINOR PORTS DEPARTMENT--Date of Coming Into Force of the Tamil Nadu State Highways Authority Act, 2024.Highways and Minor Ports DepartmentNotification No. II(2)/HWMP/932(a)/2024.--G.O. Ms. No. 117, Highways and Minor Ports (HF1), 24th September 2024.30424-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification under the Tamil Nadu Apartment Ownership Act, 2022.Housing and Urban Development  DepartmentNotification No. II(2)/HOU/901(h-1)/2024.--G.O. Ms. No. 172, Housing and Urban Development [HB3 (1)], 24th September 2024.30324-09-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Tamil Nadu Apartment Ownership Rules, 2024.Housing and Urban Development  DepartmentNotification No. SRO A-17(c)/2024.--G.O.Ms.No. 171, Housing and Urban Development [HB3(1)], 24th September 2024.30224-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.The Tamil Nadu Apartment Ownership Act, 2022Housing and Urban Development  DepartmentNotification No. II(2)/HOU/901(g)/2024.--G.O. Ms. No. 170, Housing and Urban Development [HB3 (1)], 24th September 2024.30123-09-2024Part INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.PUBLIC DEPARTMENT (Special-A)--Appointment--Shri Justice Shriram Kalpathi Rajendran, Judge of the High Court of Bombay, to be Chief Justice of the Madras High Court.Public DepartmentNotification No. I/PUSP/25(a)/2024.--G.O. Ms. No. 644, Public (Special-A), 23rd September 2024, Purattasi 7, Kurothi, Thiruvalluvar Aandu-205529919-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENT--Elected as Chairperson of the Tamil Nadu Waqf Board by the Member of Tamil Nadu Waqf Board under the Waqf Act, 1995BC, MBC   Minorities Welfare DepartmentNotification No. II(2)/BCMBCMW/901(f)/2024.--G.O. (2D). No. 19, Backward Classes, Most Backward Classes and Minorities Welfare (T1), 19th September 2024.29819-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.PUBLIC DEPARTMENT (Law and Order-F)--Commission of Inquiry - to Inquire into the Causes and Circumstances Leading to the Incident of Consuming Arrack Admixed with Methanol at Karunapuram in Kallakurichi Taluk in Kallakurichi DistrictPublic DepartmentNotification No. II(2)/PULO/901(e)/2024.--G.O. Ms. No.635, Public (Law and Order-F), 19th September 2024.29719-09-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Amendments to Introducing Incentive to the Workers Registered with Tamil Nadu Manual Workers Social Security and Welfare Board and 17 Other Welfare Boards and Their Children for the Participation in National and International Sports Competitions Schemes 2006.Labour Welfare and Skill Development DepartmentNotification No. II(1)/LWSD/25(b-1)/2024.--G.O. Ms. No. 85, Labour Welfare and Skill Development (I1),19th September 2024; Notification No. II(1)/LWSD/25(b-2)/2024; Notification No. II(1)/LWSD/25(b-3)/2024; Notification No. II(1)/LWSD/25(b-4)/2024; Notification No. II(1)/LWSD/25(b-5)/2024; Notification No. II(1)/LWSD/25(b-6)/2024; Notification No. II(1)/LWSD/25(b-7)/2024; Notification No. II(1)/LWSD/25(b-8) /2024; Notification No. II(1)/LWSD/25(b-9)/2024; Notification No. II(1)/LWSD/25(b-10)/2024; Notification No. II(1)/LWSD/25(b-11)/2024; Notification No. II(1)/LWSD/25(b-12)/2024; Notification No. II(1)/LWSD/25(b-13)/2024; Notification No. II(1)/LWSD/25(b-14)/2024; Notification No. II(1)/LWSD/25(b-15)/2024; Notification No. II(1)/LWSD/25(b-16)/2024; Notification No. II(1)/LWSD/25(b-17)/2024; Notification No. II(1)/LWSD/25(b-18)/2024.29619-09-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat DepartmentsMICRO, SMALL AND MEDIUM ENTERPRISES DEPARTMENT--Amendments to the Tamil Nadu Micro and Small Enterprises Facilitation Council Rules, 2017Micro , Small and Medium Enterprises DepartmentNotification No. SRO A-17(b)/2024.--G.O. Ms. No. 38, Micro, Small and Medium Enterprises (F), 19th September 2024.29519-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENT--Appointment of Person as Member of Tamil Nadu Waqf Board under Nominated Category under the Waqf Act, 1995BC, MBC   Minorities Welfare DepartmentNotification No. II(2)/BCMBCMW/901(c)/2024.---G.O. (2D). No. 18, Backward Classes, Most Backward Classes and Minorities Welfare (T1), 19th September 2024.29418-09-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat DepartmentsTAMIL DEVELOPMENT AND INFORMATION DEPARTMENT--The Government of Tamil Nadu and Authorization of Office of State Government to Receive Physical Copy of the Newspaper of the Press And Registration of Periodicals Rules, 2024.Tamil Dev. and  Information DepartmentNotification No. SRO A-17(a)/2024.--G.O. Ms. No. 187, Tamil Development and Information (Admn.4), 18th September 2024, Purattasi 2, Krothi, Thiruvalluvar Aandu-2055.29318-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Bifurcation of Nagapattinam District Panchayat Constitution of District Panchayats for Nagapattinam and Mayiladuthurai Districts under the Tamil Nadu Panchayats Act, 1994Rural Development and Panchayat Raj DepartmentNotification No. II(2)/RDPR/901(b-1)/2024.---G.O.Ms. No.145, Rural Development and Panchayat Raj (PR-II), 18th September 2024.29218-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENT--Appointment of Person as Member of Tamil Nadu Waqf Board under the Category of Muslim Members of Parliament from the State under the Waqf Act.BC, MBC   Minorities Welfare DepartmentNotification No. II(2)/BCMBCMW/901(a)/2024.--G.O. (2D). No. 17, Backward Classes, Most Backward Classes and Minorities Welfare (T1), 18th September 2024.29118-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification under the Tamil Nadu Goods and Services Tax Act, 2017.Commercial Taxes and Registration DepartmentNotification No. II(2)/CTR/873(b)/2024.--G.O. Ms. No. 109, Commercial Taxes and Registration [B1], 16th September 2024, Aavani 31, Kurothi, Thiruvalluvar Aandu-2055.29013-09-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice Under Section 3(1) Of Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997 -- Acquisition of Lands--Form Of Notice Under Sub-Section (1) Of Section 3 Of The Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/618(a-1)/2024.--(LA-I-1/8358634/2024) -- Notification No. VI(1)/618(a-2)/2024.--(LA-II-3/8164455/2024)28912-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Levy of Tolls on the Vehicles Entering Yercaud Panchayat Union Area in Salem District certain Period under the Indian Tolls Act.Highways and Minor Ports DepartmentNotification No. II(2)/HWMP/873(a)/2024.--G.O. (Misc.) No. 83, Highways and Minor Ports (H.P.1) Department, 12th September 2024.28812-09-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/25(a)/2024.--[No.741(L)/W and M-II/2024]28710-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Appointment of Appropriate Authority for Surrogacy (Regulation) Act, 2021 and Assisted Reproductive Technology (Regulation) Act, 2021--Amendment to NotificationHealth and Family Welfare DepartmentNotification No. II(2)/HFW/849(b)/2024.--G.O. Ms. No. 251, Health and Family Welfare [R1], 10th September 2024.28609-09-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (Miscellaneous)--Change in the Date of Observance of the Festival Holiday for Milad-Un-Nabi on Tuesday 17th September 2024 under the Negotiable Instruments Act, 1881.Public DepartmentNotification No. II(1)/PUMIS/19(h)/2024.--G.O. Ms. No. 617, Public (Miscellaneous), 9th September 2024.28506-09-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification by the Election Authority - Schedule of Dates for Various Stages of Elections to Constitute the Tamil Nadu WAQF Board.BC, MBC   Minorities Welfare DepartmentNotification No. II(2)/BCMBCMW/849(a)/2024.--[Letter No. 7645661/T1/2024-6, dated 05 September 2024.]28405-09-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat DepartmentsAmendment to the Tamil Nadu Urban Local Bodies Rules, 2023.Municipal Administration and Water Supply  DepartmentNotification No. SRO A-16(b)/2024.--G.O. Ms. No. 113, Municipal Administration and Water Supply (MA.IV), 5th September 2024.28305-09-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.AGRICULTURE - FARMERS WELFARE DEPARTMENT--Implementation of Price Support Scheme (Pss) - Procurement of Black Gram Through National Agricultural Co-Operative Marketing Federation Of India (Nafed) Ltd During Kharif 2024-2025Agriculture DepartmentNotification No. II(1)/AGFW/19(g)/2024.--G.O. (2D) No.148, Agriculture - Farmers Welfare (AP4), 5th September 2024.28205-09-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.AGRICULTURE - FARMERS WELFARE DEPARTMENT--Implementation of Price Support Scheme (Pss) - Procurement of Green Gram Through National Agricultural Co-Operative Marketing Federation of India (Nafed) Ltd During Kharif 2024-2025.Agriculture DepartmentNotification No. II(1)/AGFW/19(f)/2024.--G.O. (2D) No.147, Agriculture - Farmers Welfare (AP4), 5th September 202428105-09-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/19(e-1)/2024.--[No.739(L)/W and M-II/2024]; Notification No. II(1)/FIN/19(e-2)/2024.--[No.740(L)/W and M-II/2024]28005-09-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005--Form of Notice under Sub-Section (1) of Section 3 of the Tamil Nadu Acquisition of Lands for Industrial Purposes Act, 1997--FORM-COther DepartmentsNotification No. VI(1)/597(a-1)/2024.--(CLA-SIP-2024-55 -01/01/0001)27903-09-2024Part VI - Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Notification regarding the dismissal of Thodugadu Panchayat Council President under Kadambathur Panchayat Union of Tiruvallur District.Collector And Local AuthorityNotification No. VI(2)/25(a)/2024.--(Roc. No. 1444B/2022/A3)27829-08-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/19(d-1)/2024.--[No.737(L)/W and M-II/2024]27728-08-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Amendments to the Tamil Nadu Electricity Restructuring and Transfer Scheme, 2024.Energy DepartmentNotification No. II(1)/EGY/19(c)/2024.--G.O. Ms. No. 84, Energy [B2], 28th August 2024.27627-08-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice under Sub-Section (1) of Section (15) of the Tamil Nadu Highways Act, 2001 -- Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/561(b-1)/2024.--(LA-VI(3)/7712445/2024); Notification No.VI(1)/561(b-2)/2024.--(LA-IV-1/8107341/2024); Notification No.VI(1)/561(b-3)/2024.--(LA-IV-1/8177648/2024); Notification No.VI(1)/561(b-4)/2024.--(LA-IV-1/8107565/2024); Notification No.VI(1)/561(b-5)/2024.--(LA-V(1)/8226791/2024); Notification No.VI(1)/561(b-6)/2024.--(LA-V2/7712595/2024); Notification No.VI(1)/561(b-7)/2024.--(LA-VI(3)/8137107/2024)27524-08-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Revenue Administration – Jurisdiction – Chennai District – Central Chennai Revenue Zone – Realignment of Ayanavaram Revenue Circle and creation of new revenue circle with headquarters at Kolathur – Order issued.Revenue and Disaster Management DepartmentNotification No. II(1)/REVDM/19(b)/2024.--G.O. (MS.) No. 241,  Revenue and Disaster Management (RA-1) Department, 11th July 2024.27423-08-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Withdrawal from Acquisition of Lands.--Notice under Sub-Section (1) of Section 4 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997. (Tamil Nadu Act 10 of 1999)Transport DepartmentNotification No. II(2)/TRA/785(b)/2024.--G.O. Ms. No. 96, Transport [I.1], 23rd August 2024.27323-08-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION AND THE DISTRICT COLLECTORS--Acquisition of Lands--Agriculture College and Research Institute, Karur District.Other DepartmentsNotification No.VI(1)/561(a)/2024.--(RC.No.C2/16660/2023)27222-08-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notifications under the Tamil Nadu Goods and Services Tax Act, 2017--Amendment to NotificationsCommercial Taxes and Registration DepartmentNotification No. II(2)/CTR/785(a-1)/2024.--G.O. Ms. No. 94, Commercial Taxes and Registration (B1), 22nd August 202427122-08-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/19(a-1)/2024.--[No.735(L)/W and M-II/2024]27021-08-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendments to the Tamil Nadu Disposal of Articles (Confiscated under the Tamil Nadu Prohibition Act) Rules, 1979.Home, Prohibition and Excise DepartmentNotification No. SRO A-16(a)/2024.--G.O. Ms. No. 41, Home Prohibition and Excise (VIII), 21st August 202426920-08-2024Part II - Section 1AGRICULTURE - FARMERS WELFARE DEPARTMENT--Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Declaration of Cultivation / Growing of Edible Mushrooms Such as White Button Mushroom, Milky Mushroom, Oyster Mushroom as An Agricultural Activity in Tamil NaduAgriculture DepartmentNotification No. II(1)/AGFW/18(d)/2024.--G.O. Ms. No. 186, Agriculture - Farmers Welfare (H2), 20th August 2024.26819-08-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Date of Come Into Force of the Tamil Nadu Development Action Plan for the Scheduled Castes and the Scheduled Tribes Rules, 2024. (Tamil Nadu Act 20 of 2024.)Adi Dravidar and Tribal Welfare DepartmentNotification No. SRO A-14 (e-1)/2024.--G.O. Ms. No. 62, Adi Dravidar and Tribal Welfare (MEC.2), 19th August 2024,26719-08-2024Part III - Section 2Statutory Notifications and Orders issued by
+Heads of Departments.JUDICIAL NOTIFICATION--Amendments to the Madras High Court Service Rules, 2015.High Court of MadrasNotification No. SRO C-17(a)/2024.--(R.O.C. No. 215/RG/2024/RAC)26618-08-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Appointment as Chairperson of the Tamil Nadu Real Estate Regulatory Authority under the Real Estate (Regulation and Development) Act, 2016.Housing and Urban Development  DepartmentNotification No. II(2)/HOU/755(b)/2024.--G.O. Ms. No. 151, Housing and Urban Development [UD-3(2)], 18th August 202426516-08-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Selection of the Southern India Chamber of Commerce and Industry (SICCI) as Industry Event Partner for Organizing the Anaithulaga Muthamizh Murugan Conference 2024 under the Tamil Nadu Transparency in Tenders Act, 1998.Finance DepartmentNotification No. II(2)/FIN/755(a)/2024.--G.O. Ms. No.271, Finance (Procurement Cell), 16th August 2024.26416-08-2024Part VI - Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.TAMIL NADU STATE ELECTION COMMISSION,CHENNAI-600 106.--Elections - Ordinary Elections to Urban Local Bodies - February 2022 - Tirunelveli District - Contested Candidates - Failed to Lodge Accounts of Election Expenses - Show Cause Notices Issued - Failed to Submit Explanation and Accounts - Disqualification - Ordered.Other DepartmentsNotification No.VI(2)/22(b)/2024.--(S.O.No.8/2024/TNSEC/ME-2, dated the 13th August 2024)26314-08-2024Part VI - Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Notification by Inspector and District Collector of Tenkasi District Panchayats.Collector And Local AuthorityNotification No. VI(2)/22(a)/2024.--(COLRD/2326/2023/A6)26214-08-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/18(c)/2024.--[No.734(L)/W and M-II/2024]26114-08-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Form-C--Notice under Sub-Section (1) of Section (15) of the Tamil Nadu Highways Act, 2001.Other DepartmentsNotification No.VI(1)/546(a-1)/2024.--(LA-VI(3)/7970031/2024); Notification No.VI(1)/546(a-2)/2024.--(LA-VI(3)/8004895/2024); Notification No.VI(1)/546(a-3)/2024.--(LA-VI(1)/7994331/2024); Notification No.VI(1)/546(a-4)/2024.--(LA-VI(1)/7841603/2024); Notification No.VI(1)/546(a-5)/2024.--(LA-VI(1)/7888612/2024)26013-08-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Notification for the delta irrigation of the year 2024-2025, an order is issued after the initial release of 12,000 cubic feet of water from Mettur Dam, Salem District at 3.00 pm on 28-07-2024 and increased to 23,000 cubic feet on 30-07-2024 at 8 a.m.Water Resources DepartmentNotification No. II(1)/WR/18(b)/2024.--G.O. (Misc.) No. 79, Water Resources (K1) Department, 13th August 2024.25912-08-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Sriperumbudur Town Panchayat as Sriperumbudur Municipal Council - Mamallapuram Town Panchayat as Mamallapuram Municipal Council - Thiruvaiyaru Town Panchayat as Thiruvaiyaru Municipal CouncilMunicipal Administration and Water Supply  DepartmentNotification No. II(2)/ MAWS/743(b-1)/2024.--G.O. Ms. No. 106, Municipal Administration and Water Supply (Election) Department, 12th August 2024.25812-08-2024Part INotifications or orders regarding fi rst appointments, investiture of magisterial powers, etc., issued by Secretariat DepartmentsAppoinment - Chairman of the Tamil Nadu Public Service CommissionHuman Resources Management DepartmentNotification No. I/HRM/22(a)/2024.--G.O.Ms.No. 72, Human Resources Management (M), 10th August 2024.25710-08-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Declares the constitution of the entire local areas comprised within the local bodies as Karaikkudi City Municipal CorporationMunicipal Administration and Water Supply  DepartmentNotification No. II(2)/ MAWS/743(a-1)/2024.--G.O. Ms. No. 102, Municipal Administration and Water Supply (Election) Department, 10th August 2024.25608-08-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/18(a)/2024.--[No.733(L)/W and M-II/2024]25507-08-2024Part III - Section 1(b)Service Rules including Ad hoc Rules, Regulations, etc., issued by Secretariat Departments.Amendments to the Special Rules for the Tamil Nadu Industries Service.Micro , Small and Medium Enterprises DepartmentNotification No. SRO B-26(a)/2024.--G.O. Ms. No. 31, Micro, Small and Medium Enterprises [EI(1)], 7th August 2024.25407-08-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Errata Notice under Sub-Section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/525(b-1)/2024.--(LA-IV-1/6490921/2023); Notification No.VI(1)/525(b-2)/2024.--[LA-IV-1/7841514/2024]; Notification No.VI(1)/525(b-3)/2024.--[LA-IV-1/7947450/2024]25307-08-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act 2001 (Tamil Nadu Act 34/2002).Other DepartmentsNotification No.VI(1)/ 525(a-1)/2024.--(LA-V2/7036918/2024); Notification No.VI(1)/525(a-2)/2024.--(LA-V3/7842355/2024)25206-08-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Disqualification of Panchayat President, Thollapalli Village Panchayat, Anaicut Panchayat Union, Vellore District under the Tamil Nadu Panchayats Act, 1994.Rural Development and Panchayat Raj DepartmentNotification No. II(2)/RDPR/734(b)/2024.--G.O. Ms. No.127, Rural Development and Panchayat Raj (PR-4), 6th August 2024.25106-08-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Disqualification of 5th Ward Member, Pappampatti Village Panchayat, Palani Panchayat Union, Dindigul District under the Tamil Nadu Panchayats Act, 1994.Rural Development and Panchayat Raj DepartmentNotification No. II(2)/RDPR/734(a)/2024.--G.O. Ms. No.126, Rural Development and Panchayat Raj (PR-4), 6th August 2024.25001-08-2024Part V - Section 4ELECTION COMMISSION OF INDIA.--Notifications by the Election Commission of India.Judgement of the High Court of Madras in Election Petition No. 03 of 2019Other DepartmentsNotification No. SRO G-33/2024.-No. 82/TN-HP/(EP 03 of 2019)/2024/SS-I24901-08-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme Of State Government By AuctionFinance DepartmentNotification No. II(1)/FIN/18(a)/2024. [No.732(L)/W and M-II/2024]24831-07-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendments to the Tamil Nadu Minor Mineral Concession Rules, 1959.Natural Resources DepartmentNotification No. SRO A-14(d)/2024.--G.O. Ms. No.21, Natural Resources (MMC.1), 31st July 2024.24729-07-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice under Sub-Section(1) of Section 15 of the Tamil Nadu Highways Act, 2001.Other DepartmentsNotification No.VI(1)/506(b-1)/2024.--(LA-V2/6249441/2023); Notification No.VI(1)/506(b-2)/2024.--(LA-V3/7769330/2024); Notification No.VI(1)/506(b-3)/2024.--(LA-V3/7841721/2024); Notification No.VI(1)/506(b-4)/2024.--(LA-VI(3)/7757653/2024); Notification No.VI(1)/506(b-5)/2024.--(LA-VI(3)/7841979/2024)24626-07-2024Part V - Section 4Notification by the Election Commission of IndiaORDER OF THE ELECTION COMMISSION OF INDIA - Disqualification of Candidate Contested From 230 – Nagercoil Assembly Constituency in the General Election to Legislative Assembly of Tamil Nadu, 2021 for Failure to Lodge the Accounts of Election ExpensesPublic (Elections) DepartmentNotification No. SRO G-32/2024.--No.76/TN-LA/KKM/2021/CEMS-II24526-07-2024Part V - Section 4Notification by the Election Commission of IndiaPublic (Elections) Department--ORDER OF THE ELECTION COMMISSION OF INDIA - Disqualification of Candidate Contested From 234 – Killiyoor Assembly Constituency in the General Election to Legislative Assembly of Tamil Nadu, 2021 for Failure to Lodge the Accounts of Election ExpensesPublic (Elections) DepartmentNotification No. SRO G-31/2024.--No.76/TN-LA/KKM/2021/CEMS-II24426-07-2024Part V - Section 4Notification by the Election Commission of IndiaORDER OF THE ELECTION COMMISSION OF INDIA -Disqualification of Candidate Contested From 234 – Killiyoor Assembly Constituency in the General Election to Legislative Assembly of Tamil Nadu, 2021 for Failure to Lodge the Accounts of Election ExpensesPublic (Elections) DepartmentNotification No. SRO G-30/2024.--No.76/TN-LA/KKM/2021/CEMS-II24326-07-2024Part VI - Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Tamil Nadu State Election Commission, Chennai-106.--Elections – Urban Local Bodies - Indirect Elections – Casual Vacancies in the Office of the Mayor, Vice Chairperson, Member of Taxation Appeal Committee and Member of Appointment Committee in Tirunelveli and Other Districts - Conduct of Meeting - Notified.Other DepartmentsNotification No.VI(2)/21(a-1)/2024.--(S.O.No. 06/2024/TNSEC/ME-2, dated, the 25th July 2024)24225-07-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/15(d-1)/2024.--[No.729(L)/W and M-II/2024]24125-07-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner Of Land Administration And The District Collectors.--Acquisition Of Lands--Formation Of Road From Arasakulam To Maniyapillai, Kariyapatti Taluk, Virudhunagar DistrictOther DepartmentsNotification No. VI(1)/ 506(a)/2024.--(Rc.No. D1/1-8/47658/2023, Dated 24.07.2024.)24023-07-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Reconstitution of the Tamil Nadu State Minorities Commission with Chairman, Vice-Chairman and Members under the Tamil Nadu State Minorities Commission Act, 2010.BC, MBC   Minorities Welfare DepartmentNotification No. II(2)/BCMBCMW/629(d)/2024.--G.O. Ms. No. 56, Backward Classes, Most Backward Classes and Minorities Welfare (MW1) Department, dated 23rd July 2024.23922-07-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Appointment as Members of the Tamil Nadu Real Estate Regulatory Authority under the Real Estate (Regulation and Development) Act, 2016.Housing and Urban Development  DepartmentNotification No. II(2)/HOU/629(c)/2024.--G.O. Ms. No. 136, Housing and Urban Development [UD-3(2)], 22nd July 2024.23822-07-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner Of Land Administration, Chepauk, Chennai-600 005--Acquisition of Lands--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/494(B-1)/2024.--(CLA-SIP/2024/40/01/02/0001)23722-07-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendments to the Tamil Nadu Combined Development and Building Rules, 2019Housing and Urban Development  DepartmentNotification No. SRO A-14(c-1)/2024.--G.O. Ms. No.133, Housing and Urban Development [UD4(1)], 18th July 2024.23619-07-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.HOME DEPARTMENT (Transport-I)--New Comprehensive Mini Bus Scheme, 2024--Amendment to NotificationHome, Prohibition and Excise DepartmentNotification No. II(1)/HO/15(c)/2024.--[G.O.Rt.No. 473, Home (Transport-I), 19th July 2024.]23519-07-2024Part II - Section 2Notifications or Orders of Interest to a Section of the Public Issued by Secretariat Departments.Amendment to NotificationCommercial Taxes and Registration DepartmentNotification No. II(2)/CTR/629(b)/2024.--G.O. Ms. No. 86, Commercial Taxes and Registration (B1),  19th July 2024, Aadi 3, Kurothi, Thiruvalluvar Aandu-2055.23419-07-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005 -- Acquisition of Lands--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001.--Notice under Sub Section (1) of Section 15 of the Tamilnadu Highways Act,2001 (Tamilnadu Act 34 of 2002).--Errata Notice under Sub Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001.--Notice under Sub Section (1) of Section 15 of the Tamilnadu Highways Act, 2001Other DepartmentsNotification No.VI(1)/494(a-1)/2024.--LA-V2/6747117/2024 -- Notification No.VI(1)/494(a-2)/2024.--(LA-V2/7154859/2024) -- Notification No.VI(1)/494(a-3)/2024.--(LA-VI(1)/7504585/2024) -- Notification No.VI(1)/494(a-4)/2024.--(LA-VI(2)/7769236/2024); Notification No.VI(1)/494(a-5)/2024.--(LA-VI(3)/7717313/2024); Notification No.VI(1)/ 494(a-6)/2024.--(LA-VI(3)/7769156/2024)23318-07-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Appointment of Returning Officer for the Purpose of Conducting Election of Members of the Tamil Nadu Waqf Board under the Tamil Nadu Waqf Act.BC, MBC   Minorities Welfare DepartmentNotification No. II(2)/BCMBCMW/629(a)/2024.--G.O. (2D). No. 15, Backward Classes, Most Backward Classes and Minorities Welfare (T1), 18th July 2024.23218-07-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/15(b-1)/2024.--[No.727(L)/W and M-II/2024]; Notification No. II(1)/FIN/15(b-2)/2024.--[No.728(L)/W and M-II/2024]23118-07-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendment to the Tamil Nadu Regularisation of Unapproved Layouts and Plots in Hill Areas Rules, 2020Housing and Urban Development  DepartmentNotification No. SRO A-14(b)/2024.--G.O. Ms. No.132, Housing and Urban Development [UD4(1)], 18th July 202423018-07-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Mandatory Use of Aadhaar Number under Section 7 of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (Central Act 18 of 2016) for Beneficiaries under the Tamizh Pudhalvan SchemeSocial Welfare and Nutritious Meal Programme DepartmentNotification No. II(1)/SWWE/12(b)/2024.--G.O. Ms. No. 42, Social Welfare and Women Empowerment [SW-3(2)],18th July 2024.22915-07-2024Part V - Section 1Notifications by Government, Public (Elections) DepartmentDeclaration of Result of Bye-Election to Tamil Nadu Legislative Assembly from 75. Vikravandi Assembly Constituency, 2024.Public (Elections) DepartmentNotification No. SRO D-3/2024.22812-07-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Date of Coming Into Force of the Tamil Nadu Prohibition (Amendment) Act, 2024.Home, Prohibition and Excise DepartmentNotification  No. II(2)/HOPE/585(a)/2024.--G.O. (2D). No. 07, Home, Prohibition and Excise-V, 12th July 2024.22711-07-2024Part IV - Section 2Tamil Nadu Acts and OrdinancesActs (English)Law DepartmentAct No. 34 of 2024.—The Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Amendment Act, 2024. -- Act No. 35 of 2024.—The Tamil Nadu Prohibition (Amendment) Act, 2024.22609-07-2024Part IV - Section 2Tamil Nadu Acts and OrdinancesActs (English)Law DepartmentAct No. 28 of 2024.—The Tamil Nadu Agricultural Produce Marketing (Regulation) Amendment Act, 2024.--Act No. 29 of 2024.—The Tamil Nadu Transparency in Tenders (Second Amendment) Act, 2024.--Act No. 30 of 2024.—The Tamil Nadu Appropriation (No.2) Act,2024.--Act No. 31 of 2024.—The Tamil Nadu Appropriation (No.3) Act,2024.--Act No. 32 of 2024.—The Tamil Nadu Appropriation (No.4) Act,2024.--Act No. 33 of 2024.—The Tamil Nadu Appropriation (No.5) Act,2024.22508-07-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.JUDICIAL NOTIFICATION--Constitution of a Sub Court At Rajapalayam in Virudhunagar DistrictHigh Court of MadrasNotification No. VI(1)/460(b)/2024.--(Roc.No.48172/A/2019/G/Judn)22408-07-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat DepartmentsHOME DEPARTMENT (Courts-III)--Constitution of a Subordinate Judge’s Court At Rajapalayam in Virudhunagar District under the Tamil Nadu Civil Courts Act.Home, Prohibition and Excise DepartmentNotification No. II(2)/HO/549(a-1)/2024.; Notification No. II(2)/HO/549(a-2)/2024.; Notification No. II(2)/HO/549(a-3)/2024.; Notification No. II(2)/HO/549(a-4)/2024.--[G.O. Ms. No.377, Home (Cts-III), 8th July 202422305-07-2024Part IV - Section 2Tamil Nadu Acts and OrdinancesActs (English)Law DepartmentAct No. 23 of 2024.— The Chennai Metropolitan Water Supply and Sewerage Amendment) Act, 2024. -- Act No. No. 24 of 2024.--The Tamil Nadu Urban Local Bodies (Amendment) Act, 2024. -- Act No. 25 of 2024.--The Tamil Nadu Urban Local Bodies (Second Amendment) Act, 2024. -- Act No. 26 of 2024.--The Chennai City Police Laws (Amendment) Act, 2024. -- Act No. 27 of 2024.--The Tamil Nadu State Commission for the Scheduled Castes and Scheduled Tribes (Amendment) Act, 2024.22204-07-2024Part IV - Section 2Tamil Nadu Acts and OrdinancesACTS (English)Law DepartmentAct No. 21 of 2024.--The Tamil Nadu Appropriation Acts (Repeal) Act, 2024. -- Act No. 22 of 2024.--The Tamil Nadu Repealing Act, 202422104-07-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/12(a)/2024.--[No.726(L)/W and M-II/2024]22003-07-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005 -- Acquisition of Lands--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001 -- Acquisition of Lands--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Lands for Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/460(a-1)/2024.--[LA-V2/6248897/2023] -- Notification No.VI(1)/460(a-2)/2024.--(CLA-SIP/2024/40/04/01/0001); Notification No.VI(1)/460(a-3)/2024.-- (CLA-SIP/2024/40/09/01/0001); Notification No.VI(1)/460(a-4)/2024.--(CLA-SIP/2024/40/05/03/0001); Notification No.VI(1)/ 460(a-5)/2024.--(CLA-SIP/2024/40/09/02/0001); Notificaiton No.VI(1)/460(a-6)/2024.--(CLA-SIP/2024/40/05/06/0001); Notification No.VI(1)/460(a-7)/2024.--(CLA-SIP/2024/57/01/07/0001); Notification No.VI(1)/460(a-8)/2024.--(CLA-SIP/2024/57/02/09/0001); Notification No.VI(1)/ 460(a-9)/2024.--(CLA-NLC/2024/20/01/35/0001); Notification No.VI(1)/460(a-10)/2024.--(CLA-NLC/2024/20/01/36/0001); Notification No.VI(1)/460(a-11)/2024.--(CLA-NLC/2024/24/01/42/0001); Notification No.VI(1)/460(a-12)/2024.--(CLA-NLC/2024/11/01/43/0001); Notification No.VI(1)/460(a-13)/2024.--(CLA-NLC/2024/24/03/100/0001)21903-07-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Tamil Nadu Juvenile Justice (Care and Protection of Children) Rules, 2017.Social Welfare and Nutritious Meal Programme DepartmentNotification No. SRO A-14(a)/2024.--G.O. (2D). No.14, Social Welfare and Women Empowerment [SW 8(1)], 3rd July 202421802-07-2024Part V - Section 4Notification By The Election Commission of India.Election Commission’s Notification Regarding Exit Poll At the Bye-Election to Tamil Nadu--Legislative Assembly from 75.Vikravandi Assembly ConstituencyPublic (Elections) DepartmentNotification No. SRO G-29/2024.--No.576/EXIT/2024/SDR/Vol.II21702-07-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendments To The Tamil Nadu Shops And Establishments Rules, 1948.Labour Welfare and Skill Development DepartmentNotification No. SRO A-13(e)/2024.--G.O. Ms. No.55, Labour Welfare and Skill Development (K2), 2nd July 202421602-07-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat DepartmentsTamil Nadu Shops And Establishments (Amendment) Act, 2018.Labour Welfare and Skill Development DepartmentNotification No. II(2)/LWSD/520(b-1)/2024; Notification No. II(2)/LWSD/520(b-2)/2024.[G.O. Ms. No.54, Labour Welfare and Skill Development (K2), 2nd July 202421501-07-2024Part V - Section 4Notification By The Election Commission of India.Designation of District Election Officer as Appellate Officer in Electoral Roll in Respect of the Assembly Constituencies Comprised in the District for the State of Tamil NaduPublic (Elections) DepartmentNotification No. SRO G-28/2024.--No.429/TN/2024(3)21401-07-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat DepartmentsDisqualification of 1st Ward Member, Bettamugulalam Village Panchayat, Kelamangalam Panchayat Union, Krishnagiri District under the Tamil Nadu Panchayats Act, 1994.Rural Development and Panchayat Raj DepartmentNotification No. II(2)/RDPR/520(a)/2024.--G.O. Ms. No.111, Rural Development and Panchayat Raj (PR-4), 1st July 202421329-06-2024Part IV - Section 1Tamil Nadu BillsTamil Nadu Legislative Assembly Secretariat--Bill (English and Tamil)Legislative Assembly DepartmentBill No. 27 of 2024.--The Chennai City Police Laws (Amendment) Act, 2024. -- Bill No. 28 of 2024.--The Tamil Nadu Land Reforms(Fixation of Ceiling on Land) (Amendment) Act, 2024. -- Bill No. 29 of 2024.--The Tamil Nadu Prohibition (Amendment) Act, 2024. -- Bill No. 30 of 2024.--The Tamil Nadu State Commission for the Scheduled Castes and Scheduled Tribes (Amendment) Act, 2024. -- Bill No. 31 of 2024.--The Tamil Nadu Appropriation (No.2) Act, 2024. -- Bill No. 32 of 2024.--The Tamil Nadu Appropriation (No.3) Act, 2024. -- Bill No. 33 of 2024.--The Tamil Nadu Appropriation (No.4) Act, 2024. -- Bill No. 34 of 2024.--The Tamil Nadu Appropriation (No.5) Act, 2024.21329-06-2024Part IV - Section 1Tamil Nadu BillsTamil Nadu Legislative Assembly Secretariat-Tamil Nadu Bills (English and Tamil)Legislative Assembly DepartmentBill No. 27 of 2024.--The Chennai City Police Laws (Amendment) Act, 2024. -- Bill No. 28 of 2024.--The Tamil Nadu Land Reforms(Fixation of Ceiling on Land) (Amendment) Act, 2024. -- Bill No. 29 of 2024.--The Tamil Nadu Prohibition (Amendment) Act, 2024. -- Bill No. 30 of 2024.--The Tamil Nadu State Commission for the Scheduled Castes and Scheduled Tribes (Amendment) Act, 2024. -- Bill No. 31 of 2024.--The Tamil Nadu Appropriation (No.2) Act, 2024. -- Bill No. 32 of 2024.--The Tamil Nadu Appropriation (No.3) Act, 2024. -- Bill No. 33 of 2024.--The Tamil Nadu Appropriation (No.4) Act, 2024. -- Bill No. 34 of 2024.--The Tamil Nadu Appropriation (No.5) Act, 2024.21229-06-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIAT--Amendments to the Tamil Nadu Legislative Assembly RulesLegislative Assembly DepartmentNotification No. SRO A-13(d)/2024.--[Letter No.4084/2024-8,TNLAS (Bills III) dated 29-06-2024.]21128-06-2024Part IV - Section 1Tamil Nadu BillsBills (English)Legislative Assembly DepartmentL.A. Bill No. 22 of 2024.--The Chennai Metropolitan Water Supply and Sewerage (Amendment) Act, 2024. -- L.A. Bill No. 23 of 2024.--The Tamil Nadu Urban Local Bodies (Amendment) Act, 2024. -- L.A. Bill No. 24 of 2024.--The Tamil Nadu Urban Local Bodies (Second Amendment) Act, 2024. -- L.A. Bill No. 25 of 2024.--The Tamil Nadu Transparency in Tenders (Second Amendment) Act, 2024. -- L.A. Bill No. 26 of 2024.--The Tamil Nadu Repealing Act, 2024.21128-06-2024Part IV - Section 1Tamil Nadu BillsBills (Tamil)Legislative Assembly DepartmentL.A. Bill No. 22 of 2024.--The Chennai Metropolitan Water Supply and Sewerage (Amendment) Act, 2024. -- L.A. Bill No. 23 of 2024.--The Tamil Nadu Urban Local Bodies (Amendment) Act, 2024. -- L.A. Bill No. 24 of 2024.--The Tamil Nadu Urban Local Bodies (Second Amendment) Act, 2024. -- L.A. Bill No. 25 of 2024.--The Tamil Nadu Transparency in Tenders (Second Amendment) Act, 2024. -- L.A. Bill No. 26 of 2024.--The Tamil Nadu Repealing Act, 2024.21028-06-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendments to the Tamil Nadu Combined Development and Building Rules, 2019Housing and Urban Development  DepartmentNotification No. SRO A-13(c)/2024.--G.O. Ms. No. 123, Housing and Urban Development [UD4(1)], 28th June 202420927-06-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (Miscellaneous)--Declaration of Wednesday the 10th July 2024 as a Public Holiday on Account of Poll for the Bye-Election to Tamil Nadu Legislative Assembly from 75. Vikravandi Assembly Constituency under the Negotiable Instrument Act.Public DepartmentNotification No. II(1)/PUMIS/11(b)/2024.--G.O. Ms. No. 449, Public (Miscellaneous), 27th June 202420927-06-2024Part V - Section 2Notification relating to list of contesting candidates from Collector and Returning Officer, other Heads of Departments, Election Tribunals etc.Bye-Election to Tamil Nadu Legislative Assembly, 2024 Election Commission of India--Form 7A-List of Contesting Candidates--75. Vikravandi Assembly ConstituencyPublic (Elections) DepartmentNotification No. SRO E-2/2024.20827-06-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme Of State Government By AuctionFinance DepartmentNotification No. II(1)/FIN/11(a)/2024.--[No.725(L)/W and M-II/2024]20727-06-2024Part III-Section 1(a)Service Rules including Ad hoc Rules, Regulations, etc., issued by Secretariat Departments.Special Rules For Tamil Nadu Tamil Development ServiceTamil Dev. and  Information DepartmentNotification No. SRO B-22(a)/2024.--G.O. Ms. No. 84, Tamil Development and Information (T.D.2.1), 7th June 202420626-06-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005--Acquisition of Lands--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001Other DepartmentsNotification No.VI(1)/446(a-1)/2024.--[LA-V2/7448232/2024]20525-06-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005--Acquisition  of Lands--Errata Notice Under Sub-Section (1) Of Section 3 Of The Tamil Nadu Acquisition Of Land For Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/438(a-1)/2024.--[LA - I (1) /6980278/2024]; Notification No.VI(1)/438(a-2)/2024.--[LA - I(1)/7445481/2024; Notification No.VI(1)/438(a-3)/2024.--(LA - I(1)/7614663/2024); Notification No.VI(1)/ 438(a-4)/2024.--(LA-IV-1/7087305/2024); Notification No.VI(1)/ 438(a-5)/2024.--(LA-IV-1/7200868/2024); Notification No.VI(1)/438(a-6)/2024.--(LA-IV-1/7649015/2024); Notification No.VI(1)/438(a-7)/2024.--(LA-V3/7295558/2024); Notification No.VI(1)/438(a-8)/2024.--(LA-V2/7485644/2024); Notification No.VI(1)/ 438(a-9)/2024.--(LA-V2/7594104/2024); Notification No.VI(1)/438(a-10)/2024.--(LA-V2/7594269/2024); Notification No.VI(1)/438(a-11)/2024.--(LA- VI(3)/7442662/2024); Notification No.VI(1)/438(a-12)/2024.--(LA-VI-(3)/7668096/2024); Notification No.VI(1)/438(a-13)/2024.--(LA-VI-(3)/7559593/2024)20425-06-2024Part IV - Section 1Tamil Nadu BillsBLUE COPYLaw DepartmentL.A Bill No. 21 of 2024 - The Tamil Nadu Appropriation Acts (Repeal) Act, 2024. (English)20425-06-2024Part IV - Section 1Tamil Nadu Bills (TAMIL)BLUE COPYLegislative Assembly DepartmentL.A Bill No. 21 of 2024 - The Tamil Nadu Appropriation Acts (Repeal) Act, 2024. (Tamil)20325-06-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Tamil Nadu Panchayats (Preparation of Plans and Estimates for Works, Supply of Goods and Services and Mode and Conditions of Contracts) Rules, 2024Rural Development and Panchayat Raj DepartmentNotification No. SRO A-13(b-1) /2024.--G.O. Ms. No. 106, Rural Development and Panchayat Raj (PR-1) , 22nd June 2024.20225-06-2024Part V - Section 4Notification by the Election Commission of IndiaTHE ELECTION COMMISSION OF INDIA--Order of Election Commission of India Regarding Identification of Electors During the Bye-Election to Tamil Nadu Legislative Assembly from 75. Vikravandi Assembly Constituency to be held on 10th July 2024.Other DepartmentsNotification No. SRO G-27/202420124-06-2024Part V - Section 4Notification by the Election Commission of IndiaTHE ELECTION COMMISSION OF INDIA--Direction by the Election Commission of India--Election Commission’s Direction Specifying that the Votes At the Current Bye-Election to Tamil Nadu Legislative Assembly from 75.Vikravandi Assembly Constituency Shall be given and Recorded by Means of Electronic Voting Machines and VVPATOther DepartmentsNotification No. SRO G-26/2024.--No.576/3/EVM/2024/SDR-Vol.-II20024-06-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005--Acquisition of Lands--Notice under Sub Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001 Read with the Tamil Nadu Land Acquisition Laws (Revival of Operation, Amendment and Validation) Act, 2019. -- Acquisition of Lands--Notification under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001 (Tamil Nadu Act 34 of 2002)Other DepartmentsNotification No.VI(1)/416 (d-1)/2024.--[Rc.No. CPRRP/CLA/15(1)/10/2024/Addl.-II]; -- Notification No.VI(1)/416(d-2)/2024.--(Rc.No. CPRRP/CLA/15(1)/08/2024)19921-06-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005.--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/416(c-1)/2024.--[LAI-1/7485891/2024]19821-06-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Appointment of Ombudsman under the Tamil Nadu Local Bodies Ombudsman Act, 2014.Municipal Administration and Water Supply  DepartmentNotification No. II(2)/MAWS/502(d)/2024.--G.O. Ms. No.83, Municipal Administration and Water Supply (Election), 21st June 2024.19720-06-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.PUBLIC DEPARTMENT (Law and Order-F)--Appointment of Commission of Inquiry to Inquire into the Causes and Circumstances Leading to the Incident of Consuming Arrack Admixed with Methanol at Karunapuram in Kallakurichi Taluk in Kallakurichi DistrictPublic DepartmentNotification No. II(2)/PULO/502(c)/2024.--G.O. Ms. No.435, Public (Law and Order-F), 20th June 202419620-06-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by Auction.Finance DepartmentNotifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.19519-06-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat DepartmentsPUBLIC DEPARTMENT (Human Rights)--Appointment of Chairperson in the State Human Rights Commission for certain Period Under the Protection of Human Rights Act, 1993Public DepartmentNotification No. II(2)/PUHR/502(b)/2024.--G.O. Ms. No.433, Public (Human Rights), 19th June 202419419-06-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat DepartmentsReappointment of Retired Judge, High Court, Madras as President, Tamil Nadu State Consumer Disputes Redressal Commission, Chennai under the Consumer Protection Act, 2019Co-operation, Food and Consumer Protection DepartmentNotification No. II(2)/CFCP/502(a)/2024.--G.O. Ms. No.80, Co-operation, Food and Consumer Protection (H1), 19th June 202419318-06-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration and the District Collectors.--Formation of Bus Depot for Tamil Nadu State Transport Corporation (Madurai) Limited, Aruppukottai Branch, Virudhunagar DistrictOther DepartmentsNotification No. VI(1)/ 416(b)/2024.--(Rc.No. D1/45220/2021)19214-06-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.JUDICIAL NOTIFICATION--Civil Judges Conferment of PowersHigh Court of MadrasNotification No.VI(1)/416(a)/2024.--(Roc. No. 36234-A/2024-B2)19114-06-2024Part V - Section 4Notification by the Election Commission of IndiaIssue of Postal Ballot to Electors Above the Age of 85 Years, Electors with Physical DisabilityPublic (Elections) DepartmentNotification No. SRO G -24/2024.--No.52/2024/SDR/Vol.II19014-06-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.HOME DEPARTMENT (Transport)--Draft Notification of New Comprehensive Mini Bus Scheme, 2024 under the Motor Vehicles Act.Other DepartmentsNotification No. II(1)HO/10(t)/2024.--G.O. Ms. No. 338, Home (Transport-I), 13th June 2024.18914-06-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.HOME DEPARTMENT (Police-XIII)--Bye-Election to Tamil Nadu Legislative Assembly from 75. Vikravandi Assembly Constituency, 2024 – Police Personnel Connected with Election Related Duties – Exercise of Supervisory/ Disciplinary Control - Designating Police Officers/ Personnel under the Election Commission of India.Home, Prohibition and Excise DepartmentNotification No. II(1)/HO/10(s)/2024.--G.O.(D) No.746, Home (Police-XIII), 12th June 202418814-06-2024Part V - Section 4Notification by the Election Commission of IndiaPublic (Elections) Department--Appointment of Dates for Various Stages of Bye-Election to Tamil Nadu Legislative Assembly from 75.Vikravandi Assembly Constituency and Fixation of Hours of Poll to Fill a Vacancy Caused by the Death of a MemberPublic (Elections) DepartmentNotification No. SRO G-23/2024.--(No. 100/TN-LA/2/2024.)18712-06-2024Part III-Section 1(a)General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.NATURAL RESOURCES DEPARTMENT--Amendments to the Tamil Nadu Minor Mineral Concession Rules, 1959Natural Resources DepartmentNotification No. SRO A-13(a)/2024.--G.O. Ms. No. 14, Natural Resources (MMC.1), 12th June 2024.18610-06-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.HOME, PROHIBITION AND EXCISE DEPARTMENT--Amendment to the Notification under the Tamil Nadu Prohibition Act, 1937Home, Prohibition and Excise DepartmentNotification No. II(1)/HOPE/10(R)/2024.--G.O.Ms. No.26, Home, Prohibition and Excise (III-2), 10th June 202418506-06-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005--Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/396(b-1)/2024.--[LA.I(1)/7445779/2024]18406-06-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/10(q)/2024.--[No.723(L)/W and M-II/2024]18305-06-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005--Acquisition of Lands--Notice under Sub-Section (1) of Section (15) of the Tamil Nadu Highways Act, 2001.Other DepartmentsNotification No.VI(1)/396(a-1)/2024; Notification No.VI(1)/396(a-2)/2024.--(LA-VI(3)/7403569/2024); Notification No.Vi(1)/396(a-3)/2024.--[LA-VI(3)/7405529/2024]; Notification No.VI(1)/396(a-4)/2024.--[LA-VI(1)/7508805/2024]; Notification No.Vi(1)/396(a-5)/2024.--[LA-VI(1)/7468974/2024];18205-06-2024Part V - Section 1Notifications by Government, Public (Elections) Department.Public (Elections) Department--Declaration Of Result Of Bye-Election To Tamil Nadu Legislative Assembly From 233. Vilavancode Assembly Constituency, 2024Public (Elections) DepartmentNotification No. SRO D-2/2024.18104-06-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005--Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997.Other DepartmentsNotification No.VI(1)/389(c-2)/2024.--(LAI-1/7492993/2024); Notification No.VI(1)/389(c-3)/2024.--(LA-IV-1/7200865/2024); Notification No.VI(1)/389(c-4)/2024.--(LA-IV-1/7433242/2024)18004-06-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005.--Acquisition of Lands--Form of Notice under Sub-Section(1) of Section 3 of the Tamil Nadu Acquisition of Lands for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/389(b-1)/2024.--(CLA-SIP/2024/57/01/01/0001); Notification No.VI(1)/389(b-2)/2024.--(CLA-SIP/2024/57/01/02/0001); Notification No.VI(1)/389(b-3)/2024.--(CLA-SIP/2024/57/01/03/0001); Notification No.VI(1)/389(b-4)/2024. --(CLA-SIP/2024/57/01/04/0001); Notification No.VI(1)/389(b-5)/2024.--(CLA-SIP/2024/57/01/05/0001); Notification No.VI(1)/389(b-6)/2024.--(CLA-SIP/2024/57/01/06/0001); Notification No.VI(1)/389(b-7)/2024.--(CLA-SIP/2024/57/01/08/0001); Notification No.VI(1)/389(b-8)/2024.--(CLA-SIP/2024/57/01/09/0001); Notification No.VI(1)/389(b-9)/2024.--(CLA-SIP/2024/57/01/10/0001); Notification No.VI(1)/389(b-10)/2024.--(CLA-SIP/2024/57/01/12/0001); Notification No.VI(1)/389(b-11)/2024.--(CLA-SIP/2024/57/02/01/0001); Notification No.VI(1)/389(b-12)/2024.--(CLA-SIP/2024/57/02/02/0001); Notification No.VI(1)/389(b-13)/2024.--(CLA-SIP/2024/57/02/03/0001); Notification No.VI(1)/389(b-14)/2024.--(CLA-SIP/2024/57/02/04/0001); Notification No.VI(1)/389(b-15)/2024.--(CLA-SIP/2024/57/02/06/0001); Notification No.VI(1)/389(b-16)/2024.--(CLA-SIP/2024/57/02/07/0001); Notification No.VI(1)/389(b-17)/2024.--(CLA-SIP/2024/57/02/08/0001); Notification No.VI(1)/389(b-18)/2024.--(CLA-SIP/2024/57/02/010/0001); Notification No.VI(1)/389(b-19)/2024.--(CLA-SIP/2024/57/02/011/0001); Notification No.VI(1)/389(b-20)/2024.--(CLA-NLC/2024/08/05/48/0001); Notification No.VI(1)/389(b-21)/2024.--(CLA-NLC/2024/09/20/66/0001); Notification No.VI(1)/389(b-22)/2024.--(CLA-NLC/2024/13/03/95/0001); Notification No.VI(1)/389(b-23)/2024.--(CLA-NLC/2024/13/03/102/0001); Notification No.VI(1)/389(b-24)/2024.--(CLA-NLC/2024/20/01/47/0001); Notification No.VI(1)/389(b-25)/2024.--(CLA-NLC/2024/24/01/40/0001)17931-05-2024Part III - Section 1(b)Service Rules including Ad hoc Rules, Regulations, etc., issued by Secretariat Departments.HOME DEPARTMENT (Courts-I)--Amendments To The Tamil Nadu State Judicial Service (Cadre And Recruitment) Rules, 2007Home, Prohibition and Excise DepartmentNotification No. SRO B-20(a)/2024.--G.O. Ms. No. 319, Home (Courts-I), 31st May 2024.17831-05-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Revision of Minimum Rates of Wages for the Employment in Tailoring Industry under the Minimum Wages ActLabour and Employment DepartmentNotification No. II(2)/LWSD/449(a)/2024.--G.O. (2D.) No. 29, Labour Welfare and Skill Development (J1),31st May 2024.17731-05-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme Of State Government By AuctionFinance DepartmentNotification No. II(1)/FIN/10(p-1)/2024.--[No.721(L)/W and M-II/2024];  Notification No. II(1)/FIN/10(p-2)/2024.-[No.722(L)/W and M-II/2024]17630-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner Of Land Administration Chepauk, Chennai-600 005.--Acquisition Of Lands--Form - C--Notice Under Section 3(1) Of Taml Nadu Acquisition Of Land For Industrial Purposes Act. 1997.Other DepartmentsNotification No.VI(1)/389(B)/2024.--(LA.IV-1/7089453/2024)17529-05-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Notification of Mandating the use of Aadhaar to Identify Beneficiary of Schemes Implemented by Government DepartmentHandlooms, Handicrafts, Textiles and Khadi DepartmentNotification No. II(1)/HHTK/10(o)/2024.--G.O.Ms. No.68, Handlooms, Handicrafts, Textiles and Khadi (G2), 29th May 202417429-05-2024Part IV - Section 2Tamil Nadu Acts and OrdinancesActs (English)Law DepartmentAct No. 20 of 2024 - The Tamil Nadu Development Action Plan for the Scheduled Castes and the Scheduled Tribes Act, 202417329-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005--Acquisition of Lands--Notification under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001. (Tamil Nadu Act 34 of 2002)Other DepartmentsNotification No.VI(1)/389(a)/2024.--(Rc.No.CPRRP-CLA/15(1)/09/2024)17224-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005--Notice Under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997 -- Notice Under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001.Other DepartmentsNotification No.VI(1)/372(d-1)/2024.--(Roc.No.LA-I(1)/7403746/2024); Notification No.VI(1)/372(d-2)/2024.--(LA-IV-I/6915680/2024); Notification No.VI(1)/372(d-3)/2024.--(LA-IV-I/7200873/2024); Notification  No.VI(1)/372(d-4)/2024.--(LA-VI/6881456/2024) -- Notification No.VI(1)/372(d-5)/2024.--(LA-V3/7162798/2024); Notification No.VI(1)/372(d-6)/2024.--(LA-VI(1)/7411349/2024); Notification No.VI(1)/373(d-7)/2024.--(LA-VI(1)/7154682/2024); Notification No.VI(1)/372(d-8)/2024.--(LA-VI(2)/6943539/2024); Notification No.VI(1)/372(d-9)/2024.--(LA- VI(3)/7200371 /2024); Notification No.VI(1)/372(d-10)/2024.--(LA- VI(3)/7301434/2024);17124-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.The Commissioner of Land Administration Chepauk, Chennai-600 005--Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997--Acquisition of Lands--Notice under Subsection (1) of Section 15 of the Tamil Nadu Highways Act, 2001.Other DepartmentsNotification  No.VI(1)/372(c-1)/2024.--(LAI-1/7040022/2024); Notification No.VI(1)/372(c-2)/2024.--(LAI-1/7040067/2024); Notification No.VI(1)/372(c-3) /2024.--(LAI-1/7055466/2024); Notification No.VI(1)/372(C-4)/2024; Notification No.VI(1)/372(c-5)/2024.--(LAI-1/7356141/2024); Notification No.VI(1)/372(c-6)/2024.--(LA-IV-1/7295220/2024); Notification No.VI(1)/312(c-7) /2024.--(LA-IV-1/7295282/2024); Notification No.VI(1)/372(c-9)/2024.--(LA-IV-1/7295508/2024); Notification No.VI(1)/372(c-10)/2024.--(LA-V-1/7000861/2024); Notification No.VI(1)/372(c-11)/2024.--(LA-V1/7001711/2024); Notification No.VI(1)/372(c-12)/2024.--(LA-V2/6792647/2024)17023-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Notice under Sub Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001 Read with the Tamil Nadu Land Acquisition Laws (Revival of Operation, Amendment and Validation) Act, 2019.Other DepartmentsNotification No.VI(1)/372(a)/2024.--(Rc. No. CPRRP/CLA/15(1)/07/2024)16923-05-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/10(n-1)/2024.--[No.718(L)/W and M-II/2024]16923-05-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/10(n-2)/2024.--[No.719(L)/W and M-II/2024]; Notification No. II(1)/FIN/10(n-3)/2024.--[No.720(L)/W and M-II/2024]16823-05-2024Part V - Section 4Notification by the Election Commission of India.Notification of Election Commission of India Regarding Appointment of Additional Assistant Returning Officers for the Parliamentary Constituencies in the State of Tamil NaduPublic (Elections) DepartmentNotification No. 434/TN-HP/2023 (2).--No. SRO G-22/2024.16723-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF FOOD SAFETY AND DRUG ADMINISTRATION, TAMIL NADU--Ban of Manufacture, Storage, Transport, Distribution, or Sale of Chewable Food Products, Gutkha, Panmasala, Containing Tobacco and Nicotine as “Ingredients” in the State of Tamil NaduOther DepartmentsNotification No.VI(1)/372(a)/2024.--(No. 1418/2013/S9/FSD)16623-05-2024Part V - Section 4Notification by the Election Commission of India.Notification of Election Commission of India Regarding Appointment of Additional Assistant Returning Officers for the Assembly Constitutency in the State of Tamil Nadu.Public (Elections) DepartmentNotification No. SRO G-21/2024.--No. 434/TN/2021(4)16521-05-20246.Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005--Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/366(c-6)/2024.--(LA-IV-1/7295331/2024); Notification No.VI(1)/366(c-7)/2024.--(LA-IV-1/7295446/2024)16521-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005--Acquisition of Lands--Errata Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/366(c-4)/2024.---(LAII-1/6793152/2024)16521-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005--Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/366(c-2)/2024.--(LAI-I(3)/6980229/2024); Notification No.VI(1)/366(c-3)/2024.--(LAI-1/6731245/2024)16521-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005--Acquisition of Lands--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/366(c-5)/2024.--(LA-IV-1/7200871/2024)16521-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005--Acquisition of Lands--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001Other DepartmentsNotification No.VI(1)/366(c-8)/2024.--(LA-V2/6249393/2023); Notification No.VI(1)/366(c-9)/2024.--(LA-V2/6982198/2024); Notification No.VI(1)/366(c-10)/2024.--(LA-V3/6320578/2023)16521-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005--Acquisition of Lands--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001.Other DepartmentsNotification No.VI(1)/366(c-1)/2024.--(LA-VI(3)/7038187/2024)16420-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--Acquisition of Lands--Errata Notice under Sub-Section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/366(b-1)/2024.--(LA-I(1)/7341529/2024)16318-05-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Declaration of Ban on Liberation Tigers of Tamil Eelam (LTTE) as an Unlawful Association under the Unlawful Activities (Prevention) Act, 1967. (TAMIL)Public DepartmentNotification No. II(1)/PUSC/10(m-2)/2024.--[G.O.Ms.No. 375, Public (SC), 18th May 2024.]16318-05-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (SC)--Declaration of Ban on Liberation Tigers of Tamil Eelam (LTTE) as an Unlawful Association under the Unlawful Activities (Prevention) Act, 1967. (English)Public DepartmentNotification No. II(1)/PUSC/10(m-1)/2024.--[G.O.Ms.No. 375, Public (SC), 18th May 2024.]16217-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005--Acquisition of LandsOther DepartmentsNotification No.VI(1)/366(a-1)/2024.--(File No. CLA-NLC/2024/13/05/107/0001)16217-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005--Acquisition of Lands--Errata Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997Other DepartmentsNotification No.VI(1)/366(a-2)/2024.--(LA-II(3)/7037444/2024)16109-05-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER of LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.--ACQUISITION of LANDS--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001.Other DepartmentsNotification No.VI(1)/346(a-1)/2024.--(LA-V2/6863395/2024)16003-05-2024Part IV - Section 2Tamil Nadu Acts and OrdinancesActs (English)Law DepartmentAct No. 13 of 2024.—The Indian Stamp (Tamil Nadu Amendment) Act, 2023. -- Act No. 14 of 2024.—The Tamil Nadu Panchayats (Amendment) Act, 2024. -- Act No. 15 of 2024.—The Tamil Nadu Puratchi Thalaivi Dr. J Jayalalithaa Memorial Foundation (Repeal) Act, 2024-- Act No. 16 of 2024.—The Tamil Nadu Panchayats (Second Amendment) Act, 2024. -- Act No. 17 of 2024.—The Tamil Nadu Panchayats (Fourth Amendment) Act, 2024. -- Act No. 18 of 2024.—The Tamil Nadu Panchayats (Fifth Amendment) Act, 2024. -- Act No. 19 of 2024.—The Tamil Nadu Hindu Religious and Charitable Endowments (Amendment) Act, 2024.15902-05-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/10(l)/2024.--[No.717(L)/W M-II/2024]15826-04-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.HOME DEPARTMENT (Courts-III)--Appointment of Vacation Civil Judges for the Summer Vacation, 2024 under the Tamil Nadu Civil Courts Act, 1873.Home, Prohibition and Excise DepartmentNotification No. II(2)/HO/333(b)/2024.--G.O. (Rt.) No. 307, Home (Courts-III), 26th April 202415725-04-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/10(k)/2024.--[No.716(L)/WM-II/2024]15624-04-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.WATER RESOURCES DEPARTMENT - Acquisition of LandsWater Resources DepartmentNotification No. II(2)/WR/333(a-1)/2024.--G.O. Ms. No. 57, Water Resources (N2) Department, 24th April 2024.; Notification No. II(2)/WR/333(a-2)/2024.; Notification No. II(2)/WR/333(a-3)/2024.15523-04-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (SC) - Declaration of the Jammu and Kashmir Liberation Front (Mohd. Yasin Malik Faction) (Jklf-Y) as an “Unlawful Association” under the Unlawful Activities (Prevention) Act, 1967.Public DepartmentNotification No. II(1)/PUSC/10(j)/2024.--G.O.No.SS.I/194-1/2024, Public (SC), 23rd April 202415423-04-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (SC) - Declaration of the Four Factions of Jammu and Kashmir Peoples League (JKPL) Namely JKPL (Mukhtar Ahmed Waza), JKPL (Bashir Ahmad Tota), JKPL (Ghulam Mohammad Khan alias Sopori)Public DepartmentNotification No. II(1)/PUSC/10(i)/2024.--G.O.No.SS.I/193-1/2024, Public (SC), 23rd April 202415323-04-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (SC) - Declaration of the Jammu and Kashmir Peoples Freedom League (JKPFL) as an “Unlawful Association” under the Unlawful Activities (Prevention) Act, 1967Public DepartmentNotification No. II(1)/PUSC/10(h)/2024.--G.O.No.SS.I/192-1/2024, Public (SC), 23rd April 202415223-04-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (SC) - Declaration of the Jammu Kashmir National Front (Jknf) as an “Unlawful Association” under the Unlawful Activities (Prevention) Act, 1967Public DepartmentNotification No. II(1)/PUSC/10(g)/2024.--G.O.No.SS.I/191-1/2024, Public (SC), 23rd April 202415118-04-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.FINANCE DEPARTMENT.--Market Borrowing Programme of State Government by AuctionFinance DepartmentNotification No. II(1)/FIN/10(f-1)/2024. [No.714(L)/W M-II/2024]; Notification No. II(1)/FIN10(f-2)/2024.---[No.715(L)/W M-II/2024]15016-04-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.COMMERCIAL TAXES AND REGISTRATION DEPARTMENT - Notification under the Tamil Nadu Goods and Services Tax Act, 2017 - Amendment to NotificationCommercial Taxes and Registration DepartmentNotification No. II(2)/CTR/312(a)/2024.--G.O.Ms.No.67, Commercial Taxes and Registration (B1), 16th April 202414908-04-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat DepartmentsRegional Senior Manager of Sports Development Authority of Tamil Nadu to Act as Estate Officers at Chennai, Tiruvannamalai, Madurai, Tirunelveli, Trichy and Coimbatore Regions under the Tamil NaduYouth Welfare and Sports Development DepartmentNotification No. II(2)/YWSD/302(c)/2024. - G.O.Ms.No.19, Youth Welfare and Sports Development (S1), 8th April 202414808-04-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Demise of Honourable Thiru N. Pugazhenthi, Member of the Tamil Nadu Legislative Assembly - Vacation of Seat in Tamil Nadu Legislative AssemblyTamil Nadu Legislative Assembly SecretatiatNotification No. II(1)/LAS/10(e-2)/2024.--Letter No. 3044/2024-1, Tamil Nadu Legislative Assembly Secretariat, (B-III), dated 8th April 2024.14706-04-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Expansion of Chennai Revenue District - Change of Jurisdiction of Taluks in Chennai District (Chennai City Metropolitan Area) - Appointment of Executive Magistrates and Additional District Magistrate under the Code of Criminal Procedure--Amendment to NotificationHome Department (Courts-Via)Notification No. II(2)/HO/302(b-1)/2024.--G.O.Ms.No.254, Home (Cts-VIA), 6th April 2024; Notification No. II(2)/HO/302(b-2)/2024.14605-04-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.RURAL DEVELOPMENT and PANCHAYAT RAJ DEPARTMENT--Disqualification of 7th Ward Member, Ramanathapuram Panchayat Union, Ramanathapuram District under the Tamil Nadu Panchayats Act, 1994.--Erratum to NotificationRural Development and Panchayat Raj DepartmentNotification No. II(2)/RDPR/302(a)/2024. (Letter No. 7016554/PR.4(2)/2024-1, Rural Development and Panchayat Raj Department, 05.04.2024)14504-04-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (SC)--Declaration of the Muslim Conference Jammu and Kashmir (Bhat Faction) (Mcjk-B) as An “Unlawful Association” under the Unlawful Activities (Prevention) Act, 1967Public DepartmentNotification No. II(1)/PUSC/10(d)/2024.--G.O.No.SS.I/122-1/2024, Public (SC), 4th April 202414404-04-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (SC)--Declaration of the Jamaat-E-Islami, Jammu and Kashmir (Jei) as An “Unlawful Association” under the Unlawful Activities (Prevention) Act, 1967.Public DepartmentNotification No. II(1)/PUSC/10(c)/2024.--G.O.No.SS.I/121-1/2024, Public (SC), 4th April 202414304-04-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.PUBLIC DEPARTMENT (SC) - Declaration of the Muslim Conference Jammu and Kashmir (Sumji Faction) (MCJK-S) as An Unlawful Association under the Unlawful Activities (Prevention) Act, 1967.Public DepartmentNotification No. II(1)/PUSC/10(b)/2024.--G.O.No.SS.I/115-1/2024, Public (SC), 4th April 202414204-04-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.19th April 2024 as a Public Holiday on Account of Poll for General Elections to Lok Sabha, Bye-Election to 233. Assembly Constituencies of Tamil Nadu Legislative Assembly-2024 under the Negotiable Instruments Act, 1881.PUBLIC DEPARTMENT (Miscellaneous)Notification No. II(1)/PUMIC/10(a)/2024.--G.O.Ms.No.254, Public (Miscellaneous), 4th Apirl 2024.14103-04-2024Part V--Section 4Notification by the Election Commission of India.Election Symbols (Reservation & Allotment) Order, 1968--List of Free SymbolsElection Commission of India.Notification No. SRO G-20/2024.--No.56/25/2024/PPS-II (FS)14003-04-2024Part V--Section 4Notification by the Election Commission of India.Election Symbols (Reservation & Allotment) Order, 1968--State PartiesElection Commission of India.Notification No. SRO G-19/2024.--No.56/25/2024/PPS-II (SP)13903-04-2024Part V--Section 4Notification by the Election Commission of India.Election Symbols (Reservation & Allotment) Order, 1968Election Commission of India.National Parties--Notification No. SRO G-18/2024.--No.56/25/2024/PPS-II (NP)13802-04-2024Part V--Section 4Notification by the Election Commission of India.Election Commissions Notification Regarding Exit Poll At The General Elections of Lok Sabha, 2024 And Bye-Election To Tamil Nadu Legislative Assembly From 233. Vilavancode Assembly ConstituencyElection Commission of India.Notification No. SRO G-17/2024.--No.576/EXIT/2024/SDR/Vol.I13731-03-2024Part V--Section 2Notification relating to list of contesting candidates from Collector and Returning Officer, other Heads of Departments, Election Tribunals etc.List Of Contesting Candidates--Bye-Election to the Tamil Nadu Legislative Assembly 2024, from the 233. Vilavancode ConstituencyElection Commission of India.Notification No. SRO E-1/2024.13628-03-2024Part V--Section 4Notification by the Election Commission of India.Registered Unrecognised PartiesElection Commission of India.Notification No. SRO G-16/2024.--No.56/2024/PPS-III13528-03-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme Of State Government By AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/8(b)/2024.13426-03-2024Part V--Section 4Notification by the Election Commission of India.List of Free SymbolsElection Commission of India.Notification No. SRO G-15/2024.--No.56/25/2024/PPS-II (FS)13326-03-2024Part V--Section 4Notification by the Election Commission of India.Election Symbols (Reservation & Allotment) Order, 1968Election Commission of India.Notification No. SRO G-14/2024.--No.56/25/2024/PPS-II (SP)13226-03-2024Part V--Section 4Notification by the Election Commission of India.Election Symbols (Reservation & Allotment) Order, 1968Election Commission of India.Notification No. SRO G-13/2024.--No.56/25/2024/PPS-II (NP)13125-03-2024Part INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.Ministers - Allocation Of Subjects Among Ministers - Orders - Issued.PUBLIC DEPARTMENT (Special-B)Notification No. I/PUSP/99(b)/2024.--G.O.Ms.No. 235, Public (Special-B), 22nd March 202413025-03-2024Part  INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.Appointment Of Minister For The State Of Tamil NaduPUBLIC DEPARTMENT (Special-B)Notification No. I/PUSP/9(a)/2024.--G.O.Ms.No. 234, Public (Special-B), 22nd March 202412923-03-2024Part V-Section 4Notification by the Election Commission of IndiaOrder of the Election Commission of India Regarding Identification of Electors During the General Elections to Lok Sabha, 2024 and Bye-Election to Tamil Nadu Legislative Assembly from 233.Vilavancode Assembly Constituency to be Held on 19th April 2024.ELECTION COMMISSION OF INDIANotification No. SRO G-12/2024.12823-03-2024Part V-Section 4Notifications by the Election Commission of IndiaElection Commission’s Direction Specifying that the Votes At the Current General Elections to Lok Sabha, 2024 and Bye-Election to Tamil Nadu Legislative Assembly from 233. Vilavancode Assembly Constituency Shall be given and Recorded by Means of Electronic Voting Machines and VVPATELECTION COMMISSION OF INDIANotification No. SRO G-11/2024.--No.576/3/EVM/2024/SDR-Vol.-I12720-03-2024Part V--Section 4Notification by the Election Commission of India.Issue of Postal Ballot for Absentee Voters in the Category of Persons Employed in Essentials Services.ELECTION COMMISSION OF INDIANotification No. SRO G-10/2024.--No.52/2024/SDR/Vol-I12620-03-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/8(a-1)/2024.--[No.711(L)/W&M-II/2024]; Notification No. II(1)/FIN/8(a-2)/2024.--[No.712(L)/W&M-II/2024]12520-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.General Elections to Lok Sabha, 2024 and Bye-Election to Tamil Nadu Legislative Assembly from 233.--Vilavancode Assembly Constituency Disciplinary Control under the Election Commission of India.Home Department (Police-XIII)Notification No. II(2)/HO/241(a)/2024.--G.O. Ms. No. 248, Home (Police-XIII), 19th March 202412420-03-2024Part V--Section 4Notification by the Election Commission of IndiaAppointment of Dates for various Stages of Bye-Election to TNLA  From 233--Vilavancode Assembly Constituency and Fixation of Hours of Poll to fill a Vacancy caused by the Resignation of a Member.ELECTION COMMISSION OF INDIANotification No. SRO G-9/2024.--No. 100/TN-LA/1/202412320-03-2024Part V--Section 4Notification by the Election Commission of IndiaAppointment of Dates for Various Stages of Elections and Fixation of Hours of Poll For All the Parliamentary Constituencies In the State of Tamil Nadu.ELECTION COMMISSION OF INDIANotification No. SRO G-8/2024.--No. 464/EPS/2024(1)12220-03-2024Part V--Section 4Notification by the Election Commission of India.Notification calling upon all Parliamentary Constituencies in the State of Tamil Nadu to Elect Members.PUBLIC (ELECTIONS) DEPARTMENTNotification No. SRO D-1/2024.--12118-03-2024Part V--Section 4Notification by the Election Commission of India.Issue of Postal Ballot to Covid-19 Suspect or affected personsELECTION COMMISSION OF INDIANotification No. SRO G-6/2024.--No.52/2024/SDR/Vol-II12118-03-2024Part V--Section 4Notification by the Election Commission of India.Issue of Postal Ballot to Electors Above the Age of 85 Years, Electors with Physical DisabilityELECTION COMMISSION OF INDIANotification No. SRO G-7/2024.--No.52/2024/SDR/Vol-II12018-03-2024Part V--Section 4Notification by the Election Commission of India.Order of the Election Commission of India --Disqualification of Candidate Contested From 160–Sirkazhi (Sc) Assembly Constituency in the General Election to Legislative Assembly of Tamil Nadu, 2021 for Failure to Lodge the Accounts of Election Expenses.ELECTION COMMISSION OF INDIANotification No. SRO G-5/2024.--No.76/TN-LA/160/2021/CEMS-II11916-03-2024Part III--Section 1AGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendments to the Tamil Nadu Urban Local Bodies Rules, 2023MUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENTNotification No. SRO A- 8(c)/2024.--G.O. Ms. No. 62, Municipal Administration and Water Supply (MC.2), 16th March 202411816-03-2024Part III--Section 1AGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat DepartmentsAmendments to the Tamil Nadu Urban Local Bodies Rules, 2023MUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENTNotification No. SRO A-8(b)/2024.--G.O. Ms. No. 60, Municipal Administration and Water Supply (Elec.), 16th March 202411716-03-2024Part III--Section 1AGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendment to the Tamil Nadu Regularisation of unapproved Layouts and Plots Rules, 2017HOUSING AND URBAN DEVELOPMENT DEPARTMENTNotification No. SRO A-8(a)/2024.--G.O. Ms. No. 94, Housing and Urban Development [UD4(1)], 16th March 202411616-03-2024Part V--Section 4Notification by the Election Commission of India.ELECTION SYMBOLS (RESERVATION & ALLOTMENT) ORDER, 1968ELECTION COMMISSION OF INDIANotification No. SRO G-4/2024.--No. 56/24/2024/PPS-II11515-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.NotificationsMUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENTNotification No. II(2)/MAWS/185(e-1)/2024.--G.O. Ms. No. 55, Municipal Administratiion and Water Supply (Elections) Department, 15 March 202411515-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.NotificationsMUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENTNotification No. II(2)/MAWS/185(e-2)/2024.--G.O. Ms. No. 56, Municipal Administratiion and Water Supply (Elections) Department, 15 March 202411515-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.NotificationsMUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENTNotification No. II(2)/MAWS/185(e-3)/2024.--G.O. Ms. No. 57, Municipal Administratiion and Water Supply (Elections) Department, 15 March 202411515-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.NotificationsMUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENTNotification No. II(2)/MAWS/185(e-4)/2024.--G.O. Ms. No. 58, Municipal Administratiion and Water Supply (Elections) Department, 15 March 202411415-03-2024Part V--Section 4Notification by the Election Commission of India.Amendment to the List of Returning Officer for the Assembly Constituency in the State of Tamil Nadu.ELECTION COMMISSION OF INDIANotification No. SRO G-3/2024.--No. 434/TN/2021 (3).--11315-03-2024Part III--Section 1BService Rules including Ad hoc Rules, Regulations, etc., issued by Secretariat Departments.Ad-hoc Rules Relating to the Temporary Post of Deputy Director and Assistant Director under the Welfare of Differently Abled Persons DepartmentWELFARE OF DIFFERENTLY ABLED PERSONS DEPARTMENTNotification No. SRO B-13(b)/2024.--G.O. Ms. No. 02, Welfare of Differently Abled Persons (DAP-1.1), 15th March 202411215-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Inclusion of The Name of St. Joseph University in the Schedule to the Tamil Nadu Private Universities Act, 2019 (Tamil Nadu Act 14 of 2019)HIGHER EDUCATION DEPARTMENTNotification No. II(2)/HE/185(d)/2024.--G.O. Ms. No. 70, Higher Education (K2), 15th March 202411115-03-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition Of Lands--Form-C--Notice Under Sub-Section (1) Of Section 15 Of The Tamil Nadu Highways Act, 2001.THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.Notification No.VI(1)/220(a-1)//2024.--(LA-VI(3)/6782083/2024)11014-03-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme Of State Government By AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/7(c-1)/2024.[No.708(L)/W&M-II/2024]10914-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Disqualification of 3rd Ward Member, Mukkulam Sathanur Village Panchayat, Needamangalam Panchayat Union, Tiruvarur District under Tamil Nadu Panchayats Act, 1994RURAL DEVELOPMENT AND PANCHAYAT RAJ DEPARTMENTNotification No. II(2)/RDPR/185(c)/2024.--G.O. Ms. No. 62, Rural Development and Panchayat Raj (PR-4), 14th March 202410814-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Disqualification of 7th Ward Member, Ramanathapuram Panchayat Union, Ramanathapuram District under the Tamil Nadu Panchayats Act, 1994RURAL DEVELOPMENT AND PANCHAYAT RAJ DEPARTMENTNotification No. II(2)/RDPR/185(b)/2024.--G.O. Ms. No. 61, Rural Development and Panchayat Raj (PR-4), 14th March 202410714-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Superintending Engineer Promoted as Chief Engineer and Appointment as Engineering Director of the Tamil Nadu Water Supply and Drainage Board.MUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENTNotification No. II(2)/MAWS/185(a)/2024.--G.O. Ms. No. 51, Municipal Administration and Water Supply (WS2), 14th March 2024.10614-03-2024Part III--Section 1AGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat DepartmentsAmendments to the Tamil Nadu Liquor  (Licence and permit) Rules 1981.HOME, PROHIBITION AND EXCISE DEPARTMENTNotification No. SRO A- 8(a)/2024.--G.O. Ms. No. 13, Home, Prohibition and Excise (VIII), 14th March 202410513-03-2024Part II - Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Disaster Management – Deficit Rainfall During Northeast Monsoon 2023 – Declaration of 22 Districts in the State of Tamil Nadu as Affected by Hydrological Drought - Orders – Issued.Revenue and Disaster Management DepartmentNotification No. II(1)/REVDM/7(b) /2024.--G.O. Ms. No. 111, Revenue and Disaster Management Department, Disaster Management Wing, D.M. III(1) Section, 13th March 202410413-03-2024Part III--Section 1BService Rules including Ad hoc Rules, Regulations, etc.,issued by Secretariat Departments.Amendments to the Special Rules for the Tamil Nadu General ServiceLAW DEPARTMENTNotification No. SRO B-13(a)/2024.--G.O. Ms. No. 343, Law (OP-III), 13th March 2024.10313-03-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Tamil Nadu Legislative Assembly - Notification Regarding Disqualification under Article 191(1)(E) oF the Constitution of India Read with Section 8(3) Of the Representation of the People Act, 1951 - Cease to Operate.TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATNotification No. II(1)/LAS/7(a)/2024.--[Letter No. 15/2024-9, Tamil Nadu Legislative Assembly Secretariat (Bills-III), 13th March 2024, Maasi 30, Sobakiruthu, Thiruvalluvar Aandu-2055]10212-03-2024Part VI--Section 2Notifications or Orders of interest to a section of the public  issued by Heads of Departments, Etc.Removal of Panchayat Union President, Chethupattu Panchayat, Cheyyar Division-Thiruvannamalai DistrictCollector, ThanjavurNotification No.VI(2)/6(a)/2024.--(Roc. No. A3/1454/2023)10111-03-2024Part III--Section 1AGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendments ti the Tamil Nadu Combained Development and Building Rules, 2019.HOUSING AND URBAN DEVELOPMENT DEPARTMENTNotification No. SRO A-5(d)/2024.--G.O. Ms. No. 70, Housing and Urban Development [UD4(1)], 11th March 202410011-03-2024Part III--Section 1AGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendments to the Tamil Nadu Combined Development and Building Rules, 2019HOUSING AND URBAN DEVELOPMENT DEPARTMENTNotification No. SRO A- 5(c)/2024.--G.O. Ms. No. 69, Housing and Urban Development [UD4(1)], 11th March 2024.9911-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Appointment of Certain Official as the Tamil Nadu State Election Commissioner for certain period under the Tamil Nadu Panchayats ActRURAL DEVELOPMENT AND PANCHAYAT RAJ DEPARTMENTNotification No. II(2)/RDPR/160(b)/2024.--G.O. Ms. No. 51, Rural Development and Panchayat Raj (PR-1),11th March 2024.9809-03-2024Part VI--Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Elections - Ordinary Elections to Urban Local Bodies - February 2022 - Coimbatore District - Contested Candidates - Failed to Lodge Accounts of Election ExpensesTAMIL NADU STATE ELECTION COMMISSION, CHENNAI-106Notification No.VI(2)/5(a-1)/2024.--(S.O. No. 2/2024/TNSEC/ME -2, dated the 24th January 2024);  Notification No.VI(2)/5(a-2)/2024; Notification No.VI(2)/5(a-3)/2024; Notification No.VI(2)/5(a-4)/2024;9809-03-2024Part VI--Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Elections - Ordinary Elections to Urban Local Bodies - February 2022 - Namakkal District - Contested Candidates - Failed to Lodge Accounts of Election Expenses - Show Cause Notices Issued - Failed to Submit Explanation and Accounts - Disqualification - OrderedTAMIL NADU STATE ELECTION COMMISSION, CHENNAI-106Notification No.VI(2)/5(a-2)/2024.--(S.O. No. 3/2024/TNSEC/ME -2, dated the 24th January 2024)9809-03-2024Part VI--Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Elections - Ordinary Elections to Urban Local Bodies - February 2022 - Thoothukudi District - Contested Candidates - Failed to Lodge Accounts of Election Expenses - Show Cause Notices Issued - Failed to Submit Explanation and Accounts - Disqualification - OrderedTAMIL NADU STATE ELECTION COMMISSION, CHENNAI-106Notification No.VI(2)/5(a-3)/2024.--(S.O. No. 4/2024/TNSEC/ME -2, dated the 24th January 2024)9809-03-2024Part VI--Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Elections - Ordinary Elections to Urban Local Bodies - February 2022 - Virudhunagar District - Contested Candidates - Failed to Lodge Accounts of Election Expenses - Show Cause Notices Issued - Failed to Submit Explanation and Accounts - Disqualification Ordered.]TAMIL NADU STATE ELECTION COMMISSION, CHENNAI-106Notification No.VI(2)/5(a-4)/2024.--9707-03-2024Part IV--Section 2Tamil Nadu Acts and OrdinancesActs (English).TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATAct No. 10 of 2024.--The Tamil Nadu Universities Laws (Second Amendment) Act, 2022.9707-03-2024Part IV--Section 2Tamil Nadu Acts and OrdinancesActs (English).TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATAct No. 11 of 2024.--The Tamil Nadu Highways (Amendment) Act, 2024.9707-03-2024Part IV--Section 2Tamil Nadu Acts and OrdinancesActs (English).TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATAct No. 12 of 2024.--Tamil Nadu State Highways Authority Act, 2024.9607-03-2024Part V--Section 4Notifications by the Election Commission of India.Judgement Of The High Court Of Madras In Election--Petition No. 10 OF 2021Election Commission of India.Notification No. SRO G-2 /2024.--No.82/TN/ (EP 10 of 2021)/2024:9507-03-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/6(b-1)/2024.--[No.706(L)/W&M-II/2024]; Notification No. II(1)/FIN/6(b-2)/2024.--[No.707(L)/W&M-II/2024]9407-03-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.ACQUISITION OF LANDS--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001.THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No.VI(1)/208(b)/2024.--(LA-VI(1)/6793075/2024)9306-03-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005--Cauvery-Vaigai - Gundar Interlinking Flood Carrier Canal Project, Tiruchirappalli District--Acquisition of Lands--Rehabilitation and Resettlement Administrator Notification.Other DepartmentsNotification No. VI(1)/208(a) /2024.--[G.O Ms. No.102, Public Works (N2) Department Dated 27.04.2020 and G.O.Ms.No.305, Public Works (N2) Department, dated 11.12.2020] (Rc.No. A2/3585/2020)9106-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Date of Commencement of the Tamil Nadu Apartment Ownership Act, 2022.HOUSING AND URBAN DEVELOPMENT DEPARTMENTNotification No. II(2)/HOU/160(a)/2024.--G.O. Ms. No. 62, Housing and Urban Development [HB3(1)], Department, 6th March 20249006-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.The Tamil Nadu Electricity Restructuring and Transfer Scheme, 2024ENERGY DEPARTMENTNotification No. II(1)/EGY/6(a)/2024.--G.O. Ms. No. 32, Energy (B2), 6th March 20248905-03-2024Part III--Section 1AGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat DepartmentsAmendments to the Tamil Nadu Combained Development and Building Rules, 2019.HOUSING AND URBAN DEVELOPMENT DEPARTMENTNotification No. SRO A- 5(a)/2024.--G.O. Ms. No. 58, Housing and Urban Development [UD4(1)] , 5th March 20248805-03-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Vacancy of Seat In Tamil Nadu Legislative Assembly due to Disqualification under Article 191(1)(E) of the Constitution of India Read With Section 8 of the Representation of People Act, 1951.TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATNotification No. II(1)/LAS/4(o)/2024.--Letter No. 15/2024-4, Tamil Nadu Legislative Assembly Secretariat (Bills-III), 5th March 20248704-03-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, EtcAcquisition of Lands--Notice under Section 15(1) of the Tamil Nadu Highways Act, 2001 (Tamil Nadu Act 34 of 2002) Read with the Tamil Nadu Land Acquisition Laws (Revival of Operation, Amendment and Validation) Act, 2019.THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No.VI(1)/196(d-1)/2024.--(Rc. No. CPRRP/CLA/15(1)/01/2024); Notification No.VI(1)/196(d-2)/2024.--(Rc. No. CPRRP/CLA/15(1)/03/2024)8704-03-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, EtcAcquisition of Lands--Notification under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001 (Tamil Nadu Act 34 of 2002)THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No.VI(1)/196(d-3)/2024.--(Rc. No. CPRRP/CLA/15(1)/4/2024); Notification No.VI(1)/196(d-4)/2024.--(Rc. No. CPRRP/CLA/15(1)/05/2024)8604-03-2024Part IV--Section 2Tamil Nadu Acts and Ordinances.ACTS (English)LAW DEPARTMENTAct No. 5 of 2024.--The Tamil Nadu Transparency in Tenders (Amendment) Act, 2024.8604-03-2024Part IV--Section 2Tamil Nadu Acts and Ordinances.ACTS (English)LAW DEPARTMENTAct No. 6 of 2024.--The Tamil Nadu Contingency Fund (Amendment) Act, 2024.8604-03-2024Part IV--Section 2Tamil Nadu Acts and Ordinances.ACTS (English)LAW DEPARTMENTAct No. 7 of 2024.--The Chennai Unifi ed Metropolitan Transport Authority (Amendment) Act, 2024.8604-03-2024Part IV--Section 2Tamil Nadu Acts and Ordinances.ACTS (English)LAW DEPARTMENTAct No. 8 of 2024.--The Tamil Nadu Universities Laws (Amendment) Act, 2024.8604-03-2024Part IV--Section 2Tamil Nadu Acts and Ordinances.ACTS (English)LAW DEPARTMENTAct No. 9 of 2024.--The Tamil Nadu Panchayats (Sixth Amendment) Act, 2024.8502-03-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Revenue Administration - Thanjavur DistrictREVENUE AND DISASTER DEVELOPMENT DEPARTMENTNotification No. II(1)/REVDM/4(n)/2024.--G.O. Ms. No. 66, Revenue and Disaster Management Department, Revenue Administration Division, RA-1(1) Section, 27th February 2024, Maasi 15, Sobakiruthu, Thiruvalluvar Aandu-20558401-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Nomination of Chairman and Members of the Tamil Nadu Domestic Workers Welfare Board under the Tamil Nadu Manual Workers (Regulation of Employment and Conditions of Work) Act, 1982.LABOUR WELFARE AND SKILL DEVELOPMENT DEPARTMENTNotification No. II(2)/LWSD/137(e)/2024.--G.O.Ms. No. 24, Labour Welfare and Skill Development (I1), 1st March 20248301-03-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, EtcAcquisition of Lands--Form C--Form of Notice under Sub-Section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No.Vi(1)/196(c)/2024.--(File No: CLA-RAI/2024/07/0001)8201-03-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, EtcAcquisition of Lands--Form C--Form of Notice under Sub-Section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997THE COMMISSIONER of LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No.Vi(1)/196(b)/2024.--(File No: CLA-RAI/2024/02/0001)8101-03-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Date of Commencement of the Tamil Nadu Heritage Commission (Amendment) Act, 2017 (Tamil Nadu Act 7 Of 2017).TOURISM, CULTURE AND RELIGIOUS ENDOWMENTS DEPARTMENTNotification No. II(2)/TCRE/137(d-1)/2024.--G.O. Ms. No. 109, Tourism, Culture and Religious Endowments (MA-2), 29th February 2024; Notification No. II(2)/TCRE/137(d-2)/2024.8001-03-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of Land--FORM - C--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No. VI(1)/196(a-12)/2024.--(LA-IV-2/6121111/2023)8001-03-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of Lands--Notice under section 3(1) of Tamil Nadu Acquisition of Land for Industrial purposes Act, 1997.THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No. VI(1)/196(a-1)/2024.--(LAI-1/6730506/2024); Notification No. VI(1)/196(a-2)/2024.--(LAI-1/6740583/2024); Notification No. VI(1)/196(a-4)/2024.--(File No: CLA-SIP/2024/28/02/09/0001); Notification No. VI(1)/196(a-5)/2024.--(CLA-SIP/2024/39/01/19/0001); Notification No. VI(1)/196(a-6)/2024.--(CLA-SIP/2024/49/01/04/0001); Notification No. VI(1)/196(a-7)/2024.--(CLA-SIP/2024/40/04/03/0001); Notification No. VI(1)/196(a-8)/2024.--(CLA-SIP/2024/40/04/08/0001); Notification No. VI(1)/196(a-9)/2024.--(CLA-SIP/2024/40/05/01/0001); Notification No. VI(1)/196(a-10)/2024.--(CLA-SIP/2024/40/09/06/0001); Notification No. VI(1)/196(a-11)/2024.--(CLA-SIP/2024/55/01/01/0001)8001-03-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Notice under Sub-Section(1) of Section 15 of the Tamilnadu Highways Act, 2001 (Tamil Nadu Act 34 of 2002)THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No. VI(1)/196(a-13)/2024.--(LA-V2/6667963/2024.); Notification No. VI(1)/196(a-14)/2024.--(LA-V2/6668152/2024); Notification No. VI(1)/196(a-15)/2024.--(LA-V3/6693105/2024)7929-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Appointment as Chief Executive Officer (FAC) and Ex-Officio Secretary of the Tamil Nadu Waqf Board, Chennai under the Tamil Nadu Waqf Act, 1995.BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENTNotification No. II(2)/BCMBCMW/137(c)/2024.--G.O. (2D). No. 5, Backward Classes, Most Backward Classes and Minorities Welfare (T1), 29th February 20247829-02-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Implementation of Price Support Scheme (PSS) Procurement of Black Gram through National Agricultural Co-Operative Marketing Federation Of India (Nafed) Ltd., during Rabi 2023-2024.AGRICULTURE-FARMERS WELFARE DEPARTMENTNotification No. II(1)/AFW/4(m)/2024.--G.O.(2D).No. 29, Agriculture-Farmers Welfare (AP4) Department, 29th February 20247729-02-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat DepartmentsImplementation of Price Support Scheme (PSS) Procurement of Green Gram Through National Agricultural Co-Operative Marketing Federation of India (Nafed) Ltd., during Rabi 2023-2024AGRICULTURE-FARMERS WELFARE DEPARTMENTNotification No. II(1)/AFW/4(l)/2024.--G.O.(2D).No. 28, Agriculture-Farmers Welfare (AP4), Department, 29th February 20247629-02-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Implementation of Price Support Scheme (PSS)-Procurement of Copra in Tamil Nadu under Price Support Scheme for the Year 2024AGRICULTURE-FARMERS WELFARE DEPARTMENTNotification No. II(1)/AFW/4(k)/2024.--G.O.Ms.No. 50, Agriculture-Farmers Welfare (H2) Department, 29th February 20247529-02-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/4(j-1)/2024.--[No.703(L)/W&M-II/2024]7429-02-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Amendments to Notification under the Tamil Nadu Prohibition Act, 1937HOME, PROHIBITION AND EXCISE DEPARTMENTNotification No. II(1)/HOPE/4(i)/2024.--G.O.Ms.No. 11, Home, Prohibition and Excise (III), 29th February 20247329-02-2024Part II - Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.HIGHER EDUCATION DEPARTMENT--Collegiate Education - Recruitment Of Assistant Professors In Collegiate Education Department By Way of Direct Recruitment Through Teachers Recruitment Board By Conducting Competitive Written Examination - Prescription Of Syllabi - Notification Issued.Higher Education DepartmentNotification No. II(2)/HE/137(b)/2024.--G.O.Ms.No. 50, Higher Education (F2), 28th February 20247229-02-2024Part VI - Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.THE COMMISSIONER OF LAND ADMINISTRATION AND THE DISTRICT COLLECTORS--The Formation of Bus Depot Tamil Nadu State Transport Corporation (Madurai) Limited, Aruppukottai Branch Virudhunagar District--Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act 2013 (Central Act 30/2013)-Notification for Time Extension of 19 (1) Declaration under Section 19(7)Other DepartmentsNotification No. VI(1)/ 196(a)/2024.--(Roc.No.D1/45220/2021)7128-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Public Tech Platform for Frictionless Credit as the System with which information may be Shared by the Common Portal Based on Consent of the Tamil Nadu Goods and Services Tax Act, 2017.COMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. II(2)/CTR/137(a)/2024.---G.O.Ms.No. 57, Commercial Taxes and Registration (B1), 28th February 20247028-02-2024Part V--Section 4Notification by the Election Commission of India.Amendment to the List of Assistant Returning Officer for 3.Chennai South Parliamentary Constituency in the State of Tamil NaduELECTION COMMISSION OF INDIANotification No. SRO G-1/2024.--No. 434/TN-HP/2023 (2)6927-02-2024Part IV--Section 2Tamil Nadu Acts and Ordinances.ACTS (ENGLISH)LAW DEPARTMENTAct No. 2 of 2024.— The Tamil Nadu Panchayats (Third Amendment) Act, 2024.6927-02-2024Part IV--Section 2Tamil Nadu Acts and Ordinances.ACTS (ENGLISH)LAW DEPARTMENTAct No. 3 of 2024.— The Tamil Nadu Appropriation (Vote on Account) Act, 2024.6927-02-2024Part IV--Section 2Tamil Nadu Acts and Ordinances.ACTS (ENGLISH)LAW DEPARTMENTAct No. 4 of 2024.— The Tamil Nadu Appropriation Act, 2024.6827-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notifications under the Tamil Nadu Transparency in Tenders Act, 1998.FINANCE DEPARTMENT (Procurement Cell)Notification No. II(2)/FIN/102(d-1)/2024.--G.O.Ms.No. 96, Finance (Procurement Cell), 27th February 20246827-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notifications under the Tamil Nadu Transparency in Tenders Act, 1998.FINANCE DEPARTMENT (Procurement Cell)Notification No. II(2)/FIN/102(d-2)/2024.--G.O.Ms.No. 97, Finance (Procurement Cell), 27th February 20246827-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notifications under the Tamil Nadu Transparency in Tenders Act, 1998.FINANCE DEPARTMENT (Procurement Cell)Notification No. II(2)/FIN/102(d-3)/2024.--G.O.Ms.No. 98, Finance (Procurement Cell), 27th February 20246827-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notifications under the Tamil Nadu Transparency in Tenders Act, 1998.FINANCE DEPARTMENT (Procurement Cell)Notification No. II(2)/FIN/102(d-4)/2024.--G.O.Ms.No. 99, Finance (Procurement Cell), 27th February 20246827-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notifications under the Tamil Nadu Transparency in Tenders Act, 1998.FINANCE DEPARTMENT (Procurement Cell)Notification No. II(2)/FIN/102(d-5)/2024.--G.O.Ms.No. 100, Finance (Procurement Cell), 27th February 20246827-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notifications under the Tamil Nadu Transparency in Tenders Act, 1998.FINANCE DEPARTMENT (Procurement Cell)Notification No. II(2)/FIN/102(d-6)/2024.--G.O.Ms.No. 101, Finance (Procurement Cell), 27th February 20246827-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notifications under the Tamil Nadu Transparency in Tenders Act, 1998.FINANCE DEPARTMENT (Procurement Cell)Notification No. II(2)/FIN/102(d-7)/2024.--G.O.Ms.No. 102, Finance (Procurement Cell), 27th February 20246727-02-2024Part III--Section 1BService Rules including Ad hoc Rules, Regulations, etc., issued by Secretariat Departments.Amendments to the Special Rules for the Tamil Nadu Revenue Subordinate ServiceREVENUE AND DISASTER MANAGEMENT DEPARTMENTNotification No. SRO B-11(a)/2024.--G.O. Ms. No. 65, Revenue and Disaster Management Services wing, Ser.3(2) Section, 27th February 2024.6627-02-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of Lands.--Form of Notice under Sub-Section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005.Notification No. VI(1)/ 188(d-1)/2024.--(LA-III(1)/6548724/2024)6627-02-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of Lands.--Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005.Notification No. VI(1)/188(d-2)/2024.--(LA-IV(1)/6781387/2024); Notification No. VI(1)/188(d-3)/2024.--(LA-IV(1)/6781522/2024)6627-02-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of Lands.--Notice under Sub Section (1) of Section 15 of The Tamil Nadu Highways Act, 2001THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005.Notification No. VI(1)/188(d-4)/2024.--(LA-V(1)/6628008/2024)6627-02-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of Lands.--Notice under Sub-Section (1) of Section 15 of the Tamilnadu Highways Act,2001 (Tamilnadu Act 34 of 2002)THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005.Notification No. VI(1)/ 188(d-5)/2024.--(LA-V2/6581162/2024); Notification No. VI(1)/188(d-6)/2024.--(LA-V2/6683126/2024); Notification No. VI(1)/ 188(d-7)/2024.--(LA-V3/6668092/2024); Notification No. VI(1)/ 188(d-8)/2024.--(LA-V3/6693161/2024); Notification No. VI(1)/188(d-9)/2024.--(LA-VI(1)/6653666/2024); Notification No. VI(1)/ 188(d-10)/2024.--(LA-VI(2)/6623925/2024)6527-02-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of Lands.--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005.Notification No. VI(1)/ 188(c)/2024.--(LA-V3/6693142/2024)6427-02-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Form-C--Errata Notice under Subsection (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997 Read with the Tamil Nadu Land Aquisition Laws (Revival of Operation, Amendment and Validation) Act, 2019THE COMMISSIONER of LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005.Notification No. VI(1)/ /2024.--(LA-IV-I/6331766/2023)6427-02-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Notice under Section 3(1) of Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997THE COMMISSIONER of LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005.Notification No. VI(1)/ /2024.--(LA-IV-I/6667815/2024); Notification No. VI(1)/ /2024.--LA-IV-I/6667885/2024)6326-02-2024Part VI--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Elections – Rural  Local Bodies - Indirect Elections – Casual Election August 2023TAMIL NADU STATE ELECTION COMMISSION, CHENNAI-106Notification No. VI(2)/4(b)/2024.--[Roc. No. 3137/2023/P.E.2, dated 22-02-2024.]6225-02-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat DepartmentsVacation of Seat In Tamil Nadu Legislative Assembly due to Resignation of Tmt. S. Vijayadharani, Member of the Tamil Nadu Legislative Assembly.LEGISLATIVE ASSEMBLY SECRETARIATNotification No. II(1)/LAS/4(h)/2024.--Letter No. 1783/2024-1, Tamil Nadu Legislative Assembly Secretariat (Bills-III), dated: 25.02.2024, Maasi 13, Sobakiruthu, Thiruvalluvar Aandu-20556124-02-2024Part VI--Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Elections – Urban Local Bodies - Indirect Elections – Casual Vacancies in the Office of the Member of Taxation Appeals Committee - Conduct of Meeting - NotifiedTAMIL NADU STATE ELECTION COMMISSION, CHENNAI-106Notification No.VI(2)/4(a)/2024.--(S.O.No. 1/2024/TNSEC/ME-2, dated, the 23rd February 2024)6023-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Nomination of Senior Most Judge of the Madras High Court as the Executive Chairman of the Tamil Nadu State Legal Services Authority, Chennai under the Legal Services Authorities Act, 1987.HOME DEPARTMENT (Courts-IV)Notification No. II(2)/HO/102(C)/2024.--G.O. (D) No. 197, Home (Courts-IV), 23rd February 2024.5923-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.NOTIFICATION UNDER THE RIGHT TO INFORMATION ACT, 2005.HUMAN RESOURCES MANAGEMENT DEPARTMENTNotification No. II(2)/HRM/102(b)/2024.--G.O.Ms. No. 30, Human Resources Management (AR-III), 23rd February 20245822-02-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Declaration of the Students Islamic Movement of India (Simi) as an Unlawful Association under the Unlawful Activities (Prevention) Act.PUBLIC DEPARTMENT (SC)Notification No. II(1)/PUSC/4(g)/2024.--G.O.No. SS.I/55-1/2024, Public (SC), 22nd February 20245722-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Election of Chairperson of Tamil Nadu State Haj Committee in Accordance with the Haj Committee Act, 2002.BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENTNotification No. II(2)/BCMBCMW/102(a)/2024.--G.O.(D). No. 22, Backward Classes, Most Backward Classes and Minorities Welfare (S1), 22nd February 20245622-02-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/4(f)/2024.--[No.702(L)/W&M-II/2024]5522-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 19 of 2024--The Tamil Nadu Panchayats (Sixth Amendment) Act, 2024.5522-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 20 of 2024--The Tamil Nadu Agricultural Produce Marketing (Regulation) Amendment Act, 2024.5522-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 19 of 2024--The Tamil Nadu Panchayats (Sixth Amendment) Act, 2024.5522-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 20 of 2024--The Tamil Nadu Agricultural Produce Marketing (Regulation) Amendment Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 10 of 2024--The Tamil Nadu Transparency in Tenders (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 11 of 2024--The Tamil Nadu Contingency Fund (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 12 of 2024--The Tamil Nadu Fiscal Responsibility (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 13 of 2024--The Chennai Unified Metropolitan Transport Authority (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 14 of 2024--The Tamil Nadu Universities Laws (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 15 of 2024--The Tamil Nadu State Medical Council Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 16 of 2024--The Tamil Nadu Hindu Religious and Charitable Endowments (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 17 of 2024--The Tamil Nadu Development Action Plan for the Scheduled Castes and the Scheduled Tribes Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 18 of 2024--The Tamil Nadu Appropriation Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 6 of 2024--The Tamil Nadu Panchayats (Fourth Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 7 of 2024--The Tamil Nadu Panchayats (Fifth Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 8 of 2024--The Tamil Nadu Highways (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 9 of 2024--The Tamil Nadu State Highways Authority Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 10 of 2024--The Tamil Nadu Transparency in Tenders (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 11 of 2024--The Tamil Nadu Contingency Fund (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 12 of 2024--The Tamil Nadu Fiscal Responsibility (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 13 of 2024--The Chennai Unified Metropolitan Transport Authority (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 14 of 2024--The Tamil Nadu Universities Laws (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 15 of 2024--The Tamil Nadu State Medical Council Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 16 of 2024--The Tamil Nadu Hindu Religious and Charitable Endowments (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 17 of 2024--The Tamil Nadu Development Action Plan for the Scheduled Castes and the Scheduled Tribes Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 18 of 2024--The Tamil Nadu Appropriation Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 6 of 2024--The Tamil Nadu Panchayats (Fourth Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 7 of 2024--The Tamil Nadu Panchayats (Fifth Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 8 of 2024--The Tamil Nadu Highways (Amendment) Act, 2024.5421-02-2024Part IV--Section 1Tamil Nadu Bills.BILLS (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 9 of 2024--The Tamil Nadu State Highways Authority Act, 2024.5321-02-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of Lands--Form-C--Notice under Sub-Section (1) of Section 15 of the Tamil Nadu Highways Act, 2001 Read with Tamil Nadu Land Acquisition Laws. (Revival of Operation, Amendment and Validation) Act, 2019.THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No. VI(1)/ /2024.--(Roc.No.CPRRP-CLA/15(1)/ 08/2023)5220-02-2024Part IV--Section 1Tamil Nadu BillsBills (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATL.A Bill No. 5 of 2024.--Tamil Nadu Appropriation (Vote on Account) Act, 2024 (English)5220-02-2024Part IV--Section 1Tamil Nadu BillsBills (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATL.A Bill No. 5 of 2024.--Tamil Nadu Appropriation (Vote on Account) Act, 2024 (Tamil)5116-02-2024Part INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.Governor of Tamil Nadu hereby appoints the following persons as Members of the Tamil Nadu Public Service CommissionHUMAN RESOURCES MANAGEMENT DEPARTMENTNotification No. I/HRM/6(a)/2024.--G.O.Ms.No. 27, Human Resources Management (M), 16th February 20245016-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Removal of Chairman Of Gangavalli Panchayat Union Council, Salem District under the Tamil Nadu Panchayats Act, 1994.RURAL DEVELOPMENT AND PANCHAYAT RAJ DEPARTMENTNotification No. II(2)/RDPR/85(c)/2024.--G.O.Ms. No. 26, Rural Development and Panchayat Raj (PR-4), 16th February 20244916-02-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of LandsWATER RESOURCE DEPARTMENTNotification No. VI(1)/171(a-1)/2024.--(Roc. No.2203/2019/E); Notification No. VI(1)/171(a-2)/2024.--(Roc No.4903/2023/A)4815-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Acquisition of LandsWATER RESOURCES DEPARTMENTNotification No. II(2)/CTR/85(a)/2024.--G.O.Ms. No. 56, Commercial Taxes and Registration (D1), 15th February 2024, Maasi 3, Sobakiruthu, Thiruvalluvar Aandu–2055.]4715-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification under the Tamil Nadu Taxes (Settlement of Arrears) Act, 2023.COMMERCIAL TAXES and REGISTRATION DEPARTMENTNotification No. II(2)/CTR/85(a)/2024.--G.O.Ms. No. 56, Commercial Taxes and Registration (D1), 15th February 2024,4615-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 3 of 2024—The Tamil Nadu Panchayats (Second Amendment) Act, 2024.4615-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (English)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 4 of 2024—The Tamil Nadu Panchayats (Third Amendment) Act, 2024.4615-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 3 of 2024—The Tamil Nadu Panchayats (Second Amendment) Act, 2024.4615-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 4 of 2024—The Tamil Nadu Panchayats (Third Amendment) Act, 2024.4514-02-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat DepartmentsMarket Borrowing Programme of State Government by AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/4(e)/2024.--[No.701(L)/W&M-II/2024]4414-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 2 of 2024—A Bill to repeal the Tamil Nadu Puratchi Thalaivi Dr. J Jayalalithaa Memorial Foundation Act, 2020.4414-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBll No. 1 of 2024--A Bill further to amend the Tamil Nadu Panchayats Act, 1994.4414-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBill No. 2 of 2024—A Bill to repeal the Tamil Nadu Puratchi Thalaivi Dr. J Jayalalithaa Memorial Foundation Act, 2020.4414-02-2024Part IV--Section 1Tamil Nadu Bills.Bills (Tamil)TAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATBll No. 1 of 2024--A Bill further to amend the Tamil Nadu Panchayats Act, 1994.4313-02-2024Part III—Section 1aGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendments to the Tamil Nadu Goods and Services Rules, 2017.COMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. SRO A- /2024.--G.O. Ms. No. 54, Commercial Taxes and Registration (B1) , 13th February 2024, Maasi 1, Sobakiruthu, Thiruvalluvar Aandu-2055.4213-02-2024Part INotifications or orders regarding first appointments, investiture of magisterial powers, etc., issued by Secretariat Departments.Ministers-Thiru. V. Senthilbalaji - Relieved of Ministership--Notified.PUBLIC DEPARTMENT (Special-B)Notification No. I/PUSP/4(a)/2024.--G.O.Ms. No. 141, Public (Special-B), 13th February 2024, Maasi 1, Sobakiruthu, Thiruvalluvar Aandu-2055.4113-02-2024Part VI—Section 1Notifications of interest to the General Public issued by Heads of Departments, EtcACQUISITION OF LANDS--FORM-C--NOTICE UNDER SUB-SECTION (1) OF SECTION 15 OF THE TAMIL NADU HIGHWAYS ACT, 2001.THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005.Notification No. VI(1)/ 146(a)/2024.--(LA-VI(3)/6548236/2024)4010-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Tamil Nadu Real Estate Regulatory Authority, Chairperson of Tamil Nadu Real Estate Regulatory Authority Ceases to Hold Office on Expiry of Term of Office on 10-2-2024 A.N.HOUSING AND URBAN DEVELOPMENT DEPARTMENTNotification No. II(2)/HOU/69(a-1)/2024.--G.O.Ms.No.25, Housing and Urban Development [UD3(2)], 10th February 20244010-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Tamil Nadu Real Estate Regulatory Authority, Member of Tamil Nadu Real Estate Regulatory Authority Ceases to Hold Office on Expiry of Term of Office on 10-2-2024 A.N.HOUSING AND URBAN DEVELOPMENT DEPARTMENTNotification No. II(2)/HOU/69(a-2)/2024.--G.O.Ms.No.26, Housing and Urban Development [UD3(2)], 10th February 2024.3906-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Variations to the Tamil Nadu Value Added Tax Act, 2006COMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. II(2)/CTR/62(f)/2024.--G.O.Ms. No. 39, Commercial Taxes and Registration (B2), 6th February 2024, Thai 23, Sobakiruthu, Thiruvalluvar Aandu–2055.3806-02-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification under the Tamil Nadu Goods and Services Tax Act, 2017COMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. II(2)/CTR/62(e)/2024.--G.O.Ms. No. 38, Commercial Taxes and Registration (B1), 6th February 2024, Thai 23, Sobakiruthu, Thiruvalluvar Aandu–2055.3701-02-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Summoning of the Tamil Nadu Legislative AssemblyLEGISLATIVE ASSEMBLY SECRETARIATNotification No. II(1)/LAS/4(d)/2024.--[S.O.Ms.No. 8, Legislative Assembly Secretariat, 1st February 2024, Thai 18, Sobakiruthu, Thiruvalluvar Aandu-2055.]3631-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Draft Notification of Revision of Minimum Rates of Wages for Employment in Hosiery Manufactory and Knitwear Manufactory under the The Minimum Wages Act, 1948.LABOUR WELFARE AND SKILL DEVELOPMENT DEPARTMENTNotification No. II(2)/LWSD/62(d)/2024.--G.O.(D) No. 57, Labour Welfare and Skill Development (J1), 31st January 20243531-01-2024Part VI--Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Removal of Panchayat Union President, Thamaraipakkam, Ellapuram Panchayat, Thiruvallur DistrictCOLLECTORS AND LOCAL AUTHORITIESNotification No. VI(2)/1b/2024.--[Roc. No. 200/2022/A3]3431-01-2024Part VI--Section 2Notifications or Orders of interest to a section of the public issued by Heads of Departments, etc.Removal of Panchayat Union President, Vengathur, Kadambathur Panchayat, Thiruvallur DistrictCOLLECTORS AND LOCAL AUTHORITIESNotification No. VI(2)/1(a)/2024.--[Roc. No. 4166/2022/A3]3331-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Removal of Chairman and Vice-Chairman   of Lathur Panchayat Union Council, Chengalpattu District under the Tamil Nadu Panchayats Act, 1994.RURAL DEVELOPMENT AND PANCHAYAT RAJ DEPARTMENTNotification No. II(2)/RDPR/62(c)/2024.--G.O.Ms. No. 17, Rural Development and Panchayat Raj (PR-4), 31st January 20243231-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Government School SyllabusSCHOOL EDUCATION DEPARTMENTNotification No. II(2)/SE/62(b)/2024.--G.O. Ms. No. 27, School Education (TRB) Department, 31st January 20243131-01-2024Part IV--Section 2Tamil Nadu Acts and Ordinances.ACTS (ENGLISH)LAW DEPARTMENTACT No.1 OF 2024--An Act further to amend the Tamil Nadu Agricultural Produce Marketing (Regulation) Act, 19873031-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification of Thanthai Periyar Wildlife Sanctuary, Erode District nder the Wild Life (Protection) Act, 1972ENVIRONMENT, CLIMATE CHANGE AND FORESTS DEPARTMENTNotification No. II(2)/ECCF/62(a)/2024.--G.O.Ms. No. 19, Environment, Climate Change and Forests (FR.5), 30th January 20242930-01-2024Part III--Section 1AGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendments to the Tamil Nadu  Juvenile Justice (Care and Protection of Children) Rules, 2017.SOCIAL WELFARE AND WOMEN EMPOWERMENT DEPARTMENTNotification No. SRO A-1(c)/2024.--G.O. Ms. No. 5, Social Welfare and Women Empowerment [SW 8(1)] , 30th January 20242830-01-2024Part III—Section 1AGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendment to the Tamil Nadu Value Added Tax Rules, 2007COMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. SRO A-1(b)/2024.--G.O.Ms.No. 18, Commercial Taxes and Registration (B1), 30th January 2024, Thai 16, Sobakiruthu, Thiruvalluvar Aandu-2055.2730-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.List of Notaries Appointed by Government of Tamil Nadu and  in Practice at the beginning of the year 2024 - Published\"LAW DEPARTMENTNotification No. II(2)/LAW/58(C)/2024.--G.O.Ms.No.154, Law Department, 30th January 2024.2630-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Approved Master Plan for the Rajapalayam Local Planning Area 2041 under the Tamil Nadu Town and Country Planning Act, 1971.HOUSING AND URBAN DEVELOPMENT DEPARTMENTNotification No. II(2)/HOU/58(b)/2024.--G.O.Ms.No.21, Housing and Urban Development [UD4(2)], 30th January 20242529-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Appointment as Vice-Chancellor of the Tamil Nadu Dr. J Jayalalithaa Fisheries University, Nagapattinam for certain Period under the Tamil Nadu Fisheries University Act, 2012.ANIMAL HUSBANDRY, DAIRYING, FISHERIES AND FISHERMEN WELFARE DEPARTMENTNotification No. II(2)/AHDFFW/58(a)/2024.--G.O.Ms.No.6, Animal Husbandry, Dairying, Fisheries and Fishermen Welfare (FS2) , 29th January 20242429-01-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of lands in Dindigul DistrictTHE COMMISSIONER OF LAND ADMINISTRATION AND THE DISTRICT COLLECTORSNotification No. VI(1)/ 104(a)/2024.--(No. 901271/2023/E2)2325-01-2024Part II--Section 2Notifications or Orders of specific character or of particular interest to the public issued by Secretariat DepartmentsAMENDMENTS TO THE NOTIFICATIONS UNDER THE TAMIL NADU PROHIBITION ACT, 1937.HOME, PROHIBITION AND EXCISE DEPARTMENTNotification No. II(1)/HOPE/4(c)/2024.--G.O.Ms.No. 2, Home, Prohibition and Excise (III), 25th January 20242224-01-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/4(b-1)/2024.--[No.698(L)/W&M-II/2024]; Notification No. II(1)/FIN/4(b-2)/2024.--[No.699(L)/W&M-II/2024]2124-01-2024Part III--Section 1aGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat DepartmentsAmendment to the Tamil Nadu Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2017.REVENUE AND DISASTER MANAGEMENT DEPARTMENTNotification No. SRO A-1(a)/2024.--G.O.Ms.No. 21, Revenue and Disaster Management Department, Land Administration Wing, LA I(1), 24th January 20242024-01-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Prorogation of the Tamil Nadu Legislative AssemblyTAMIL NADU LEGISLATIVE ASSEMBLY SECRETARIATNotification No. II(1)/LAS/4(a)/2024.--S.O.Ms.No. 7, Legislative Assembly Secretariat, 24th January 20241923-01-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of Lands.--FORM OF NOTICE UNDER SUB-SECTION(1) OF SECTION 3 OF THE TAMIL NADU ACQUISITION OF LAND FOR INDUSTRIAL PURPOSES ACT, 1997 READ WITH THE TAMIL NADU LAND ACQUISITION LAWS (REVIVAL OF OPERATION, AMENDMENT AND VALIDATION) ACT, 2019.THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No. VI(1)/ 24(b-1)/2024.--(CLA-SIP/2024/55/01/03/0001)1923-01-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Acquisition of Lands.--NOTICE UNDER SECTION 3(1) OF TAMIL NADU ACQUISITION OF LAND FOR INDUSTRIAL PURPOSES ACT, 1997.THE COMMISSIONER OF LAND ADMINISTRATION, CHEPAUK, CHENNAI-600 005Notification No. VI(1)/ 24(b-2)/2024.--(LA-IV-1/6249104/2023); Notification No. VI(1)/ 24(b-3)/2024.--(LA-IV-1/6440107/2023); Notification No. VI(1)/ 24(b-4)/2024.--(LA-IV-1/6400521/2023)1823-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.CONSTITUTION OF JUVENILE JUSTICE BOARD IN MAYILADUTHURAI DISTRICT UNDER THE JUVENILE JUSTICE (CARE AND PROTECTION OF CHILDREN) ACT, 2015 [CENTRAL ACT 2 OF 2016] AND THE TAMIL NADU JUVENILE JUSTICE (CARE AND PROTECTION OF CHILDREN) RULES, 2017.SOCIAL WELFARE AND WOMEN EMPOWERMENT DEPARTMENTNotification No. II(2)/SWWE/49(d)/2024.--G.O. (D). No. 19, Social Welfare and Women Empowerment [SW 8(1)] , 23rd January 20241722-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Annexation of Ponneri Police Station and Thirupalaivanam Police Station of Thiruvallur District with Avadi Police Commissionerate under the Chennai City Police Act, 2022 - Amendment to Notification.HOME DEPARTMENT (Police-XIV)Notification No. II(2)/HO/49(c)/2024.--G.O. Ms. No. 17, Home (Police.XIV), 8th January 20241622-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Annexation of Attayampatti Police Station and Karipatti Police Station of Salem District with Salem City under the Chennai City Police Act, 1997--Amendment to Notification.HOME DEPARTMENT (Police-XIV)Notification No. II(2)/HO/49(b)/2024.--G.O. Ms. No. 692, Home (Police.XIV), 21st December 20231522-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Appointment of Two State Information Commissioners of the Tamil Nadu Information Commission under the Right to Information Act, 2005.HUMAN RESOURCES MANAGEMENT DEPARTMENTNotification No. II(2)/HRM/49(a)/2024.--G.O. Ms. No. 14, Human Resources Management (AR-III), 22nd January 20241418-01-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/3(a-1)/2024.--[No.696(L)/W&M-II/2024]; Notification No. II(1)/FIN/3(a-2)/2024.--[No.697(L)/W&M-II/2024]1314-01-2024Part III--Section 1aGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Framing of Tamil Nadu Land Pooling Area Development Schme Rules, 2024.HOUSING AND URBAN DEVELOPMENT DEPARTMENTNotiification No. SRO A-D/2024--G.O.Ms.No. 16, Housing and Urban Development [UD4(1)], 14th January 20241214-01-2024Part III--Section 1aGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendment to the Tamil Nadu Combined Development and Building Rules, 2019.HOUSING AND URBAN DEVELOPMENT DEPARTMENTNotification No. SRO A-(c)/2024.--G.O.Ms.No. 15, Housing and Urban Development [UD4(1)], 14th January 20241112-01-2024Part III--Section 1aGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.Amendment to the Tamil Nadu Urban Local Bodies Rules, 2023MUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENTNotification No. SRO A-(b)/2024.--G.O.Ms.No. 2, Municipal Administration and Water Supply (MC.I), 12th January 20241011-01-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/2(a)/2024.--[No.695(L)/W&M-II/2024]911-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Amendment to the Right to Information Act, 2005.HUMAN RESOURCES MANAGEMENT DEPARTMENTNotification No. II(2)/HRM/40(a)/2024.--G.O. Ms. No. 03, Human Resources Management (AR-III), 11th January 2024809-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Formation New Kanakiliyanallur Registration sub District under the Registration Act, 1908COMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. II(2)/CTR/17d/2024.--G.O.Ms. No.8, Commercial Taxes and Registration (G), 9th January 2024709-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification Under the Tamil Nadu Goods and Services Tax Act, 2017 - Amendments to NotificationCOMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. II(2)/CTR/17(c-1)/2024.--G.O.Ms.No. 4, Commercial Taxes and Registration (B1), 9th January 2024709-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification Under the Tamil Nadu Goods and Services Tax Act, 2017 - Amendments to NotificationCOMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. II(2)/CTR/17(c-2)/2024.--G.O.Ms.No. 5, Commercial Taxes and Registration (B1), 9th January 2024709-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification Under the Tamil Nadu Goods and Services Tax Act, 2017 - Amendments to NotificationCOMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. II(2)/CTR/17(c-3)/2024.--G.O.Ms.No. 6, Commercial Taxes and Registration (B1), 9th January 2024709-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification Under the Tamil Nadu Goods and Services Tax Act, 2017 - Amendments to NotificationCOMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. II(2)/CTR/17(c-4)/2024.--G.O. Ms. No. 7, Commercial Taxes and Registration (B1), 9th January 2024609-01-2024Part III--Section 1aGeneral Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat DepartmentsAmendments to the Tamil Nadu Goods and Services Rules, 2017COMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. SRO A-B-1/2024.--G.O.Ms.No. 3, Commercial Taxes and Registration (B1), 9th January 2024506-01-2024Part VI--Section 1Notifications of interest to the General Public issued by Heads of Departments, Etc.Notification Issued By Commissioner of State Tax, under The Tamil Nadu Goods and Services Tax Act, 2017 and the Tamil Nadu Goods and Services Tax Rules, 2017THE COMMISSIONER OF COMMERCIAL TAXES, EZHILAGAM, CHEPAUK, CHENNAI-600 005Notification No. VI(1)/ 24(a)/2024.--(No. 01/2024-PP2/GST-15/77/2023,Tamil Nadu Goods and Services Tax, Chennai, Friday, January 5, 2024)404-01-2024Part II--Section 1Notifications or Orders of specific character or of particular interest to the public issued by Secretariat Departments.Market Borrowing Programme of State Government by AuctionFINANCE DEPARTMENTNotification No. II(1)/FIN/1(a)/2024.--[No.694(L)/W&M-II/2024]304-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Acquisition of Lands--FORM-VI--DeclarationWATER RESOURCES DEPARTMENTNotification No. II(2)/WR/17(b)/2024.--G.O. Ms. No. 93, Water Resources (N2) Department, 29th December 2023204-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Acquisition of Lands--Form-VI--Declaration--Unit - Viii Block -2INDUSTRIES, INVESTMENT PROMOTION AND COMMERCE DEPARTMENTNotification No. II(2)/IIPC/17(a)/2024.--G.O. Ms. No. 1, Industries, Investment Promotion and Commerce (GIM) Department, 4th January 2024, Margazhi 19, Sobhakiruthu, Thiruvalluvar Aandu-2054102-01-2024Part II--Section 2Notifications or Orders of interest to a Section of the public issued by Secretariat Departments.Notification under the Tamil Nadu Goods And Services Tax Act, 2017.COMMERCIAL TAXES AND REGISTRATION DEPARTMENTNotification No. II(2)/CTR/A/2024.--G.O. Ms. No. 1, Commercial Taxes and Registration (B1), 2nd January 2024"
+Department: "Other Departments"
+G.O No: "Notification No.VI(1)/754(a-1)/2024..----(LA-IV-2/8673004/2024); Notification No.VI(1)/754(a-2)/2024.--(LA-IV-2/8528865/2024); Notification No.VI(1)/754(a-3)/2024.--(LA-IV-2/8690889/2024); Notification No.VI(1)/754(a-4)/2024.--(LA-IV-2/8690869/2024)"
+---
+
+©	
+[Regd. No. TN/CCN/467/2012-14.	
+GOVERNMENT OF TAMIL NADU	
+[R. Dis. No. 197/2009.	 	
+	
+	
+2024	
+[Price: Rs. 8.00 Paise. 
+Part VI—Section 1
+Notifications of interest to the General Public 
+issued by Heads of Departments, Etc.
+NOTIFICATIONS BY HEADS OF DEPARTMENTS, ETC.
+TAMIL NADU
+GOVERNMENT GAZETTE
+EXTRAORDINARY	
+PUBLISHED BY AUTHORITY
+No. 366]	
+CHENNAI, WEDNESDAY, NOVEMBER 13,  2024	
+
+	
+Aippasi 27, Kurothi, Thiruvalluvar Aandu–2055
+VI-1 Ex. (366)—1
+[ 1 ]
+THE COMMISSIONER OF LAND ADMINISTRATION CHEPAUK, CHENNAI-600 005.
+ACQUISITION OF LANDS
+FORM C
+NOTICE UNDER SECTION 3(1) OF TAMIL NADU ACQUISITION OF LAND FOR
+INDUSTRIAL PURPOSES ACT, 1997
+(LA-IV-2/8673004/2024)
+No.VI(1)/754(a-1)/2024.
+The Government of Tamil Nadu having been satisfied that the lands specified in the Schedule below have to be 
+acquired for Industrial Purposes, to wit for the Formation of “Tamil Nadu Knowledge City” and having already been 
+decided that the entire amount of compensation to be awarded for the lands is to be paid out of the funds managed 
+by the TIDCO. The following notice is issued under sub-section (1) of Section 3 of the Tamil Nadu Acquisition of Land 
+for Industrial Purposes Act, 1997 (Tamil Nadu Act, 10 of 1999).
+NOTICE
+Under sub-section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997
+(Tamil Nadu Act 10 of 1999), the Governor of Tamil Nadu hereby acquires the land/lands specified in the Schedule 
+below and measuring an extent of 7.00.00 Hectares to the same, a little more or less needed for Industrial Purposes, 
+to wit, for the Formation of “Tamil Nadu Knowledge City”.
+The plans of the lands are kept in the office of the Land Acquisition Officer / Special District Revenue Officer (LA), 
+SIPCOT Manellore (Phase-III), Kavaraipettai and at the Office of the Special Tahsildar (LA), Tamil Nadu Knowledge 
+City, Unit-5, Taluk Office, Uthukottai which may be inspected at any day during office hours.
+
+
+2	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY
+The Schedule
+Tiruvallur District, Uthukottai Taluk, Melmaligaipattu Village.
+Unit: 05, Block: 02
+Sl.
+No.
+Survey 
+Number
+Total 
+Extent (in 
+Hectares)
+Extent 
+to be 
+Acquired
+(in 
+Hectares)
+Type of 
+Land
+(Wet/
+Dry/ 
+Natham)
+Details of 
+Structures 
+in the Lands 
+to be 
+Acquired
+Details of Trees/
+Crops in the Lands 
+to be Acquired
+Details of Land Owner/ 
+Interested Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+1.
+94/2A1A1A1A
+0.22.42
+0.22.42
+Dry
+Vacant Land
+-
+Ramarao 
+S/o. Kandavishnu
+2.
+94/2A1A2
+0.01.10
+0.01.10
+Dry
+Vacant Land
+-
+1. Ansi Ravi W/o. Ravi,
+2. Roshini D/o. Ravi.
+3.
+94/2A1A3
+0.00.60
+0.00.60
+Dry
+Vacant Land
+-
+Selvakumar
+S/o. Ramamurthy
+4.
+94/2A1A4
+0.00.40
+0.00.40
+Dry
+Vacant Land
+-
+Suchithra
+W/o. Arumugam
+5.
+94/2A1A5
+0.00.50
+0.00.50
+Dry
+Vacant Land
+-
+Pushpa
+W/o. Ashokan
+6.
+94/2A1A6
+0.00.50
+0.00.50
+Dry
+Vacant Land
+-
+Venkatesan
+S/o. Varadharajan
+7.
+94/2A1A7
+0.00.40
+0.00.40
+Dry
+Vacant Land
+-
+Ramarao 
+S/o. Kandavishnu
+8.
+94/2A1A8
+0.00.20
+0.00.20
+Dry
+Vacant Land
+-
+Vijayalakshmi
+W/o. Rajapandiyan
+9.
+94/2A1A9
+0.00.70
+0.00.70
+Dry
+Vacant Land
+-
+Mala
+W/o. Umapathy
+10.
+94/2A1B
+0.00.50
+0.00.50
+Dry
+Vacant Land
+-
+Vijayalakshmi
+W/o. Rajapandiyan
+11.
+94/2A1C
+0.00.50
+0.00.50
+Dry
+Vacant Land
+-
+Selvi W/o. Janagar
+12.
+94/2A1D
+0.01.10
+0.01.10
+Dry
+Vacant Land
+-
+Pushpalatha
+W/o. Gopalakrishnan
+13.
+94/2A1E
+0.00.60
+0.00.60
+Dry
+Vacant Land
+-
+Kaliyaniammal
+W/o. Subramaniyam
+14.
+94/2A1F
+0.00.50
+0.00.50
+Dry
+Vacant Land
+-
+Prema W/o. Parthiban
+15.
+94/2A1G
+0.00.50
+0.00.50
+Dry
+Vacant Land
+-
+Prema W/o. Parthiban
+16.
+94/2A1H
+0.00.50
+0.00.50
+Dry
+Vacant Land
+-
+Anbalagan
+S/o. Ranganathan
+17.
+94/2A1I
+0.01.10
+0.01.10
+Dry
+Vacant Land
+-
+Minisanthanam
+W/o. Santhanam 
+18.
+94/2A2
+0.40.50
+0.40.50
+Dry
+Bore Well-1,
+Barbed Wire 
+Fencing.
+Neem Plant-7,
+Cocunut Tree-2,
+Nuna Tree-1,
+Drumstick Tree-1,
+Palm Plant-12,
+Paddy.
+Suseela
+W/o. Velu
+19.
+94/2A3
+0.04.00
+0.04.00
+Dry
+Vacant Land
+-
+Ragupathy
+S/o. Gangatharan
+
+
+	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY	
+3
+Sl.
+No.
+Survey 
+Number
+Total 
+Extent (in 
+Hectares)
+Extent 
+to be 
+Acquired
+(in 
+Hectares)
+Type of 
+Land
+(Wet/
+Dry/ 
+Natham)
+Details of 
+Structures 
+in the Lands 
+to be 
+Acquired
+Details of Trees/
+Crops in the Lands 
+to be Acquired
+Details of Land Owner/ 
+Interested Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+20.
+94/2A4
+0.21.50
+0.21.50
+Dry
+-
+Teak Tree-1,
+Coconut Tree-1.
+Ragupathy
+S/o. Gangatharan
+21.
+94/2E1
+0.50.50
+0.50.50
+Dry
+Cement 
+Stone
+Post-18
+Palm tree-17
+Elangovan
+S/o. Thiyagarajan
+22.
+94/2E2
+0.20.00
+0.20.00
+Dry
+-
+Neem Plant-4,
+Nuna Plant-1,
+Palm Plant-1,
+Palm Tree-7.
+Rajivsha S/o. Amirsha
+23.
+94/2E3A
+0.15.50
+0.15.50
+Dry
+EB Post-1
+Neem Plant-15,
+Date Palm Tree-2,
+Palm Tree-1.
+Elangovan
+S/o. Thiyagarajan
+24.
+94/2E3B
+0.40.50
+0.40.50
+Dry
+Stone
+Post-82
+-
+Tharun S/o. Ramadoss
+25.
+94/ 2H1A
+1.62.00
+1.62.00
+Dry
+Barbed Wire 
+Fencing,
+Concrete 
+House 
+(Part)-1,
+EB Post-4,
+Bore Well-4
+Paddy,
+Coconut Sapling-5,
+Papaya Tree-4,
+Guava Tree-3,
+Drumstick Tree-1,
+Banana Tree-57,
+Baniyan Tree-2,
+Bamboo Tree-1,
+Coconut Tree-5,
+Mango Tree-2,
+Neem Tree-1,
+Citron Tree-3,
+Lemon Tree-1,
+Banana Sapling-8,
+Teak Tree-5,
+Neem Plant-3,
+Tagara Tree-5,
+Pongamia Plant-2,
+Palm Plant-15,
+Palm Tree-55,
+Katuva Tree-4,
+Nuna Tree-4,
+Peepal Tree-2.
+1. Latha W/o. Raman 
+(A) Ramu
+2. Thanigaivel
+S/o. Gnanavel
+26.
+94/2H1B1
+2.28.50
+2.28.50
+Dry
+Cement 
+sheet 
+House with 
+Toilet and 
+Bathroom-1,
+EB Post-3,
+Stone Post-
+131.
+Paddy,
+Coconut 
+Sapling-63,
+Coconut Tree-3,
+Neem Tree-5,
+Neem Plant-11,
+Cashew Plant-7,
+Amla Tree-12,
+Date Palm Tree-1,
+Guava Tree-1,
+Banana Tree-10.
+Selvam 
+S/o. Venkatesan
+
+
+4	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY
+Sl.
+No.
+Survey 
+Number
+Total 
+Extent (in 
+Hectares)
+Extent 
+to be 
+Acquired
+(in 
+Hectares)
+Type of 
+Land
+(Wet/
+Dry/ 
+Natham)
+Details of 
+Structures 
+in the Lands 
+to be 
+Acquired
+Details of Trees/
+Crops in the Lands 
+to be Acquired
+Details of Land Owner/ 
+Interested Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+27.
+94/2H1B2
+0.81.00
+0.81.00
+Dry
+EB Post-2,
+Bore Well-3,
+Barbed Wire 
+Fencing with 
+Stone Post-
+134,
+Pipeline.
+Paddy,
+Coconut 
+Sapling-55.
+Valarmathy
+W/o. Selvam
+28.
+94/13
+0.01.67
+0.01.67
+Dry
+Vacant Land
+-
+Dhanalakshmi
+W/o. Kalidasan
+29.
+94/14
+0.00.55
+0.00.55
+Dry
+Vacant Land
+-
+Dhinesh S/o. Kalidoss
+30.
+94/15
+0.00.55
+0.00.55
+Dry
+Vacant Land
+-
+Praveena W/o. Ramu
+31.
+94/31
+0.01.11
+0.01.11
+Dry
+Vacant Land
+-
+Ramji Yadav
+S/o. Seetharam Yadav
+Total
+7.00.00
+7.00.00
+  Total Extent to be Acquired: 7.00.00 Hectares.
+(LA-IV-2/8528865/2024)
+No.VI(1)/754(a-2)/2024.
+The Government of Tamil Nadu having been satisfied that the lands specified in the Schedule below have to be 
+acquired for Industrial Purposes, to wit for the Formation of “Tamil Nadu Knowledge City” and having already been 
+decided that the entire amount of compensation to be awarded for the lands is to be paid out of the funds managed 
+by the TIDCO. The following notice is issued under sub-section (1) of Section 3 of the Tamil Nadu Acquisition of Land 
+for Industrial Purposes Act, 1997 (Tamil Nadu Act, 10 of 1999).
+NOTICE
+Under sub-section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997 
+(Tamil Nadu Act 10 of 1999), the Governor of Tamil Nadu hereby acquires the land/lands specified in the Schedule 
+below and measuring an extent of 14.29.41 Hectares to the same, a little more or less needed for Industrial Purposes, 
+to wit, for the Formation of “Tamil Nadu Knowledge City”.
+The plans of the lands are kept in the office of the Land Acquisition Officer / Special District Revenue Officer (LA), 
+SIPCOT Manellore (Phase-III), Kavaraipettai and at the Office of the Special Tahsildar (LA), Tamil Nadu Knowledge 
+City, Unit-2, Taluk Office, Uthukottai which may be inspected at any day during office hours.
+The Schedule
+ Tiruvallur District, Uthukottai Taluk, Melmaligaipattu Village.
+Unit: 2, Block No.1
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+1.
+54/1A1
+0.08.00
+0.08.00
+Dry
+Pipeline
+Jasmine
+Plant-460,
+Kanakambaram
+Plant-220.
+Chellan
+S/o. Chinnakutty
+
+
+	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY	
+5
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+2.
+54/1A2
+0.53.00
+0.53.00
+Dry
+-
+Palm Tree-1
+1.Ragavalu Naidu
+S/o. Kistappa Naidu
+2.Ganesan
+S/o. Kuppan
+3.J.Iyyappan
+S/o. R.Jayaraman
+3.
+54/1A3
+0.12.00
+0.12.00
+Dry
+-
+-
+Murugan
+S/o. Dhamodharan
+4.
+54/1A4
+0.45.50
+0.45.50
+Dry
+Pipe Line
+Jasmine 
+Plant-1288,
+Palm Tree-1.
+1.Ragavalu Naidu
+S/o. Chellappa Naidu
+2.J. Iyyappan
+S/o.  R. Jayaraman
+5.
+54/1B
+0.20.00
+0.20.00
+Dry
+Pipe Line
+Jasmine 
+Plant-674,
+Teak Tree-8,
+Neem Tree-1.
+J. Iyyappan
+S/o. R. Jayaraman
+6.
+54/1C
+1.00.00
+1.00.00
+Dry
+Pipe Line
+Kattuva
+Tree-1,
+Palm Tree-1,
+Neem Tree-1.
+1.Gajendiran
+S/o. Venkatta Subba 
+Naidu,
+2.Jayaraman
+S/o. Ragavalu Naidu.
+3.Anjalammal 
+4. J. Iyyappan
+S/o. R. Jayaraman
+7.
+54/1D
+0.39.50
+0.39.50
+Dry
+Round Brick
+Well-1,
+Electric 
+Motor-1,
+Electric
+Post-2,
+Bore
+Well-2.
+Pipe Line
+Jasmine
+Plant - 580,
+Rose 
+Plant-850,
+Coconut
+Tree-5,
+Neem Tree-1,
+Neem Plant-3,
+Mango Tree-1,
+Teak Tree-3.
+Baskaran
+S/o. Narayanasamy 
+Naidu
+8.
+54/1E1
+0.14.00
+0.14.00
+Dry
+Pipe Line
+-
+1.Ragaval Naidu
+S/o. Kistappa Naidu
+2.N.Baskaran
+S/o. Narayanasami
+3.M.Balaji
+S/o. Munusamy
+9.
+	
+54/1E2
+0.30.50
+0.30.50
+Dry
+Pipe Line
+-
+1.Chinna Munusamy 
+S/o. Subba Naidu
+2.R.Sengaiya
+S/o. Ragavalu Naidu
+10.
+	
+54/2
+0.22.50
+0.22.50
+Manavari
+Pipe Line
+-
+1.Ragavalu Naidu
+S/o. Kistappa Naidu
+2.M.Balaji
+S/o. Munusamy Naidu
+3.Munniyammal 
+
+
+6	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+11.
+56/1A1
+0.24.30
+0.24.30
+Dry
+Electric Post-
+2,
+Wire fencing 
+with P.V.C 
+Concrete 
+Pipe
+Post -14,
+Barbed Wire 
+Fencing with 
+White Stone
+Post -3.
+Jasmine
+Plant -377,
+Palm Tree-23.
+Jayaraman
+S/o. Elumalai
+12.
+56/1A2
+0.03.70
+0.03.70
+Dry
+Pipe Line 
+Coconut
+Tree-1,
+Neem Tree-1
+Mani S/o. Elumalai
+13.
+56/1B
+0.12.00
+0.12.00
+Dry
+Bore
+Well-1
+Palm
+Plant – 5,
+Neem
+Tree – 4, 
+Neem
+Plant – 4.
+Murugan
+S/o. Dhamodharan
+14.
+56/2
+0.08.00
+0.08.00
+Dry
+-
+Palm Tree -4,
+Neem Tree-2
+Murugan
+S/o. C.Dhamodharan 
+15.
+	
+56/3
+0.20.00
+0.20.00
+Dry
+Pipe Line.
+Palm
+Tree-10,
+Palm
+Plant-6,
+Neem 
+Tree-9,
+Neem
+Plant-4,
+Kattuva
+Tree-1.
+1.Murugan
+S/o. Dhamodharan
+2.UdayaKumar
+S/o. Nagaraj
+16.
+56/4
+0.28.50
+0.28.50
+Dry
+Pipe Line,
+Round Brick
+Well-1.
+Jasmine
+Plant -327,
+Kattuva
+Tree-10,
+Neem
+Tree -8,
+Neem
+Plant -10,
+Palm Tree-1,
+Palm Plant-4,
+Nuna Tree-2.
+Udhayakumar
+S/o. Nagaraj
+17.
+56/5A
+0.08.98
+0.08.98
+Dry
+Bore
+Well -1, 
+Round Brick
+Well -1,
+Electric
+Motor -2.
+Neem
+Tree -2, 
+Neem
+Plant -7.
+R.Ramachandran S/o. 
+Ragavalu Naidu 
+
+
+	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY	
+7
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+18.	
+56/5B
+0.10.52
+0.10.52
+Dry
+Pipe Line
+Kattuva
+Tree-3,
+Kattuva 
+Plant-3,
+Manila 
+Tamarind
+Tree-1,
+Palm Tree-2,
+Palm Plant -5,
+Nuna Tree-2,
+Neem
+Tree -2,
+Neem Plant-6.
+Iyyappan
+S/o. Jayaraman
+19.	
+57/1
+0.12.00
+0.12.00
+Dry
+Cement
+Pipe-16,
+Barbed Wire 
+Fencing with 
+White
+Stone -5
+Bore
+Well -1
+Motor Shed 
+(Small)-1,
+Pipe Line.
+Coconut
+Tree-3,
+Lemon Plant-1.
+E.Mani
+S/o. Elumalai
+20.
+	
+57/2A
+0.01.20
+0.01.20
+Dry
+-
+-
+1.Jayaraman
+S/o. Ragavalu Naidu
+2.S.Sathish
+S/o. Srinivasan
+21.
+57/2B
+0.24.30
+0.24.30
+Dry
+Cement
+Pipe -27,
+Barbed Wire 
+Fencing with 
+White
+Stone -9,
+Pipe Line.
+Neem Plant-3,
+Tagara Plant-4.
+Mani S/o. Elumalai
+22.
+	
+57/3A1A1
+0.09.34
+0.05.18
+Dry
+-
+-
+1.R.Jayaraman
+S/o. Ragavalu Naidu
+2.S.Sathish
+S/o. Srinivasan
+3.T.Jeevitha
+W/o. Kishore
+4.R.Dhanalakshmi
+W/o Rajendiran
+5.E.Gopi
+S/o. Elumalai
+6.R.Mallika
+W/o. Rajendiran
+23.
+57/3A1B
+0.00.50
+0.00.50
+Dry
+-
+-
+A.Sumathi
+W/o. A.Arumugam
+
+
+8	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+24.
+57/3A2
+0.00.50
+0.00.50
+Dry
+-
+-
+S.Rakkammal
+W/o. Senthilnathan
+25.
+57/3A3
+0.01.10
+0.01.10
+Dry
+-
+-
+S.Rakkammal
+W/o. Senthilnathan
+26.
+57/3B
+0.00.50
+0.00.50
+Dry
+-
+-
+Theeraj Joshwal
+S/o. Sri Kamala 
+Joshwal
+27.
+57/3C
+0.00.50
+0.00.50
+Dry
+-
+-
+Ramesh (A) Ramesh 
+Gupta
+S/o. Gupta
+28.
+57/3D
+0.00.50
+0.00.50
+Dry
+-
+-
+Ganesh S/o. Gupta
+29.
+57/3E
+0.01.10
+0.01.10
+Dry
+-
+-
+S.Rakkammal
+W/o Senthilnathan
+30.
+	
+57/4A1A
+1A1A1
+0.12.05
+0.02.78
+Dry
+-
+-
+1.Thangaraj
+S/o. Chinnakannu
+2.Sathish Kumar
+S/o. Srinivasan
+3.K.Kondal Rav
+S/o. Kondaiya
+4.S.Ramesh
+S/o. Subramani
+5.K.Mukunthan
+S/o. Kuppusami
+6.D.Chithra
+W/o 
+Thachanamoorthy
+7.A.Shakila
+W/o Srinivasan
+8.Kavitha
+W/o Vetriventhan
+9.Ravi
+S/o. Seetharaman
+10.M.Chandhrasekaran 
+S/o. Muthu 
+31.
+57/4A1A
+1A2
+0.00.37
+0.00.37
+Dry
+-
+-
+Lakshmi
+W/o Mukunthan
+32.
+57/4A2
+0.00.40
+0.00.40
+Dry
+-
+-
+D.Saravanan
+S/o. 
+Thachanamoorthy
+33.
+57/4A3
+0.00.40
+0.00.40
+Dry
+-
+-
+D.Jayakumar
+S/o. 
+Thachanamoorthy
+34.
+57/4A4
+0.00.50
+0.00.50
+Dry
+-
+-
+1.K.Parvathi Ammal 
+W/o Kannan 
+2.K.Mageshwari
+
+
+	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY	
+9
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+35.
+	
+57/4A5
+0.00.40
+0.00.40
+Dry
+-
+-
+M.Chandrasekaran
+S/o. Muthusami
+36.
+57/4A6
+0.00.70
+0.00.70
+Dry
+-
+-
+D.Susila
+W/o Srinivasan
+37.
+57/4A7
+0.00.30
+0.00.30
+Dry
+-
+-
+T.Seshadri
+S/o. Tirunavukarasu
+38.
+57/4B
+0.01.60
+0.01.60
+Dry
+Building(G+1)
+ with 
+Compound 
+Wall (Part)
+-
+Jesujayarani
+W/o Mariyaselvam
+39.
+57/4C
+0.01.10
+0.01.10
+Dry
+Building(G+1)
+ with 
+Compound 
+Wall (Part)
+-
+Jesujayarani
+W/o Mariyaselvam
+40.
+57/4D
+0.02.20
+0.02.20
+Dry
+Building(G+1)
+ with 
+Compound 
+Wall (Part)
+-
+Jesujayarani
+W/o Mariyaselvam
+41.
+57/4E
+0.01.00
+0.01.00
+Dry
+Building(G+1)
+ with 
+Compound 
+Wall (Part)
+-
+Jesujayarani
+W/o Mariyaselvam
+42.
+	
+57/4F
+0.00.50
+0.00.50
+Dry
+-
+-
+Doulath Bee
+W/o Mohammed 
+Yusuf
+43.
+57/4G
+0.00.50
+0.00.50
+Dry
+-
+-
+Humayun
+S/o. Meeranmoitheen
+44.
+57/4H
+0.00.50
+0.00.50
+Dry
+-
+-
+Gajalakshmi
+W/o Gajendiran 
+45.
+57/4I
+0.00.50
+0.00.50
+Dry
+-
+-
+Ganesh
+S/o. Gajendiran
+46.
+57/4J
+0.00.50
+0.00.50
+Dry
+-
+-
+Saravanan
+S/o. Gajendiran
+47.
+57/4K
+0.00.96
+0.00.96
+Dry
+-
+-
+Ayyasami
+S/o. Chellamuthu
+48.
+57/4M
+0.00.55
+0.00.55
+Dry
+-
+-
+Mageshwari
+W/o Harirajan
+49.
+57/4N
+0.00.55
+0.00.55
+Dry
+-
+-
+Gnanasambantham 
+S/o. Rajagopal
+
+
+10	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+50.
+57/5A
+0.35.90
+0.35.74
+Dry
+Barbed Wire 
+Fencing with 
+White
+Stone -80
+-
+1.S.Ravindiran
+S/o. Sundarraj
+2.S.Sathish Kumar
+S/o. Srinivasan
+3.K.Mukunthan
+S/o. Kuppusami
+4.A.Shakila
+W/o Srinivasan
+5.M.Chandrasekaran 
+S/o. Muthusami
+6.S.Ravi
+S/o. Seetharaman
+7. Shakila
+W/o Srinivasan
+51.
+57/5B
+0.00.40
+0.00.40
+Dry
+-
+-
+D.Susila
+W/o Srinivasan
+52.
+57/5C
+0.00.20
+0.00.20
+Dry
+-
+-
+T.Seshadri
+S/o. Tirunavukarasu
+53.
+57/6A1A1
+0.25.02
+0.25.02
+Dry
+Barbed Wire 
+Fencing with 
+White
+Stone -50
+-
+1.S.Ravindiran
+S/o. Sundarraj 
+2.Sathish
+S/o. Srinivasan
+3.Chithra
+W/o. Thachanamoorthy
+54.
+57/6A1B
+0.00.20
+0.00.20
+Dry
+-
+-
+Lakshmi
+W/o Mukunthan
+55.
+57/6A2
+0.00.20
+0.00.20
+Dry
+-
+-
+M.ChandraSekaran 
+S/o. Muthusami
+56.
+57/6B
+0.00.20
+0.00.20
+Dry
+-
+-
+D.Saravanan
+S/o. Thachanamoorthy
+57.
+57/6C
+0.00.20
+0.00.20
+Dry
+-
+-
+D.Jayakumar
+S/o. Thachanamoorthy
+58.
+57/7
+0.00.55
+0.00.55
+Dry
+-
+-
+Ramesh
+S/o. Subramani
+59.
+57/8
+0.00.37
+0.00.37
+Dry
+-
+-
+Mukunthan
+S/o. Kuppusami
+60.
+57/9
+0.00.18
+0.00.18
+Dry
+-
+-
+Mukunthan
+S/o. Kuppusami
+61.
+57/10A
+0.00.53
+0.00.53
+Dry
+Barbed Wire 
+Fencing with 
+White
+Stone -2
+-
+Punitha W/o Mani
+62.
+57/10B
+0.00.43
+0.00.43
+Dry
+-
+-
+Jayaraman
+S/o. Elumalai
+
+
+	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY	
+11
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+63.
+59/1A
+0.14.50
+0.14.50
+Dry
+-
+Amla Plant-1,
+Guava Plant-1,
+Pomegranate 
+Plant-1,
+Jasmine 
+Plant-210,
+Banana 
+Plant-35,
+Bamboo Tree-
+1,
+Drumstick 
+Plant-1,
+Kattuva 
+Tree-1,
+Kattuva 
+Plant-2.
+Suresh
+S/o. Subramani
+64.
+59/1B
+0.22.00
+0.22.00
+Dry
+E.B. Post-1
+Ground nut
+Murugan
+S/o. Damodharan
+65.
+59/2
+0.48.00
+0.48.00
+Dry
+Round Brick
+Stone Well-1,
+Bore Well -1.
+Palm Tree-6
+Palm Plant-5
+Teak Tree-7
+Neem Tree-1
+Neem Plant-2
+Kattuva Tree-1
+Kattuva 
+Plant-3.
+Thuvarakarathinammal
+(Chennai)
+66.
+60/1
+0.77.00
+0.77.00
+Dry
+Round Brick
+Stone Well-1,
+Electric 
+Motor-1.
+Mullai 
+Plant-350
+Teak Tree-6,
+Neem
+Tree-2,
+Guava
+Tree-2,
+Lemon Plant-3,
+Drumstick 
+Plant-1,
+Palm
+Tree -1.
+Thayammal
+W/o Chengaiah
+67.
+60/2
+0.20.00
+0.20.00
+Dry
+-
+-
+R. Chengaiah
+S/o. Ragavalu Naidu 
+68.
+60/3
+0.12.00
+0.12.00
+Dry
+Pipe Line
+-
+Govindasamy
+S/o. Narayanasamy
+69.
+61
+0.82.00
+0.82.00
+Manavari
+Bore Well -1,
+Pipe Line.
+Neem Plant-5,
+Palm Tree-2.
+N. Govindasamy
+S/o. Narayanasamy
+70.
+62/1
+0.16.00
+0.16.00
+Dry
+EB Box-1,
+Bore Well-1,
+Pipe Line.
+-
+N. Govindasamy 
+S/o. Narayanasamy
+
+
+12	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+71.
+62/2A1A1A1
+0.44.46
+0.44.46
+Dry
+-
+-
+1. Kiliammal
+W/o Samikannu
+2.G.Gopinathan
+S/o. Gurunathan
+3.R.Prem Krishnan 
+S/o. Radha Krishnan
+4.H.Vijay Gokul 
+Krishnan
+S/o. Hemaraj
+5.G.Rajasekar
+S/o. Gopal
+6.G.Albin
+S/o. Vilvarayar
+7.K.Sasikala
+W/o Kothandam
+8.V.Hasina Begam 
+W/o Shaik 
+Bathurudhin
+9.Senthil
+S/o. Abaranji
+10.M.Vairamuthu
+S/o. Mariyappan
+11.J.Suresh Kumar 
+S/o. Jayaraman
+12.V.Kavitha
+W/o Vetri Venthan
+13.Viniyogiya
+W/o Ethirajal
+14.M.TamilSelvan
+S/o. Munusami
+15.M.Shanmugam 
+S/o. Muthu
+16.S.Geetha
+W/o Shanmugam
+17.A.Androse
+S/o. Anandharaj
+18.M.Lalitha
+W/o Murugan
+19.M.Suresh
+S/o. Narayanan
+20.G.Murugan
+S/o. Ganesapillai
+21.M.Manjula
+W/o Murugan
+22.M.Navanetha 
+Krishnan
+S/o. Maharajan
+23.D.Kothandam
+S/o. Dhanapal
+24.S.Lakshmi
+W/o Shankar
+25.P.Tamilarasi
+W/o Prakash
+26.B.Shyla W/o Babu
+
+
+	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY	
+13
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+27.N.Jayaraman
+S/o. Narayanasami
+28.S.Sathanantham 
+S/o. Shanmugam
+29.S.Sathish
+S/o. Shankar
+30.Nirmalraj
+S/o. Kannan
+31.Ravindra Babu 
+S/o. Vijayarao
+32.Anandhan
+S/o. Rathinapillai
+72.
+62/2A1B
+0.01.11
+0.01.11
+Dry
+-
+-
+Suman
+S/o. Rajagopal
+73.
+62/2A2
+0.00.84
+0.00.84
+Dry
+-
+-
+Prema
+W/o Rajendran
+74.
+62/2B1A
+0.14.30
+0.14.30
+Dry
+-
+-
+1.Shanmugam
+S/o. Venkattan 
+2.Devendiran
+S/o. Rama Krishnan
+75.
+62/2B1B
+0.26.70
+0.26.70
+Dry
+-
+-
+Anandhan
+S/o. Chengaiyan 
+76.
+62/2B2
+0.41.00
+0.41.00
+Dry
+-
+-
+1.Rajasekar
+S/o. Bakthavatchalam
+2.R.Sengaiya
+S/o. Ragavalu Naidu
+77.
+62/2B3
+0.39.00
+0.39.00
+Dry
+-
+-
+Mohanamba
+D/o Guruvaiah
+78.
+62/3
+0.00.89
+0.00.89
+Dry
+-
+-
+Bharathi
+W/o Sukumar
+79.
+62/4
+0.00.53
+0.00.53
+Dry
+-
+-
+Bharathi
+W/o Sukumar
+80.
+62/5
+0.00.56
+0.00.56
+Dry
+-
+-
+Zarina
+W/o Mohameed 
+Hassan
+81.
+62/6
+0.00.56
+0.00.56
+Dry
+-
+-
+1.Humera Begam
+W/o Abdul Khani,
+2.Abdul Khani
+S/o. Shajinsha.
+82.
+62/7
+0.00.55
+0.00.55
+Dry
+-
+-
+Sivagangai
+W/o Elumalai
+83.
+63/1
+0.19.00
+0.19.00
+Dry
+-
+-
+Padmavathy
+W/o Babu
+
+
+14	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be
+ acquired 
+(in
+Hectares)
+Type of 
+Land 
+(Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to 
+be Acquired
+Details of 
+Trees/Crops
+ in the Lands 
+to be 
+Acquired
+Details of Land 
+Owner/ Interested 
+Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+84.
+63/2A1
+0.15.50
+0.15.50
+Dry
+Round Stone 
+Well-1
+-
+1.Rajagopal
+S/o. Parthasarathy, 
+2.Gajendran
+S/o. Venkatasubbu,
+3.Jayaraman
+S/o. Ragavalu Naidu
+85.
+63/2A2
+0.96.50
+0.96.50
+Dry
+-
+-
+Iyyappan
+S/o. Jayaraman
+86.
+	
+63/2B
+0.15.00
+0.15.00
+Dry
+-
+-
+1.R. Devendiran
+S/o. Ramakrishnan
+2.Kuttyammal
+W/o Rama Krishnan
+ 87.	
+	
+63/2C
+0.36.50
+0.36.50
+Dry
+-
+Palm
+Tree -7
+1.R. Devendiran
+S/o. Ramakrishnan
+2.RamaKrishnan
+S/o. Sengaiya
+88.
+63/2D
+0.15.00
+0.15.00
+Dry
+Electric
+Post -1 
+-
+Vanajatshiammal
+W/o Dilli Naidu
+89.
+63/2E
+0.20.00
+0.20.00
+Dry
+-
+-
+Dilli S/o. Ragavalu 
+90.
+63/3
+0.40.50
+0.40.50
+Manavari
+-
+-
+Padmavathy
+W/o Babu
+91.
+63/4A
+0.43.00
+0.43.00
+Manavari
+Hightension 
+Electric
+Post -1,
+Electric
+Post-1.
+Palm Tree-1
+J. Iyyappan
+S/o. R. Jayaraman 
+92.
+63/4B
+0.41.00
+0.41.00
+Manavari
+Bore Well -1 
+-
+Rajasekar
+S/o. Bakthavatchalam
+93.
+63/5
+0.36.50
+0.36.50
+Manavari
+-
+-
+Chengaiah
+S/o. Ragavalu Naidu
+Total
+14.43.00
+14.29.41
+Total Extent to be Acquired  14.29.41 Hectares.
+(LA-IV-2/8690889/2024)
+No.VI(1)/754(a-3)/2024.
+The Government of Tamil Nadu having been satisfied that the lands specified in the Schedule below have to be 
+acquired for Industrial Purposes, to wit for the Formation of “Tamil Nadu Knowledge City” and having already been 
+decided that the entire amount of compensation to be awarded for the lands is to be paid out of the funds managed 
+by TIDCO. The following notice is issued under sub-section (1) of Section 3 of the Tamil Nadu Acquisition of Land for 
+Industrial Purposes Act, 1997 (Tamil Nadu Act, 10 of 1999).
+NOTICE
+Under sub-section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997 (Tamil Nadu
+Act 10 of 1999), the Governor of Tamil Nadu hereby acquires the land/lands specified in the Schedule below and 
+measuring an extent of 17.48.50 Hectares to the same, a little more or less needed for Industrial Purposes, to wit, 
+for the Formation of “Tamil Nadu Knowledge City”.
+
+
+	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY	
+15
+The plans of the lands are kept in the office of the Land Acquisition Officer / Special District Revenue Officer (LA), 
+SIPCOT Manellore (Phase-III), Kavaraipettai and at the Office of the Special Tahsildar (LA), Tamil Nadu Knowledge 
+City, Unit-2, Taluk Office, Uthukottai which may be inspected at any day during office hours.
+The Schedule
+Tiruvallur District, Uthukottai Taluk, Melmaligaipattu Village
+Unit - 2, Block - 2
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent (in 
+Hectares)
+Extent 
+to be 
+acquired 
+(in 
+Hectares)
+Type of 
+Land (Wet/
+Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the lands to be 
+acquired
+Details of Trees/
+Crops in the lands 
+to be acquired
+Details of  Land 
+owner/ Interested 
+Person
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+1.
+94/2I2A
+17.10.00
+17.10.00
+Dry
+Round Brick 
+Well-1,
+Bore Well-3,
+Cement Water 
+Tank with 
+Cement Shed-1,
+Electric Motor 
+Room (Small)-1,
+Stone Post-134,
+EB Post-5,
+Pipe Line.
+Show Plant-6,
+Show Tree-4,
+Palm Plant-113,
+Neem Tree-5,
+Neem Plant-26,
+Nuna Plant-9,
+Nuna Tree-5,
+Teak Tree-8,
+Tamarind Plant-1,
+Coconut Plant-1,
+Thagara Plant-7,
+Date Palm 
+Plant-3,
+Guava Plant-1,
+Jamun Plant-2,
+Jujube Plant-3,
+Citron Plant-1,
+Peepal Plant -2,
+Sapota Plant-1,
+Paddy.
+1. United Farms
+2. M/s. Chennai Acres
+3. Lalitha Pari W/o. 
+Pari Munikannan
+2.
+94/2I2B
+0.37.00
+0.37.00
+Dry
+Pipe Line
+Palm Tree-55,
+Palm Plant-27,
+Eucalyptus 
+Plant-1,
+Neem Plant-11,
+Nuna Plant-4,
+Peepal Tree-1,
+Banyan Tree-2,
+Banyan Plant-3,
+Date Palm 
+Plant-1,
+Paddy.
+O.Shezhari
+S/o. O.Pitchala Reddy
+3.
+94/2C
+0.01.50
+0.01.50
+Dry
+Vacant Land
+-
+Elangovan
+S/o.Thiyagarajan
+Total
+17.48.50
+17.48.50
+Total Extent to be Acquired: 17.48.50 Hectares.
+(LA-IV-2/8690869/2024)
+No.VI(1)/754(a-4)/2024.
+The Government of Tamil Nadu having been satisfied that the lands specified in the Schedule below have to be 
+acquired for Industrial Purposes, to wit for the Formation of “Tamil Nadu Knowledge City” and having already been 
+decided that the entire amount of compensation to be awarded for the lands is to be paid out of the funds managed 
+
+
+16	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY
+by TIDCO. The following notice is issued under sub-section (1) of Section 3 of the Tamil Nadu Acquisition of Land for 
+Industrial Purposes Act, 1997 (Tamil Nadu Act, 10 of 1999).
+NOTICE
+Under sub-section (1) of Section 3 of the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997 
+(Tamil Nadu Act 10 of 1999), the Governor of Tamil Nadu hereby acquires the land/lands specified in the Schedule 
+below and measuring an extent of 6.35.68 Hectares to the same, a little more or less needed for Industrial Purposes, 
+to wit, for the Formation of “Tamil Nadu Knowledge City”.
+The plans of the lands are kept in the office of the Land Acquisition Officer / Special District Revenue Officer (LA), 
+SIPCOT Manellore (Phase-III), Kavaraipettai and at the Office of the Special Tahsildar (LA), Tamil Nadu Knowledge 
+City, Unit-4, Taluk Office, Uthukottai which may be inspected at any day during office hours.
+The Schedule
+Tiruvallur District, Uthukottai Taluk, 47, Melmaligaipattu Village.
+Unit - 4, Block - 2 
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be 
+Acquired 
+(in 
+Hectares)
+Type of 
+Land 
+(Wet/Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to be 
+Acquired
+Details of Trees/
+Crops in the 
+Lands to be 
+Acquired
+Details of Land Owner/ 
+Interested Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+1.
+94/2I1A2
+0.40.50
+0.40.50
+Dry 
+Compound 
+Wall
+Neem Plant-6,
+Palm Plant-1,
+Kaattu Plant-1.
+1. Sumathi Ramesh
+W/o. Ramesh,
+2. Ramesh 
+S/o. Balasubramaniyam 
+(Late).
+2.
+94/5A1A1
+0.25.95
+0.13.95
+Dry
+Stone Post-45,
+Cement Post-
+2,
+Barbed Wire 
+Fencing with 
+Stone Post-43,
+Compound 
+Wall with Iron 
+Gate-1.
+Neem Plant-9,
+Nuna Plant-2,
+Kaattuva Tree-1
+Kaattuva 
+Plant-4,
+Palm Plant-3, 
+Pongamia 
+Plant-1.
+1. Vijayalakshmi
+W/o. Selvaraj
+2. Maheshwari
+W/o. Jayakumar
+3. Haridoss S/o. Karmegam
+4. Sheena
+W/o. Radhakirshnan
+5. Kalpana W/o. Suresh
+6. Sathya W/o. Srinivasan
+7. Suganya W/o. Santhosh
+8. Anitha D/o. Allimuthu
+9. Dhandapani
+S/o. Lakshmanan
+10. Thamarai Selvi
+W/o. Seenu
+11. Asai Thambi
+S/o. Anandhan
+12. Thangaraj S/o. Renu
+13. Devi W/o. Dhandapani 
+14. Thirumurugan
+S/o. Kannappan
+15. Thulasi
+W/o. Pachaiyappan
+16. Sudhan S/o. Karnan
+17. Mala W/o. Sudhan
+3.
+94/5A1B
+0.00.55
+0.00.55
+Dry
+Stone Post-5
+-
+Ravi S/o. Narayanasamy
+4.
+94/5A1C
+0.00.55
+0.00.55
+Dry
+Stone Post-4 
+-
+Rajalakshmi
+W/o. Selvakumar
+
+
+	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY	
+17
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be 
+Acquired 
+(in 
+Hectares)
+Type of 
+Land 
+(Wet/Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to be 
+Acquired
+Details of Trees/
+Crops in the 
+Lands to be 
+Acquired
+Details of Land Owner/ 
+Interested Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+5.
+94/5A1D
+0.01.11
+0.01.11
+Dry
+Stone Post-5
+Palm Plant -4
+Parthasarathy
+S/o. Pachaiyappan
+6.
+94/5A1E
+0.00.55
+0.00.55
+Dry
+Stone Post-8
+-
+Sivakumar S/o. Krishnan
+7.
+94/5A1F
+0.00.55
+0.00.55
+Dry
+Stone Post-7
+-
+Pachaiyammal
+W/o.Krishnan
+8.
+94/5A2
+0.01.63
+0.01.63
+Dry
+Stone Post-22
+Palm Plant-13,
+Kaattuva Tree-3,
+Kaattuva 
+Plant-2.
+Francis Disilva S/o. Alex
+9.
+94/5A3
+0.01.11
+0.01.11
+Dry
+Stone Post-13
+-
+Pazhani S/o.Sivalingam
+10.
+94/5A4
+0.01.11
+0.01.11
+Dry
+Stone Post-13
+Neem Plant -1
+Nagarathinam 
+W/o.Ashok Kumar
+11.
+94/5A5
+0.00.55
+0.00.55
+Dry
+Stone Post-12
+-
+Kesavan S/o.Shanmugam
+12.
+94/5A6
+0.02.23
+0.02.23
+Dry
+Stone Post-25
+Neem Tree-1,
+Neem Plant-3.
+Merry Alphonse Emalda 
+W/o. Sathiyaraj
+13.
+94/5B
+0.00.55
+0.00.55
+Dry
+Stone Post-1
+-
+Reccoboke Kasbal Prayer 
+Ministry Founder Arul 
+Jeevanandham
+14.
+94/8A
+0.10.10
+0.10.10
+Dry
+Barbed Wire 
+Fencing with 
+Stone Post–42
+Palm Plant-22,
+Neem Plant-7.
+Anandhavalli W/o. 
+Karthikeyan
+15.
+94/8B
+0.10.10
+0.10.10
+Dry
+Barbed Wire 
+Fencing with 
+Stone
+Post – 52,
+Un Painted 
+Cement
+Post-2.
+Neem Plant -8
+Guruprasad S/o.Mohan
+16.
+94/9
+0.40.50
+0.40.50
+Dry
+Concrete 
+House with 
+Cement
+Sheet -1
+Iron Gate-1
+Iron Post-1
+Bore Well-1
+Pipe Line
+Cement Post-1
+Compound 
+Wall and 
+Cement Water 
+Tank
+Cement Roof 
+Bath Room 
+and Toilet 
+Room-1
+Septic Tank-1
+Cement Road 
+(20m)
+Fig Tree-2,
+Jack Fruit
+Tree – 4,
+Pomegranate 
+Plant-5,
+Kodukkapuli 
+Tree -3,
+Amla Tree-1,
+Amla Plant-4, 
+Peepal Tree-1,
+Peepal Plant-1,
+Guava Plant-8,
+Neem Tree-5,
+Neem Plant-8,
+Jamun Tree-2,
+Vilangai Plant-2,
+Citron Plant-3,
+Sapota Plant-5,
+Mango Tree-35,
+Dhanapal S/o.Mani
+
+
+18	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be 
+Acquired 
+(in 
+Hectares)
+Type of 
+Land 
+(Wet/Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to be 
+Acquired
+Details of Trees/
+Crops in the 
+Lands to be 
+Acquired
+Details of Land Owner/ 
+Interested Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+Magizham
+Tree-2,
+Coconut
+Tree-25,
+Teak Tree-56,
+Teak Plant-11,
+Poovarasan 
+Tree-1,
+Lemon Plant-7.
+17.
+94/11
+0.81.00
+0.81.00
+Dry
+Bore Well -1
+Eucalyptus 
+Tree-2,
+Amla Plant-1,
+Savukku Plant-1,
+Neem Plant-3. 
+Pachava Leela Krishna 
+Mohan Rao
+S/o. Pachava 
+Lakshmaiah
+18.
+94/12A
+2.12.50
+2.12.50
+Dry
+Cement Sheet 
+Building-2
+Cement
+Post-17
+Cement Pole-8
+Chimney 
+Pillar-1
+Neem Plant-1,
+Almond Plant-8,
+Othi Plant-6,
+Pongamia 
+Plant-2,
+Poovarasan 
+Plant-3,
+Guava Plant-1.
+Leela Krishna Mohan 
+Rao S/o. Lakshmaiah 
+Pachava 
+19.
+94/12B
+1.21.50
+1.21.50
+Dry
+Cement Sheet 
+Building-2,
+Cement
+Post-50,
+Cement
+Pole-9,
+EB Post-1,
+Pipe Line,
+Cement Water 
+Tank-4,
+Cement Sheet 
+House–2.
+Pongamia Plant 
+-20,
+Poovarasan 
+Plant-14,
+Amla Plant-1,
+Guava Plant-5,
+Custard Apple 
+Plant-1,
+Mango Plant-1,
+Jack Fruit 
+Plant-1,
+Jamun Plant-1,
+Nandhiyavattai 
+Plant-1.
+Pachava Leela Krishna 
+Mohan Rao
+S/o. Lakshmaiah 
+Pachava 
+20.
+94/17
+0.50.50
+0.50.50
+Dry
+Cement Sheet 
+Building-2,
+Cement
+Post-22,
+G.I Sheet 
+Godown-1,
+Pine Line,
+Cement
+Pole-4.
+Almond Plant-1
+Lakshmaiah Pachava
+S/o. Pachava Leela 
+Krishna Mohan Rao
+21.
+94/24
+0.01.86
+0.01.86
+Dry
+Stone Post-15
+Kaattuva Tree-4
+Akilesh Sharma
+S/o. Lakshman Sharma
+22.
+94/25
+0.00.54
+0.00.54
+Dry
+Stone Post-3
+Palm Plant-3
+Akilesh Sharma
+S/o. Lakshman Sharma
+
+
+	
+TAMIL  NADU  GOVERNMENT  GAZETTE  EXTRAORDINARY	
+19
+Sl. 
+No.
+Survey 
+No.
+Total 
+Extent
+ (in 
+Hectares)
+Extent 
+to be 
+Acquired 
+(in 
+Hectares)
+Type of 
+Land 
+(Wet/Dry/
+Natham/ 
+Manavari)
+Details of 
+Structures in 
+the Lands to be 
+Acquired
+Details of Trees/
+Crops in the 
+Lands to be 
+Acquired
+Details of Land Owner/ 
+Interested Persons
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+23.
+94/26
+0.00.56
+0.00.56
+Dry
+Stone Post-3
+Neem Plant -1
+Akilesh Sharma
+S/o. Lakshman Sharma
+24.
+94/27
+0.00.55
+0.00.55
+Dry
+Stone Post-6
+-
+Sridevi W/o. Narasimman
+25.
+94/28
+0.00.55
+0.00.55
+Dry
+Stone Post-2
+Pongamia
+Plant -1
+Gomathi W/o. Venkatesan
+26.
+94/29
+0.40.48
+0.40.48
+Dry
+Vacant Land
+-
+Selvashankari
+W/o. Natarajan
+Total
+6.47.68
+6.35.68
+ Total Extent to be Acquired: 6.35.68 Hectares.
+	
+K.S. PALANISAMY,
+	
+Commissioner of Land Administration.
+PRINTED  AND  PUBLISHED  BY  THE COMMISSIONER  OF  STATIONERY  AND  PRINTING, CHENNAI 
+ON  BEHALF  OF  THE  GOVERNMENT  OF  TAMIL  NADU

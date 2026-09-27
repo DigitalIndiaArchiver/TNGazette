@@ -71,10 +71,13 @@ def read_rows(path, columns):
     mangled PDF text extraction. Both break naive reads and pandas/parquet
     writes, so normalise here instead of at every call site.
 
-    A leading row identical to ``columns`` is treated as the header and
-    dropped, so callers get data rows only.
+    The cleaning happens *before* parsing: current CPython's csv reader raises
+    on a NUL mid-parse, and splitting lines by hand would corrupt any field
+    containing a quoted newline. A leading row identical to ``columns`` is
+    treated as the header and dropped, so callers get data rows only.
     """
     import csv
+    import io
 
     try:
         csv.field_size_limit(1 << 30)
@@ -83,20 +86,18 @@ def read_rows(path, columns):
 
     if not path.exists():
         return []
+    text = path.read_text(encoding="utf-8", errors="replace")
+    text = text.replace("\x00", "").replace("\r\n", "\n").replace("\r", "\n")
     out = []
-    with path.open(newline="", encoding="utf-8", errors="replace") as fh:
-        for raw in csv.reader(fh):
-            if not raw or not any(cell.strip() for cell in raw):
-                continue
-            values = [
-                cell.replace("\x00", "").replace("\r", " ").strip()
-                for cell in raw
-            ]
-            if not any(values):
-                continue
-            if values == list(columns):
-                continue  # header row
-            out.append(dict(zip(columns, values)))
+    for raw in csv.reader(io.StringIO(text)):
+        if not raw or not any(cell.strip() for cell in raw):
+            continue
+        values = [cell.strip() for cell in raw]
+        if not any(values):
+            continue
+        if values == list(columns):
+            continue  # header row
+        out.append(dict(zip(columns, values)))
     return out
 
 

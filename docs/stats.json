@@ -1,14 +1,104 @@
 {
   "generated_at": "2026-09-27",
   "totals": {
-    "gazette_parts": 7267,
-    "gazette_issues": 826,
-    "extraordinary": 7412,
-    "part_years": 2,
+    "gazette_parts": 7112,
+    "gazette_issues": 810,
+    "extraordinary": 7260,
+    "part_years": 17,
     "markdown_docs": 13843
   },
   "latest_issue": 38,
   "ordinary_years": [
+    {
+      "year": 2008,
+      "parts": 124,
+      "first_date": "2008-10-01",
+      "last_date": "2008-12-31"
+    },
+    {
+      "year": 2009,
+      "parts": 500,
+      "first_date": "2009-01-07",
+      "last_date": "2009-12-30"
+    },
+    {
+      "year": 2010,
+      "parts": 462,
+      "first_date": "2010-01-06",
+      "last_date": "2010-12-29"
+    },
+    {
+      "year": 2011,
+      "parts": 419,
+      "first_date": "2011-01-05",
+      "last_date": "2011-12-28"
+    },
+    {
+      "year": 2012,
+      "parts": 436,
+      "first_date": "2012-01-04",
+      "last_date": "2012-12-26"
+    },
+    {
+      "year": 2013,
+      "parts": 428,
+      "first_date": "2013-01-02",
+      "last_date": "2013-12-25"
+    },
+    {
+      "year": 2014,
+      "parts": 426,
+      "first_date": "2014-01-01",
+      "last_date": "2014-12-31"
+    },
+    {
+      "year": 2015,
+      "parts": 440,
+      "first_date": "2015-01-07",
+      "last_date": "2015-12-30"
+    },
+    {
+      "year": 2016,
+      "parts": 436,
+      "first_date": "2016-01-06",
+      "last_date": "2016-12-28"
+    },
+    {
+      "year": 2017,
+      "parts": 508,
+      "first_date": "2017-01-04",
+      "last_date": "2017-12-27"
+    },
+    {
+      "year": 2018,
+      "parts": 509,
+      "first_date": "2018-01-03",
+      "last_date": "2018-12-26"
+    },
+    {
+      "year": 2019,
+      "parts": 452,
+      "first_date": "2019-01-02",
+      "last_date": "2019-12-25"
+    },
+    {
+      "year": 2020,
+      "parts": 380,
+      "first_date": "2020-01-01",
+      "last_date": "2020-12-30"
+    },
+    {
+      "year": 2021,
+      "parts": 424,
+      "first_date": "2021-01-06",
+      "last_date": "2021-12-29"
+    },
+    {
+      "year": 2022,
+      "parts": 458,
+      "first_date": "2022-01-05",
+      "last_date": "2022-12-28"
+    },
     {
       "year": 2023,
       "parts": 398,
@@ -24,6 +114,66 @@
   ],
   "issue_years": [
     {
+      "year": 2008,
+      "issues": 13
+    },
+    {
+      "year": 2009,
+      "issues": 51
+    },
+    {
+      "year": 2010,
+      "issues": 51
+    },
+    {
+      "year": 2011,
+      "issues": 49
+    },
+    {
+      "year": 2012,
+      "issues": 50
+    },
+    {
+      "year": 2013,
+      "issues": 50
+    },
+    {
+      "year": 2014,
+      "issues": 50
+    },
+    {
+      "year": 2015,
+      "issues": 52
+    },
+    {
+      "year": 2016,
+      "issues": 51
+    },
+    {
+      "year": 2017,
+      "issues": 52
+    },
+    {
+      "year": 2018,
+      "issues": 52
+    },
+    {
+      "year": 2019,
+      "issues": 52
+    },
+    {
+      "year": 2020,
+      "issues": 53
+    },
+    {
+      "year": 2021,
+      "issues": 52
+    },
+    {
+      "year": 2022,
+      "issues": 52
+    },
+    {
       "year": 2023,
       "issues": 42
     },
@@ -34,22 +184,361 @@
   ],
   "extraordinary_years": [
     {
+      "year": 2008,
+      "rows": 29,
+      "first_date": "2008-12-01",
+      "last_date": "2008-12-31"
+    },
+    {
+      "year": 2009,
+      "rows": 368,
+      "first_date": "2009-01-02",
+      "last_date": "2009-12-31"
+    },
+    {
+      "year": 2010,
+      "rows": 397,
+      "first_date": "2010-01-01",
+      "last_date": "2010-12-31"
+    },
+    {
+      "year": 2011,
+      "rows": 480,
+      "first_date": "2011-01-01",
+      "last_date": "2011-12-31"
+    },
+    {
+      "year": 2012,
+      "rows": 359,
+      "first_date": "2012-01-02",
+      "last_date": "2012-12-28"
+    },
+    {
+      "year": 2013,
+      "rows": 393,
+      "first_date": "2013-01-01",
+      "last_date": "2013-12-31"
+    },
+    {
+      "year": 2014,
+      "rows": 263,
+      "first_date": "2014-01-03",
+      "last_date": "2014-12-19"
+    },
+    {
+      "year": 2015,
+      "rows": 267,
+      "first_date": "2015-01-02",
+      "last_date": "2015-12-31"
+    },
+    {
+      "year": 2016,
+      "rows": 302,
+      "first_date": "2016-01-01",
+      "last_date": "2016-12-31"
+    },
+    {
+      "year": 2017,
+      "rows": 440,
+      "first_date": "2017-01-02",
+      "last_date": "2017-12-29"
+    },
+    {
+      "year": 2018,
+      "rows": 443,
+      "first_date": "2018-01-01",
+      "last_date": "2018-12-31"
+    },
+    {
+      "year": 2019,
+      "rows": 490,
+      "first_date": "2019-01-03",
+      "last_date": "2019-12-31"
+    },
+    {
+      "year": 2020,
+      "rows": 564,
+      "first_date": "2020-01-02",
+      "last_date": "2020-12-31"
+    },
+    {
+      "year": 2021,
+      "rows": 648,
+      "first_date": "2021-01-04",
+      "last_date": "2021-12-31"
+    },
+    {
+      "year": 2022,
+      "rows": 594,
+      "first_date": "2022-01-01",
+      "last_date": "2022-12-31"
+    },
+    {
       "year": 2023,
-      "rows": 372,
+      "rows": 368,
       "first_date": "2023-01-02",
       "last_date": "2023-10-27"
     },
     {
       "year": 2024,
       "rows": 439,
-      "first_date": "01-02-2024",
-      "last_date": "31-12-2024"
+      "first_date": "2024-01-02",
+      "last_date": "2024-12-31"
     },
     {
       "year": 2026,
       "rows": 416,
-      "first_date": "01-04-2026",
-      "last_date": "31-08-2026"
+      "first_date": "2026-01-02",
+      "last_date": "2026-09-24"
+    }
+  ],
+  "years": [
+    {
+      "year": 2008,
+      "parts": 124,
+      "issues": 13,
+      "extraordinary": 29,
+      "ordinary_md": 123,
+      "extra_md": 29,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2009,
+      "parts": 500,
+      "issues": 51,
+      "extraordinary": 368,
+      "ordinary_md": 493,
+      "extra_md": 361,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2010,
+      "parts": 462,
+      "issues": 51,
+      "extraordinary": 397,
+      "ordinary_md": 457,
+      "extra_md": 389,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2011,
+      "parts": 419,
+      "issues": 49,
+      "extraordinary": 480,
+      "ordinary_md": 415,
+      "extra_md": 464,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2012,
+      "parts": 436,
+      "issues": 50,
+      "extraordinary": 359,
+      "ordinary_md": 429,
+      "extra_md": 353,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2013,
+      "parts": 428,
+      "issues": 50,
+      "extraordinary": 393,
+      "ordinary_md": 422,
+      "extra_md": 381,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2014,
+      "parts": 426,
+      "issues": 50,
+      "extraordinary": 263,
+      "ordinary_md": 423,
+      "extra_md": 250,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2015,
+      "parts": 440,
+      "issues": 52,
+      "extraordinary": 267,
+      "ordinary_md": 436,
+      "extra_md": 138,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2016,
+      "parts": 436,
+      "issues": 51,
+      "extraordinary": 302,
+      "ordinary_md": 429,
+      "extra_md": 283,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2017,
+      "parts": 508,
+      "issues": 52,
+      "extraordinary": 440,
+      "ordinary_md": 502,
+      "extra_md": 415,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2018,
+      "parts": 509,
+      "issues": 52,
+      "extraordinary": 443,
+      "ordinary_md": 506,
+      "extra_md": 419,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2019,
+      "parts": 452,
+      "issues": 52,
+      "extraordinary": 490,
+      "ordinary_md": 451,
+      "extra_md": 472,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2020,
+      "parts": 380,
+      "issues": 53,
+      "extraordinary": 564,
+      "ordinary_md": 380,
+      "extra_md": 545,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2021,
+      "parts": 424,
+      "issues": 52,
+      "extraordinary": 648,
+      "ordinary_md": 424,
+      "extra_md": 628,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2022,
+      "parts": 458,
+      "issues": 52,
+      "extraordinary": 594,
+      "ordinary_md": 457,
+      "extra_md": 580,
+      "files": {
+        "parts": "Gazattes.csv",
+        "issues": "GazatteIssues.csv",
+        "extraordinary": "ExtraOrdinaryGazattes.csv"
+      }
+    },
+    {
+      "year": 2023,
+      "parts": 398,
+      "issues": 42,
+      "extraordinary": 368,
+      "ordinary_md": 128,
+      "extra_md": 81,
+      "files": {
+        "parts": "Gazattes_2023.csv",
+        "issues": "GazatteIssues_2023.csv",
+        "extraordinary": "ExtraOrdinaryGazattes_2023.csv"
+      }
+    },
+    {
+      "year": 2024,
+      "parts": 0,
+      "issues": 0,
+      "extraordinary": 439,
+      "ordinary_md": 0,
+      "extra_md": 430,
+      "files": {
+        "parts": null,
+        "issues": null,
+        "extraordinary": "ExtraOrdinaryGazattes_2024.csv"
+      }
+    },
+    {
+      "year": 2025,
+      "parts": 0,
+      "issues": 0,
+      "extraordinary": 0,
+      "ordinary_md": 0,
+      "extra_md": 870,
+      "files": {
+        "parts": null,
+        "issues": null,
+        "extraordinary": null
+      }
+    },
+    {
+      "year": 2026,
+      "parts": 312,
+      "issues": 38,
+      "extraordinary": 416,
+      "ordinary_md": 0,
+      "extra_md": 280,
+      "files": {
+        "parts": "Gazattes_2026.csv",
+        "issues": "GazatteIssues_2026.csv",
+        "extraordinary": "ExtraOrdinaryGazattes_2026.csv"
+      }
     }
   ],
   "markdown": {

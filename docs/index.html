@@ -85,9 +85,8 @@
 
   <section class="usage">
     <h2>Query it in one line</h2>
-    <div class="note mono">duckdb -c "SELECT Date, Issue, count(*) FROM
-    read_csv_auto('https://raw.githubusercontent.com/DigitalIndiaArchiver/TNGazette/main/data/Gazattes_2026.csv')
-    GROUP BY 1,2 ORDER BY 1 DESC LIMIT 5"</div>
+    <div class="note mono">CSV=https://raw.githubusercontent.com/DigitalIndiaArchiver/TNGazette/main/data/Gazattes_2026.csv
+duckdb -c "SELECT Date, Issue, count(*) FROM read_csv_auto('$CSV') GROUP BY 1,2 ORDER BY 1 DESC LIMIT 5"</div>
     <p class="stat-meta">No API, no key, no database to set up — plain CSV
     on raw.githubusercontent.com, mirrored in the git history forever.</p>
   </section>

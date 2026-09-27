@@ -1,8 +1,9 @@
 # TN Gazette Extractor & Archiver
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![FlatGithub](https://img.shields.io/badge/FlatGithub-View%20Data-green?style=flat-square&logo=github)](https://flatgithub.com/srikanthlogic/TNGazette)
-[![Open in Gitpod](https://img.shields.io/badge/Open%20in-Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://github.com/srikanthlogic/TNGazette)
+[![Weekly Extract](https://github.com/DigitalIndiaArchiver/TNGazette/actions/workflows/main.yml/badge.svg)](https://github.com/DigitalIndiaArchiver/TNGazette/actions/workflows/main.yml)
+[![FlatGithub](https://img.shields.io/badge/FlatGithub-View%20Data-green?style=flat-square&logo=github)](https://flatgithub.com/DigitalIndiaArchiver/TNGazette)
+[![Open in Gitpod](https://img.shields.io/badge/Open%20in-Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DigitalIndiaArchiver/TNGazette)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7855631.svg)](https://doi.org/10.5281/zenodo.7855631)
 
 Archives Tamil Nadu Government Gazettes (Ordinary & Extraordinary) from the [Stationery and Printing Department website](https://www.stationeryprinting.tn.gov.in/). Produces CSV and Parquet datasets published to FlatGitHub and archived to the Internet Archive via Wayback Machine.
@@ -17,6 +18,29 @@ Both CSV and [Parquet](https://parquet.apache.org/) files are generated:
 | Parquet | 42 MB | Machine-friendly, fast analytical queries, type-preserving |
 
 Parquet compresses ~4× smaller than CSV and preserves column types (dates, integers) — ideal for programmatic analysis with pandas, DuckDB, or any Parquet-compatible tool.
+
+## Coverage
+
+| Dataset | Files | Coverage | Notes |
+|---------|-------|----------|-------|
+| Ordinary gazettes (pre-2024) | `Gazattes.csv`, `GazatteIssues.csv`, `*_2023.*` | 2008 – 2023 | Old-site era; legacy column formats |
+| Ordinary gazettes (2024–2025) | — | **missing** | Site never served these post-redesign; needs Wayback archaeology (#16) |
+| Ordinary gazettes (2026) | `Gazattes_2026.*`, `GazatteIssues_2026.*` | issues the redesigned site currently lists (~latest 38 weekly issues, no year pagination) | Backfilled 2026-09-27; kept fresh by `scrape_ordinary.py` |
+| Extraordinary gazettes | `ExtraOrdinaryGazattes*.csv/parquet` | 2008 – 2026-09 | Fresh weekly; 2025 file absent for unknown reasons |
+
+## Where scraping runs
+
+`www.stationeryprinting.tn.gov.in` **blocks non-India IPs** (connect timeouts from
+GitHub-hosted runners, most cloud egress, and other foreign networks — verified
+2026-09-27: Oracle Mumbai reaches the site fine, Azure/AWS US cannot). Consequences:
+
+- The weekly workflow runs a reachability **preflight**; when geo-blocked it skips
+  the scrapes and emits a `::warning` instead of pretending nothing happened.
+- Actual scraping needs an **Indian vantage point**: run the scripts from any
+  India-egress machine (`python scrape_ordinary.py`, `python scrape_gazettes.py`)
+  and push, or wire a self-hosted runner in India.
+- `archive_new_links.py` (Wayback Machine) and the unit tests are geo-independent
+  and keep working from anywhere.
 
 ## Usage
 

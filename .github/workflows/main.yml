@@ -3,7 +3,8 @@ name: Weekly Extract
 on:
   push:
     branches: ["main"]
-    paths: ["tn_gazette_archiver.py", "scrape_gazettes.py", "archive_new_links.py",
+    paths: ["tn_gazette_archiver.py", "scrape_gazettes.py", "scrape_ordinary.py",
+            "archive_new_links.py", "tn_lib.py", "tests/**",
             ".github/workflows/main.yml", "requirements.txt"]
   workflow_dispatch:
   schedule:
@@ -34,9 +35,42 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Scrape new Extraordinary Gazettes
-        timeout-minutes: 3
+      - name: Preflight — is the site reachable from this runner?
+        id: preflight
+        run: |
+          if curl -sS -o /dev/null --max-time 20 \
+              "https://www.stationeryprinting.tn.gov.in/gazette.php?id=MjAyNg=="; then
+            echo "reachable=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "reachable=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::stationeryprinting.tn.gov.in is unreachable from this runner (the site blocks non-India IPs). Scrapes skipped, data not refreshed this run. Scraping requires an Indian vantage point - see README, 'Where scraping runs'."
+          fi
+
+      - name: Unit tests
+        run: python -m pytest tests/ -q
+
+      - name: Scrape extraordinary gazettes
+        if: steps.preflight.outputs.reachable == 'true'
+        timeout-minutes: 5
         run: python scrape_gazettes.py
+
+      - name: Scrape ordinary gazettes (latest issues)
+        if: steps.preflight.outputs.reachable == 'true'
+        timeout-minutes: 20
+        run: python scrape_ordinary.py
+
+      - name: Fail if 2026 ordinary data went missing
+        if: steps.preflight.outputs.reachable == 'true'
+        run: |
+          python - <<'PY'
+          import pandas as pd
+          from pathlib import Path
+          p = Path("data/Gazattes_2026.csv")
+          assert p.exists(), "Gazattes_2026.csv missing after scrape"
+          n = len(pd.read_csv(p))
+          assert n > 0, "Gazattes_2026.csv has zero rows after scrape"
+          print(f"Gazattes_2026.csv ok: {n} rows")
+          PY
 
       - name: Archive unarchived PDF links to Wayback Machine
         timeout-minutes: 5

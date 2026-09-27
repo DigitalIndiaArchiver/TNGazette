@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """Scrape TN Gazette extraordinary pages and save CSVs + Parquets."""
-import base64, csv, io, requests
+import base64, csv, io, datetime, sys, requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
 years = [
-    (base64.b64encode(b'2024').decode(), 2024),
-    (base64.b64encode(b'2025').decode(), 2025),
-    (base64.b64encode(b'2026').decode(), 2026),
+    (base64.b64encode(str(y).encode()).decode(), y)
+    for y in range(2024, datetime.date.today().year + 1)
 ]
 
 HEADERS = ['Issue No', 'Issue Date', 'Extraordinary Part & Section', 'PDF Link',
@@ -19,6 +18,7 @@ def esc(val):
         return '"' + s.replace('"', '""') + '"'
     return s
 
+failed_years = []
 for b64_id, year in years:
     url = f'https://www.stationeryprinting.tn.gov.in/extra_ordinary_lists.php?id={b64_id}'
     print(f'Fetching {year}...')
@@ -27,11 +27,13 @@ for b64_id, year in years:
         resp.raise_for_status()
     except requests.RequestException as e:
         print(f'  Error fetching {year}: {e}')
+        failed_years.append(year)
         continue
     soup = BeautifulSoup(resp.content, 'html.parser')
     table = soup.find('table')
     if not table:
         print(f'  No table found for {year}')
+        failed_years.append(year)
         continue
     rows = table.find_all('tr')
     data = []
@@ -65,5 +67,12 @@ for b64_id, year in years:
     filepath_parquet = f'data/ExtraOrdinaryGazattes_{year}.parquet'
     df.to_parquet(filepath_parquet, index=False, engine='pyarrow')
     print(f'  Saved {len(data)} entries to {filepath_parquet}')
+
+if len(failed_years) == len(years):
+    print(f'All {len(years)} years failed to scrape - failing loudly.')
+    sys.exit(1)
+
+if failed_years:
+    print(f'Partial: years failed: {failed_years}')
 
 print('Done!')

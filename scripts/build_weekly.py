@@ -135,6 +135,65 @@ def page(title, description, body):
 """
 
 
+def short(s, n=140):
+    s = " ".join(str(s or "").split())
+    if len(s) <= n:
+        return esc(s)
+    return esc(s[:n].rstrip()) + "…"
+
+
+def tldr_section(rows_o, rows_x):
+    """One line per distinct subject: ordinary part categories + each
+    extraordinary notification."""
+    items = []
+    seen = {}
+    for r in rows_o:
+        key = " ".join(str(r.get("Content") or "").split()).lower()
+        if not key:
+            key = ("part:" + str(r.get("Part") or "")).lower()
+        seen.setdefault(key, [r, 0])
+        seen[key][1] += 1
+    n_issues = len({str(r.get("Issue") or "") for r in rows_o})
+    if rows_o:
+        parts = sorted(seen.values(), key=lambda v: -v[1])
+        for r, n in parts:
+            note = f' <span class="stat-meta">({n} part{"s" if n > 1 else ""})</span>' if n > 1 else ""
+            items.append(
+                f'      <li><strong>Ordinary</strong> — {short(r.get("Content"))}{note} '
+                f'<a href="#ordinary">parts →</a></li>')
+    for r in sorted(rows_x, key=lambda r: str(r.get("Issue Date") or "")):
+        no = str(r.get("Issue No") or "").strip() or "?"
+        d = parse_extra_date(str(r.get("Issue Date") or ""))
+        label = f"Ex. no. {no}" + (f" ({d.strftime('%d %b')})" if d else "")
+        pieces = [f"<strong>{esc(label)}</strong>"]
+        subject = " ".join(str(r.get("Subject") or "").split())
+        dept = str(r.get("Department") or "").strip()
+        if dept and len(subject) > len(dept):
+            idx = subject.find(dept)
+            if idx > 0:
+                subject = subject[:idx].rstrip(" .-–—;")
+        subj = short(subject)
+        if subj:
+            pieces.append(subj)
+        dept = short(r.get("Department"), 60)
+        if dept:
+            pieces.append(dept)
+        link = ""
+        if (r.get("PDF Link") or "").strip():
+            link = f' <a href="{esc(r["PDF Link"])}">PDF ↗</a>'
+        items.append(f"      <li>{' — '.join(pieces)}{link}</li>")
+    if not items:
+        return ""
+    lis = "\n".join(items)
+    return f"""
+  <section class="tldr">
+    <h2>TL;DR — what the gazette covered this week</h2>
+    <ul>
+{lis}
+    </ul>
+  </section>"""
+
+
 def ordinary_table(rows, year):
     if not rows:
         return ""
@@ -184,6 +243,7 @@ def week_body(wk, weeks, current, lede=None, include_archive=True):
     <div class="stat"><div class="stat-num">{len(rows_o)}</div><div class="stat-label">ordinary parts</div></div>
     <div class="stat"><div class="stat-num">{len(rows_x)}</div><div class="stat-label">extraordinary notifications</div></div>
   </section>"""
+    tldr = tldr_section(rows_o, rows_x)
     arch = [w for w in sorted(weeks, reverse=True) if w != wk]
     arch_items = "\n".join(
         f'      <li><a href="{week_file(w)}.html">{week_title(w)}</a></li>' for w in arch)
@@ -200,12 +260,13 @@ def week_body(wk, weeks, current, lede=None, include_archive=True):
     {lede_html}
   </section>
 {stats}
+{tldr}
   <section>
-    <h2>Ordinary gazette parts</h2>
+    <h2 id="ordinary">Ordinary gazette parts</h2>
     {ordinary_table(rows_o, wy) or '<p class="stat-meta">No ordinary issues dated this week.</p>'}
   </section>
   <section>
-    <h2>Extraordinary notifications</h2>
+    <h2 id="extraordinary">Extraordinary notifications</h2>
     {extra_table(rows_x, wy) or '<p class="stat-meta">No extraordinary notifications dated this week.</p>'}
   </section>
   <section class="usage">

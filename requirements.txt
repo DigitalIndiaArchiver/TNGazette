@@ -5,4 +5,4 @@ pandas==1.5.3
 numpy<2,>=1.21.0
 lxml
 datasette
-pyarrow
+pyarrowpytest==8.4.2

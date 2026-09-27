@@ -103,10 +103,16 @@ def main():
                         help="Year id to request from the listing page")
     parser.add_argument("--delay", type=float, default=0.7,
                         help="Seconds between requests (be polite)")
+    parser.add_argument("--proxy", default="",
+                        help="Proxy URL for geo-blocked networks, e.g. "
+                             "socks5h://127.0.0.1:31080 from an SSH -D tunnel "
+                             "to an Indian host (needs pysocks)")
     args = parser.parse_args()
 
     import requests
     session = requests.Session()
+    if args.proxy:
+        session.proxies = {"http": args.proxy, "https": args.proxy}
     session.headers["User-Agent"] = (
         "TNGazette Archiver (github.com/DigitalIndiaArchiver/TNGazette)")
 

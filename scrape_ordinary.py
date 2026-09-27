@@ -15,6 +15,7 @@ import argparse
 import sys
 import time
 from datetime import datetime
+from pathlib import Path
 
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -84,7 +85,8 @@ def parse_issue_details(html):
 
 def read_existing(path):
     if not path.exists():
-        return pd.DataFrame(columns=GAZZATTES_COLUMNS if "Gazattes_" in path.name else ISSUES_COLUMNS)
+        cols = GAZATTES_COLUMNS if "Gazattes_" in path.name else ISSUES_COLUMNS
+        return pd.DataFrame(columns=cols)
     return pd.read_csv(path, dtype={"Issue": str, "Issue No": str})
 
 
@@ -101,10 +103,16 @@ def main():
                         help="Year id to request from the listing page")
     parser.add_argument("--delay", type=float, default=0.7,
                         help="Seconds between requests (be polite)")
+    parser.add_argument("--proxy", default="",
+                        help="Proxy URL for geo-blocked networks, e.g. "
+                             "socks5h://127.0.0.1:31080 from an SSH -D tunnel "
+                             "to an Indian host (needs pysocks)")
     args = parser.parse_args()
 
     import requests
     session = requests.Session()
+    if args.proxy:
+        session.proxies = {"http": args.proxy, "https": args.proxy}
     session.headers["User-Agent"] = (
         "TNGazette Archiver (github.com/DigitalIndiaArchiver/TNGazette)")
 
@@ -117,6 +125,7 @@ def main():
         sys.exit(1)
 
     issues_df = pd.DataFrame(issues, columns=ISSUES_COLUMNS)
+    issues_df["Date"] = pd.to_datetime(issues_df["Date"])
 
     rows = []
     for i, issue in enumerate(issues, 1):
@@ -129,7 +138,7 @@ def main():
               f"({issue['Date'].date()}): {len(detail)} parts")
         time.sleep(args.delay)
 
-    gazattes_df = pd.DataFrame(rows, columns=GAZZATTES_COLUMNS)
+    gazattes_df = pd.DataFrame(rows, columns=GAZATTES_COLUMNS)
 
     years = sorted({d.year for d in issues_df["Date"]})
     for year in years:
@@ -140,11 +149,9 @@ def main():
         issues_path = f"{DATA_DIR}/GazatteIssues_{year}.csv"
         gazattes_path = f"{DATA_DIR}/Gazattes_{year}.csv"
         issues_merged = merge_year_frames(
-            read_existing(__import__("pathlib").Path(issues_path)),
-            issues_year, ["URL"])
+            read_existing(Path(issues_path)), issues_year, ["URL"])
         gazattes_merged = merge_year_frames(
-            read_existing(__import__("pathlib").Path(gazattes_path)),
-            gazattes_year, ["URL"])
+            read_existing(Path(gazattes_path)), gazattes_year, ["URL"])
 
         issues_merged.to_csv(issues_path, index=False, date_format="%Y-%m-%d")
         gazattes_merged.to_csv(gazattes_path, index=False, date_format="%Y-%m-%d")

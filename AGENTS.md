@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-Archives Tamil Nadu Government Gazettes (both Ordinary and Extraordinary) from the [Stationery and Printing Department website](https://www.stationeryprinting.tn.gov.in/). Produces CSV datasets published to FlatGitHub and archived to the Internet Archive via Wayback Machine.
+Archives Tamil Nadu Government Gazettes (both Ordinary and Extraordinary) from the [Stationery and Printing Department website](https://www.stationeryprinting.tn.gov.in/). Produces CSV/Parquet datasets, publishes an explanatory site on GitHub Pages (`docs/`), and
+archives every PDF to the Internet Archive via the Wayback Machine.
 
 ## Repository Structure
 
@@ -105,6 +106,30 @@ linked as a download.
 - `--proxy socks5h://127.0.0.1:PORT` routes through an Indian host when the runner is geo-blocked
 - Shared helpers live in `tn_lib.py` (URL normalization, date splitting, column contracts)
 
+### Parsing, merging and the data-loss rules
+
+Gazette CSVs are awkward on purpose: `Subject` cells can exceed 128 KB (csv's
+per-field default cap is 131072 bytes) and extracted text carries NUL bytes and
+CR characters that make pandas/parquet writers throw. **Read every CSV through
+`tn_lib.read_rows(path, columns)`** rather than `csv.reader` directly — it lifts
+the field cap, strips NUL, normalises CR and drops blank rows.
+
+Both weekly scrapers rewrite a whole year file, and the redesigned TN site only
+exposes a *recent window* of issues, so a naive write silently deletes history.
+Every write must go through `tn_lib.merge_by_key(existing, fresh, key)`:
+
+- key == normalised PDF URL (ordinary: `URL`; extraordinary: `PDF Link`)
+- **on-disk rows win**, so accumulated `Archived URL` / `Archived Date` / `Deleted`
+  columns survive a re-scrape
+- rows with an empty key are never collapsed into each other
+- duplicate keys are collapsed to one row — the source lists a single PDF under
+  several rows, and the dataset publishes *documents*, not listing entries
+
+`scripts/assert_datasets.py` enforces this after the scrapes: for each family it
+compares the working tree against `HEAD` and fails the build if documents (unique
+PDF URLs) or rows would drop, or if the current-year file is missing/empty. It
+reports both counts, because a dedupe legitimately lowers rows while documents hold.
+
 ### tn_gazette_archiver.py
 - CURRENT_YEAR mode: scrapes current year (based on `datetime.today()`) — new URL pattern
 - FULL mode: 2008–2026 (extended to include 2026)
@@ -119,3 +144,8 @@ CSVs stored in `data/` with columns:
 - **Gazattes_{year}.csv**: Part, Content, URL, Date, Issue, Archived URL, Archived Date, Deleted
 - **GazatteIssues_{year}.csv**: Issue No, Issue No and Date, Date, URL
   (legacy `GazatteIssues.csv` uses the older Issue No and Date, Particulars, URL shape)
+- `data/ExtraOrdinaryGazattes_2025.csv` is **gitignored**: at ~186 MB it exceeds
+  GitHub's 100 MB per-file cap (its Subject cells run to ~440 KB, which is also why
+  every reader must lift csv's field limit). The file is produced locally by the
+  vantage runbook but not committed; publishing 2025 needs a size strategy
+  (split-by-part files, or drop the Subject column into a separate table).

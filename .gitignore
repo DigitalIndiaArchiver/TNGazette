@@ -2,4 +2,6 @@ venv/
 __pycache__/
 *.pyc
 *.parquet
+# 2025 extraordinary is ~186 MB (Subject cells reach 440 KB), over GitHub 100 MB
+# file cap - see issue for coverage/size strategy
 data/ExtraOrdinaryGazattes_2025.csv

@@ -7,8 +7,8 @@ import pandas as pd
 import pytest
 
 from tn_lib import (EXTRAORDINARY_COLUMNS, GAZATTES_COLUMNS, LEGACY_ISSUES_COLUMNS,
-                    ISSUES_COLUMNS, b64_year, listing_url, norm_href,
-                    split_issue_text)
+                    ISSUES_COLUMNS, b64_year, listing_url, merge_by_key,
+                    norm_href, read_rows, split_issue_text)
 
 DATA = Path(__file__).parent.parent / "data"
 
@@ -127,3 +127,121 @@ class TestDatasetSchemas:
         if not path.exists():
             pytest.skip("Gazattes_2026.csv not present (backfill pending)")
         assert len(pd.read_csv(path)) > 0
+
+
+class TestMergeByKey:
+    """The weekly scrapers must union onto disk, never overwrite history."""
+
+    def test_disk_rows_win_over_fresh(self):
+        existing = [{"u": "a", "v": "archived"}, {"u": "b", "v": "kept"}]
+        fresh = [{"u": "b", "v": "rescraped"}, {"u": "c", "v": "new"}]
+        merged = merge_by_key(existing, fresh, "u")
+        by_key = {r["u"]: r["v"] for r in merged}
+        assert by_key == {"a": "archived", "b": "kept", "c": "new"}
+
+    def test_duplicates_on_disk_are_collapsed(self):
+        existing = [{"u": "a", "v": 1}, {"u": "a", "v": 1}]
+        assert len(merge_by_key(existing, [], "u")) == 1
+
+    def test_blank_keys_never_collapse(self):
+        """Rows without a URL are distinct records, not one shared key."""
+        existing = [{"u": "", "v": 1}, {"u": "", "v": 2}]
+        fresh = [{"u": "", "v": 3}]
+        merged = merge_by_key(existing, fresh, "u")
+        assert [r["v"] for r in merged] == [1, 2, 3]
+
+    def test_missing_key_field_is_tolerated(self):
+        merged = merge_by_key([{"v": 1}], [{"v": 2}], "u")
+        assert len(merged) == 2
+
+
+class TestReadRows:
+    def test_survives_fields_over_the_csv_default_limit(self, tmp_path):
+        big = "x" * 200_000  # csv's default cap is 131072 bytes
+        p = tmp_path / "big.csv"
+        p.write_text(f"a,b\n{big},tail\n", encoding="utf-8")
+        rows = read_rows(p, ["a", "b"])
+        assert rows[-1]["b"] == "tail"
+        assert len(rows[-1]["a"]) == 200_000
+
+    def test_strips_nul_and_normalises_cr_inside_quoted_fields(self, tmp_path):
+        # A bare CR is a CSV line terminator; CRs that matter arrive quoted
+        # from extracted gazette text and would otherwise break pandas/parquet.
+        p = tmp_path / "nul.csv"
+        p.write_bytes(b'a,b\nhe\x00llo,"wor\rld"\n')
+        rows = read_rows(p, ["a", "b"])
+        assert rows[-1]["a"] == "hello"
+        assert rows[-1]["b"] == "wor ld"
+
+    def test_skips_blank_lines_and_empty_rows(self, tmp_path):
+        p = tmp_path / "blank.csv"
+        p.write_text("a,b\n1,2\n\n,\n3,4\n", encoding="utf-8")
+        rows = read_rows(p, ["a", "b"])
+        assert [r["a"] for r in rows] == ["a", "1", "3"]
+
+    def test_missing_file_is_empty(self, tmp_path):
+        assert read_rows(tmp_path / "nope.csv", ["a"]) == []
+
+
+class TestMergeByKey:
+    def test_on_disk_rows_win(self):
+        existing = [{"PDF Link": "u1", "Deleted": "false", "Subject": "old"}]
+        fresh = [{"PDF Link": "u1", "Deleted": "true", "Subject": "new"}]
+        merged = merge_by_key(existing, fresh, "PDF Link")
+        assert len(merged) == 1
+        assert merged[0]["Deleted"] == "false" and merged[0]["Subject"] == "old"
+
+    def test_fresh_rows_appended_and_order_preserved(self):
+        existing = [{"PDF Link": "u1"}, {"PDF Link": "u2"}]
+        fresh = [{"PDF Link": "u2"}, {"PDF Link": "u3"}]
+        merged = merge_by_key(existing, fresh, "PDF Link")
+        assert [r["PDF Link"] for r in merged] == ["u1", "u2", "u3"]
+
+    def test_duplicate_keys_collapse(self):
+        fresh = [{"PDF Link": "u1"}, {"PDF Link": "u1"}, {"PDF Link": "u1"}]
+        assert len(merge_by_key([], fresh, "PDF Link")) == 1
+
+    def test_rows_without_key_are_not_dropped(self):
+        existing = [{"PDF Link": ""}, {"PDF Link": "u1"}]
+        merged = merge_by_key(existing, [{"PDF Link": "u2"}], "PDF Link")
+        assert len(merged) == 3
+
+    def test_shrinking_source_window_does_not_lose_history(self):
+        """The site lists only recent issues; the merge must keep older rows."""
+        existing = [{"PDF Link": f"old{i}"} for i in range(100)]
+        fresh = [{"PDF Link": f"old{i}"} for i in range(5)]
+        assert len(merge_by_key(existing, fresh, "PDF Link")) == 100
+
+
+class TestReadRows:
+    def test_reads_rows_beyond_default_field_limit(self, tmp_path):
+        big = "x" * 200_000
+        p = tmp_path / "big.csv"
+        p.write_text(f"A,B\n1,{big}\n2,small\n", encoding="utf-8")
+        rows = read_rows(p, ["A", "B"])
+        assert len(rows) == 2 and rows[0]["B"] == big
+
+    def test_strips_nul_so_parquet_can_write(self, tmp_path):
+        p = tmp_path / "nul.csv"
+        p.write_bytes(b"A\n" + b"bad\x00byte" + b"\n")
+        rows = read_rows(p, ["A"])
+        assert rows[0]["A"] == "badbyte"
+
+    def test_bare_cr_still_ends_a_row_like_csv_does(self, tmp_path):
+        """Unquoted CR is a row terminator to csv; the reader keeps that rule.
+
+        Mangled PDF text can leave a bare CR inside a cell, which splits the
+        row rather than corrupting it in place. Recorded here so the
+        behaviour is explicit rather than accidental.
+        """
+        p = tmp_path / "cr.csv"
+        p.write_bytes(b"A\n" + b"part1\rpart2" + b"\n")
+        assert [r["A"] for r in read_rows(p, ["A"])] == ["part1", "part2"]
+
+    def test_skips_blank_lines(self, tmp_path):
+        p = tmp_path / "blank.csv"
+        p.write_text("A\n1\n\n2\n   \n", encoding="utf-8")
+        assert len(read_rows(p, ["A"])) == 2
+
+    def test_missing_file_returns_empty(self, tmp_path):
+        assert read_rows(tmp_path / "nope.csv", ["A"]) == []

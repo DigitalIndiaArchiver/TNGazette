@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Scrape TN Gazette extraordinary pages and save CSVs + Parquets."""
 import base64, csv, io, datetime, sys, requests
+from pathlib import Path
+
+from tn_lib import merge_by_key, read_rows
 import pandas as pd
 from bs4 import BeautifulSoup
 
@@ -56,17 +59,33 @@ for b64_id, year in years:
             ])
     
     filepath_csv = f'data/ExtraOrdinaryGazattes_{year}.csv'
+
+    # The site only lists a recent window of issues, so a plain overwrite
+    # silently drops history when that window shrinks. Merge onto whatever
+    # is already on disk, keyed by PDF link; on-disk rows win.
+    fresh = [dict(zip(HEADERS, r)) for r in data]
+    existing = [
+        r for r in read_rows(Path(filepath_csv), HEADERS)
+        if r.get('Issue No') != 'Issue No'          # drop a header row if present
+        and not r.get('Issue Date') == 'Issue Date'
+    ]
+    merged = merge_by_key(existing, fresh, 'PDF Link')
+    added = len(merged) - len(existing)
+    if not merged:
+        print(f'  Refusing to write {filepath_csv}: no rows would remain')
+        failed_years.append(year)
+        continue
     with open(filepath_csv, 'w', newline='', encoding='utf-8') as f:
         f.write(','.join(HEADERS) + '\n')
-        for row in data:
-            f.write(','.join(esc(v) for v in row) + '\n')
-    print(f'  Saved {len(data)} entries to {filepath_csv}')
+        for row in merged:
+            f.write(','.join(esc(row.get(h, '')) for h in HEADERS) + '\n')
+    print(f'  Saved {len(merged)} entries to {filepath_csv} (+{added} new)')
 
     # Also save as Parquet for machine-friendly consumption
-    df = pd.DataFrame(data, columns=HEADERS)
+    df = pd.DataFrame(merged, columns=HEADERS)
     filepath_parquet = f'data/ExtraOrdinaryGazattes_{year}.parquet'
     df.to_parquet(filepath_parquet, index=False, engine='pyarrow')
-    print(f'  Saved {len(data)} entries to {filepath_parquet}')
+    print(f'  Saved {len(merged)} entries to {filepath_parquet}')
 
 if len(failed_years) == len(years):
     print(f'All {len(years)} years failed to scrape - failing loudly.')

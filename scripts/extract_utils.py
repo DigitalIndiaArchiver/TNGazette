@@ -1,7 +1,7 @@
 """
 Shared utilities for PDF-to-markdown extraction pipeline.
 """
-import os, re, time, logging
+import os, re, time, logging, hashlib
 from pathlib import Path
 
 import requests
@@ -56,7 +56,26 @@ def _encode_unicode_url(url):
     return urlunsplit((parts.scheme, parts.netloc, path, query, parts.fragment))
 
 
+PDF_CACHE_DIR = SCRIPTS_DIR / ".pdf_cache"
+
+
+def cached_pdf_path(url):
+    raw = (url or "").strip()
+    if not raw:
+        return None
+    return PDF_CACHE_DIR / (hashlib.md5(raw.encode("utf-8")).hexdigest() + ".pdf")
+
+
+def has_cache(url):
+    c = cached_pdf_path(url)
+    return bool(c and c.exists() and c.stat().st_size > 0)
+
+
 def fetch_pdf(url, timeout=45):
+    cached = cached_pdf_path(url)
+    if cached and cached.exists() and cached.stat().st_size > 0:
+        logger.info("Cache hit: %s", cached.name)
+        return cached.read_bytes()
     url = _encode_unicode_url(url)
     session = requests.Session()
     a = requests.adapters.HTTPAdapter(max_retries=1)

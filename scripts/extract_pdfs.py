@@ -15,11 +15,13 @@ from pathlib import Path
 import pandas as pd
 
 from extract_utils import (
-    PROJECT_ROOT, DATA_DIR, MARKDOWN_DIR,
+    PROJECT_ROOT, DATA_DIR, MARKDOWN_DIR, has_cache,
     fetch_pdf, extract_text, resolve_pdf_url,
     output_path, build_metadata,
     RateLimiter, logger as utils_logger,
 )
+
+ONLY_CACHE = [False]
 
 logging.basicConfig(
     level=logging.INFO,
@@ -59,6 +61,11 @@ def load_extraordinary_source(year):
 
 
 def load_ordinary_source(year):
+    year_csv = DATA_DIR / f"Gazattes_{year}.csv"
+    if year_csv.exists():
+        df = pd.read_csv(year_csv, dtype={"Issue": str})
+        df["year"] = year
+        return df, "CSV (year file)"
     csv_path = DATA_DIR / "Gazattes.csv"
     if not csv_path.exists():
         logger.warning("Gazattes.csv not found")
@@ -76,8 +83,12 @@ def process_one(row, gazette_type, year):
     if not pdf_url:
         logger.debug("No URL for row, skipping")
         return None
-
     issue_no = row.get("Issue No") or row.get("Issue") or "unknown"
+    if ONLY_CACHE[0] and not (has_cache(pdf_url)
+                              or has_cache(row.get("URL") or row.get("PDF Link"))):
+        logger.debug("only-cache: no local PDF for issue %s, skipping", issue_no)
+        return None
+
     part_label = row.get("Gazette Number") or row.get("Extraordinary Part & Section") or row.get("Part") or ""
 
     out_file = output_path(gazette_type, year, issue_no, part_label)
@@ -164,6 +175,9 @@ def main():
                         help="Gazette type to process (default: both)")
     parser.add_argument("--max", type=int, default=None,
                         help="Max entries per year (for testing)")
+    parser.add_argument("--only-cache", action="store_true",
+                        help="Only extract PDFs already in scripts/.pdf_cache "
+                             "(daily runs: distill just what the vantage node fetched)")
     args = parser.parse_args()
 
     all_extra_years = list(range(2026, 2007, -1))
@@ -180,6 +194,7 @@ def main():
     total_fail = 0
     total_skip = 0
 
+    ONLY_CACHE[0] = args.only_cache
     types_to_run = ["extraordinary", "ordinary"] if args.gazette is None else [args.gazette]
 
     for gt in types_to_run:

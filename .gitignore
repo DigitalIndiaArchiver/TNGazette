@@ -8,3 +8,4 @@ data/ExtraOrdinaryGazattes_2025.csv
 
 # PDFs fetched by the daily update pipeline (cache only, never committed)
 scripts/.pdf_cache/
+tngazette/

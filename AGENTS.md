@@ -149,3 +149,18 @@ CSVs stored in `data/` with columns:
   every reader must lift csv's field limit). The file is produced locally by the
   vantage runbook but not committed; publishing 2025 needs a size strategy
   (split-by-part files, or drop the Subject column into a separate table).
+
+## Daily delta pipeline (2026-09-27)
+
+Delta-only daily update: check for NEW gazettes since what the CSVs already hold — never a bulk re-scrape.
+
+| Piece | Role |
+|-------|------|
+| `scripts/vantage_latest.py` | Runs on ocitwo (Indian vantage; runners are geo-blocked). Reads `state/delta-state.json` (known PDF URLs), scrapes the current-year listings (same parsers as `tn_lib.py`), diffs, downloads ONLY new PDFs (md5-named under `~/tn-latest/pdfs/`), rewrites `state/delta-state.json`, prints `SUMMARY: issues=N parts=N extra=N pdfs=N`. |
+| `scripts/daily_update.sh` | Driver (run from repo root). Steps: build known-URL state → push fetcher+state to ocitwo → run delta fetch → rsync new PDFs back to `scripts/.pdf_cache/` → merge rows into year CSVs (tn_lib.merge_by_key, on-disk rows win) → distill cached PDFs to markdown (`extract_pdfs.py --only-cache`) → dataset guard + pytest → Wayback-save new links (current-year files only, `timeout 480`, non-fatal) → `build_site_stats.py` → `scripts/build_weekly.py` → commit all + push. Env: `PUSH=1` to push (default dry). `OCITWO` env overrides the ocitwo.sh path. |
+| `scripts/build_weekly.py` | Regenerates `docs/weekly/` — one HTML page per ISO week of the current year from the year CSVs (ordinary grouped by Part+Issue, extraordinary with Subject/G.O), plus `weekly/index.html` (latest week + archive of past weeks). Weeks archive naturally as the year fills in; rerun is idempotent. |
+
+- Weekly site: `docs/weekly/index.html` (latest week) and `docs/weekly/<year>-Www.html`; nav link "Weekly" added to all root pages. Live at https://digitalindiaarchiver.github.io/TNGazette/weekly/
+- Automation: Zo daily agent 09:30 IST — runs the driver with `PUSH=1`, posts counts to Discord #ungalsoththu only when delta > 0 or on failure; silent on clean no-change days.
+- `extract_utils.fetch_pdf` caches by md5(url) under `scripts/.pdf_cache/` (gitignored), so distill never re-downloads.
+- Ordinary distill prefers `Gazattes_{year}.csv` over legacy `Gazattes.csv`; gitignore covers `scripts/.pdf_cache/` and `tngazette/` (unrelated Zo Site scaffold).

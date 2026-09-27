@@ -45,8 +45,10 @@ def _rows(text: str) -> list[list[str]]:
 
     Must go through a single reader: gazette Subjects legitimately contain
     newlines inside quoted cells, so splitting on lines first would invent
-    rows that the real file does not have.
+    rows that the real file does not have. NUL bytes are stripped first:
+    current CPython's csv reader raises on them mid-parse.
     """
+    text = text.replace("\x00", "").replace("\r\n", "\n").replace("\r", "\n")
     return [r for r in csv.reader(io.StringIO(text)) if any(c.strip() for c in r)]
 
 

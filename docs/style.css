@@ -177,3 +177,11 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
   .hero h1 { font-size: 1.7rem; }
   .stat-num { font-size: 1.3rem; }
 }
+
+/* Years page */
+.plain-list { margin: 0.5rem 0 1rem; padding-left: 1.25rem; }
+.plain-list li { margin: 0.35rem 0; }
+.muted { color: var(--muted); }
+.year-official { font-size: 0.82rem; white-space: nowrap; }
+.year-official a { color: var(--muted); text-decoration: none; border-bottom: 1px dotted var(--border); }
+.year-official a:hover { color: var(--accent); border-bottom-color: var(--accent); }

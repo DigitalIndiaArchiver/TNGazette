@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Year by year — TN Gazette Archive</title>
+<meta name="description" content="Every year of the Tamil Nadu Government Gazette in the archive, 2008–2026: weekly gazette parts, issue listings, extraordinary notifications and the extracted-text layer — with links to datasets, text files and the official source.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html">TN Gazette Archive</a>
+    <nav class="site-nav">
+      <a href="index.html">Overview</a>
+      <a href="data.html">The data</a>
+      <a href="years.html" class="active">Years</a>
+      <a href="archives.html">Originals &amp; archives</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <h1>Year by year</h1>
+    <p>Every year of the Tamil Nadu Government Gazette in this archive, 2008–2026.
+    Counts are <em>documents</em> (unique PDFs), not listing rows — where the official
+    site lists one PDF under several headings, it is counted once.</p>
+    <p class="stat-meta">Numbers are links: each count opens the exact dataset file or
+    text folder it came from. <strong>W</strong>/<strong>E</strong> under each year open
+    the government's own listing pages for that year (weekly / extraordinary).</p>
+  </section>
+
+  <section>
+    <div class="table-wrap">
+      <table class="data-table" id="years-table">
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Official</th>
+            <th class="num">Weekly parts</th>
+            <th class="num">Weekly issues</th>
+            <th class="num">Extraordinary</th>
+            <th class="num">Text layer</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody id="years-tbody">
+          <tr><td colspan="7" class="stat-meta">loading…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="usage">
+    <h2>Reading the table</h2>
+    <ul class="plain-list">
+      <li><strong>Weekly parts / issues</strong> — the Ordinary Gazette, published once a
+      week. Parts are the individual PDF documents inside each issue (name changes,
+      notifications, advertisements); issues are the weekly editions themselves.</li>
+      <li><strong>Extraordinary</strong> — urgent one-off publications (ordinances, new
+      statutes, appointments, land acquisitions), numbered continuously within a year.</li>
+      <li><strong>Text layer</strong> — PDFs whose full text has been extracted to
+      Markdown, shown as <em>ordinary + extraordinary</em>. Every text file links back to
+      its source PDF, so treat the text as a search index over the original.</li>
+    </ul>
+    <h2>Why some cells are empty</h2>
+    <ul class="plain-list">
+      <li><strong>2024–2025 weekly index is missing.</strong> The government redesigned
+      its site around 2024 and the new listing only exposes a recent window of issues.
+      Recovering those years needs the Wayback Machine layer — tracked as an open task.</li>
+      <li><strong>2025 extraordinary is text-only.</strong> The notification index for
+      2025 was scraped and its text extracted, but the CSV alone is ~186 MB — over
+      GitHub's 100 MB file cap — so the index is not published here yet. The text layer
+      (with its links back to the source PDFs) is fully available.</li>
+      <li><strong>2026 is in progress.</strong> The weekly window has been backfilled to
+      January 2026; extraordinary coverage currently starts in April. Both grow with the
+      weekly pipeline.</li>
+      <li><strong>2023 is a hinge year.</strong> The old site format was scraped until
+      October 2023; the redesign then interrupts the series until the 2026 backfill.</li>
+      <li><strong>2008 starts mid-year.</strong> The earliest data in the archive begins
+      with the government's own e-gazette rollout, not the start of the calendar year.</li>
+    </ul>
+    <p class="stat-meta">Everything listed here is fetched from the official
+    <a href="https://www.stationeryprinting.tn.gov.in/">Stationery and Printing
+    Department</a> site and preserved on the Internet Archive — see
+    <a href="archives.html">Originals &amp; archives</a> for how that layer works.</p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>Unofficial archive of the Tamil Nadu Government Gazette, built by
+    <a href="https://github.com/DigitalIndiaArchiver">DigitalIndiaArchiver</a>.
+    Official source: <a href="https://www.stationeryprinting.tn.gov.in/">Department
+    of Stationery and Printing</a>.</p>
+  </div>
+</footer>
+<script src="site.js"></script>
+</body>
+</html>

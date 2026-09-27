@@ -208,7 +208,45 @@
     fillStats(stats);
     renderFiles(stats);
     renderMarkdown(stats);
+    renderYears(stats);
   }).catch(function () {});
+
+
+  var YEAR_NOTES = {
+    2008: "Earliest year in the archive — coverage may start mid-year.",
+    2023: "Last year on the old site; the redesign in late 2023 breaks the series.",
+    2024: "Weekly listing lost to the site redesign; extraordinary index and text layer preserved.",
+    2025: "Text layer only — the full extraordinary index exceeds GitHub's 100 MB file cap.",
+    2026: "Current year — weekly window recovered to January; extraordinary index starts April."
+  };
+
+  function renderYears(stats) {
+    var tbody = document.getElementById("years-tbody");
+    if (!tbody) return;
+    var rows = (stats.years || []).slice().reverse().map(function (y) {
+      var official = '<span class="year-official">' +
+        '<a href="https://www.stationeryprinting.tn.gov.in/gazette.php?id=' + btoa(String(y.year)) + '" title="Official weekly listing">weekly</a>' +
+        ' · ' +
+        '<a href="https://www.stationeryprinting.tn.gov.in/extra_ordinary_lists.php?id=' + btoa(String(y.year)) + '" title="Official extraordinary listing">extra</a>' +
+        "</span>";
+      function cell(n, file) {
+        if (!n) return '<span class="muted">—</span>';
+        var href = file ? (RAW + file) : (BLOB + "Gazattes.csv");
+        return '<a href="' + href + '" title="open dataset file">' + nf(n) + "</a>";
+      }
+      var f = y.files || {};
+      var text = [];
+      if (y.ordinary_md) text.push('<a href="' + TREE + 'markdown/ordinary/' + y.year + '/">' + nf(y.ordinary_md) + " ord.</a>");
+      if (y.extra_md) text.push('<a href="' + TREE + 'markdown/extraordinary/' + y.year + '/">' + nf(y.extra_md) + " extra</a>");
+      return "<tr><td><strong>" + y.year + "</strong></td><td>" + official + "</td>" +
+        '<td class="num">' + cell(y.parts, f.parts) + "</td>" +
+        '<td class="num">' + cell(y.issues, f.issues) + "</td>" +
+        '<td class="num">' + cell(y.extraordinary, f.extraordinary) + "</td>" +
+        '<td class="num">' + (text.length ? text.join(" · ") : '<span class="muted">—</span>') + "</td>" +
+        "<td>" + (YEAR_NOTES[y.year] || "") + "</td></tr>";
+    });
+    tbody.innerHTML = rows.join("");
+  }
 
   renderLatestIssues();
   renderPreview();

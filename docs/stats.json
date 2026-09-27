@@ -3,7 +3,7 @@
   "totals": {
     "gazette_parts": 7267,
     "gazette_issues": 826,
-    "extraordinary": 8289,
+    "extraordinary": 7412,
     "part_years": 2,
     "markdown_docs": 13843
   },
@@ -44,12 +44,6 @@
       "rows": 439,
       "first_date": "01-02-2024",
       "last_date": "31-12-2024"
-    },
-    {
-      "year": 2025,
-      "rows": 877,
-      "first_date": "01-04-2025",
-      "last_date": "31-12-2025"
     },
     {
       "year": 2026,

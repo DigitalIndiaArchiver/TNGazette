@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About — TN Gazette Archive</title>
+<meta name="description" content="Why an independent archive of the Tamil Nadu Government Gazette exists, how the weekly pipeline works, and how to contribute.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="site-title" href="index.html">TN Gazette Archive<span class="ta">தமிழ்நாடு அரசிதழ்</span></a>
+    <nav class="site-nav">
+      <a href="index.html">Overview</a>
+      <a href="data.html">The data</a>
+      <a href="archives.html">Originals &amp; archives</a>
+      <a href="about.html" class="active">About</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <h1>About</h1>
+
+  <h2 id="why">Why this exists</h2>
+  <p>The Tamil Nadu Government Gazette is where the state speaks
+  formally: ordinances, land acquisition references, appointments,
+  society registrations, name changes, departmental notifications. It is
+  the journal of record for a state of over 70 million people.</p>
+  <p>And yet, as a data source it is fragile. The official site exposes
+  only the most recent handful of weekly issues; its URLs have broken
+  across redesigns; links to individual PDFs go dead; and the site
+  sometimes refuses visitors outside India entirely. Anyone doing legal,
+  journalistic or historical research is left chasing documents that were
+  public last month and gone this month.</p>
+  <p>This project fixes that the boring, durable way: scrape weekly,
+  publish as plain CSV in git, and copy every PDF to the Wayback Machine.
+  No dashboard, no accounts, no way for the archive itself to disappear
+  behind someone's paywall — it's an MIT-licensed repository you can
+  mirror.</p>
+
+  <h2 id="how">How the pipeline works</h2>
+  <p>Once a week, GitHub Actions runs the <a
+  href="https://github.com/DigitalIndiaArchiver/TNGazette/blob/main/.github/workflows/main.yml">workflow</a>:</p>
+  <ol>
+    <li><strong>Preflight</strong> — check the official site is reachable. If not (geo-fence), skip scraping loudly rather than writing empty data.</li>
+    <li><strong>Scrape</strong> — <code>scrape_ordinary.py</code> walks the latest weekly issues and merges new parts into the year files; <code>scrape_gazettes.py</code> covers extraordinary notifications for the current year.</li>
+    <li><strong>Guard</strong> — unit tests verify schemas, dates and duplicate URLs so a site redesign fails the build instead of silently corrupting the datasets.</li>
+    <li><strong>Preserve</strong> — <code>archive_new_links.py</code> submits every never-archived PDF to the Wayback Machine and records the snapshot.</li>
+    <li><strong>Extract</strong> — <code>scripts/extract_pdfs.py</code> turns reached PDFs into markdown text files under <code>data/markdown/</code>, so the corpus is searchable without the PDFs.</li>
+    <li><strong>Publish</strong> — commit the updated CSVs and regenerate this site's <code>stats.json</code>.</li>
+  </ol>
+
+  <h2 id="limits">What this is not</h2>
+  <ul>
+    <li>Not an official source. For anything with legal weight, read the gazette itself and keep your own copy.</li>
+    <li>Not complete. Ordinary gazettes run 2008–2023, then <strong>skip
+    2024 and 2025</strong>, then resume with every weekly issue of 2026 to
+    date. Those two missing years are a redesign casualty: the old listing
+    endpoints died before the new ones were scraped, and the redesigned
+    listing only ever shows the latest ~38 issues. Recovering 2024–2025
+    means excavating Wayback captures of the old listing pages — an open
+    <a href="https://github.com/DigitalIndiaArchiver/TNGazette/issues/16">issue</a>.</li>
+    <li>Not human-verified. Index descriptions are transcribed as
+    published, and the markdown transcripts in <code>data/markdown/</code>
+    are machine-extracted — accurate enough to search, not to quote
+    without checking the PDF.</li>
+  </ul>
+
+  <h2 id="contribute">Contributing</h2>
+  <p>Bugs, schema opinions, coverage requests: open an issue on
+  <a href="https://github.com/DigitalIndiaArchiver/TNGazette/issues">GitHub</a>.
+  Code contributions follow the repo's AGENTS.md: tests for schema
+  contracts, no network in unit tests, loud failures over silent gaps.</p>
+
+  <h2 id="credits">Credits</h2>
+  <p>Built and maintained by
+  <a href="https://github.com/DigitalIndiaArchiver">DigitalIndiaArchiver</a>,
+  part of a volunteer effort to keep Indian government data open and
+  durable. Data originates from the
+  <a href="https://www.stationeryprinting.tn.gov.in/">TN Commissionerate
+  of Printing and Stationery</a>; preservation copies from the
+  <a href="https://web.archive.org/">Internet Archive</a>. Code is
+  MIT-licensed; the gazette texts are official publications of the
+  Government of Tamil Nadu.</p>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    An independent open-data project ·
+    <a href="https://github.com/DigitalIndiaArchiver/TNGazette">source &amp; datasets on GitHub</a> ·
+    data from the <a href="https://www.stationeryprinting.tn.gov.in/">TN Commissionerate of Printing and Stationery</a>
+  </div>
+</footer>
+</body>
+</html>

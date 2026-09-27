@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TN Gazette Archive — the Tamil Nadu Government Gazette, structured and preserved</title>
+<meta name="description" content="Independent archive of the Tamil Nadu Government Gazette: weekly ordinary issues and extraordinary notifications as open CSV/Parquet datasets, with Wayback Machine copies of every PDF.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="site-title" href="index.html">TN Gazette Archive<span class="ta">தமிழ்நாடு அரசிதழ்</span></a>
+    <nav class="site-nav">
+      <a href="index.html" class="active">Overview</a>
+      <a href="data.html">The data</a>
+      <a href="archives.html">Originals &amp; archives</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <section class="hero">
+    <h1>The Tamil Nadu Gazette,<br>structured and preserved.</h1>
+    <p class="lede">The state's official journal of record — land acquisition,
+    ordinances, appointments, name changes, society registrations — scraped
+    weekly into open datasets, with every PDF copied to the Wayback Machine.
+    Independent, volunteer-run, MIT-licensed.</p>
+    <p class="btn-row">
+      <a class="btn primary" href="data.html">Browse the data</a>
+      <a class="btn" href="https://github.com/DigitalIndiaArchiver/TNGazette">GitHub repo</a>
+      <a class="btn" href="https://www.stationeryprinting.tn.gov.in/">Official site ↗</a>
+    </p>
+  </section>
+
+  <section class="stats" id="stats">
+    <div class="stat"><div class="stat-num" id="stat-parts">…</div><div class="stat-label">gazette parts indexed</div></div>
+    <div class="stat"><div class="stat-num" id="stat-issues">…</div><div class="stat-label">weekly issues catalogued</div></div>
+    <div class="stat"><div class="stat-num" id="stat-extra">…</div><div class="stat-label">extraordinary notifications</div></div>
+    <div class="stat"><div class="stat-num" id="stat-docs">…</div><div class="stat-label">gazette texts extracted</div></div>
+    <div class="stat"><div class="stat-num" id="stat-latest">…</div><div class="stat-label">latest weekly issue</div></div>
+  </section>
+  <p class="stat-meta">Numbers generated from the datasets · updated <span id="stat-date">weekly</span></p>
+
+  <section class="cards">
+    <div class="card">
+      <h3>Weekly gazettes</h3>
+      <p>Ordinary issues, split into parts: name changes, society
+      registrations, land references, departmental notifications. One CSV
+      row per part, with the original link, its Wayback copy and a deleted
+      flag.</p>
+      <a href="data.html#ordinary">Columns &amp; downloads →</a>
+    </div>
+    <div class="card">
+      <h3>Extraordinary gazettes</h3>
+      <p>Urgent business between weekly issues — ordinances, appointments,
+      land acquisition — indexed back to 2008 with department, G.O. number
+      and full subject text.</p>
+      <a href="data.html#extraordinary">Columns &amp; downloads →</a>
+    </div>
+    <div class="card">
+      <h3>Full text, not just an index</h3>
+      <p>Every PDF the pipeline reaches is also converted to a plain
+      markdown document — <span id="md-total">…</span> of them, spanning
+      <span id="md-span">…</span> — so the gazette can be grepped without
+      downloading anything.</p>
+      <a href="data.html#fulltext">Read the text layer →</a>
+    </div>
+    <div class="card">
+      <h3>Preservation</h3>
+      <p>Official links die; this archive notices (the <code>Deleted</code>
+      flag) and keeps working Wayback copies. The publishing site also
+      blocks foreign visitors — here's how to get around that.</p>
+      <a href="archives.html">Originals &amp; archives →</a>
+    </div>
+  </section>
+
+  <section>
+    <h2>Latest weekly issues</h2>
+    <p class="stat-meta">Pulled live from the archive's own dataset file — if this list is
+    stale, the weekly pipeline is behind.</p>
+    <div class="table-wrap" id="latest-table"><p class="stat-meta">loading…</p></div>
+  </section>
+
+  <section class="usage">
+    <h2>Query it in one line</h2>
+    <div class="note mono">duckdb -c "SELECT Date, Issue, count(*) FROM
+    read_csv_auto('https://raw.githubusercontent.com/DigitalIndiaArchiver/TNGazette/main/data/Gazattes_2026.csv')
+    GROUP BY 1,2 ORDER BY 1 DESC LIMIT 5"</div>
+    <p class="stat-meta">No API, no key, no database to set up — plain CSV
+    on raw.githubusercontent.com, mirrored in the git history forever.</p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    An independent open-data project ·
+    <a href="https://github.com/DigitalIndiaArchiver/TNGazette">source &amp; datasets on GitHub</a> ·
+    data from the <a href="https://www.stationeryprinting.tn.gov.in/">TN Commissionerate of Printing and Stationery</a>
+  </div>
+</footer>
+<script src="site.js"></script>
+</body>
+</html>

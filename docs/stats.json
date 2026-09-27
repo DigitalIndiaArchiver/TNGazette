@@ -1,0 +1,206 @@
+{
+  "generated_at": "2026-09-27",
+  "totals": {
+    "gazette_parts": 7267,
+    "gazette_issues": 826,
+    "extraordinary": 7463,
+    "part_years": 2,
+    "markdown_docs": 13843
+  },
+  "latest_issue": 38,
+  "ordinary_years": [
+    {
+      "year": 2023,
+      "parts": 398,
+      "first_date": "2023-01-04",
+      "last_date": "2023-10-18"
+    },
+    {
+      "year": 2026,
+      "parts": 312,
+      "first_date": "2026-01-07",
+      "last_date": "2026-09-23"
+    }
+  ],
+  "issue_years": [
+    {
+      "year": 2023,
+      "issues": 42
+    },
+    {
+      "year": 2026,
+      "issues": 38
+    }
+  ],
+  "extraordinary_years": [
+    {
+      "year": 2023,
+      "rows": 372,
+      "first_date": "2023-01-02",
+      "last_date": "2023-10-27"
+    },
+    {
+      "year": 2024,
+      "rows": 510,
+      "first_date": "01-02-2024",
+      "last_date": "31-12-2024"
+    },
+    {
+      "year": 2026,
+      "rows": 396,
+      "first_date": "01-04-2026",
+      "last_date": "31-08-2026"
+    }
+  ],
+  "markdown": {
+    "ordinary": 6475,
+    "extraordinary": 7368,
+    "total": 13843,
+    "first_year": 2008,
+    "last_year": 2026,
+    "ordinary_years": [
+      {
+        "year": 2008,
+        "docs": 123
+      },
+      {
+        "year": 2009,
+        "docs": 493
+      },
+      {
+        "year": 2010,
+        "docs": 457
+      },
+      {
+        "year": 2011,
+        "docs": 415
+      },
+      {
+        "year": 2012,
+        "docs": 429
+      },
+      {
+        "year": 2013,
+        "docs": 422
+      },
+      {
+        "year": 2014,
+        "docs": 423
+      },
+      {
+        "year": 2015,
+        "docs": 436
+      },
+      {
+        "year": 2016,
+        "docs": 429
+      },
+      {
+        "year": 2017,
+        "docs": 502
+      },
+      {
+        "year": 2018,
+        "docs": 506
+      },
+      {
+        "year": 2019,
+        "docs": 451
+      },
+      {
+        "year": 2020,
+        "docs": 380
+      },
+      {
+        "year": 2021,
+        "docs": 424
+      },
+      {
+        "year": 2022,
+        "docs": 457
+      },
+      {
+        "year": 2023,
+        "docs": 128
+      }
+    ],
+    "extraordinary_years": [
+      {
+        "year": 2008,
+        "docs": 29
+      },
+      {
+        "year": 2009,
+        "docs": 361
+      },
+      {
+        "year": 2010,
+        "docs": 389
+      },
+      {
+        "year": 2011,
+        "docs": 464
+      },
+      {
+        "year": 2012,
+        "docs": 353
+      },
+      {
+        "year": 2013,
+        "docs": 381
+      },
+      {
+        "year": 2014,
+        "docs": 250
+      },
+      {
+        "year": 2015,
+        "docs": 138
+      },
+      {
+        "year": 2016,
+        "docs": 283
+      },
+      {
+        "year": 2017,
+        "docs": 415
+      },
+      {
+        "year": 2018,
+        "docs": 419
+      },
+      {
+        "year": 2019,
+        "docs": 472
+      },
+      {
+        "year": 2020,
+        "docs": 545
+      },
+      {
+        "year": 2021,
+        "docs": 628
+      },
+      {
+        "year": 2022,
+        "docs": 580
+      },
+      {
+        "year": 2023,
+        "docs": 81
+      },
+      {
+        "year": 2024,
+        "docs": 430
+      },
+      {
+        "year": 2025,
+        "docs": 870
+      },
+      {
+        "year": 2026,
+        "docs": 280
+      }
+    ]
+  }
+}

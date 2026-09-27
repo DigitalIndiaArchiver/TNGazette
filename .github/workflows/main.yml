@@ -4,7 +4,7 @@ on:
   push:
     branches: ["main"]
     paths: ["tn_gazette_archiver.py", "scrape_gazettes.py", "scrape_ordinary.py",
-            "archive_new_links.py", "tn_lib.py", "tests/**",
+            "archive_new_links.py", "tn_lib.py", "tests/**", "scripts/**",
             ".github/workflows/main.yml", "requirements.txt"]
   workflow_dispatch:
   schedule:
@@ -59,18 +59,12 @@ jobs:
         timeout-minutes: 20
         run: python scrape_ordinary.py
 
-      - name: Fail if 2026 ordinary data went missing
+      - name: Dataset guard (all three families held or grew)
         if: steps.preflight.outputs.reachable == 'true'
-        run: |
-          python - <<'PY'
-          import pandas as pd
-          from pathlib import Path
-          p = Path("data/Gazattes_2026.csv")
-          assert p.exists(), "Gazattes_2026.csv missing after scrape"
-          n = len(pd.read_csv(p))
-          assert n > 0, "Gazattes_2026.csv has zero rows after scrape"
-          print(f"Gazattes_2026.csv ok: {n} rows")
-          PY
+        run: python scripts/assert_datasets.py
+
+      - name: Rebuild site stats
+        run: python scripts/build_site_stats.py
 
       - name: Archive unarchived PDF links to Wayback Machine
         timeout-minutes: 5

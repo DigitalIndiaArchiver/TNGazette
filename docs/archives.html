@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Originals &amp; archives — TN Gazette Archive</title>
+<meta name="description" content="Where to read the Tamil Nadu Gazette officially, how this archive preserves copies in the Wayback Machine, and how to reach the geo-fenced official site.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="site-title" href="index.html">TN Gazette Archive<span class="ta">தமிழ்நாடு அரசிதழ்</span></a>
+    <nav class="site-nav">
+      <a href="index.html">Overview</a>
+      <a href="data.html">The data</a>
+      <a href="archives.html" class="active">Originals &amp; archives</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <h1>Originals &amp; archives</h1>
+  <p class="lede">Three layers of access, in decreasing order of
+  authority: the official site, this archive's structured index, and
+  Wayback Machine copies of everything.</p>
+
+  <h2 id="official">1. The official source</h2>
+  <div class="table-wrap">
+  <table>
+    <thead><tr><th>What</th><th>Where</th></tr></thead>
+    <tbody>
+      <tr><td>Commissionerate of Printing and Stationery</td><td><a href="https://www.stationeryprinting.tn.gov.in/">stationeryprinting.tn.gov.in</a></td></tr>
+      <tr><td>Weekly gazette listing</td><td><a href="https://www.stationeryprinting.tn.gov.in/gazette.php?id=MjAyNg==">gazette.php?id=&lt;base64 year&gt;</a> — one page, latest ~38 issues only</td></tr>
+      <tr><td>Extraordinary gazette listing</td><td><a href="https://www.stationeryprinting.tn.gov.in/extra_ordinary_lists.php?id=MjAyNg==">extra_ordinary_lists.php?id=&lt;base64 year&gt;</a></td></tr>
+      <tr><td>Gazette PDFs</td><td>linked per part from the issue pages (same host, <code>/gazette/…</code> paths)</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <div class="note">
+    <strong>Geo-fence:</strong> the official site frequently refuses
+    non-Indian IPs, including GitHub's CI runners. Readers outside India:
+    use a VPN with an Indian exit, or pull everything from this archive or
+    the Wayback Machine instead. This is also why the weekly pipeline runs
+    a reachability preflight and skips rather than writing empty data.
+  </div>
+
+  <h2 id="archive">2. This archive (structured index)</h2>
+  <p>The <a href="data.html">datasets</a> give you the listings as data:
+  every part with its date, issue number, description and links. Raw
+  files:</p>
+  <ul>
+    <li><a href="https://github.com/DigitalIndiaArchiver/TNGazette/tree/main/data">data/ folder</a> — browse on GitHub</li>
+    <li><a href="https://github.com/DigitalIndiaArchiver/TNGazette/commits/main/data">weekly "scrape" commits</a> — the full change history, forever diffable</li>
+    <li>Extracted <em>text</em> of the gazettes themselves, taken from archived PDFs: <span id="md-total">…</span> markdown documents under <a href="https://github.com/DigitalIndiaArchiver/TNGazette/tree/main/data/markdown">data/markdown/</a> — weekly parts 2008–2023 and extraordinary notifications 2008–2026</li>
+  </ul>
+
+  <h2 id="wayback">3. Wayback Machine (document copies)</h2>
+  <p>Every PDF discovered by the pipeline is submitted to the
+  Internet Archive, and each dataset row records the snapshot:</p>
+  <ul>
+    <li><code>Archived URL</code> — the web.archive.org copy of that PDF</li>
+    <li><code>Archived Date</code> — when the snapshot was taken</li>
+    <li><code>Deleted</code> — set to true once the original link stops working</li>
+  </ul>
+  <p>To find any snapshot yourself, paste the original URL into the
+  <a href="https://web.archive.org/web/*/https://www.stationeryprinting.tn.gov.in/gazette/*">Wayback
+  Machine</a>. Prefer the original when it works; use the snapshot when it
+  doesn't — that's exactly what it's for.</p>
+  <div class="note">
+    <strong>Citing:</strong> for legal work, cite the gazette itself
+    (issue, date, part, page) and keep a copy of the PDF you relied on —
+    official sites redesign and reorganise, and this archive exists so the
+    evidence trail survives anyway.
+  </div>
+
+  <h2 id="history">A note on site history</h2>
+  <p>The publishing site was redesigned in 2026 (the old
+  <code>gazette_list.php</code>-style endpoints died with it), which broke
+  most earlier scrapers and URL patterns. Rows scraped before the redesign
+  keep their legacy link formats in the datasets; newer rows use the
+  base64-parameter URLs. The <code>Deleted</code> column tracks which old
+  links have since gone dead — and the Wayback column is usually where you
+  can still read them.</p>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    An independent open-data project ·
+    <a href="https://github.com/DigitalIndiaArchiver/TNGazette">source &amp; datasets on GitHub</a> ·
+    data from the <a href="https://www.stationeryprinting.tn.gov.in/">TN Commissionerate of Printing and Stationery</a>
+  </div>
+</footer>
+</body>
+</html>

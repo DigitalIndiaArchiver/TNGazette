@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The data — TN Gazette Archive</title>
+<meta name="description" content="CSV and Parquet datasets indexing the Tamil Nadu Government Gazette: weekly ordinary issues and extraordinary notifications, with original and archived links.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="site-title" href="index.html">TN Gazette Archive<span class="ta">தமிழ்நாடு அரசிதழ்</span></a>
+    <nav class="site-nav">
+      <a href="index.html">Overview</a>
+      <a href="data.html" class="active">The data</a>
+      <a href="archives.html">Originals &amp; archives</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <h1>The data</h1>
+  <p class="lede">Plain CSV and Parquet, one row per gazette part or
+  notification, updated weekly. Everything lives in the
+  <a href="https://github.com/DigitalIndiaArchiver/TNGazette/tree/main/data"><code>data/</code>
+  folder of the repo</a> — no API, no registration.</p>
+
+  <h2 id="datasets">Datasets at a glance</h2>
+  <div class="table-wrap">
+  <table id="files-table">
+    <thead><tr><th>File</th><th>What it holds</th><th>Rows</th><th>Download</th></tr></thead>
+    <tbody id="files-tbody"><tr><td colspan="4">loading…</td></tr></tbody>
+  </table>
+  </div>
+  <p class="stat-meta">Parquet mirrors every CSV (smaller, typed) but is
+  not committed to the repo — generate with
+  <code>scrape_ordinary.py</code> / <code>scrape_gazettes.py</code>.</p>
+
+  <h2 id="ordinary">Weekly gazettes</h2>
+  <h3><code>Gazattes_{year}.csv</code> — one row per part</h3>
+  <div class="table-wrap">
+  <table>
+    <thead><tr><th>Column</th><th>Meaning</th></tr></thead>
+    <tbody>
+      <tr><td><code>Part</code></td><td>Part number of the issue (I, II…)</td></tr>
+      <tr><td><code>Content</code></td><td>The site's description of the part (transcribed as-published)</td></tr>
+      <tr><td><code>URL</code></td><td>Original PDF link on the official site</td></tr>
+      <tr><td><code>Date</code></td><td>Issue date, <code>YYYY-MM-DD</code></td></tr>
+      <tr><td><code>Issue</code></td><td>Weekly issue number</td></tr>
+      <tr><td><code>Deleted</code></td><td>True when the original link no longer works</td></tr>
+      <tr><td><code>Archived URL</code> / <code>Archived Date</code></td><td>Wayback Machine snapshot of the PDF, when taken</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <h3><code>GazatteIssues_{year}.csv</code> — one row per weekly issue</h3>
+  <div class="table-wrap">
+  <table>
+    <thead><tr><th>Column</th><th>Meaning</th></tr></thead>
+    <tbody>
+      <tr><td><code>Issue No</code></td><td>Weekly issue number</td></tr>
+      <tr><td><code>Issue No and Date</code></td><td>As published, e.g. <code>38 dated:23-09-2026</code></td></tr>
+      <tr><td><code>Date</code></td><td>Issue date, <code>YYYY-MM-DD</code></td></tr>
+      <tr><td><code>URL</code></td><td>Part-listing page for that issue</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h2 id="extraordinary">Extraordinary gazettes</h2>
+  <h3><code>ExtraOrdinaryGazattes_{year}.csv</code> — one row per notification</h3>
+  <div class="table-wrap">
+  <table>
+    <thead><tr><th>Column</th><th>Meaning</th></tr></thead>
+    <tbody>
+      <tr><td><code>Issue No</code> / <code>Issue Date</code></td><td>Which extraordinary issue, and when</td></tr>
+      <tr><td><code>Extraordinary Part &amp; Section</code></td><td>Part-section identifier</td></tr>
+      <tr><td><code>PDF Link</code></td><td>Original PDF on the official site</td></tr>
+      <tr><td><code>Extraordinary Type</code></td><td>Ordinance / appointment / acquisition… as published</td></tr>
+      <tr><td><code>Subject</code></td><td>Full subject text of the notification</td></tr>
+      <tr><td><code>Department</code> / <code>G.O No</code></td><td>Issuing department and Government Order reference</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h2>Preview — latest ordinary parts</h2>
+  <p class="stat-meta">Rendered live from the dataset file (no build step).</p>
+  <div class="table-wrap">
+  <table id="preview-table">
+    <thead><tr><th>Date</th><th>Issue</th><th>Part</th><th>Content</th><th>PDF</th></tr></thead>
+    <tbody id="preview-tbody"><tr><td colspan="5">loading…</td></tr></tbody>
+  </table>
+  </div>
+
+  <h2 id="fulltext">Extracted text (<code>data/markdown/</code>)</h2>
+  <p>Beyond the index, the repo carries markdown transcripts of the gazettes'
+  own pages — extracted from archived PDFs and kept in git alongside the
+  metadata. <span id="md-total">…</span> documents in total, spanning
+  <span id="md-span">…</span> (each count links to the folder):</p>
+  <div class="table-wrap">
+  <table id="md-table">
+    <thead><tr><th>Year</th><th class="num">Weekly gazette text</th><th class="num">Extraordinary text</th></tr></thead>
+    <tbody id="md-tbody"><tr><td colspan="3">loading…</td></tr></tbody>
+  </table>
+  </div>
+  <h3>File shape</h3>
+  <p>Paths mirror the gazette's own calendar:
+  <code>data/markdown/&lt;kind&gt;/&lt;year&gt;/&lt;issue&gt;-part-&lt;section&gt;.md</code>
+  (for example <code>data/markdown/extraordinary/2017/344-part-iii-section-1a.md</code>).
+  Each file opens with YAML frontmatter tying it back to the dataset:</p>
+  <div class="note mono">---
+source: "wayback"
+type: "ordinary"
+year: "2009"
+pdf_url: "https://web.archive.org/web/2022…/gazette/2009/43-VI-4.pdf"
+Part: "9. Part VI—Section 4"
+Content: "Advertisements by private individuals…"
+Date: "2009-11-04"
+Issue: "43"
+---
+
+CHANGE OF NAMES
+No. 43] CHENNAI, WEDNESDAY, NOVEMBER 4, 2009
+…</div>
+  <p class="stat-meta">Text extraction is automated, so treat transcripts as a
+  finding aid: check the PDF before quoting anything.</p>
+
+  <h2>License &amp; citation</h2>
+  <p>Code: MIT. The gazette texts are official government publications.
+  If you use the datasets, a line like
+  <em>"Tamil Nadu Government Gazette index, DigitalIndiaArchiver/TNGazette
+  (github.com/DigitalIndiaArchiver/TNGazette), retrieved &lt;date&gt;"</em>
+  helps others find the source.</p>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    An independent open-data project ·
+    <a href="https://github.com/DigitalIndiaArchiver/TNGazette">source &amp; datasets on GitHub</a> ·
+    data from the <a href="https://www.stationeryprinting.tn.gov.in/">TN Commissionerate of Printing and Stationery</a>
+  </div>
+</footer>
+<script src="site.js"></script>
+</body>
+</html>

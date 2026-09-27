@@ -3,8 +3,9 @@ name: Weekly Extract
 on:
   push:
     branches: ["main"]
-    paths: ["tn_gazette_archiver.py", "scrape_gazettes.py", "archive_new_links.py",
-            ".github/workflows/main.yml", "requirements.txt"]
+    paths: ["tn_gazette_archiver.py", "scrape_gazettes.py", "scrape_ordinary.py",
+            "archive_new_links.py", "tn_lib.py", "tests/**", "requirements.txt",
+            ".github/workflows/main.yml"]
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 0"
@@ -34,9 +35,46 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Run unit tests
+        run: python -m pytest tests/ -q
+
+      # The TN Stationery site geo-blocks non-Indian IPs: foreign connections
+      # hang until timeout (observed from GitHub-hosted runners and other
+      # foreign vantage points since ~Sep 2026). Skip scraping loudly instead
+      # of producing fake greens or false "Deleted" flags. Data collection
+      # requires an Indian vantage point — see README "Geo-blocking".
+      - name: Preflight — site reachable?
+        id: preflight
+        run: |
+          for i in 1 2 3; do
+            if curl -sSf --max-time 20 -o /dev/null \
+              "https://www.stationeryprinting.tn.gov.in/index.php"; then
+              echo "reachable=true" >> "$GITHUB_OUTPUT"
+              echo "Site reachable (attempt $i)"
+              exit 0
+            fi
+            echo "Attempt $i failed; retrying in 10s"
+            sleep 10
+          done
+          echo "reachable=false" >> "$GITHUB_OUTPUT"
+
+      - name: Warn — site unreachable from runner
+        if: steps.preflight.outputs.reachable == 'false'
+        run: |
+          echo "::warning::TN Stationery site unreachable from this runner \
+          (geo-blocked for non-Indian IPs). Scrapes skipped; dataset not \
+          refreshed. Data collection needs an Indian vantage point — \
+          see README 'Geo-blocking'."
+
       - name: Scrape new Extraordinary Gazettes
-        timeout-minutes: 3
+        if: steps.preflight.outputs.reachable == 'true'
+        timeout-minutes: 8
         run: python scrape_gazettes.py
+
+      - name: Scrape new Ordinary Gazettes
+        if: steps.preflight.outputs.reachable == 'true'
+        timeout-minutes: 20
+        run: python scrape_ordinary.py
 
       - name: Archive unarchived PDF links to Wayback Machine
         timeout-minutes: 5

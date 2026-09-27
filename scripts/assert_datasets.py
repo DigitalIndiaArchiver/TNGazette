@@ -15,6 +15,7 @@ a run that *lost* anything is a build failure.
 from __future__ import annotations
 
 import csv
+import io
 import subprocess
 import sys
 from pathlib import Path
@@ -32,9 +33,57 @@ FAMILIES = {
 }
 
 
-def count_rows(path: Path) -> int:
+KEY_COLUMN = {
+    "ordinary gazettes": "URL",
+    "weekly issues": "URL",
+    "extraordinary gazettes": "PDF Link",
+}
+
+
+def _rows(text: str) -> list[list[str]]:
+    """Parse CSV text into non-blank rows.
+
+    Must go through a single reader: gazette Subjects legitimately contain
+    newlines inside quoted cells, so splitting on lines first would invent
+    rows that the real file does not have.
+    """
+    return [r for r in csv.reader(io.StringIO(text)) if any(c.strip() for c in r)]
+
+
+def count_rows(path: Path) -> tuple[int, int]:
+    """(data rows, unique documents) for a dataset file.
+
+    Uniqueness is the measure that matters: a merge dedupes on the document
+    key, so row count alone can fall while coverage does not. Counting keys
+    also means a shrunken listing window cannot hide behind duplicates.
+    """
     with path.open(newline="", encoding="utf-8-sig", errors="replace") as f:
-        return sum(1 for _ in csv.reader(f)) - 1
+        rows = _rows(f.read())
+    if not rows:
+        return 0, 0
+    header, body = rows[0], _rows_data(rows[1:])
+    key = _key_index(header, path.name)
+    keys = {r[key] for r in body if len(r) > key and r[key].strip()}
+    return len(body), len(keys)
+
+
+def _rows_data(rows: list[list[str]]) -> list[list[str]]:
+    return rows
+
+
+def _key_index(header: list[str], name: str) -> int:
+    """Column index of the document key, tolerating legacy file shapes.
+
+    Legacy files (pre-2024) share the dataset folder but use older column
+    sets, so fall back to the first URL-ish column actually present.
+    """
+    for candidate in ("URL", "PDF Link", "Link"):
+        if candidate in header:
+            return header.index(candidate)
+    for i, col in enumerate(header):
+        if "url" in col.lower() or "link" in col.lower():
+            return i
+    return len(header) - 1
 
 
 def head_text(rel: str) -> str | None:
@@ -51,12 +100,18 @@ def head_text(rel: str) -> str | None:
     return out.stdout
 
 
-def head_rows(rel: str) -> int | None:
-    """Rows committed at HEAD, or None when HEAD can't be read (new file, no git)."""
+def head_counts(rel: str) -> tuple[int, int] | None:
+    """(rows, unique docs) committed at HEAD, or None when unreadable."""
     text = head_text(rel)
     if text is None:
         return None
-    return max(0, sum(1 for _ in csv.reader(text.splitlines())) - 1)
+    rows = _rows(text)
+    if not rows:
+        return 0, 0
+    header, body = rows[0], rows[1:]
+    key = _key_index(header, rel)
+    keys = {r[key] for r in body if len(r) > key and r[key].strip()}
+    return len(body), len(keys)
 
 
 def main() -> int:
@@ -67,24 +122,32 @@ def main() -> int:
         if legacy_path.exists():
             files.append(legacy_path)
 
-        now = sum(count_rows(p) for p in files)
-        known = [head_rows(str(p.relative_to(REPO))) for p in files]
+        counts = [count_rows(p) for p in files]
+        now, now_keys = (sum(c[0] for c in counts), sum(c[1] for c in counts))
+        known = [head_counts(str(p.relative_to(REPO))) for p in files]
         untracked = any(k is None for k in known) and not all(k is None for k in known)
-        before = sum(k for k in known if k is not None)
+        before = sum(k[0] for k in known if k is not None)
+        before_keys = sum(k[1] for k in known if k is not None)
 
         if all(k is None for k in known):
             print(f"[skip] {label}: no committed state to compare ({now} rows on disk)")
         else:
-            status = "ok" if now >= before else "LOST"
+            status = "ok" if now_keys >= before_keys else "LOST"
             note = " (some files new this run)" if untracked else ""
-            print(f"[{status}] {label}: {before} -> {now} rows{note}")
-            if now < before:
-                failures.append(f"{label}: {before} -> {now} rows (lost {before - now})")
+            print(
+                f"[{status}] {label}: {before_keys} -> {now_keys} documents "
+                f"({before} -> {now} rows){note}"
+            )
+            if now_keys < before_keys:
+                failures.append(
+                    f"{label}: {before_keys} -> {now_keys} documents "
+                    f"(lost {before_keys - now_keys})"
+                )
 
         current = DATA / f"{prefix}{CURRENT_YEAR}.csv"
         if not current.exists():
             failures.append(f"{label}: {current.name} missing")
-        elif count_rows(current) == 0:
+        elif count_rows(current)[0] == 0:
             failures.append(f"{label}: {current.name} is empty")
 
     if failures:

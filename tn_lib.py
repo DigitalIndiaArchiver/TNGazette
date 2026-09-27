@@ -61,3 +61,63 @@ def split_issue_text(text):
     except ValueError:
         return issue_no, ""
     return issue_no, date_str
+
+
+def read_rows(path, columns):
+    """Read a CSV into dicts safely: no field-size cap, no NUL/CR bytes.
+
+    Government gazette rows carry very long Subject cells (some exceed 128 KB,
+    which is csv's default per-field limit) and occasional NUL bytes from
+    mangled PDF text extraction. Both break naive reads and pandas/parquet
+    writes, so normalise here instead of at every call site.
+
+    A leading row identical to ``columns`` is treated as the header and
+    dropped, so callers get data rows only.
+    """
+    import csv
+
+    try:
+        csv.field_size_limit(1 << 30)
+    except OverflowError:
+        csv.field_size_limit(2 ** 31 - 1)
+
+    if not path.exists():
+        return []
+    out = []
+    with path.open(newline="", encoding="utf-8", errors="replace") as fh:
+        for raw in csv.reader(fh):
+            if not raw or not any(cell.strip() for cell in raw):
+                continue
+            values = [
+                cell.replace("\x00", "").replace("\r", " ").strip()
+                for cell in raw
+            ]
+            if not any(values):
+                continue
+            if values == list(columns):
+                continue  # header row
+            out.append(dict(zip(columns, values)))
+    return out
+
+
+def merge_by_key(existing, fresh, key):
+    """Union two row lists on `key`, preferring rows already on disk.
+
+    Scrapers that rewrite a year file must not lose history when the
+    source's listing window shrinks (the redesigned TN site only exposes
+    recent issues). On-disk rows win so accumulated metadata such as
+    Wayback columns survives.
+    """
+    seen = set()
+    merged = []
+    for row in existing + fresh:
+        k = (row.get(key) or "").strip()
+        if not k:
+            # Rows without a usable key must never collapse into one another.
+            merged.append(row)
+            continue
+        if k in seen:
+            continue
+        seen.add(k)
+        merged.append(row)
+    return merged

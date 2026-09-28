@@ -208,6 +208,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--init", action="store_true",
                     help="first run: mark all rows seen, no digest")
+    ap.add_argument("--seed-source", metavar="NAME",
+                    help="mark one source's rows seen, no digest (add a new "
+                         "source without backfill-posting its archive)")
     args = ap.parse_args()
 
     if not CACHE.exists():
@@ -272,15 +275,27 @@ def main():
         return [r for r in csv_rows[src]
                 if r.get("URL") and r["URL"] not in sent_map]
 
-    if args.init:
+    seed = [args.seed_source] if args.seed_source else (
+        list(ORDER) if args.init else [])
+    for src in seed:
+        for r in csv_rows[src]:
+            u = r.get("URL")
+            if u:
+                sent_map[u] = "init"
+    if seed:
+        SENT_PATH.write_text(_json.dumps(sent_map, indent=0, sort_keys=True))
+    counts = {s: 0 for s in ORDER}
+    new_by_source = {s: [] for s in ORDER}
+    if seed:
+        seen_now = set(sent_map)
         for src in ORDER:
+            if src in seed:
+                continue
             for r in csv_rows[src]:
                 u = r.get("URL")
-                if u:
-                    sent_map[u] = "init"
-        SENT_PATH.write_text(_json.dumps(sent_map, indent=0, sort_keys=True))
-        counts = {s: 0 for s in ORDER}
-        new_by_source = {s: [] for s in ORDER}
+                if u and u not in seen_now:
+                    counts[src] += 1
+                    new_by_source[src].append(r)
 
     pend = {s: pending(s) for s in ORDER}
     pcounts = {s: len(pend[s]) for s in ORDER}

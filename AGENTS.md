@@ -192,6 +192,8 @@ Separate desk inside the same repo/pipeline: documents the TN government publish
 | `whatsnew` | What's New firehose via `test-paginate.php?year={b64}` — LFA audit reports, IAS circulars, policy notes | tn.gov.in |
 | `tnpcb_ph` | TNPCB public-hearing notices (EIA + Tamil/English exec summaries) | tnpcb.gov.in/projectstatic/PublicHearing.aspx |
 | `seco` | CEO Tamil Nadu notification PDFs | elections.tn.gov.in/Notifications.aspx |
+| `circulars` | Secretariat circulars & notifications (sparse archive, ~6 docs; A-Z ajax `alphabet_wise_search.php?page={b64(pageName)}&q={b64(str(code))}` — the JS sends the ASCII *code as a string*, so `q` is b64 of "65".."90", not letters; pageName token read from the seed page) | tn.gov.in |
+| `gcc_cr` | Chennai Corporation council resolutions (date-titled PDFs, ~250) | chennaicorporation.gov.in/gcc/council/council-resolution/ |
 
 Pieces:
 - `scripts/dailytn_fetch.py` — two stages: `--stage ocitwo` (runs on ocitwo, Indian vantage; prints `SOURCES_JSON_BEGIN/END` JSON) and `--stage merge` (local: dedupes, emits full JSON). Press-release/category rows filtered (tn.gov.in `press_release.php`, `/pressrelease/` paths, GCC-TN). JS-shell pages resolved by probing `.load(` endpoints and `event-container` blocks (the go rows live in `event-table` markup, not tables).
@@ -199,6 +201,8 @@ Pieces:
 - `scripts/dailytn_alert.py` — posts the digest to `@tngazette_alerts` (grouped by source, max 6 lines/source, 3800-char split). Silent when digest is empty or `.digest_sent.json` matches the digest's `generated` stamp.
 - `scripts/dailytn_update.sh` — per-tick driver: ocitwo fetch → merge/pages → commit+push when data changed (PUSH=1; digest-latest.json is gitignored — it regenerates hourly and must not cause commit spam) → Telegram send only in digest slots (11:00/17:00 IST; `--digest-now` or `DTN_FORCE_DIGEST=1` to force). Single-instance `flock scripts/.dtn.lock`.
 - Scheduler wiring: `scheduler.sh` runs `dailytn_update.sh` after every successful gazette tick (same loop, own lock, non-fatal).
+- Adding a new source (2026-09-28 policy): run `python3 scripts/build_daily.py --seed-source <name>` after the first fetch merge so its historical rows enter `.sent.json` WITHOUT a digest/backfill post; only documents that appear after the seed will alert. New-source day pages still list the full inventory.
+- Phase 2 self-test (2026-09-28): fake GCC council-resolution row flowed CSV → digest → real Telegram post to @tngazette_alerts, then purged (CSV row + `.sent.json` entry) with a clean tree.
 
 Self-test (2026-09-28): crafted 1-item digest sent end-to-end to the channel via the real alert path ("Daily TN pipeline self-test" line).
 

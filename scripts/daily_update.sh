@@ -146,23 +146,35 @@ fi
 if [ "$N_PDFS" != "0" ]; then
   echo "== 6. cache new PDFs for distilling =="
   mkdir -p scripts/.pdf_cache
-  python3 - "$WORK/delta.json" "$WORK/pdfs.tgz" <<'PYEOF'
-import json, sys, tarfile
+  python3 - "$WORK/delta.json" "$WORK/pdfs.tgz" "$WORK/pdfs-extract" <<'PYEOF'
+import json, shutil, sys, tarfile
 from pathlib import Path
 import hashlib
 
 delta = json.loads(Path(sys.argv[1]).read_text())
 cache = Path("scripts/.pdf_cache")
+extract = Path(sys.argv[3])
+cache.mkdir(parents=True, exist_ok=True)
 with tarfile.open(sys.argv[2]) as tar:
-    tar.extractall(cache.parent, filter="data")
-src = cache.parent / "pdfs"
+    extract.mkdir(parents=True, exist_ok=True)
+    tar.extractall(extract, filter="data")
+src = extract / "pdfs"
+if not src.is_dir():
+    hits = [h for h in extract.rglob("pdfs") if h.is_dir()]
+    if not hits:
+        print("  tarball contains no pdfs/ directory")
+        sys.exit(4)
+    src = hits[0]
 n = 0
 for item in delta.get("downloads", []):
     f = src / item["file"]
     if f.exists():
         (cache / (hashlib.md5(item["url"].encode()).hexdigest() + ".pdf")).write_bytes(f.read_bytes())
         n += 1
-shutil.rmtree(src, ignore_errors=True)
+shutil.rmtree(extract, ignore_errors=True)
+print(f"  cached {n} of {len(delta.get('downloads', []))} expected PDFs")
+if n != len(delta.get("downloads", [])):
+    sys.exit(3)
 print("  cached %d PDFs" % n)
 PYEOF
   [ $? -eq 0 ] || fail "pdf-cache"

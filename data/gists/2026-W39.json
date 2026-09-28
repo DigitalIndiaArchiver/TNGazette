@@ -3,14 +3,52 @@
   2026,
   39
  ],
- "generated_at": "2026-09-28T00:14:25Z",
+ "generated_at": "2026-09-28T03:49:58Z",
  "model": "byok:f13b5a3d-aca5-43b5-a88a-31e1058bc075",
+ "grounding": "5/7 items from extracted PDF text",
+ "sources": [
+  {
+   "file": null,
+   "kind": "listing-only",
+   "chars": 0
+  },
+  {
+   "file": null,
+   "kind": "listing-only",
+   "chars": 0
+  },
+  {
+   "file": "data/markdown/extraordinary/2026/411-part-iii-section-1a.md",
+   "kind": "markdown",
+   "chars": 6000
+  },
+  {
+   "file": "data/markdown/extraordinary/2026/410-part-v-section-4.md",
+   "kind": "markdown",
+   "chars": 6000
+  },
+  {
+   "file": "data/markdown/extraordinary/2026/408-part-ii-section-2.md",
+   "kind": "markdown",
+   "chars": 6000
+  },
+  {
+   "file": "data/markdown/extraordinary/2026/407-part-iii-section-1a.md",
+   "kind": "markdown",
+   "chars": 6000
+  },
+  {
+   "file": "data/markdown/extraordinary/2026/404-part-ii-section-2.md",
+   "kind": "markdown",
+   "chars": 6000
+  }
+ ],
  "lines": [
-  "Fees at registration offices may change: the fee table under the Registration Act, 1908 has been amended.",
-  "An erratum corrects an earlier notification amending the Tamil Nadu Legal Metrology (Enforcement) Rules, 2011, under the Labour Welfare and Skill Development Department.",
-  "The Madras High Court judgment in Election Petition No.36 of 2026 has been published by the Public (Elections) Department.",
-  "Temple staff take note: service rules for Hindu Religious and Charitable Endowments employees, set in 2020, have been amended.",
-  "The Human Resources Management Department issued a notification under the Right to Information Act, 2005.",
-  "Ordinary items: a land reforms notification was modified, and routine name-change notices by individuals were published."
+  "Registration fees amended: the Commercial Taxes and Registration Department changed the fee table under the Registration Act, 1908 — affects document registration charges.",
+  "Correction issued to amendments of the Tamil Nadu Legal Metrology (Enforcement) Rules, 2011 — Labour department; these rules cover weights and measures.",
+  "Temple employees: service-condition rules for Hindu Religious Institutions staff (2020 Rules) were amended — affects working conditions of temple employees.",
+  "Elections: a Madras High Court judgment in Election Petition No.36 of 2026 was published in the Gazette.",
+  "RTI: the HRM Department issued a notification under the Right to Information Act, 2005.",
+  "Name changes: one ordinary gazette lists individuals' name changes (Tamil and English) plus private advertisements and company-law notices — names only, no policy change."
  ]
 }

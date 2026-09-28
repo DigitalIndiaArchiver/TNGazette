@@ -15,11 +15,9 @@
 # Lost state (fresh boot) = one immediate check — safe.
 set -uo pipefail
 cd "$(dirname "$0")/.." || exit 1
-# Bot tokens live in a root-only env file (service processes do not
-# inherit the interactive-session environment).
-[ -f /etc/zo/tngazette.env ] && . /etc/zo/tngazette.env
 IST="Asia/Calcutta"
 STATE="scripts/.last_check"
+LOCK="scripts/.driver.lock"   # single-instance guard around driver runs
 CHANNEL_ID="1551896270862417920"   # LogicPlay #ungalsoththu
 TAG="[tgz-sched]"
 
@@ -57,7 +55,12 @@ while true; do
   if [ $((t - last)) -ge "$iv" ]; then
     echo "$TAG $(ist_now '+%F %T %Z') due (every ${iv}s; last check $((t - last))s ago)"
     LOG="$(mktemp /tmp/tngaz-sched.XXXXXX)"
-    if PUSH=1 bash scripts/daily_update.sh >"$LOG" 2>&1; then
+    (
+      flock -n 9 || { echo "$TAG another driver holds the lock; skipping this tick"; exit 97; }
+      PUSH=1 bash scripts/daily_update.sh
+    ) >"$LOG" 2>&1
+    rc=$?
+    if [ "$rc" -eq 0 ]; then
       last="$(now_epoch)"; echo "$last" > "$STATE"
       result="$(grep -o 'DAILY_RESULT:.*' "$LOG" | tail -1)"
       echo "$TAG $result"
@@ -69,8 +72,9 @@ while true; do
         *)
           notify_discord "TNGazette check $(ist_now '+%d %b %H:%M IST'): ${result#DAILY_RESULT: } — https://digitalindiaarchiver.github.io/TNGazette/" ;;
       esac
+    elif [ "$rc" -eq 97 ]; then
+      echo "$TAG skipped (lock held); watermark unchanged"
     else
-      rc=$?
       last="$(now_epoch)"; echo "$last" > "$STATE"  # a failed probe still counts; retry next due
       echo "$TAG driver FAILED rc=$rc; tail:"
       tail -5 "$LOG" | sed "s/^/$TAG | /"

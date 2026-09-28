@@ -12,3 +12,6 @@ tngazette/
 
 # Scheduler run-state (last-check watermark)
 scripts/.last_check
+
+# Scheduler driver single-instance lock
+scripts/.driver.lock

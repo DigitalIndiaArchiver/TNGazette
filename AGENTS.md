@@ -176,8 +176,8 @@ New gazettes are announced on a public Telegram channel via the Bot API.
 | Piece | Role |
 |-------|------|
 | `scripts/telegram_alert.py` | Self-healing alert: posts every row in the canonical CSVs that is not yet in `data/.telegram_sent.json` (NOT the run's delta — a failed/skipped post retries next run automatically). Items older than `--max-age-days` (default 10) are marked sent silently; first run with no state file only initializes (never backfill-spams years of history). One digest message per run (splits at 3800 chars): extraordinary items with issue/dept/G.O + subject line, ordinary parts grouped by issue/date. Links the current weekly page. Exit 0 ok · 3 not configured · 4 Telegram API error (non-fatal to the pipeline). |
-| `data/telegram_channel.txt` | Channel handle (`@tngazette`). Override per-run with `--channel` or `$TG_CHANNEL`. |
+| `data/telegram_channel.txt` | Channel handle (`@tngazette_alerts`, https://t.me/tngazette_alerts). Override per-run with `--channel` or `$TG_CHANNEL`. |
 | `data/.telegram_sent.json` | Sent-state (URL → date), committed for auditability; URL keys mean deletions/re-adds never double-post. |
-| Bot | `@CashlessConsumerClawBot` (`TELEGRAM_BOT_TOKEN` env) — must be an admin of the channel with post rights. |
+| Bot | `@CashlessConsumerClawBot` (`TELEGRAM_BOT_TOKEN` env) — channel admin with post rights (verified 2026-09-28). Tokens reach the scheduler via root-only `/etc/zo/tngazette.env`, sourced at startup. |
 
-Wired into `daily_update.sh` as step 10.5 (before commit, so the sent-state rides the daily commit; posting failure is non-fatal). `--dry-run` / `--sample` preview messages without sending or writing state.
+Wired into `daily_update.sh` as step 10.5 (before commit, so the sent-state rides the daily commit; posting failure is non-fatal). `--dry-run` / `--sample` preview messages without sending or writing state. 2026-09-28: channel created as `@tngazette_alerts`; one-time catch-up digest (10 recent items) posted through the real alert path to validate it end-to-end; backfill of older history suppressed by design.

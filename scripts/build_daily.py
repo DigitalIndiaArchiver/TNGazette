@@ -45,8 +45,10 @@ SOURCES = {
     "whatsnew": "What's New documents (tn.gov.in)",
     "tnpcb_ph": "TNPCB public hearing documents",
     "seco": "CEO-Tamil Nadu notifications",
+    "circulars": "Secretariat circulars & notifications",
+    "gcc_cr": "Chennai GCC council resolutions",
 }
-ORDER = ["go", "whatsnew", "tnpcb_ph", "seco"]
+ORDER = ["go", "whatsnew", "tnpcb_ph", "seco", "circulars", "gcc_cr"]
 
 MONTHS = {m: i for i, m in enumerate(
     ["January", "February", "March", "April", "May", "June", "July",
@@ -322,6 +324,8 @@ SCHEMA_FALLBACK = {
     "tnpcb_ph": ["project", "extent", "hearing_date", "venue", "deo", "URL",
                  "eia_url"],
     "seco": ["title", "URL"],
+    "circulars": ["title", "date", "URL"],
+    "gcc_cr": ["title", "date", "URL"],
 }
 
 

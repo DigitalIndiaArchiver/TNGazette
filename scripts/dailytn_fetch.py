@@ -33,6 +33,7 @@ from tn_lib import read_rows, merge_by_key  # noqa: E402
 UA = "Mozilla/5.0 (X11; Linux x86_64) TNGazetteArchiver/1.0"
 BASE = "https://www.tn.gov.in"
 SECO = "https://www.elections.tn.gov.in"
+GCC = "https://www.chennaicorporation.gov.in"
 TNPCB = "https://www.tnpcb.gov.in"
 DELAY = 0.4
 
@@ -43,6 +44,8 @@ SCHEMAS = {
     "whatsnew": ["category", "title", "date", "URL"],
     "tnpcb_ph": ["project", "extent", "hearing_date", "venue", "deo", "URL", "eia_url"],
     "seco": ["title", "URL"],
+    "circulars": ["title", "date", "URL"],
+    "gcc_cr": ["title", "date", "URL"],
 }
 
 
@@ -202,11 +205,69 @@ def dedupe(rows):
     return out
 
 
+def _pdf_rows(frag, base):
+    """Extract {title, date, URL} rows from a listing fragment."""
+    rows = []
+    for chunk in re.split(r"<tr[^>]*>", frag):
+        lm = re.search(r'href=["\']([^"\']+\.pdf[^"\']*)["\']', chunk, re.I)
+        if not lm:
+            continue
+        url = lm.group(1).replace("\\", "/")
+        if not url.startswith("http"):
+            url = f"{base}/{url.lstrip('/')}"
+        am = re.search(r"<a[^>]*>(.*?)</a>", chunk, re.S | re.I)
+        title = clean(am.group(1) if am else "")[:300]
+        if not title or title.lower() == "click here":
+            title = url.rsplit("/", 1)[-1]
+        dm = re.search(r"(\d{4}-\d{2}-\d{2}|\d{2}-\d{2}-\d{4}|\d{2}\.\d{2}\.\d{4})", chunk)
+        rows.append({"title": title, "date": dm.group(1) if dm else "", "URL": url})
+    return rows
+
+
+def scrape_circulars():
+    """Dept-wise circulars & notifications via the A-Z ajax search.
+
+    The dept shell embeds an A-Z ajax search: alphabet_wise_search.php with
+    the buggy-but-real convention q=b64(str(ascii_code)) (showUser sends the
+    button id, not the letter). pageName token is read from
+    alphabet_search.php (b64 "circular"); the seed page lists the recent set.
+    """
+    opener = get_cookiejar(f"{BASE}/alphabet_search.php?page={b64('circular')}")
+    page = opener.open(urllib.request.Request(
+        f"{BASE}/alphabet_search.php?page={b64('circular')}",
+        headers={"User-Agent": UA}), timeout=40).read().decode("utf-8", "replace")
+    m = re.search(r'pageName\s*=\s*["\']([A-Za-z0-9+/=]+)["\']', page)
+    if not m:
+        return []
+    pname = m.group(1)
+    rows = _pdf_rows(page, BASE)  # the seed page itself lists the recent set
+
+    for code in range(65, 91):  # the page's showUser(N) sends the ASCII code as text
+        try:
+            frag = opener.open(urllib.request.Request(
+                f"{BASE}/alphabet_wise_search.php?page={pname}&q={b64(str(code))}",
+                headers={"User-Agent": UA}), timeout=40).read().decode("utf-8", "replace")
+        except Exception:
+            continue
+        if frag.startswith("ERR:"):
+            continue
+        rows.extend(_pdf_rows(frag, BASE))
+    return dedupe(rows)
+
+
+def scrape_gcc_cr():
+    """Chennai GCC council resolutions (date-titled PDF listing)."""
+    h = fetch(f"{GCC}/gcc/council/council-resolution/")
+    return dedupe(_pdf_rows(h, GCC))
+
+
 SOURCES = {
     "go": scrape_go,
     "whatsnew": scrape_whatsnew,
     "tnpcb_ph": scrape_tnpcb,
     "seco": scrape_seco,
+    "circulars": scrape_circulars,
+    "gcc_cr": scrape_gcc_cr,
 }
 
 

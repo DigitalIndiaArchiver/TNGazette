@@ -101,6 +101,30 @@ def read_rows(path, columns):
     return out
 
 
+def write_rows(path, columns, rows):
+    """Write dicts as CSV with the header row, mirroring read_rows hygiene.
+
+    Strips NUL/CR from every cell and quotes properly so very long Subject
+    cells survive round-trips. Writes only if content changed, so pipeline
+    steps can use mtime-based "anything new?" checks.
+    """
+    import csv
+    import io
+
+    buf = io.StringIO()
+    w = csv.writer(buf, lineterminator="\n")
+    w.writerow(list(columns))
+    for r in rows:
+        w.writerow([
+            str(r.get(c) or "").replace("\x00", "").strip() for c in columns])
+    data = buf.getvalue()
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if path.exists() and path.read_text(encoding="utf-8") == data:
+        return False
+    path.write_text(data, encoding="utf-8")
+    return True
+
+
 def merge_by_key(existing, fresh, key):
     """Union two row lists on `key`, preferring rows already on disk.
 

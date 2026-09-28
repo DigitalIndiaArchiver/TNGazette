@@ -15,3 +15,9 @@ scripts/.last_check
 
 # Scheduler driver single-instance lock
 scripts/.driver.lock
+
+# Daily TN runtime state (changes every tick; durable record is day pages + CSVs)
+data/dailytn/digest-latest.json
+data/dailytn/.digest_sent.json
+scripts/.dtn.lock
+scripts/.dtn_cache/

@@ -72,6 +72,14 @@ while true; do
         *)
           notify_discord "TNGazette check $(ist_now '+%d %b %H:%M IST'): ${result#DAILY_RESULT: } — https://digitalindiaarchiver.github.io/TNGazette/" ;;
       esac
+      # Daily TN — independent feeds (G.O.s / What's New / TNPCB / SECO);
+      # own lock, non-fatal: a dtn failure never fails the gazette tick
+      if dtn_out="$(PUSH=1 bash scripts/dailytn_update.sh 2>&1)"; then
+        echo "$TAG dtn: $(echo "$dtn_out" | grep -E 'DTN_BUILD|digest|committed' | tail -2 | tr '\n' ' ' | cut -c1-200)"
+      else
+        echo "$TAG dtn FAILED rc=$?; tail: $(echo "$dtn_out" | tail -2 | tr '\n' ' ' | cut -c1-200)"
+      fi
+      rm -f scripts/.dtn.lock
     elif [ "$rc" -eq 97 ]; then
       echo "$TAG skipped (lock held); watermark unchanged"
     else

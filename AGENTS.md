@@ -165,3 +165,16 @@ Delta-only daily update: check for NEW gazettes since what the CSVs already hold
 - Automation: Zo daily agent 09:30 IST — runs the driver with `PUSH=1`, posts counts to Discord #ungalsoththu only when delta > 0 or on failure; silent on clean no-change days.
 - `extract_utils.fetch_pdf` caches by md5(url) under `scripts/.pdf_cache/` (gitignored), so distill never re-downloads.
 - Ordinary distill prefers `Gazattes_{year}.csv` over legacy `Gazattes.csv`; gitignore covers `scripts/.pdf_cache/` and `tngazette/` (unrelated Zo Site scaffold).
+
+## Telegram channel alerts (2026-09-28)
+
+New gazettes are announced on a public Telegram channel via the Bot API.
+
+| Piece | Role |
+|-------|------|
+| `scripts/telegram_alert.py` | Self-healing alert: posts every row in the canonical CSVs that is not yet in `data/.telegram_sent.json` (NOT the run's delta — a failed/skipped post retries next run automatically). Items older than `--max-age-days` (default 10) are marked sent silently; first run with no state file only initializes (never backfill-spams years of history). One digest message per run (splits at 3800 chars): extraordinary items with issue/dept/G.O + subject line, ordinary parts grouped by issue/date. Links the current weekly page. Exit 0 ok · 3 not configured · 4 Telegram API error (non-fatal to the pipeline). |
+| `data/telegram_channel.txt` | Channel handle (`@tngazette`). Override per-run with `--channel` or `$TG_CHANNEL`. |
+| `data/.telegram_sent.json` | Sent-state (URL → date), committed for auditability; URL keys mean deletions/re-adds never double-post. |
+| Bot | `@CashlessConsumerClawBot` (`TELEGRAM_BOT_TOKEN` env) — must be an admin of the channel with post rights. |
+
+Wired into `daily_update.sh` as step 10.5 (before commit, so the sent-state rides the daily commit; posting failure is non-fatal). `--dry-run` / `--sample` preview messages without sending or writing state.

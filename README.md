@@ -116,3 +116,7 @@ Files are saved to `data/`:
 ## License
 
 MIT
+
+## Telegram alerts
+
+New Ordinary and Extraordinary gazettes are announced on the Telegram channel **[@tngazette](https://t.me/tngazette)** — extraordinary notifications with issuing department and G.O. number, ordinary parts grouped by issue, plus links to the weekly review. Powered by the daily delta pipeline (`scripts/telegram_alert.py`); missed posts self-heal on the next run.

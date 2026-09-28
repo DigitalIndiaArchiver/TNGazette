@@ -1,9 +1,9 @@
 beautifulsoup4==4.10.0
-requests==2.31.0
+requests==2.33.0
 waybackpy==3.0.6
 pandas==1.5.3
 numpy<2,>=1.21.0
 lxml
 datasette
 pyarrow
-pytest==8.4.2
+pytest==9.0.3

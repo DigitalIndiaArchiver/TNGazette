@@ -143,7 +143,7 @@ def page_shell(title, body, rel_root="../"):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)} — TN Gazette</title>
-<link rel="stylesheet" href="{rel_root}../style.css">
+<link rel="stylesheet" href="{rel_root}style.css">
 </head>
 <body>
 <header>

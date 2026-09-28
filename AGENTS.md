@@ -180,4 +180,6 @@ New gazettes are announced on a public Telegram channel via the Bot API.
 | `data/.telegram_sent.json` | Sent-state (URL → date), committed for auditability; URL keys mean deletions/re-adds never double-post. |
 | Bot | `@CashlessConsumerClawBot` (`TELEGRAM_BOT_TOKEN` env) — channel admin with post rights (verified 2026-09-28). Tokens reach the scheduler via root-only `/etc/zo/tngazette.env`, sourced at startup. |
 
+Channel photo: `assets/telegram-channel-photo.png` (1024px source) + `-512.jpg` (upload size) — set via Bot API `setChatPhoto` (needs the bot's `can_change_info` admin right); re-upload the 512 jpg to swap.
+
 Wired into `daily_update.sh` as step 10.5 (before commit, so the sent-state rides the daily commit; posting failure is non-fatal). `--dry-run` / `--sample` preview messages without sending or writing state. 2026-09-28: channel created as `@tngazette_alerts`; one-time catch-up digest (10 recent items) posted through the real alert path to validate it end-to-end; backfill of older history suppressed by design.

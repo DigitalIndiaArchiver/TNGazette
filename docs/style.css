@@ -185,3 +185,11 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 .year-official { font-size: 0.82rem; white-space: nowrap; }
 .year-official a { color: var(--muted); text-decoration: none; border-bottom: 1px dotted var(--border); }
 .year-official a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+section.gist ul {
+  list-style: disc;
+  padding-left: 1.4rem;
+  margin: 0 0 .4rem;
+}
+section.gist li { margin: .25rem 0; }
+section.gist { border-left: 3px solid var(--accent, #8a1f2d); padding-left: 1rem; }

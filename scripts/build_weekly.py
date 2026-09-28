@@ -12,6 +12,7 @@ computed with the same slug rule as scripts/extract_utils.py - keep in sync.
 Usage: python3 scripts/build_weekly.py [--year 2026]
 """
 import argparse
+import json
 import re
 from datetime import datetime, date
 import sys
@@ -135,6 +136,32 @@ def page(title, description, body):
 """
 
 
+def gist_section(wk):
+    """Render the LLM-written citizen gist for this week, if one exists."""
+    path = PROJECT / "data" / "gists" / f"{wk[0]}-W{wk[1]:02d}.json"
+    if not path.exists():
+        return ""
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (ValueError, OSError):
+        return ""
+    lines = [str(x).strip() for x in data.get("lines", []) if str(x).strip()]
+    if not lines:
+        return ""
+    lis = "\n".join(f"      <li>{esc(x)}</li>" for x in lines)
+    when = esc(str(data.get("generated_at", ""))[:10])
+    return f"""
+  <section class="gist">
+    <h2>What this means for you</h2>
+    <ul>
+{lis}
+    </ul>
+    <p class="stat-meta">Machine-written citizen summary of this week's notifications,
+    generated {when}; the gazette text is authoritative — verify against the PDFs below
+    before acting.</p>
+  </section>"""
+
+
 def short(s, n=140):
     s = " ".join(str(s or "").split())
     if len(s) <= n:
@@ -244,6 +271,7 @@ def week_body(wk, weeks, current, lede=None, include_archive=True):
     <div class="stat"><div class="stat-num">{len(rows_x)}</div><div class="stat-label">extraordinary notifications</div></div>
   </section>"""
     tldr = tldr_section(rows_o, rows_x)
+    gist = gist_section(wk)
     arch = [w for w in sorted(weeks, reverse=True) if w != wk]
     arch_items = "\n".join(
         f'      <li><a href="{week_file(w)}.html">{week_title(w)}</a></li>' for w in arch)
@@ -260,7 +288,7 @@ def week_body(wk, weeks, current, lede=None, include_archive=True):
     {lede_html}
   </section>
 {stats}
-{tldr}
+{tldr}{gist}
   <section>
     <h2 id="ordinary">Ordinary gazette parts</h2>
     {ordinary_table(rows_o, wy) or '<p class="stat-meta">No ordinary issues dated this week.</p>'}
@@ -277,6 +305,28 @@ def week_body(wk, weeks, current, lede=None, include_archive=True):
     GitHub. Older weeks: see the archive list below, or
     <a href="../data.html">the datasets</a> for everything at once.</p>
   </section>{arch_html if include_archive else ""}"""
+
+
+def gist_section(wk):
+    path = PROJECT / "data" / "gists" / f"{wk[0]}-W{wk[1]:02d}.json"
+    if not path.is_file():
+        return ""
+    try:
+        gist = json.loads(path.read_text(encoding="utf-8"))
+    except ValueError:
+        return ""
+    lines = [str(x).strip() for x in gist.get("lines", []) if str(x).strip()]
+    if not lines:
+        return ""
+    lis = "".join(f"<li>{esc(l)}</li>" for l in lines[:8])
+    gen = esc(str(gist.get("generated_at", ""))[:10])
+    return f"""
+<section class="gist">
+  <h2>What this means for you</h2>
+  <ul>{lis}</ul>
+  <p class="stat-meta">Machine-written citizen summary of this week's notifications
+  ({gen}); the gazette text is authoritative.</p>
+</section>"""
 
 
 def week_file(wk):

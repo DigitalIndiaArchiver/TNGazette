@@ -138,6 +138,11 @@ else
   echo "== 5. merge skipped (no new rows) =="
 fi
 
+if [ "$N_PARTS" != "0" ] || [ "$N_EXTRA" != "0" ]; then
+  echo "== 5b. LLM citizen gist for the week =="
+  timeout 300 python3 scripts/generate_gist.py 2>&1 | tail -1     || echo "  (gist generation failed - non-fatal, page omits it)"
+fi
+
 if [ "$N_PDFS" != "0" ]; then
   echo "== 6. cache new PDFs for distilling =="
   mkdir -p scripts/.pdf_cache

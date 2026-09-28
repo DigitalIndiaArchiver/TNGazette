@@ -182,4 +182,24 @@ New gazettes are announced on a public Telegram channel via the Bot API.
 
 Channel photo: `assets/telegram-channel-photo.png` (1024px source) + `-512.jpg` (upload size) — set via Bot API `setChatPhoto` (needs the bot's `can_change_info` admin right); re-upload the 512 jpg to swap.
 
+## Daily TN — underreported document feeds (2026-09-28)
+
+Separate desk inside the same repo/pipeline: documents the TN government publishes OUTSIDE the gazette, that media rarely carry. No press releases (by design — media carry those).
+
+| Source | What | Where |
+|--------|------|-------|
+| `go` | Dept-wise Government Orders (38 depts; `go.php?dep_id={b64}`) | tn.gov.in (PHP + JS-shell; needs PHPSESSID cookie jar) |
+| `whatsnew` | What's New firehose via `test-paginate.php?year={b64}` — LFA audit reports, IAS circulars, policy notes | tn.gov.in |
+| `tnpcb_ph` | TNPCB public-hearing notices (EIA + Tamil/English exec summaries) | tnpcb.gov.in/projectstatic/PublicHearing.aspx |
+| `seco` | CEO Tamil Nadu notification PDFs | elections.tn.gov.in/Notifications.aspx |
+
+Pieces:
+- `scripts/dailytn_fetch.py` — two stages: `--stage ocitwo` (runs on ocitwo, Indian vantage; prints `SOURCES_JSON_BEGIN/END` JSON) and `--stage merge` (local: dedupes, emits full JSON). Press-release/category rows filtered (tn.gov.in `press_release.php`, `/pressrelease/` paths, GCC-TN). JS-shell pages resolved by probing `.load(` endpoints and `event-container` blocks (the go rows live in `event-table` markup, not tables).
+- `scripts/build_daily.py` — merges rows into `data/dailytn/<source>.csv` (URL-keyed, `tn_lib.merge_by_key`), diffs against `state/dailytn-state.json` (URL → first_seen), writes `data/dailytn/digest-latest.json` + `docs/daily/<date>.html` + `docs/daily/index.html`. `--init` seeds state/sent baseline with NO digest (no backfill spam). Sent-marking: `data/dailytn/.sent.json` — items older than 10 days are marked sent silently (aging), matching telegram_alert.py's policy. State advance and digest emit are decoupled from the Telegram send: the alert advances `.digest_sent.json` only after a successful post, so failed sends retry at the next slot with the same items.
+- `scripts/dailytn_alert.py` — posts the digest to `@tngazette_alerts` (grouped by source, max 6 lines/source, 3800-char split). Silent when digest is empty or `.digest_sent.json` matches the digest's `generated` stamp.
+- `scripts/dailytn_update.sh` — per-tick driver: ocitwo fetch → merge/pages → commit+push when data changed (PUSH=1; digest-latest.json is gitignored — it regenerates hourly and must not cause commit spam) → Telegram send only in digest slots (11:00/17:00 IST; `--digest-now` or `DTN_FORCE_DIGEST=1` to force). Single-instance `flock scripts/.dtn.lock`.
+- Scheduler wiring: `scheduler.sh` runs `dailytn_update.sh` after every successful gazette tick (same loop, own lock, non-fatal).
+
+Self-test (2026-09-28): crafted 1-item digest sent end-to-end to the channel via the real alert path ("Daily TN pipeline self-test" line).
+
 Wired into `daily_update.sh` as step 10.5 (before commit, so the sent-state rides the daily commit; posting failure is non-fatal). `--dry-run` / `--sample` preview messages without sending or writing state. 2026-09-28: channel created as `@tngazette_alerts`; one-time catch-up digest (10 recent items) posted through the real alert path to validate it end-to-end; backfill of older history suppressed by design.

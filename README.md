@@ -119,4 +119,12 @@ MIT
 
 ## Telegram alerts
 
-New Ordinary and Extraordinary gazettes are announced on the Telegram channel **[@tngazette](https://t.me/tngazette)** — extraordinary notifications with issuing department and G.O. number, ordinary parts grouped by issue, plus links to the weekly review. Powered by the daily delta pipeline (`scripts/telegram_alert.py`); missed posts self-heal on the next run.
+New Ordinary and Extraordinary gazettes are announced on the Telegram channel **[@tngazette_alerts](https://t.me/tngazette_alerts)** — extraordinary notifications with issuing department and G.O. number, ordinary parts grouped by issue, plus links to the weekly review. Powered by the daily delta pipeline (`scripts/telegram_alert.py`); missed posts self-heal on the next run.
+
+## Daily TN digest
+
+Beyond the gazette, the pipeline tracks underreported TN government document feeds — dept-wise Government Orders (38 departments), the What's New firehose (Local Fund Audit reports, circulars, policy notes), TNPCB public-hearing notices, and CEO-Tamil Nadu election notifications. Press releases are deliberately excluded (media carry those).
+
+- **Website**: daily pages at [docs/daily](https://digitalindiaarchiver.github.io/TNGazette/daily/) — one frozen page per day, itemized.
+- **Telegram**: digest posts to [@tngazette_alerts](https://t.me/tngazette_alerts) twice a day (11:00 & 17:00 IST) when there's something new; silent otherwise.
+- **Data**: `data/dailytn/*.csv` (one file per source, URL-keyed dedupe).

@@ -3,9 +3,9 @@
   2026,
   39
  ],
- "generated_at": "2026-09-28T03:49:58Z",
+ "generated_at": "2026-09-29T04:14:08Z",
  "model": "byok:f13b5a3d-aca5-43b5-a88a-31e1058bc075",
- "grounding": "5/7 items from extracted PDF text",
+ "grounding": "6/8 items from extracted PDF text",
  "sources": [
   {
    "file": null,
@@ -41,14 +41,20 @@
    "file": "data/markdown/extraordinary/2026/404-part-ii-section-2.md",
    "kind": "markdown",
    "chars": 6000
+  },
+  {
+   "file": "data/markdown/extraordinary/2026/406-part-ii-section-2.md",
+   "kind": "markdown",
+   "chars": 6000
   }
  ],
  "lines": [
-  "Registration fees amended: the Commercial Taxes and Registration Department changed the fee table under the Registration Act, 1908 — affects document registration charges.",
-  "Correction issued to amendments of the Tamil Nadu Legal Metrology (Enforcement) Rules, 2011 — Labour department; these rules cover weights and measures.",
-  "Temple employees: service-condition rules for Hindu Religious Institutions staff (2020 Rules) were amended — affects working conditions of temple employees.",
-  "Elections: a Madras High Court judgment in Election Petition No.36 of 2026 was published in the Gazette.",
-  "RTI: the HRM Department issued a notification under the Right to Information Act, 2005.",
-  "Name changes: one ordinary gazette lists individuals' name changes (Tamil and English) plus private advertisements and company-law notices — names only, no policy change."
+  "Registration fees changed: the government amended the fee table under the Registration Act, 1908, so check the new rates before registering property or documents.",
+  "An erratum corrects the Tamil Nadu Legal Metrology (Enforcement) Rules, 2011, fixing errors in an earlier notification on weights and measures enforcement.",
+  "Temple staff rules amended: service conditions under the Hindu Religious Institutions Employees (Conditions of Service) Rules, 2020, have been changed for HR&CE employees.",
+  "The Human Resources Management Department issued a notification under the Right to Information Act, 2005; the extracted text does not show whom it appoints or discloses.",
+  "Land update: 0.15 hectares of government poramboke cart road at Mittanamallee village, Avadi taluk, Tiruvallur district, is handed to CMDA for construction.",
+  "The gazette publishes a Madras High Court judgment in Election Petition No. 36 of 2026, an election-related court decision now on record.",
+  "The ordinary gazette this week only lists individual name changes and private advertisements; no further public-scheme details were extracted."
  ]
 }

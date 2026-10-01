@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-30",
+  "generated_at": "2026-10-01",
   "totals": {
-    "gazette_parts": 7112,
-    "gazette_issues": 810,
-    "extraordinary": 7261,
+    "gazette_parts": 7113,
+    "gazette_issues": 811,
+    "extraordinary": 7262,
     "part_years": 17,
-    "markdown_docs": 13975
+    "markdown_docs": 13976
   },
-  "latest_issue": 38,
+  "latest_issue": 39,
   "ordinary_years": [
     {
       "year": 2008,
@@ -107,9 +107,9 @@
     },
     {
       "year": 2026,
-      "parts": 312,
+      "parts": 313,
       "first_date": "2026-01-07",
-      "last_date": "2026-09-23"
+      "last_date": "2026-09-30"
     }
   ],
   "issue_years": [
@@ -179,7 +179,7 @@
     },
     {
       "year": 2026,
-      "issues": 38
+      "issues": 39
     }
   ],
   "extraordinary_years": [
@@ -287,7 +287,7 @@
     },
     {
       "year": 2026,
-      "rows": 417,
+      "rows": 418,
       "first_date": "2026-01-02",
       "last_date": "2026-09-24"
     }
@@ -529,11 +529,11 @@
     },
     {
       "year": 2026,
-      "parts": 312,
-      "issues": 38,
-      "extraordinary": 417,
+      "parts": 313,
+      "issues": 39,
+      "extraordinary": 418,
       "ordinary_md": 0,
-      "extra_md": 412,
+      "extra_md": 413,
       "files": {
         "parts": "Gazattes_2026.csv",
         "issues": "GazatteIssues_2026.csv",
@@ -543,8 +543,8 @@
   ],
   "markdown": {
     "ordinary": 6475,
-    "extraordinary": 7500,
-    "total": 13975,
+    "extraordinary": 7501,
+    "total": 13976,
     "first_year": 2008,
     "last_year": 2026,
     "ordinary_years": [
@@ -688,7 +688,7 @@
       },
       {
         "year": 2026,
-        "docs": 412
+        "docs": 413
       }
     ]
   }

@@ -1,0 +1,29 @@
+{
+ "week": [
+  2026,
+  40
+ ],
+ "generated_at": "2026-10-06T04:04:56Z",
+ "model": "byok:f13b5a3d-aca5-43b5-a88a-31e1058bc075",
+ "grounding": "0/2 items from extracted PDF text",
+ "sources": [
+  {
+   "file": null,
+   "kind": "listing-only",
+   "chars": 0
+  },
+  {
+   "file": null,
+   "kind": "listing-only",
+   "chars": 0
+  }
+ ],
+ "lines": [
+  "Madras High Court issued the Presidency Small Cause Courts (Adjudication of Penalties and Appeals) Rules, 2026, notified on 30 September 2026.",
+  "These rules cover how penalties are decided and appeals handled in the Presidency Small Cause Courts.",
+  "The full rule text was not extracted this week, so specific fee or procedure details are not available here.",
+  "This week's ordinary gazette mainly lists individuals' name changes in both Tamil and English, plus advertisements by private persons and institutions.",
+  "It also carries company-law notifications of company name changes.",
+  "No fees, appointments, land, temple, election, exam or government scheme items appear this week."
+ ]
+}

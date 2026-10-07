@@ -21,6 +21,12 @@ LOCK="scripts/.driver.lock"   # single-instance guard around driver runs
 CHANNEL_ID="1551896270862417920"   # LogicPlay #ungalsoththu
 TAG="[tgz-sched]"
 
+# Bot tokens + GH_TOKEN for git push live in the root-only env file
+# (0600); service env does not inherit Zo session secrets.
+set -a
+. /etc/zo/tngazette.env 2>/dev/null || true
+set +a
+
 now_epoch() { date +%s; }
 ist_now() { TZ="$IST" date "$@"; }
 

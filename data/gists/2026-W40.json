@@ -3,14 +3,19 @@
   2026,
   40
  ],
- "generated_at": "2026-10-06T04:04:56Z",
+ "generated_at": "2026-10-07T05:00:51Z",
  "model": "byok:f13b5a3d-aca5-43b5-a88a-31e1058bc075",
- "grounding": "0/2 items from extracted PDF text",
+ "grounding": "1/3 items from extracted PDF text",
  "sources": [
   {
    "file": null,
    "kind": "listing-only",
    "chars": 0
+  },
+  {
+   "file": "data/markdown/extraordinary/2026/427-part-iii-section-2.md",
+   "kind": "markdown",
+   "chars": 6000
   },
   {
    "file": null,
@@ -19,11 +24,13 @@
   }
  ],
  "lines": [
-  "Madras High Court issued the Presidency Small Cause Courts (Adjudication of Penalties and Appeals) Rules, 2026, notified on 30 September 2026.",
-  "These rules cover how penalties are decided and appeals handled in the Presidency Small Cause Courts.",
-  "The full rule text was not extracted this week, so specific fee or procedure details are not available here.",
-  "This week's ordinary gazette mainly lists individuals' name changes in both Tamil and English, plus advertisements by private persons and institutions.",
-  "It also carries company-law notifications of company name changes.",
-  "No fees, appointments, land, temple, election, exam or government scheme items appear this week."
+  "Madras High Court issued new 2026 rules for Presidency Small Cause Courts covering how penalties are adjudicated and appeals handled.",
+  "Tamil Nadu bans manufacture, storage, distribution and sale of gutkha, pan masala and chewable tobacco products for one year from 23 May 2026.",
+  "Council of States bye-election announced after C. Ve. Shanmugam's resignation: poll dates fixed, Returning Officer and Assistant Returning Officer appointed.",
+  "Land acquisition notices (Form C) issued under the Tamil Nadu Acquisition of Land for Industrial Purposes Act, 1997; affected owners should watch for notices.",
+  "Legislative Assembly seats of four members declared vacant following resignations; appointment of Speaker and Deputy Speaker also notified.",
+  "New ministers appointed for Tamil Nadu and subjects allocated among ministers through Public Department orders.",
+  "Home Department amended the Tamil Nadu Cinemas (Regulation) Rules, 1957.",
+  "Ordinary gazette this week: only personal name changes, private advertisements and company-law notifications - nothing affecting daily life."
  ]
 }

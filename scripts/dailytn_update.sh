@@ -72,10 +72,12 @@ if [ "${1:-}" = "--digest-now" ] || [ "${DTN_FORCE_DIGEST:-0}" = "1" ] || [ $dig
   total="$(python3 -c "import json;d=json.load(open('data/dailytn/digest-latest.json'));print(sum(d['counts'].values()))")"
   if [ "$total" -gt 0 ]; then
     set -a; [ -f /etc/zo/tngazette.env ] && . /etc/zo/tngazette.env; set +a
-    if python3 scripts/dailytn_alert.py 2>&1 | sed 's/^/  | /'; then
+    alert_out="$(python3 scripts/dailytn_alert.py 2>&1)"; alert_rc=$?
+    printf '%s\n' "$alert_out" | sed 's/^/  | /'
+    if [ "$alert_rc" -eq 0 ]; then
       echo "$TAG digest posted ($total items)"
     else
-      echo "$TAG digest send failed (non-fatal); state NOT advanced; retries next slot"
+      echo "$TAG digest send failed rc=$alert_rc (non-fatal); state NOT advanced; retries next slot"
     fi
   else
     echo "$TAG digest slot: nothing new, silent"

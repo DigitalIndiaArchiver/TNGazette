@@ -207,3 +207,28 @@ Pieces:
 Self-test (2026-09-28): crafted 1-item digest sent end-to-end to the channel via the real alert path ("Daily TN pipeline self-test" line).
 
 Wired into `daily_update.sh` as step 10.5 (before commit, so the sent-state rides the daily commit; posting failure is non-fatal). `--dry-run` / `--sample` preview messages without sending or writing state. 2026-09-28: channel created as `@tngazette_alerts`; one-time catch-up digest (10 recent items) posted through the real alert path to validate it end-to-end; backfill of older history suppressed by design.
+
+## 2026-10-07 incident: 9 silent days (no alerts)
+
+Three stacked failures; all diagnosed and fixed:
+1. **Scheduler regression (Sep 28 wiring edit):** the fd-9 redirect AND the
+   `/etc/zo/tngazette.env` sourcing were clobbered when the Daily TN block was
+   added — every tick failed `flock -n 9` (EBADF → "lock held") and Discord
+   notify lost its token, so no scheduler-driven runs Sep 28 → Oct 7. Fixed:
+   `) 9>"$LOCK"` restored + `set -a; . /etc/zo/tngazette.env; set +a` (now also
+   carries GH_TOKEN for pushes).
+2. **Duplicate automation:** the old daily agent `919c5358` (deactivated Sep 28)
+   was found ACTIVE again and ran daily_update at 09:31 IST — its commits
+   (Oct 4-6) masked the dead scheduler. Deactivated again (2026-10-07).
+3. **Telegram bot removed from channel:** `sendMessage` → `chat not found`
+   since ~Sep 30 (bot was admin and posting fine Sep 28-29). ALL channel alerts
+   (gazette + Daily TN) dead until the bot is re-added as admin. Pending items
+   self-heal: gazette unsent items retry on next delta; Daily TN digest retries
+   each 11:00/17:00 IST slot.
+
+Side bugs fixed same day: `build_daily.py` seed refactor reset `counts`/
+`new_by_source` unconditionally (normal runs printed new=0 and emitted EMPTY
+day pages) — zeroing now only inside the seed path; day pages fall back to
+pending items. `daily_update.sh` step 10.5 pipe no longer swallows alert
+failures (`TG_RC` reported). Lesson: verify automation deactivations and
+re-read scripts after sed surgery on wiring blocks.

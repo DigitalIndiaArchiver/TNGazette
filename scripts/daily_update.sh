@@ -201,8 +201,9 @@ python3 scripts/build_site_stats.py || fail "site-stats"
 python3 scripts/build_weekly.py || fail "weekly-pages"
 
 echo "== 10.5 Telegram channel alert =="
-timeout 120 python3 scripts/telegram_alert.py 2>&1 | tail -3 \
-  || echo "  (telegram alert failed - non-fatal; unsent items retry next run)"
+TG_OUT="$(timeout 120 python3 scripts/telegram_alert.py 2>&1)"; TG_RC=$?
+echo "$TG_OUT" | tail -3
+[ "$TG_RC" -ne 0 ] && echo "  (telegram alert failed rc=$TG_RC - non-fatal; unsent items retry next run)"
 
 echo "== 11. commit + push =="
 git add -A

@@ -284,9 +284,9 @@ def main():
                 sent_map[u] = "init"
     if seed:
         SENT_PATH.write_text(_json.dumps(sent_map, indent=0, sort_keys=True))
-    counts = {s: 0 for s in ORDER}
-    new_by_source = {s: [] for s in ORDER}
     if seed:
+        counts = {s: 0 for s in ORDER}
+        new_by_source = {s: [] for s in ORDER}
         seen_now = set(sent_map)
         for src in ORDER:
             if src in seed:
@@ -311,7 +311,10 @@ def main():
     if args.init:
         day_page_rows = {s: csv_rows[s] for s in ORDER}
     else:
-        day_page_rows = new_by_source
+        # fall back to pending items so a late/skipped prior run still shows
+        # the documents on the day page instead of a blank listing
+        day_page_rows = (new_by_source if any(new_by_source.values())
+                         else {s: pend[s] for s in ORDER if pend[s]})
     (DAILY_DOCS / f"{today_s}.html").write_text(
         build_day_page(today, day_page_rows, counts, is_init=args.init),
         encoding="utf-8")

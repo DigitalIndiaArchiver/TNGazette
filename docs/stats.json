@@ -1,13 +1,13 @@
 {
   "generated_at": "2026-10-07",
   "totals": {
-    "gazette_parts": 7113,
-    "gazette_issues": 811,
+    "gazette_parts": 7114,
+    "gazette_issues": 812,
     "extraordinary": 7266,
     "part_years": 17,
     "markdown_docs": 13980
   },
-  "latest_issue": 39,
+  "latest_issue": 40,
   "ordinary_years": [
     {
       "year": 2008,
@@ -107,9 +107,9 @@
     },
     {
       "year": 2026,
-      "parts": 313,
+      "parts": 314,
       "first_date": "2026-01-07",
-      "last_date": "2026-09-30"
+      "last_date": "2026-10-07"
     }
   ],
   "issue_years": [
@@ -179,7 +179,7 @@
     },
     {
       "year": 2026,
-      "issues": 39
+      "issues": 40
     }
   ],
   "extraordinary_years": [
@@ -529,8 +529,8 @@
     },
     {
       "year": 2026,
-      "parts": 313,
-      "issues": 39,
+      "parts": 314,
+      "issues": 40,
       "extraordinary": 422,
       "ordinary_md": 0,
       "extra_md": 417,

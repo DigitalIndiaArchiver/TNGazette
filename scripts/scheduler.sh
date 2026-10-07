@@ -58,7 +58,7 @@ while true; do
     (
       flock -n 9 || { echo "$TAG another driver holds the lock; skipping this tick"; exit 97; }
       PUSH=1 bash scripts/daily_update.sh
-    ) >"$LOG" 2>&1
+    ) 9>"$LOCK" >"$LOG" 2>&1
     rc=$?
     if [ "$rc" -eq 0 ]; then
       last="$(now_epoch)"; echo "$last" > "$STATE"

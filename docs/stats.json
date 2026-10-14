@@ -3,9 +3,9 @@
   "totals": {
     "gazette_parts": 7114,
     "gazette_issues": 812,
-    "extraordinary": 7278,
+    "extraordinary": 7279,
     "part_years": 17,
-    "markdown_docs": 13992
+    "markdown_docs": 13993
   },
   "latest_issue": 40,
   "ordinary_years": [
@@ -287,9 +287,9 @@
     },
     {
       "year": 2026,
-      "rows": 434,
+      "rows": 435,
       "first_date": "2026-01-02",
-      "last_date": "2026-10-06"
+      "last_date": "2026-10-10"
     }
   ],
   "years": [
@@ -531,9 +531,9 @@
       "year": 2026,
       "parts": 314,
       "issues": 40,
-      "extraordinary": 434,
+      "extraordinary": 435,
       "ordinary_md": 0,
-      "extra_md": 429,
+      "extra_md": 430,
       "files": {
         "parts": "Gazattes_2026.csv",
         "issues": "GazatteIssues_2026.csv",
@@ -543,8 +543,8 @@
   ],
   "markdown": {
     "ordinary": 6475,
-    "extraordinary": 7517,
-    "total": 13992,
+    "extraordinary": 7518,
+    "total": 13993,
     "first_year": 2008,
     "last_year": 2026,
     "ordinary_years": [
@@ -688,7 +688,7 @@
       },
       {
         "year": 2026,
-        "docs": 429
+        "docs": 430
       }
     ]
   }

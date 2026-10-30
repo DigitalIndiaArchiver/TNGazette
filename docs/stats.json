@@ -3,7 +3,7 @@
   "totals": {
     "gazette_parts": 7117,
     "gazette_issues": 816,
-    "extraordinary": 7307,
+    "extraordinary": 7308,
     "part_years": 17,
     "markdown_docs": 14021
   },
@@ -287,7 +287,7 @@
     },
     {
       "year": 2026,
-      "rows": 463,
+      "rows": 464,
       "first_date": "2026-01-02",
       "last_date": "2026-10-28"
     }
@@ -531,7 +531,7 @@
       "year": 2026,
       "parts": 317,
       "issues": 44,
-      "extraordinary": 463,
+      "extraordinary": 464,
       "ordinary_md": 0,
       "extra_md": 458,
       "files": {
